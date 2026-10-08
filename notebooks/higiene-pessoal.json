@@ -1,0 +1,1004 @@
+{
+  "id": "higiene-pessoal",
+  "title": "Higiene Pessoal",
+  "description": "Vocabulário de objetos, produtos e ações de higiene pessoal.",
+  "section": "Caderno público",
+  "author": "Comunidade",
+  "createdAt": "2026-10-07T16:11:21.974Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Equipe Libras",
+        "email": "contato@projeto-libras.org"
+      },
+      "at": "2026-10-07T16:11:21.974Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "higiene-01",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza higiene pessoal?",
+      "translation": "Higiene pessoal",
+      "librasStructure": "HIGIENE PESSOAL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Higiene pessoal”.",
+        "Use “Higiene pessoal” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Higiene pessoal” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=3&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-02",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza algodão?",
+      "translation": "Algodão",
+      "librasStructure": "ALGODÃO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Algodão”.",
+        "Use “Algodão” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Algodão” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-03",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza tesoura?",
+      "translation": "Tesoura",
+      "librasStructure": "TESOURA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Tesoura”.",
+        "Use “Tesoura” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Tesoura” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=14&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-04",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza creme dental / pasta de dente?",
+      "translation": "Creme dental / pasta de dente",
+      "librasStructure": "CREME DENTAL / PASTA DE DENTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Creme dental / pasta de dente”.",
+        "Use “Creme dental / pasta de dente” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Creme dental / pasta de dente” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=25&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-05",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza escova de dente?",
+      "translation": "Escova de dente",
+      "librasStructure": "ESCOVA DE DENTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Escova de dente”.",
+        "Use “Escova de dente” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Escova de dente” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=31&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-06",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza cotonete?",
+      "translation": "Cotonete",
+      "librasStructure": "COTONETE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Cotonete”.",
+        "Use “Cotonete” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Cotonete” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-07",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza toalha de rosto?",
+      "translation": "Toalha de rosto",
+      "librasStructure": "TOALHA DE ROSTO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Toalha de rosto”.",
+        "Use “Toalha de rosto” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Toalha de rosto” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-08",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza toalha de banho?",
+      "translation": "Toalha de banho",
+      "librasStructure": "TOALHA DE BANHO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Toalha de banho”.",
+        "Use “Toalha de banho” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Toalha de banho” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-09",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza sabonete?",
+      "translation": "Sabonete",
+      "librasStructure": "SABONETE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Sabonete”.",
+        "Use “Sabonete” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Sabonete” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-10",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza sabonete íntimo?",
+      "translation": "Sabonete íntimo",
+      "librasStructure": "SABONETE ÍNTIMO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Sabonete íntimo”.",
+        "Use “Sabonete íntimo” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Sabonete íntimo” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=59&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-11",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza esponja?",
+      "translation": "Esponja",
+      "librasStructure": "ESPONJA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Esponja”.",
+        "Use “Esponja” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Esponja” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-12",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza cortador de unhas?",
+      "translation": "Cortador de unhas",
+      "librasStructure": "CORTADOR DE UNHAS",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Cortador de unhas”.",
+        "Use “Cortador de unhas” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Cortador de unhas” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=88&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-13",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza alicate?",
+      "translation": "Alicate",
+      "librasStructure": "ALICATE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Alicate”.",
+        "Use “Alicate” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Alicate” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=96&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-14",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza lixa?",
+      "translation": "Lixa",
+      "librasStructure": "LIXA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Lixa”.",
+        "Use “Lixa” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Lixa” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=109&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-15",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza álcool?",
+      "translation": "Álcool",
+      "librasStructure": "ÁLCOOL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Álcool”.",
+        "Use “Álcool” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Álcool” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=116&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-16",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza acetona?",
+      "translation": "Acetona",
+      "librasStructure": "ACETONA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Acetona”.",
+        "Use “Acetona” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Acetona” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-17",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza álcool em gel?",
+      "translation": "Álcool em gel",
+      "librasStructure": "ÁLCOOL EM GEL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Álcool em gel”.",
+        "Use “Álcool em gel” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Álcool em gel” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=125&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-18",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza álcool?",
+      "translation": "Álcool",
+      "librasStructure": "ÁLCOOL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Álcool”.",
+        "Use “Álcool” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Álcool” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=131&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-19",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza shampoo?",
+      "translation": "Shampoo",
+      "librasStructure": "SHAMPOO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Shampoo”.",
+        "Use “Shampoo” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Shampoo” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=137&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-20",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza condicionador?",
+      "translation": "Condicionador",
+      "librasStructure": "CONDICIONADOR",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Condicionador”.",
+        "Use “Condicionador” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Condicionador” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=144&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-21",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza hidratante?",
+      "translation": "Hidratante",
+      "librasStructure": "HIDRATANTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Hidratante”.",
+        "Use “Hidratante” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Hidratante” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=154&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-22",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza desodorante?",
+      "translation": "Desodorante",
+      "librasStructure": "DESODORANTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Desodorante”.",
+        "Use “Desodorante” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Desodorante” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=164&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-23",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza papel higiênico?",
+      "translation": "Papel higiênico",
+      "librasStructure": "PAPEL HIGIÊNICO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Papel higiênico”.",
+        "Use “Papel higiênico” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Papel higiênico” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-24",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza pinça?",
+      "translation": "Pinça",
+      "librasStructure": "PINÇA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Pinça”.",
+        "Use “Pinça” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Pinça” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=180&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-25",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza absorvente?",
+      "translation": "Absorvente",
+      "librasStructure": "ABSORVENTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Absorvente”.",
+        "Use “Absorvente” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Absorvente” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=186&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-26",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza banho?",
+      "translation": "Banho",
+      "librasStructure": "BANHO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Banho”.",
+        "Use “Banho” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Banho” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=191&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-27",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza chuveiro?",
+      "translation": "Chuveiro",
+      "librasStructure": "CHUVEIRO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Chuveiro”.",
+        "Use “Chuveiro” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Chuveiro” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=199&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-28",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza fio dental?",
+      "translation": "Fio dental",
+      "librasStructure": "FIO DENTAL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Fio dental”.",
+        "Use “Fio dental” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Fio dental” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=204&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-29",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza lenço de papel?",
+      "translation": "Lenço de papel",
+      "librasStructure": "LENÇO DE PAPEL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Lenço de papel”.",
+        "Use “Lenço de papel” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Lenço de papel” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=210&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-30",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza perfume?",
+      "translation": "Perfume",
+      "librasStructure": "PERFUME",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Perfume”.",
+        "Use “Perfume” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Perfume” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=218&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-31",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza lâminas de barbear?",
+      "translation": "Lâminas de barbear",
+      "librasStructure": "LÂMINAS DE BARBEAR",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Lâminas de barbear”.",
+        "Use “Lâminas de barbear” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Lâminas de barbear” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=227&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-32",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza barbeador elétrico?",
+      "translation": "Barbeador elétrico",
+      "librasStructure": "BARBEADOR ELÉTRICO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Barbeador elétrico”.",
+        "Use “Barbeador elétrico” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Barbeador elétrico” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=236&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-33",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza colírio?",
+      "translation": "Colírio",
+      "librasStructure": "COLÍRIO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Colírio”.",
+        "Use “Colírio” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Colírio” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=246&end=253&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-34",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza band-aid / atadura?",
+      "translation": "Band-aid / atadura",
+      "librasStructure": "BAND-AID / ATADURA",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Band-aid / atadura”.",
+        "Use “Band-aid / atadura” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Band-aid / atadura” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=253&end=262&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-35",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza pente?",
+      "translation": "Pente",
+      "librasStructure": "PENTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Pente”.",
+        "Use “Pente” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Pente” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=262&end=266&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-36",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza pedra-pomes / lixa para pés?",
+      "translation": "Pedra-pomes / lixa para pés",
+      "librasStructure": "PEDRA-POMES / LIXA PARA PÉS",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Pedra-pomes / lixa para pés”.",
+        "Use “Pedra-pomes / lixa para pés” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Pedra-pomes / lixa para pés” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=266&end=275&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-37",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza demaquilante / removedor de maquiagem?",
+      "translation": "Demaquilante / removedor de maquiagem",
+      "librasStructure": "DEMAQUILANTE / REMOVEDOR DE MAQUIAGEM",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Demaquilante / removedor de maquiagem”.",
+        "Use “Demaquilante / removedor de maquiagem” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Demaquilante / removedor de maquiagem” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=275&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-38",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza lenços umedecidos?",
+      "translation": "Lenços umedecidos",
+      "librasStructure": "LENÇOS UMEDECIDOS",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Lenços umedecidos”.",
+        "Use “Lenços umedecidos” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Lenços umedecidos” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=286&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-39",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza óleo corporal?",
+      "translation": "Óleo corporal",
+      "librasStructure": "ÓLEO CORPORAL",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Óleo corporal”.",
+        "Use “Óleo corporal” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Óleo corporal” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=291&end=302&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-40",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza sabão?",
+      "translation": "Sabão",
+      "librasStructure": "SABÃO",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Sabão”.",
+        "Use “Sabão” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Sabão” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=302&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    },
+    {
+      "id": "higiene-41",
+      "section": "Higiene e cuidados pessoais",
+      "situation": "Como você sinaliza absorvente?",
+      "translation": "Absorvente",
+      "librasStructure": "ABSORVENTE",
+      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
+      "examples": [
+        "Na aula de higiene e cuidados pessoais, pratique o sinal de “Absorvente”.",
+        "Use “Absorvente” em uma frase relacionada a higiene e cuidados pessoais.",
+        "Depois de assistir ao vídeo, tente produzir “Absorvente” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=315&end=319&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:11:21.974Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "hospitalar",
+  "title": "Libras básica no atendimento hospitalar",
+  "description": "Acolhimento, identificação, espera e orientação não clínica.",
+  "section": "Caderno público",
+  "author": "Comunidade",
+  "createdAt": "2026-10-07T11:54:30.948Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Equipe Libras",
+        "email": "contato@projeto-libras.org"
+      },
+      "at": "2026-10-07T11:54:30.948Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "acolher-01",
+      "section": "Acolhimento",
+      "situation": "Uma pessoa chegou à recepção. Como você inicia o atendimento?",
+      "translation": "Olá. Como posso ajudar?",
+      "librasStructure": "OLÁ. AJUDAR COMO?",
+      "notes": "Observe a expressão facial e o direcionamento do olhar.",
+      "examples": [
+        "A pessoa acabou de chegar ao hospital.",
+        "Ela olha para a recepção procurando orientação.",
+        "Comece o atendimento com uma saudação."
+      ],
+      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=g4ujl3nvKKw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "identificar-01",
+      "section": "Identificação",
+      "situation": "Como você pergunta o nome da pessoa que chegou?",
+      "translation": "Qual é o seu nome?",
+      "librasStructure": "NOME SEU QUAL?",
+      "notes": "Use a pergunta com expressão facial adequada.",
+      "examples": [
+        "A pessoa chegou para fazer o cadastro.",
+        "Você não entendeu o nome e quer perguntar novamente.",
+        "Confirme somente a informação necessária."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "espera-01",
+      "section": "Espera",
+      "situation": "A pessoa pergunta onde deve esperar.",
+      "translation": "Aguarde, por favor.",
+      "librasStructure": "AGUARDAR POR-FAVOR",
+      "notes": "A situação exige clareza e atenção visual.",
+      "examples": [
+        "A equipe ainda está organizando o atendimento.",
+        "A pessoa aguarda na recepção.",
+        "Você precisa pedir que ela espere mais um pouco."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "setor-01",
+      "section": "Setores",
+      "situation": "Como você orienta a pessoa sobre o próximo setor?",
+      "translation": "Aguarde aqui. Depois, vá para este setor.",
+      "librasStructure": "AQUI AGUARDAR. DEPOIS SETOR-ESTE IR",
+      "notes": "Aponte o caminho somente quando a orientação estiver confirmada.",
+      "examples": [
+        "Você vai indicar uma sala do hospital.",
+        "A recepção confirmou o próximo setor.",
+        "A pessoa precisa trocar de setor."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "ajuda-01",
+      "section": "Necessidades",
+      "situation": "Como você pergunta se a pessoa precisa de ajuda?",
+      "translation": "Você precisa de ajuda?",
+      "librasStructure": "VOCÊ AJUDA PRECISAR?",
+      "notes": "Mantenha o rosto visível e aguarde a resposta.",
+      "examples": [
+        "A pessoa parece não encontrar o setor.",
+        "Você oferece ajuda na chegada.",
+        "Depois da orientação, confirme se ficou claro."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "aguardar-01",
+      "section": "Espera",
+      "situation": "O atendimento ainda não começou e a pessoa continua esperando.",
+      "translation": "O atendimento começará depois.",
+      "librasStructure": "ATENDIMENTO DEPOIS COMEÇAR",
+      "notes": "Não use o cartão para orientar uma conduta clínica.",
+      "examples": [
+        "A equipe está ocupada neste momento.",
+        "A pessoa pergunta quando será chamada.",
+        "Você explica que o atendimento começa depois."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "banheiro-01",
+      "section": "Setores",
+      "situation": "A pessoa pergunta onde fica o banheiro.",
+      "translation": "O banheiro fica ali.",
+      "librasStructure": "BANHEIRO ALI",
+      "notes": "Combine o sinal com apontamento visual do espaço.",
+      "examples": [
+        "A pessoa pede ajuda para encontrar o banheiro.",
+        "Você aponta a direção correta.",
+        "Acompanhe a indicação com um gesto claro."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "documento-01",
+      "section": "Identificação",
+      "situation": "Na recepção, você precisa conferir um documento.",
+      "translation": "Por favor, mostre seu documento.",
+      "librasStructure": "DOCUMENTO MOSTRAR POR-FAVOR",
+      "notes": "O caderno não orienta quais documentos devem ser aceitos.",
+      "examples": [
+        "A pessoa está fazendo o cadastro.",
+        "Você solicita o documento com educação.",
+        "A conferência é apenas uma etapa administrativa."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "repetir-01",
+      "section": "Acolhimento",
+      "situation": "A pessoa não entendeu a orientação na primeira vez.",
+      "translation": "Vou repetir a informação.",
+      "librasStructure": "INFORMAÇÃO REPETIR",
+      "notes": "Repita de forma visual e confirme a compreensão.",
+      "examples": [
+        "A pessoa pede que você explique novamente.",
+        "Você mostra outra vez o caminho.",
+        "Depois, confirma se ela entendeu."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    },
+    {
+      "id": "obrigado-01",
+      "section": "Acolhimento",
+      "situation": "A orientação terminou e a pessoa vai seguir para o setor.",
+      "translation": "Obrigado. Até logo.",
+      "librasStructure": "OBRIGADO. ATÉ LOGO",
+      "notes": "A expressão deve acompanhar o contexto de encerramento.",
+      "examples": [
+        "A pessoa recebeu a orientação necessária.",
+        "Você encerra o atendimento na recepção.",
+        "Se necessário, indique onde ela pode pedir ajuda."
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T11:54:30.948Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "mas-mais",
+  "title": "Mas e Mais",
+  "description": "Diferenças de uso entre mas e mais em Libras.",
+  "section": "Caderno público",
+  "author": "Comunidade",
+  "createdAt": "2026-10-07T16:02:50.128Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Equipe Libras",
+        "email": "contato@projeto-libras.org"
+      },
+      "at": "2026-10-07T16:02:50.128Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "mas-mais-01",
+      "section": "Conectivos e intensidade",
+      "situation": "Como você sinaliza mas?",
+      "translation": "Mas",
+      "librasStructure": "MAS",
+      "notes": "Observe o contexto e a expressão facial no trecho.",
+      "examples": [
+        "Na aula de conectivos e intensidade, pratique o sinal de “Mas”.",
+        "Use “Mas” em uma frase relacionada a conectivos e intensidade.",
+        "Depois de assistir ao vídeo, tente produzir “Mas” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/6hIZxdNa_4w?start=19&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=6hIZxdNa_4w",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:02:50.128Z"
+        }
+      ]
+    },
+    {
+      "id": "mas-mais-02",
+      "section": "Conectivos e intensidade",
+      "situation": "Como você sinaliza mas (oposição)?",
+      "translation": "Mas (oposição)",
+      "librasStructure": "MAS (OPOSIÇÃO)",
+      "notes": "Observe o contexto e a expressão facial no trecho.",
+      "examples": [
+        "Na aula de conectivos e intensidade, pratique o sinal de “Mas (oposição)”.",
+        "Use “Mas (oposição)” em uma frase relacionada a conectivos e intensidade.",
+        "Depois de assistir ao vídeo, tente produzir “Mas (oposição)” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/6hIZxdNa_4w?start=20&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6hIZxdNa_4w",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:02:50.128Z"
+        }
+      ]
+    },
+    {
+      "id": "mas-mais-03",
+      "section": "Conectivos e intensidade",
+      "situation": "Como você sinaliza mais (quantidade)?",
+      "translation": "Mais (quantidade)",
+      "librasStructure": "MAIS (QUANTIDADE)",
+      "notes": "Observe o contexto e a expressão facial no trecho.",
+      "examples": [
+        "Na aula de conectivos e intensidade, pratique o sinal de “Mais (quantidade)”.",
+        "Use “Mais (quantidade)” em uma frase relacionada a conectivos e intensidade.",
+        "Depois de assistir ao vídeo, tente produzir “Mais (quantidade)” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/6hIZxdNa_4w?start=29&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6hIZxdNa_4w",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:02:50.128Z"
+        }
+      ]
+    },
+    {
+      "id": "mas-mais-04",
+      "section": "Conectivos e intensidade",
+      "situation": "Como você sinaliza mais (intensidade)?",
+      "translation": "Mais (intensidade)",
+      "librasStructure": "MAIS (INTENSIDADE)",
+      "notes": "Observe o contexto e a expressão facial no trecho.",
+      "examples": [
+        "Na aula de conectivos e intensidade, pratique o sinal de “Mais (intensidade)”.",
+        "Use “Mais (intensidade)” em uma frase relacionada a conectivos e intensidade.",
+        "Depois de assistir ao vídeo, tente produzir “Mais (intensidade)” novamente."
+      ],
+      "video": "https://www.youtube.com/embed/6hIZxdNa_4w?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6hIZxdNa_4w",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Equipe Libras",
+            "email": "contato@projeto-libras.org"
+          },
+          "at": "2026-10-07T16:02:50.128Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "id": "filosofia",
+  "title": "Filosofia",
+  "description": "",
+  "section": "Filosofia",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-08T05:14:07.092Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-08T05:14:07.092Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "filosofia-001",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Filosofia?",
+      "translation": "Filosofia",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CNEaGb4UhsU?start=0&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CNEaGb4UhsU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.088Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-002",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Ideologia?",
+      "translation": "Ideologia",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fb7icm0CRzM?start=0&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fb7icm0CRzM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.089Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-003",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Experiência?",
+      "translation": "Experiência",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nOCvG80KfBs?start=0&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nOCvG80KfBs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.089Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-004",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Ética?",
+      "translation": "Ética",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/TRxVGDDkI08?start=0&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=TRxVGDDkI08",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.089Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-005",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Estética?",
+      "translation": "Estética",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/f5d0CyqMTAw?start=0&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f5d0CyqMTAw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.089Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-006",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Crítica?",
+      "translation": "Crítica",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1RDe9tW4B6E?start=0&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1RDe9tW4B6E",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.089Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-007",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Crença?",
+      "translation": "Crença",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/g404YyXwf_A?start=0&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g404YyXwf_A",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-008",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Conhecimento?",
+      "translation": "Conhecimento",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/9lN_PIEbyL8?start=0&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9lN_PIEbyL8",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-009",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Teoria?",
+      "translation": "Teoria",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/h9NS7TN-aew?start=0&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=h9NS7TN-aew",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-010",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Conciência?",
+      "translation": "Conciência",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/xYhGONE9RE8?start=0&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=xYhGONE9RE8",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-011",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Comportamento?",
+      "translation": "Comportamento",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/u3gZWMEPQh0?start=0&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=u3gZWMEPQh0",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-012",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Moral?",
+      "translation": "Moral",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/b5eqpsx37_M?start=0&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=b5eqpsx37_M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.090Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-013",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Opinião?",
+      "translation": "Opinião",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CFU_yNnuePg?start=0&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CFU_yNnuePg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-014",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Mito?",
+      "translation": "Mito",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8OLSzszzr8U?start=0&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8OLSzszzr8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-015",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Ciência?",
+      "translation": "Ciência",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/n-nIEDYF5Co?start=0&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=n-nIEDYF5Co",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-016",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Subjetividade?",
+      "translation": "Subjetividade",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/7fV9Cj0CfCI?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=7fV9Cj0CfCI",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-017",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Realidade?",
+      "translation": "Realidade",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/d8aqsg06X-Q?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=d8aqsg06X-Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-018",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Intuição?",
+      "translation": "Intuição",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/JuGbiEyVW_k?start=0&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JuGbiEyVW_k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-019",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Política?",
+      "translation": "Política",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wXFQWqf_yD0?start=0&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wXFQWqf_yD0",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.091Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-020",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Aristoteles?",
+      "translation": "Aristoteles",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/GhyTSOeE5PY?start=0&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GhyTSOeE5PY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.092Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-021",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Sócrates?",
+      "translation": "Sócrates",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/o2y23qVrXO8?start=0&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=o2y23qVrXO8",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.092Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-022",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Platão?",
+      "translation": "Platão",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/SkASeTjV428?start=0&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SkASeTjV428",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.092Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-023",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Michel Foucalt?",
+      "translation": "Michel Foucalt",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/Z3DJ52g5xeA?start=0&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Z3DJ52g5xeA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.092Z"
+        }
+      ]
+    },
+    {
+      "id": "filosofia-024",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza Liberdade?",
+      "translation": "Liberdade",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2AakskI6R2w?start=0&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2AakskI6R2w",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T05:14:07.092Z"
+        }
+      ]
+    }
+  ]
+}
