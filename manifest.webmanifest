@@ -1,16 +1,37 @@
 {
-  "name": "Caderno de Libras Hospitalar",
-  "short_name": "Libras Hospitalar",
+  "name": "Caderno de Libras",
+  "short_name": "Caderno de Libras",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f7fafc",
-  "theme_color": "#0f766e",
-  "description": "Cartões bilíngues para situações não clínicas de atendimento hospitalar.",
+  "theme_color": "#46178f",
+  "description": "Caderno digital bilíngue Libras–Português: tente sinalizar, revele o vídeo em Libras e revise no momento certo.",
   "icons": [
-    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
-  ]
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "lang": "pt-BR"
 }
