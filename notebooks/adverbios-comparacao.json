@@ -1,7 +1,7 @@
 {
   "id": "adverbios-comparacao",
   "title": "Advérbios de Comparação",
-  "description": "Sinais e expressões para comparar, indicar igualdade e estabelecer relações.",
+  "description": "Aprenda a comparar tamanho, quantidade, qualidade, nível e direitos com perguntas claras e exemplos de situações reais.",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T15:05:18.964Z",
@@ -19,14 +19,14 @@
     {
       "id": "comparacao-01",
       "section": "Comparação",
-      "situation": "Como você expressa uma comparação?",
+      "situation": "Como você compara duas coisas ou pessoas?",
       "translation": "Comparação",
       "librasStructure": "COMPARAR",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Use este sinal para introduzir uma comparação. Marque visualmente os dois elementos no espaço.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Comparação”.",
-        "Use “Comparação” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Comparação” novamente."
+        "Na atividade, compare dois sinais: “A configuração da mão de A é diferente da de B”.",
+        "Para iniciar a comparação, sinalize: “Hoje vamos comparar duas formas de estudar”.",
+        "Depois de assistir ao vídeo, faça uma comparação entre dois objetos presentes na sala."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -46,11 +46,11 @@
       "situation": "Como você diz que algo é maior que outra coisa?",
       "translation": "Maior que",
       "librasStructure": "MAIOR-QUE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Indique primeiro os dois elementos e depois destaque aquele que tem tamanho, quantidade ou intensidade maior.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Maior que”.",
-        "Use “Maior que” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Maior que” novamente."
+        "“A sala azul é maior que a sala verde.”",
+        "“Este caderno tem mais cartões que o outro.”",
+        "Compare duas filas e diga qual é maior."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -67,14 +67,14 @@
     {
       "id": "comparacao-03",
       "section": "Comparação",
-      "situation": "Como você mostra que duas coisas são iguais?",
+      "situation": "Como você diz que duas coisas são iguais?",
       "translation": "Igual",
       "librasStructure": "IGUAL",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Use quando os dois elementos têm a mesma característica, quantidade ou valor.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Igual”.",
-        "Use “Igual” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Igual” novamente."
+        "“As duas respostas estão iguais.”",
+        "“Meu resultado é igual ao seu.”",
+        "Observe dois cartões e diga se o significado é igual."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=19&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -94,11 +94,11 @@
       "situation": "Como você diz que algo é menor que outra coisa?",
       "translation": "Menor que",
       "librasStructure": "MENOR-QUE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Indique os dois elementos e destaque aquele que tem tamanho, quantidade ou intensidade menor.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Menor que”.",
-        "Use “Menor que” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Menor que” novamente."
+        "“A sala verde é menor que a sala azul.”",
+        "“Este caderno tem menos cartões que o outro.”",
+        "Compare duas porções e diga qual é menor."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=26&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -115,14 +115,14 @@
     {
       "id": "comparacao-05",
       "section": "Comparação",
-      "situation": "Qual sinal você usa para ligar a comparação à segunda informação?",
+      "situation": "Qual expressão liga a comparação ao segundo elemento?",
       "translation": "Do que",
       "librasStructure": "DO-QUE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Em português, aparece em construções como “maior do que” e “menor do que”. Use-a para introduzir o segundo elemento.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Do que”.",
-        "Use “Do que” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Do que” novamente."
+        "“A atividade é mais curta do que a revisão.”",
+        "“Este sinal é diferente do que vimos antes.”",
+        "Complete: “A primeira fila é maior ___ a segunda”."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -142,11 +142,11 @@
       "situation": "Como você diz que algo é melhor que outra coisa?",
       "translation": "Melhor que",
       "librasStructure": "MELHOR-QUE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Use para comparar qualidade, preferência ou resultado, deixando clara a relação entre os dois elementos.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Melhor que”.",
-        "Use “Melhor que” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Melhor que” novamente."
+        "“Para mim, revisar hoje é melhor que deixar para amanhã.”",
+        "“Este exemplo é melhor que o anterior porque mostra o contexto.”",
+        "Compare duas estratégias de estudo e escolha qual é melhor."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=40&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -163,14 +163,14 @@
     {
       "id": "comparacao-07",
       "section": "Comparação",
-      "situation": "Como você expressa igualdade de nível?",
+      "situation": "Como você diz que duas pessoas ou coisas estão no mesmo nível?",
       "translation": "Igual (nível)",
       "librasStructure": "IGUAL NÍVEL",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Use para indicar equivalência de nível, capacidade ou desempenho; não significa necessariamente que os elementos sejam idênticos.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Igual (nível)”.",
-        "Use “Igual (nível)” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Igual (nível)” novamente."
+        "“Os dois grupos estão no mesmo nível de conhecimento.”",
+        "“Hoje, meu desempenho está no mesmo nível do seu.”",
+        "Compare duas atividades e indique se exigem o mesmo nível de dificuldade."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
@@ -187,14 +187,14 @@
     {
       "id": "comparacao-08",
       "section": "Comparação",
-      "situation": "Como você expressa igualdade de direitos?",
+      "situation": "Como você diz que duas pessoas têm os mesmos direitos?",
       "translation": "Igual (direitos)",
       "librasStructure": "IGUAL DIREITOS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de comparação.",
+      "notes": "Use em contextos de cidadania, participação e acesso para destacar que os direitos são equivalentes.",
       "examples": [
-        "Na aula de comparação, pratique o sinal de “Igual (direitos)”.",
-        "Use “Igual (direitos)” em uma frase relacionada a comparação.",
-        "Depois de assistir ao vídeo, tente produzir “Igual (direitos)” novamente."
+        "“Todas as pessoas têm os mesmos direitos de acesso à informação.”",
+        "“Pessoas surdas e ouvintes têm direitos iguais.”",
+        "Em uma conversa sobre cidadania, explique que o atendimento deve garantir direitos iguais."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [

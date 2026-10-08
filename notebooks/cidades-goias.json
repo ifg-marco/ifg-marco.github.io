@@ -1,7 +1,7 @@
 {
   "id": "cidades-goias",
   "title": "Cidades de Goiás",
-  "description": "Sinais de cidades goianas organizados em trechos de vídeo.",
+  "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar.",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T15:58:12.028Z",
@@ -13,6 +13,14 @@
         "email": "contato@projeto-libras.org"
       },
       "at": "2026-10-07T15:58:12.028Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-08T12:00:00.000Z"
     }
   ],
   "cards": [
@@ -37,20 +45,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "deleted",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-02",
       "section": "Cidades",
-      "situation": "Como você sinaliza abadia de goiás?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Abadia de Goiás na resposta?",
       "translation": "Abadia de Goiás",
-      "librasStructure": "ABADIA DE GOIÁS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "ABADIA-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Abadia de Goiás”.",
-        "Use “Abadia de Goiás” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Abadia de Goiás” novamente."
+        "Eu moro em Abadia de Goiás. → EU MORAR ABADIA-DE-GOIÁS.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Abadia de Goiás? → VOCÊ MORAR ABADIA-DE-GOIÁS? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=22&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -61,20 +77,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-03",
       "section": "Cidades",
-      "situation": "Como você sinaliza acreúna?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Acreúna?",
       "translation": "Acreúna",
       "librasStructure": "ACREÚNA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Acreúna”.",
-        "Use “Acreúna” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Acreúna” novamente."
+        "Eu nasci em Acreúna. → EU NASCER ACREÚNA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Acreúna. → FAMÍLIA MINHA ACREÚNA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -85,20 +109,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-04",
       "section": "Cidades",
-      "situation": "Como você sinaliza anápolis?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Anápolis?",
       "translation": "Anápolis",
       "librasStructure": "ANÁPOLIS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Anápolis”.",
-        "Use “Anápolis” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Anápolis” novamente."
+        "Sábado eu vou para Anápolis. → SÁBADO EU IR ANÁPOLIS.",
+        "Você já foi a Anápolis? → ANÁPOLIS, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Anápolis fica entre Goiânia e Brasília. → GOIÂNIA, BRASÍLIA, MEIO ANÁPOLIS."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -109,20 +141,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-05",
       "section": "Cidades",
-      "situation": "Como você sinaliza anicuns?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Anicuns?",
       "translation": "Anicuns",
       "librasStructure": "ANICUNS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Anicuns”.",
-        "Use “Anicuns” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Anicuns” novamente."
+        "Eu trabalho em Anicuns. → EU TRABALHAR ANICUNS.",
+        "Eu estudo em Anicuns. → EU ESTUDAR ANICUNS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -133,20 +173,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-06",
       "section": "Cidades",
-      "situation": "Como você sinaliza aparecida de goiânia?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Aparecida de Goiânia na resposta?",
       "translation": "Aparecida de Goiânia",
-      "librasStructure": "APARECIDA DE GOIÂNIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "APARECIDA-DE-GOIÂNIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Aparecida de Goiânia”.",
-        "Use “Aparecida de Goiânia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Aparecida de Goiânia” novamente."
+        "Eu moro em Aparecida de Goiânia. → EU MORAR APARECIDA-DE-GOIÂNIA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Aparecida de Goiânia fica ao lado de Goiânia. → GOIÂNIA, APARECIDA-DE-GOIÂNIA PERTO."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -157,20 +205,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-07",
       "section": "Cidades",
-      "situation": "Como você sinaliza araunã?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Araunã?",
       "translation": "Araunã",
       "librasStructure": "ARAUNÃ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Araunã”.",
-        "Use “Araunã” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Araunã” novamente."
+        "Eu nasci em Araunã. → EU NASCER ARAUNÃ.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Araunã. → FAMÍLIA MINHA ARAUNÃ."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -181,20 +237,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-08",
       "section": "Cidades",
-      "situation": "Como você sinaliza baliza?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Baliza?",
       "translation": "Baliza",
       "librasStructure": "BALIZA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Baliza”.",
-        "Use “Baliza” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Baliza” novamente."
+        "Sábado eu vou para Baliza. → SÁBADO EU IR BALIZA.",
+        "Você já foi a Baliza? → BALIZA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Baliza. → BALIZA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -205,20 +269,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-09",
       "section": "Cidades",
-      "situation": "Como você sinaliza bela vista?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Bela Vista?",
       "translation": "Bela Vista",
-      "librasStructure": "BELA VISTA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "BELA-VISTA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Bela Vista”.",
-        "Use “Bela Vista” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Bela Vista” novamente."
+        "Eu trabalho em Bela Vista. → EU TRABALHAR BELA-VISTA.",
+        "Eu estudo em Bela Vista. → EU ESTUDAR BELA-VISTA.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=39&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -229,20 +301,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-10",
       "section": "Cidades",
-      "situation": "Como você sinaliza caldas novas?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Caldas Novas na resposta?",
       "translation": "Caldas Novas",
-      "librasStructure": "CALDAS NOVAS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "CALDAS-NOVAS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Caldas Novas”.",
-        "Use “Caldas Novas” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Caldas Novas” novamente."
+        "Eu moro em Caldas Novas. → EU MORAR CALDAS-NOVAS.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Caldas Novas tem águas quentes. → CALDAS-NOVAS ÁGUA QUENTE TER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=41&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -253,20 +333,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-11",
       "section": "Cidades",
-      "situation": "Como você sinaliza campestre de goiás?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Campestre de Goiás?",
       "translation": "Campestre de Goiás",
-      "librasStructure": "CAMPESTRE DE GOIÁS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "CAMPESTRE-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Campestre de Goiás”.",
-        "Use “Campestre de Goiás” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Campestre de Goiás” novamente."
+        "Eu nasci em Campestre de Goiás. → EU NASCER CAMPESTRE-DE-GOIÁS.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Campestre de Goiás. → FAMÍLIA MINHA CAMPESTRE-DE-GOIÁS."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -277,20 +365,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-12",
       "section": "Cidades",
-      "situation": "Como você sinaliza catalão?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Catalão?",
       "translation": "Catalão",
       "librasStructure": "CATALÃO",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Catalão”.",
-        "Use “Catalão” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Catalão” novamente."
+        "Sábado eu vou para Catalão. → SÁBADO EU IR CATALÃO.",
+        "Você já foi a Catalão? → CATALÃO, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Catalão. → CATALÃO EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=46&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -301,20 +397,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-13",
       "section": "Cidades",
-      "situation": "Como você sinaliza ceres?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Ceres?",
       "translation": "Ceres",
       "librasStructure": "CERES",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Ceres”.",
-        "Use “Ceres” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Ceres” novamente."
+        "Eu trabalho em Ceres. → EU TRABALHAR CERES.",
+        "Eu estudo em Ceres. → EU ESTUDAR CERES.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=48&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -325,20 +429,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-14",
       "section": "Cidades",
-      "situation": "Como você sinaliza cezarina?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Cezarina na resposta?",
       "translation": "Cezarina",
       "librasStructure": "CEZARINA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Cezarina”.",
-        "Use “Cezarina” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Cezarina” novamente."
+        "Eu moro em Cezarina. → EU MORAR CEZARINA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Cezarina? → VOCÊ MORAR CEZARINA? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=51&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -349,20 +461,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-15",
       "section": "Cidades",
-      "situation": "Como você sinaliza cidade de goiás (goiás velho)?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Cidade de Goiás (Goiás Velho)?",
       "translation": "Cidade de Goiás (Goiás Velho)",
-      "librasStructure": "CIDADE DE GOIÁS (GOIÁS VELHO)",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "CIDADE-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia). Em Libras, o nome é “Cidade de Goiás”; muitos goianos dizem “Goiás Velho”.",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Cidade de Goiás (Goiás Velho)”.",
-        "Use “Cidade de Goiás (Goiás Velho)” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Cidade de Goiás (Goiás Velho)” novamente."
+        "Eu nasci em Cidade de Goiás (Goiás Velho). → EU NASCER CIDADE-DE-GOIÁS.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "A Cidade de Goiás foi a antiga capital do estado. → ANTES GOIÁS CAPITAL QUAL? CIDADE-DE-GOIÁS."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -373,20 +493,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-16",
       "section": "Cidades",
-      "situation": "Como você sinaliza formosa?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Formosa?",
       "translation": "Formosa",
       "librasStructure": "FORMOSA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Formosa”.",
-        "Use “Formosa” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Formosa” novamente."
+        "Sábado eu vou para Formosa. → SÁBADO EU IR FORMOSA.",
+        "Você já foi a Formosa? → FORMOSA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Formosa. → FORMOSA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=56&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -397,20 +525,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-17",
       "section": "Cidades",
-      "situation": "Como você sinaliza goianápolis?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Goianápolis?",
       "translation": "Goianápolis",
       "librasStructure": "GOIANÁPOLIS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Goianápolis”.",
-        "Use “Goianápolis” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Goianápolis” novamente."
+        "Eu trabalho em Goianápolis. → EU TRABALHAR GOIANÁPOLIS.",
+        "Eu estudo em Goianápolis. → EU ESTUDAR GOIANÁPOLIS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=58&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -421,20 +557,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-18",
       "section": "Cidades",
-      "situation": "Como você sinaliza goianésia?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Goianésia na resposta?",
       "translation": "Goianésia",
       "librasStructure": "GOIANÉSIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Goianésia”.",
-        "Use “Goianésia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Goianésia” novamente."
+        "Eu moro em Goianésia. → EU MORAR GOIANÉSIA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Goianésia? → VOCÊ MORAR GOIANÉSIA? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=61&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -445,20 +589,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-19",
       "section": "Cidades",
-      "situation": "Como você sinaliza goiânia?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Goiânia?",
       "translation": "Goiânia",
       "librasStructure": "GOIÂNIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Goiânia”.",
-        "Use “Goiânia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Goiânia” novamente."
+        "Eu nasci em Goiânia. → EU NASCER GOIÂNIA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Goiânia é a capital de Goiás. → GOIÁS CAPITAL QUAL? GOIÂNIA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=63&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -469,20 +621,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-20",
       "section": "Cidades",
-      "situation": "Como você sinaliza goianira?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Goianira?",
       "translation": "Goianira",
       "librasStructure": "GOIANIRA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Goianira”.",
-        "Use “Goianira” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Goianira” novamente."
+        "Sábado eu vou para Goianira. → SÁBADO EU IR GOIANIRA.",
+        "Você já foi a Goianira? → GOIANIRA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Goianira. → GOIANIRA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -493,20 +653,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-21",
       "section": "Cidades",
-      "situation": "Como você sinaliza goiatuba?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Goiatuba?",
       "translation": "Goiatuba",
       "librasStructure": "GOIATUBA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Goiatuba”.",
-        "Use “Goiatuba” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Goiatuba” novamente."
+        "Eu trabalho em Goiatuba. → EU TRABALHAR GOIATUBA.",
+        "Eu estudo em Goiatuba. → EU ESTUDAR GOIATUBA.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=68&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -517,20 +685,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-22",
       "section": "Cidades",
-      "situation": "Como você sinaliza guapó?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Guapó na resposta?",
       "translation": "Guapó",
       "librasStructure": "GUAPÓ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Guapó”.",
-        "Use “Guapó” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Guapó” novamente."
+        "Eu moro em Guapó. → EU MORAR GUAPÓ.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Guapó? → VOCÊ MORAR GUAPÓ? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -541,20 +717,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-23",
       "section": "Cidades",
-      "situation": "Como você sinaliza hidrolândia?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Hidrolândia?",
       "translation": "Hidrolândia",
       "librasStructure": "HIDROLÂNDIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Hidrolândia”.",
-        "Use “Hidrolândia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Hidrolândia” novamente."
+        "Eu nasci em Hidrolândia. → EU NASCER HIDROLÂNDIA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Hidrolândia. → FAMÍLIA MINHA HIDROLÂNDIA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=72&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -565,20 +749,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-24",
       "section": "Cidades",
-      "situation": "Como você sinaliza indiara?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Indiara?",
       "translation": "Indiara",
       "librasStructure": "INDIARA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Indiara”.",
-        "Use “Indiara” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Indiara” novamente."
+        "Sábado eu vou para Indiara. → SÁBADO EU IR INDIARA.",
+        "Você já foi a Indiara? → INDIARA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Indiara. → INDIARA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=74&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -589,20 +781,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-25",
       "section": "Cidades",
-      "situation": "Como você sinaliza inhumas?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Inhumas?",
       "translation": "Inhumas",
       "librasStructure": "INHUMAS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Inhumas”.",
-        "Use “Inhumas” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Inhumas” novamente."
+        "Eu trabalho em Inhumas. → EU TRABALHAR INHUMAS.",
+        "Eu estudo em Inhumas. → EU ESTUDAR INHUMAS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=77&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -613,20 +813,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-26",
       "section": "Cidades",
-      "situation": "Como você sinaliza ipameri?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Ipameri na resposta?",
       "translation": "Ipameri",
       "librasStructure": "IPAMERI",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Ipameri”.",
-        "Use “Ipameri” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Ipameri” novamente."
+        "Eu moro em Ipameri. → EU MORAR IPAMERI.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Ipameri? → VOCÊ MORAR IPAMERI? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=79&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -637,20 +845,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-27",
       "section": "Cidades",
-      "situation": "Como você sinaliza iporá?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Iporá?",
       "translation": "Iporá",
       "librasStructure": "IPORÁ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Iporá”.",
-        "Use “Iporá” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Iporá” novamente."
+        "Eu nasci em Iporá. → EU NASCER IPORÁ.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Iporá. → FAMÍLIA MINHA IPORÁ."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=81&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -661,20 +877,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-28",
       "section": "Cidades",
-      "situation": "Como você sinaliza itaberaí?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Itaberaí?",
       "translation": "Itaberaí",
       "librasStructure": "ITABERAÍ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Itaberaí”.",
-        "Use “Itaberaí” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Itaberaí” novamente."
+        "Sábado eu vou para Itaberaí. → SÁBADO EU IR ITABERAÍ.",
+        "Você já foi a Itaberaí? → ITABERAÍ, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Itaberaí. → ITABERAÍ EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=83&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -685,20 +909,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-29",
       "section": "Cidades",
-      "situation": "Como você sinaliza itapaci?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Itapaci?",
       "translation": "Itapaci",
       "librasStructure": "ITAPACI",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Itapaci”.",
-        "Use “Itapaci” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Itapaci” novamente."
+        "Eu trabalho em Itapaci. → EU TRABALHAR ITAPACI.",
+        "Eu estudo em Itapaci. → EU ESTUDAR ITAPACI.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -709,20 +941,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-30",
       "section": "Cidades",
-      "situation": "Como você sinaliza itauçu?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Itauçu na resposta?",
       "translation": "Itauçu",
       "librasStructure": "ITAUÇU",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Itauçu”.",
-        "Use “Itauçu” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Itauçu” novamente."
+        "Eu moro em Itauçu. → EU MORAR ITAUÇU.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Itauçu? → VOCÊ MORAR ITAUÇU? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=88&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -733,20 +973,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-31",
       "section": "Cidades",
-      "situation": "Como você sinaliza itumbiara?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Itumbiara?",
       "translation": "Itumbiara",
       "librasStructure": "ITUMBIARA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Itumbiara”.",
-        "Use “Itumbiara” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Itumbiara” novamente."
+        "Eu nasci em Itumbiara. → EU NASCER ITUMBIARA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Itumbiara. → FAMÍLIA MINHA ITUMBIARA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=90&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -757,20 +1005,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-32",
       "section": "Cidades",
-      "situation": "Como você sinaliza jaraguá?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Jaraguá?",
       "translation": "Jaraguá",
       "librasStructure": "JARAGUÁ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Jaraguá”.",
-        "Use “Jaraguá” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Jaraguá” novamente."
+        "Sábado eu vou para Jaraguá. → SÁBADO EU IR JARAGUÁ.",
+        "Você já foi a Jaraguá? → JARAGUÁ, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Jaraguá. → JARAGUÁ EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=93&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -781,20 +1037,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-33",
       "section": "Cidades",
-      "situation": "Como você sinaliza jataí?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Jataí?",
       "translation": "Jataí",
       "librasStructure": "JATAÍ",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Jataí”.",
-        "Use “Jataí” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Jataí” novamente."
+        "Eu trabalho em Jataí. → EU TRABALHAR JATAÍ.",
+        "Eu estudo em Jataí. → EU ESTUDAR JATAÍ.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=96&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -805,20 +1069,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-34",
       "section": "Cidades",
-      "situation": "Como você sinaliza jussara?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Jussara na resposta?",
       "translation": "Jussara",
       "librasStructure": "JUSSARA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Jussara”.",
-        "Use “Jussara” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Jussara” novamente."
+        "Eu moro em Jussara. → EU MORAR JUSSARA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Jussara? → VOCÊ MORAR JUSSARA? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=98&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -829,20 +1101,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-35",
       "section": "Cidades",
-      "situation": "Como você sinaliza luziânia?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Luziânia?",
       "translation": "Luziânia",
       "librasStructure": "LUZIÂNIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Luziânia”.",
-        "Use “Luziânia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Luziânia” novamente."
+        "Eu nasci em Luziânia. → EU NASCER LUZIÂNIA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Luziânia. → FAMÍLIA MINHA LUZIÂNIA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -853,20 +1133,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-36",
       "section": "Cidades",
-      "situation": "Como você sinaliza minaçu?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Minaçu?",
       "translation": "Minaçu",
       "librasStructure": "MINAÇU",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Minaçu”.",
-        "Use “Minaçu” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Minaçu” novamente."
+        "Sábado eu vou para Minaçu. → SÁBADO EU IR MINAÇU.",
+        "Você já foi a Minaçu? → MINAÇU, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Minaçu. → MINAÇU EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=103&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -877,20 +1165,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-37",
       "section": "Cidades",
-      "situation": "Como você sinaliza mineiros?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Mineiros?",
       "translation": "Mineiros",
       "librasStructure": "MINEIROS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Mineiros”.",
-        "Use “Mineiros” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Mineiros” novamente."
+        "Eu trabalho em Mineiros. → EU TRABALHAR MINEIROS.",
+        "Eu estudo em Mineiros. → EU ESTUDAR MINEIROS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=106&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -901,20 +1197,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-38",
       "section": "Cidades",
-      "situation": "Como você sinaliza morrinhos?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Morrinhos na resposta?",
       "translation": "Morrinhos",
       "librasStructure": "MORRINHOS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Morrinhos”.",
-        "Use “Morrinhos” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Morrinhos” novamente."
+        "Eu moro em Morrinhos. → EU MORAR MORRINHOS.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Morrinhos? → VOCÊ MORAR MORRINHOS? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=109&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -925,20 +1229,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-39",
       "section": "Cidades",
-      "situation": "Como você sinaliza nerópolis?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Nerópolis?",
       "translation": "Nerópolis",
       "librasStructure": "NERÓPOLIS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Nerópolis”.",
-        "Use “Nerópolis” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Nerópolis” novamente."
+        "Eu nasci em Nerópolis. → EU NASCER NERÓPOLIS.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Nerópolis. → FAMÍLIA MINHA NERÓPOLIS."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=111&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -949,20 +1261,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-40",
       "section": "Cidades",
-      "situation": "Como você sinaliza nova veneza?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Nova Veneza?",
       "translation": "Nova Veneza",
-      "librasStructure": "NOVA VENEZA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "NOVA-VENEZA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Nova Veneza”.",
-        "Use “Nova Veneza” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Nova Veneza” novamente."
+        "Sábado eu vou para Nova Veneza. → SÁBADO EU IR NOVA-VENEZA.",
+        "Você já foi a Nova Veneza? → NOVA-VENEZA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Nova Veneza. → NOVA-VENEZA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=113&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -973,20 +1293,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-41",
       "section": "Cidades",
-      "situation": "Como você sinaliza palmeiras de goiás?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Palmeiras de Goiás?",
       "translation": "Palmeiras de Goiás",
-      "librasStructure": "PALMEIRAS DE GOIÁS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "PALMEIRAS-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Palmeiras de Goiás”.",
-        "Use “Palmeiras de Goiás” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Palmeiras de Goiás” novamente."
+        "Eu trabalho em Palmeiras de Goiás. → EU TRABALHAR PALMEIRAS-DE-GOIÁS.",
+        "Eu estudo em Palmeiras de Goiás. → EU ESTUDAR PALMEIRAS-DE-GOIÁS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=115&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -997,20 +1325,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-42",
       "section": "Cidades",
-      "situation": "Como você sinaliza piracanjuba?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Piracanjuba na resposta?",
       "translation": "Piracanjuba",
       "librasStructure": "PIRACANJUBA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Piracanjuba”.",
-        "Use “Piracanjuba” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Piracanjuba” novamente."
+        "Eu moro em Piracanjuba. → EU MORAR PIRACANJUBA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Piracanjuba? → VOCÊ MORAR PIRACANJUBA? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=118&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1021,20 +1357,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-43",
       "section": "Cidades",
-      "situation": "Como você sinaliza piranhas?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Piranhas?",
       "translation": "Piranhas",
       "librasStructure": "PIRANHAS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Piranhas”.",
-        "Use “Piranhas” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Piranhas” novamente."
+        "Eu nasci em Piranhas. → EU NASCER PIRANHAS.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Piranhas. → FAMÍLIA MINHA PIRANHAS."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1045,20 +1389,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-44",
       "section": "Cidades",
-      "situation": "Como você sinaliza pirenópolis?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Pirenópolis?",
       "translation": "Pirenópolis",
       "librasStructure": "PIRENÓPOLIS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Pirenópolis”.",
-        "Use “Pirenópolis” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Pirenópolis” novamente."
+        "Sábado eu vou para Pirenópolis. → SÁBADO EU IR PIRENÓPOLIS.",
+        "Você já foi a Pirenópolis? → PIRENÓPOLIS, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Pirenópolis tem muitas cachoeiras. → PIRENÓPOLIS CACHOEIRA MUITO."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=123&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1069,20 +1421,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-45",
       "section": "Cidades",
-      "situation": "Como você sinaliza pires do rio?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Pires do Rio?",
       "translation": "Pires do Rio",
-      "librasStructure": "PIRES DO RIO",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "PIRES-DO-RIO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Pires do Rio”.",
-        "Use “Pires do Rio” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Pires do Rio” novamente."
+        "Eu trabalho em Pires do Rio. → EU TRABALHAR PIRES-DO-RIO.",
+        "Eu estudo em Pires do Rio. → EU ESTUDAR PIRES-DO-RIO.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=125&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1093,20 +1453,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-46",
       "section": "Cidades",
-      "situation": "Como você sinaliza pontalina?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Pontalina na resposta?",
       "translation": "Pontalina",
       "librasStructure": "PONTALINA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Pontalina”.",
-        "Use “Pontalina” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Pontalina” novamente."
+        "Eu moro em Pontalina. → EU MORAR PONTALINA.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Pontalina? → VOCÊ MORAR PONTALINA? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=127&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1117,20 +1485,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-47",
       "section": "Cidades",
-      "situation": "Como você sinaliza porangatu?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Porangatu?",
       "translation": "Porangatu",
       "librasStructure": "PORANGATU",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Porangatu”.",
-        "Use “Porangatu” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Porangatu” novamente."
+        "Eu nasci em Porangatu. → EU NASCER PORANGATU.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Porangatu. → FAMÍLIA MINHA PORANGATU."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=130&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1141,20 +1517,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-48",
       "section": "Cidades",
-      "situation": "Como você sinaliza quirinópolis?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Quirinópolis?",
       "translation": "Quirinópolis",
       "librasStructure": "QUIRINÓPOLIS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Quirinópolis”.",
-        "Use “Quirinópolis” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Quirinópolis” novamente."
+        "Sábado eu vou para Quirinópolis. → SÁBADO EU IR QUIRINÓPOLIS.",
+        "Você já foi a Quirinópolis? → QUIRINÓPOLIS, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Quirinópolis. → QUIRINÓPOLIS EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=132&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1165,20 +1549,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-49",
       "section": "Cidades",
-      "situation": "Como você sinaliza rialma?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Rialma?",
       "translation": "Rialma",
       "librasStructure": "RIALMA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Rialma”.",
-        "Use “Rialma” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Rialma” novamente."
+        "Eu trabalho em Rialma. → EU TRABALHAR RIALMA.",
+        "Eu estudo em Rialma. → EU ESTUDAR RIALMA.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1189,20 +1581,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-50",
       "section": "Cidades",
-      "situation": "Como você sinaliza rio quente?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Rio Quente na resposta?",
       "translation": "Rio Quente",
-      "librasStructure": "RIO QUENTE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "RIO-QUENTE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Rio Quente”.",
-        "Use “Rio Quente” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Rio Quente” novamente."
+        "Eu moro em Rio Quente. → EU MORAR RIO-QUENTE.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Rio Quente é famosa pelas águas quentes. → RIO-QUENTE ÁGUA QUENTE FAMOSO."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=137&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1213,20 +1613,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-51",
       "section": "Cidades",
-      "situation": "Como você sinaliza rio verde?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Rio Verde?",
       "translation": "Rio Verde",
-      "librasStructure": "RIO VERDE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "RIO-VERDE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Rio Verde”.",
-        "Use “Rio Verde” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Rio Verde” novamente."
+        "Eu nasci em Rio Verde. → EU NASCER RIO-VERDE.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Rio Verde. → FAMÍLIA MINHA RIO-VERDE."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=140&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1237,20 +1645,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-52",
       "section": "Cidades",
-      "situation": "Como você sinaliza rubiataba?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Rubiataba?",
       "translation": "Rubiataba",
       "librasStructure": "RUBIATABA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Rubiataba”.",
-        "Use “Rubiataba” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Rubiataba” novamente."
+        "Sábado eu vou para Rubiataba. → SÁBADO EU IR RUBIATABA.",
+        "Você já foi a Rubiataba? → RUBIATABA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Rubiataba. → RUBIATABA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=142&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1261,20 +1677,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-53",
       "section": "Cidades",
-      "situation": "Como você sinaliza santa helena de goiás?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Santa Helena de Goiás?",
       "translation": "Santa Helena de Goiás",
-      "librasStructure": "SANTA HELENA DE GOIÁS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "SANTA-HELENA-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Santa Helena de Goiás”.",
-        "Use “Santa Helena de Goiás” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Santa Helena de Goiás” novamente."
+        "Eu trabalho em Santa Helena de Goiás. → EU TRABALHAR SANTA-HELENA-DE-GOIÁS.",
+        "Eu estudo em Santa Helena de Goiás. → EU ESTUDAR SANTA-HELENA-DE-GOIÁS.",
+        "Você trabalha onde? → VOCÊ TRABALHAR ONDE? (sobrancelhas franzidas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=145&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1285,20 +1709,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-54",
       "section": "Cidades",
-      "situation": "Como você sinaliza são luís de montes belos?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza São Luís de Montes Belos na resposta?",
       "translation": "São Luís de Montes Belos",
-      "librasStructure": "SÃO LUÍS DE MONTES BELOS",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "SÃO-LUÍS-DE-MONTES-BELOS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “São Luís de Montes Belos”.",
-        "Use “São Luís de Montes Belos” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “São Luís de Montes Belos” novamente."
+        "Eu moro em São Luís de Montes Belos. → EU MORAR SÃO-LUÍS-DE-MONTES-BELOS.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em São Luís de Montes Belos? → VOCÊ MORAR SÃO-LUÍS-DE-MONTES-BELOS? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=147&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1309,20 +1741,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-55",
       "section": "Cidades",
-      "situation": "Como você sinaliza senador canedo?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Senador Canedo?",
       "translation": "Senador Canedo",
-      "librasStructure": "SENADOR CANEDO",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "librasStructure": "SENADOR-CANEDO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Senador Canedo”.",
-        "Use “Senador Canedo” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Senador Canedo” novamente."
+        "Eu nasci em Senador Canedo. → EU NASCER SENADOR-CANEDO.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Senador Canedo fica perto de Goiânia. → GOIÂNIA, SENADOR-CANEDO PERTO."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=150&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1333,20 +1773,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-56",
       "section": "Cidades",
-      "situation": "Como você sinaliza silvânia?",
+      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Silvânia?",
       "translation": "Silvânia",
       "librasStructure": "SILVÂNIA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Silvânia”.",
-        "Use “Silvânia” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Silvânia” novamente."
+        "Sábado eu vou para Silvânia. → SÁBADO EU IR SILVÂNIA.",
+        "Você já foi a Silvânia? → SILVÂNIA, VOCÊ JÁ IR? (sobrancelhas levantadas)",
+        "Eu conheço Silvânia. → SILVÂNIA EU CONHECER."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=152&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1357,20 +1805,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-57",
       "section": "Cidades",
-      "situation": "Como você sinaliza trindade?",
+      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Trindade?",
       "translation": "Trindade",
       "librasStructure": "TRINDADE",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Trindade”.",
-        "Use “Trindade” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Trindade” novamente."
+        "Eu trabalho em Trindade. → EU TRABALHAR TRINDADE.",
+        "Eu estudo em Trindade. → EU ESTUDAR TRINDADE.",
+        "Muitas pessoas vão a Trindade na romaria. → ROMARIA PESSOAS MUITO IR TRINDADE."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=154&end=157&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1381,20 +1837,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-58",
       "section": "Cidades",
-      "situation": "Como você sinaliza uruaçu?",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Uruaçu na resposta?",
       "translation": "Uruaçu",
       "librasStructure": "URUAÇU",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Uruaçu”.",
-        "Use “Uruaçu” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Uruaçu” novamente."
+        "Eu moro em Uruaçu. → EU MORAR URUAÇU.",
+        "Onde você mora? → VOCÊ MORAR ONDE? (sobrancelhas franzidas)",
+        "Você mora em Uruaçu? → VOCÊ MORAR URUAÇU? (sobrancelhas levantadas)"
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=157&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1405,20 +1869,28 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
     {
       "id": "goias-59",
       "section": "Cidades",
-      "situation": "Como você sinaliza uruana?",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Uruana?",
       "translation": "Uruana",
       "librasStructure": "URUANA",
-      "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de cidades.",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
       "examples": [
-        "Na aula de cidades, pratique o sinal de “Uruana”.",
-        "Use “Uruana” em uma frase relacionada a cidades.",
-        "Depois de assistir ao vídeo, tente produzir “Uruana” novamente."
+        "Eu nasci em Uruana. → EU NASCER URUANA.",
+        "Você nasceu onde? → VOCÊ NASCER ONDE? (sobrancelhas franzidas)",
+        "Minha família é de Uruana. → FAMÍLIA MINHA URUANA."
       ],
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=159&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
@@ -1429,6 +1901,14 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     },
@@ -1453,6 +1933,14 @@
             "email": "contato@projeto-libras.org"
           },
           "at": "2026-10-07T15:58:12.028Z"
+        },
+        {
+          "action": "deleted",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T12:00:00.000Z"
         }
       ]
     }
