@@ -1,0 +1,649 @@
+{
+  "id": "saude-prevencao",
+  "title": "Saúde: prevenção e atendimento",
+  "description": "Prevenção, hábitos, exames e atendimento em saúde.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 14,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "saude",
+      "reason": "Comece pelo vocabulário básico de saúde."
+    }
+  ],
+  "cards": [
+    {
+      "id": "saude-prevencao-01",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “profissionais da saúde”?",
+      "translation": "Profissionais da saúde",
+      "librasStructure": "PROFISSIONAIS-DA-SAÚDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=7&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-02",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “hospital”?",
+      "translation": "Hospital",
+      "librasStructure": "HOSPITAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-03",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “epidemia”?",
+      "translation": "Epidemia",
+      "librasStructure": "EPIDEMIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=21&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-04",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “máscara”?",
+      "translation": "Máscara",
+      "librasStructure": "MÁSCARA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-05",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “contágio”?",
+      "translation": "Contágio",
+      "librasStructure": "CONTÁGIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-06",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “contrair (doença)”?",
+      "translation": "Contrair (doença)",
+      "librasStructure": "CONTRAIR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=36&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-07",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “doença(s)”?",
+      "translation": "Doença(s)",
+      "librasStructure": "DOENÇA(S)",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-08",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “proliferação”?",
+      "translation": "Proliferação",
+      "librasStructure": "PROLIFERAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=44&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-09",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “exame ginecológico”?",
+      "translation": "Exame ginecológico",
+      "librasStructure": "EXAME-GINECOLÓGICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=52&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-10",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “exame de próstata”?",
+      "translation": "Exame de próstata",
+      "librasStructure": "EXAME-DE-PRÓSTATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-11",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “alimentação balanceada”?",
+      "translation": "Alimentação balanceada",
+      "librasStructure": "ALIMENTAÇÃO-BALANCEADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=61&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-12",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “atividade física”?",
+      "translation": "Atividade física",
+      "librasStructure": "ATIVIDADE-FÍSICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=65&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-13",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “bebida alcoólica”?",
+      "translation": "Bebida alcoólica",
+      "librasStructure": "BEBIDA-ALCOÓLICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-14",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “sedentarismo”?",
+      "translation": "Sedentarismo",
+      "librasStructure": "SEDENTARISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=82&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-15",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “estresse (forma 1)”?",
+      "translation": "Estresse (forma 1)",
+      "librasStructure": "ESTRESSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-16",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “estresse (forma 2)”?",
+      "translation": "Estresse (forma 2)",
+      "librasStructure": "ESTRESSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=90&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-17",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “tabagismo”?",
+      "translation": "Tabagismo",
+      "librasStructure": "TABAGISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=97&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-18",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “preservativo”?",
+      "translation": "Preservativo",
+      "librasStructure": "PRESERVATIVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=102&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-19",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “cartão de vacinação”?",
+      "translation": "Cartão de vacinação",
+      "librasStructure": "CARTÃO-DE-VACINAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=109&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-20",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “aliviar dores”?",
+      "translation": "Aliviar dores",
+      "librasStructure": "ALIVIAR-DORES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-21",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “insuficiência cardíaca”?",
+      "translation": "Insuficiência cardíaca",
+      "librasStructure": "INSUFICIÊNCIA-CARDÍACA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=119&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-22",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “falta de ar”?",
+      "translation": "Falta de ar",
+      "librasStructure": "FALTA-DE-AR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=124&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-23",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “refluxo”?",
+      "translation": "Refluxo",
+      "librasStructure": "REFLUXO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=139&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-24",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “infertilidade”?",
+      "translation": "Infertilidade",
+      "librasStructure": "INFERTILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=141&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-25",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “espermatozoide”?",
+      "translation": "Espermatozoide",
+      "librasStructure": "ESPERMATOZOIDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=146&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-26",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “catarata”?",
+      "translation": "Catarata",
+      "librasStructure": "CATARATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=160&end=165&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-27",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “plano de saúde”?",
+      "translation": "Plano de saúde",
+      "librasStructure": "PLANO-DE-SAÚDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=164&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-28",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “ipasgo”?",
+      "translation": "Ipasgo",
+      "librasStructure": "IPASGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-29",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “SUS”?",
+      "translation": "SUS",
+      "librasStructure": "SUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=173&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-30",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “UTI”?",
+      "translation": "UTI",
+      "librasStructure": "UTI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=177&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "saude-prevencao-31",
+      "section": "Saúde",
+      "situation": "Numa consulta, como você sinaliza “infecção”?",
+      "translation": "Infecção",
+      "librasStructure": "INFECÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=182&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

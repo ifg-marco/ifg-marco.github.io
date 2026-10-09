@@ -1,0 +1,803 @@
+{
+  "id": "escola-materiais",
+  "title": "Escola: materiais",
+  "description": "Materiais escolares e objetos da sala de aula.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 2,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "escola-materiais-01",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lápis”?",
+      "translation": "Lápis",
+      "librasStructure": "LÁPIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-02",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “estojo”?",
+      "translation": "Estojo",
+      "librasStructure": "ESTOJO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=20&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-03",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “caneta”?",
+      "translation": "Caneta",
+      "librasStructure": "CANETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-04",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “grampeador”?",
+      "translation": "Grampeador",
+      "librasStructure": "GRAMPEADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-05",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “canetas coloridas”?",
+      "translation": "Canetas coloridas",
+      "librasStructure": "CANETAS-COLORIDAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-06",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “compasso”?",
+      "translation": "Compasso",
+      "librasStructure": "COMPASSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-07",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “tinta”?",
+      "translation": "Tinta",
+      "librasStructure": "TINTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-08",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lápis de cor”?",
+      "translation": "Lápis de cor",
+      "librasStructure": "LÁPIS-DE-COR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-09",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “calendário”?",
+      "translation": "Calendário",
+      "librasStructure": "CALENDÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=53&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-10",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “computador”?",
+      "translation": "Computador",
+      "librasStructure": "COMPUTADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=57&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-11",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lapiseira”?",
+      "translation": "Lapiseira",
+      "librasStructure": "LAPISEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=62&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-12",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lancheira”?",
+      "translation": "Lancheira",
+      "librasStructure": "LANCHEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-13",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “borracha”?",
+      "translation": "Borracha",
+      "librasStructure": "BORRACHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=71&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-14",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “apontador”?",
+      "translation": "Apontador",
+      "librasStructure": "APONTADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=74&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-15",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “clipes”?",
+      "translation": "Clipes",
+      "librasStructure": "CLIPES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-16",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “papel”?",
+      "translation": "Papel",
+      "librasStructure": "PAPEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-17",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “DVD”?",
+      "translation": "DVD",
+      "librasStructure": "DVD",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=89&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-18",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “livro literário”?",
+      "translation": "Livro literário",
+      "librasStructure": "LIVRO-LITERÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=93&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-19",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “bola”?",
+      "translation": "Bola",
+      "librasStructure": "BOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=98&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-20",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lápis de cera”?",
+      "translation": "Lápis de cera",
+      "librasStructure": "LÁPIS-DE-CERA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=106&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-21",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “lixeira”?",
+      "translation": "Lixeira",
+      "librasStructure": "LIXEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=111&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-22",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “perfurador”?",
+      "translation": "Perfurador",
+      "librasStructure": "PERFURADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-23",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “caderno”?",
+      "translation": "Caderno",
+      "librasStructure": "CADERNO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-24",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “corretivo”?",
+      "translation": "Corretivo",
+      "librasStructure": "CORRETIVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=127&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-25",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “giz”?",
+      "translation": "Giz",
+      "librasStructure": "GIZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=131&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-26",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “apagador”?",
+      "translation": "Apagador",
+      "librasStructure": "APAGADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=134&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-27",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “escola”?",
+      "translation": "Escola",
+      "librasStructure": "ESCOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=137&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-28",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “tela de projeção”?",
+      "translation": "Tela de projeção",
+      "librasStructure": "TELA-DE-PROJEÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=145&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-29",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “corda”?",
+      "translation": "Corda",
+      "librasStructure": "CORDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-30",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “estilete”?",
+      "translation": "Estilete",
+      "librasStructure": "ESTILETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=152&end=157&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-31",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “uniforme”?",
+      "translation": "Uniforme",
+      "librasStructure": "UNIFORME",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=156&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-32",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “mochila”?",
+      "translation": "Mochila",
+      "librasStructure": "MOCHILA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=159&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-33",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “dicionário”?",
+      "translation": "Dicionário",
+      "librasStructure": "DICIONÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=162&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-34",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “agenda”?",
+      "translation": "Agenda",
+      "librasStructure": "AGENDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=172&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-35",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “calculadora”?",
+      "translation": "Calculadora",
+      "librasStructure": "CALCULADORA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=179&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-36",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “cola”?",
+      "translation": "Cola",
+      "librasStructure": "COLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-37",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “projetor (data show)”?",
+      "translation": "Projetor (data show)",
+      "librasStructure": "PROJETOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=186&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-38",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “quadro (branco, preto ou verde)”?",
+      "translation": "Quadro (branco, preto ou verde)",
+      "librasStructure": "QUADRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=196&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "escola-materiais-39",
+      "section": "Materiais escolares",
+      "situation": "Na sala de aula, como você sinaliza “pincel”?",
+      "translation": "Pincel",
+      "librasStructure": "PINCEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=205&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

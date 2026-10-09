@@ -1,0 +1,1003 @@
+{
+  "id": "goiania-lazer",
+  "title": "Goiânia: compras e lazer",
+  "description": "Shoppings, feiras, supermercados, clubes, parques e praças de Goiânia.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Lugares",
+  "order": 2,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "goiania-lazer-01",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Banana Shopping”?",
+      "translation": "Banana Shopping",
+      "librasStructure": "BANANA-SHOPPING",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=15&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-02",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Shopping Bougainville”?",
+      "translation": "Shopping Bougainville",
+      "librasStructure": "SHOPPING-BOUGAINVILLE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=18&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-03",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Shopping Flamboyant”?",
+      "translation": "Shopping Flamboyant",
+      "librasStructure": "SHOPPING-FLAMBOYANT",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-04",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Buriti Shopping”?",
+      "translation": "Buriti Shopping",
+      "librasStructure": "BURITI-SHOPPING",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=25&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-05",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Goiânia Shopping”?",
+      "translation": "Goiânia Shopping",
+      "librasStructure": "GOIÂNIA-SHOPPING",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=28&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-06",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Portal Shopping”?",
+      "translation": "Portal Shopping",
+      "librasStructure": "PORTAL-SHOPPING",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-07",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Shopping Cerrado”?",
+      "translation": "Shopping Cerrado",
+      "librasStructure": "SHOPPING-CERRADO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=35&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-08",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Passeio das Águas Shopping”?",
+      "translation": "Passeio das Águas Shopping",
+      "librasStructure": "PASSEIO-DAS-ÁGUAS-SHOPPING",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-09",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Shopping Cidade Jardim”?",
+      "translation": "Shopping Cidade Jardim",
+      "librasStructure": "SHOPPING-CIDADE-JARDIM",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-10",
+      "section": "Shoppings",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Shopping Araguaia”?",
+      "translation": "Shopping Araguaia",
+      "librasStructure": "SHOPPING-ARAGUAIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/96nWcg7tquw?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=96nWcg7tquw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-11",
+      "section": "Feiras",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Feira da Lua”?",
+      "translation": "Feira da Lua",
+      "librasStructure": "FEIRA-DA-LUA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/Rld1fyWGSng?start=14&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Rld1fyWGSng",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-12",
+      "section": "Feiras",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Feira do Sol”?",
+      "translation": "Feira do Sol",
+      "librasStructure": "FEIRA-DO-SOL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/Rld1fyWGSng?start=17&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Rld1fyWGSng",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-13",
+      "section": "Feiras",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Feira Hippie”?",
+      "translation": "Feira Hippie",
+      "librasStructure": "FEIRA-HIPPIE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/Rld1fyWGSng?start=20&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Rld1fyWGSng",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-14",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Bretas”?",
+      "translation": "Supermercado Bretas",
+      "librasStructure": "SUPERMERCADO-BRETAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=13&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-15",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Extra”?",
+      "translation": "Supermercado Extra",
+      "librasStructure": "SUPERMERCADO-EXTRA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-16",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Prátiko”?",
+      "translation": "Supermercado Prátiko",
+      "librasStructure": "SUPERMERCADO-PRÁTIKO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-17",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Moreira”?",
+      "translation": "Supermercado Moreira",
+      "librasStructure": "SUPERMERCADO-MOREIRA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-18",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Carrefour”?",
+      "translation": "Supermercado Carrefour",
+      "librasStructure": "SUPERMERCADO-CARREFOUR",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-19",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Leve”?",
+      "translation": "Supermercado Leve",
+      "librasStructure": "SUPERMERCADO-LEVE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-20",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Atacadão”?",
+      "translation": "Atacadão",
+      "librasStructure": "ATACADÃO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-21",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Tatico”?",
+      "translation": "Supermercado Tatico",
+      "librasStructure": "SUPERMERCADO-TATICO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=34&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-22",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Assaí Atacadista”?",
+      "translation": "Assaí Atacadista",
+      "librasStructure": "ASSAÍ-ATACADISTA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=40&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-23",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Big”?",
+      "translation": "Supermercado Big",
+      "librasStructure": "SUPERMERCADO-BIG",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-24",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Supermercado Pão de Açúcar”?",
+      "translation": "Supermercado Pão de Açúcar",
+      "librasStructure": "SUPERMERCADO-PÃO-DE-AÇÚCAR",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=45&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-25",
+      "section": "Supermercados",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Pro Brazilian”?",
+      "translation": "Pro Brazilian",
+      "librasStructure": "PRO-BRAZILIAN",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/8xjDE1_n6XE?start=48&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8xjDE1_n6XE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-26",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Clube do Goiânia Park”?",
+      "translation": "Clube do Goiânia Park",
+      "librasStructure": "CLUBE-DO-GOIÂNIA-PARK",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=18&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-27",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Clube do Jaó”?",
+      "translation": "Clube do Jaó",
+      "librasStructure": "CLUBE-DO-JAÓ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=22&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-28",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Jóquei Clube”?",
+      "translation": "Jóquei Clube",
+      "librasStructure": "JÓQUEI-CLUBE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=26&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-29",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Clube Três Ilhas”?",
+      "translation": "Clube Três Ilhas",
+      "librasStructure": "CLUBE-TRÊS-ILHAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=30&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-30",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Sesi (clube)”?",
+      "translation": "Sesi (clube)",
+      "librasStructure": "SESI",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=33&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-31",
+      "section": "Clubes",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Sesc (clube)”?",
+      "translation": "Sesc (clube)",
+      "librasStructure": "SESC",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2x3_k6MmLxE?start=37&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2x3_k6MmLxE",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-32",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça Cívica”?",
+      "translation": "Praça Cívica",
+      "librasStructure": "PRAÇA-CÍVICA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-33",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque Mutirama”?",
+      "translation": "Parque Mutirama",
+      "librasStructure": "PARQUE-MUTIRAMA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-34",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque Flamboyant”?",
+      "translation": "Parque Flamboyant",
+      "librasStructure": "PARQUE-FLAMBOYANT",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-35",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque Vaca Brava”?",
+      "translation": "Parque Vaca Brava",
+      "librasStructure": "PARQUE-VACA-BRAVA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=27&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-36",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Lago das Rosas”?",
+      "translation": "Lago das Rosas",
+      "librasStructure": "LAGO-DAS-ROSAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=30&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-37",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque Areião”?",
+      "translation": "Parque Areião",
+      "librasStructure": "PARQUE-AREIÃO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-38",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça do Cruzeiro”?",
+      "translation": "Praça do Cruzeiro",
+      "librasStructure": "PRAÇA-DO-CRUZEIRO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=36&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-39",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça Tamandaré”?",
+      "translation": "Praça Tamandaré",
+      "librasStructure": "PRAÇA-TAMANDARÉ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-40",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça Universitária”?",
+      "translation": "Praça Universitária",
+      "librasStructure": "PRAÇA-UNIVERSITÁRIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-41",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça do Jacaré”?",
+      "translation": "Praça do Jacaré",
+      "librasStructure": "PRAÇA-DO-JACARÉ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-42",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça do Sol”?",
+      "translation": "Praça do Sol",
+      "librasStructure": "PRAÇA-DO-SOL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=48&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-43",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça do Violeiro”?",
+      "translation": "Praça do Violeiro",
+      "librasStructure": "PRAÇA-DO-VIOLEIRO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-44",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Bosque dos Buritis”?",
+      "translation": "Bosque dos Buritis",
+      "librasStructure": "BOSQUE-DOS-BURITIS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=55&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-45",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça do Bandeirante”?",
+      "translation": "Praça do Bandeirante",
+      "librasStructure": "PRAÇA-DO-BANDEIRANTE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=59&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-46",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Praça Dr. Pedro Ludovico Teixeira”?",
+      "translation": "Praça Dr. Pedro Ludovico Teixeira",
+      "librasStructure": "PRAÇA-DR.-PEDRO-LUDOVICO-TEIXEIRA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-47",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque de Campinas”?",
+      "translation": "Parque de Campinas",
+      "librasStructure": "PARQUE-DE-CAMPINAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=66&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-48",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Parque Cascavel”?",
+      "translation": "Parque Cascavel",
+      "librasStructure": "PARQUE-CASCAVEL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=69&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-lazer-49",
+      "section": "Parques e praças",
+      "situation": "Ao combinar um passeio em Goiânia, como você sinaliza “Estação Ferroviária de Goiânia”?",
+      "translation": "Estação Ferroviária de Goiânia",
+      "librasStructure": "ESTAÇÃO-FERROVIÁRIA-DE-GOIÂNIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/bk-sNBzSg2I?start=72&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bk-sNBzSg2I",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

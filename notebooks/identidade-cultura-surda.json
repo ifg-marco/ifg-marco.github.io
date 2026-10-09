@@ -1,0 +1,1103 @@
+{
+  "id": "identidade-cultura-surda",
+  "title": "Identidade e cultura surda",
+  "description": "Conceitos sobre identidade, cultura, educação e história das pessoas surdas.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Cultura",
+  "order": 1,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "identidade-cultura-surda-01",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade surda”?",
+      "translation": "Identidade surda",
+      "librasStructure": "IDENTIDADE-SURDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=22&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-02",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “cultura surda”?",
+      "translation": "Cultura surda",
+      "librasStructure": "CULTURA-SURDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=25&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-03",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “surdo / surda”?",
+      "translation": "Surdo / surda",
+      "librasStructure": "SURDO/SURDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-04",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “variação (linguística)”?",
+      "translation": "Variação (linguística)",
+      "librasStructure": "VARIAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-05",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “antigamente”?",
+      "translation": "Antigamente",
+      "librasStructure": "ANTIGAMENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-06",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “educação de surdos”?",
+      "translation": "Educação de surdos",
+      "librasStructure": "EDUCAÇÃO-DE-SURDOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=39&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-07",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “pessoa com deficiência”?",
+      "translation": "Pessoa com deficiência",
+      "librasStructure": "PESSOA-COM-DEFICIÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=44&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-08",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “língua gestual”?",
+      "translation": "Língua gestual",
+      "librasStructure": "LÍNGUA-GESTUAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-09",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “influência”?",
+      "translation": "Influência",
+      "librasStructure": "INFLUÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=56&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-10",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “sociedade / social”?",
+      "translation": "Sociedade / social",
+      "librasStructure": "SOCIEDADE/SOCIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=59&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-11",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “contato”?",
+      "translation": "Contato",
+      "librasStructure": "CONTATO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=71&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-12",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “fluência”?",
+      "translation": "Fluência",
+      "librasStructure": "FLUÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-13",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “comunidade surda”?",
+      "translation": "Comunidade surda",
+      "librasStructure": "COMUNIDADE-SURDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=77&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-14",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “associação de surdos”?",
+      "translation": "Associação de surdos",
+      "librasStructure": "ASSOCIAÇÃO-DE-SURDOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=81&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-15",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “bilinguismo”?",
+      "translation": "Bilinguismo",
+      "librasStructure": "BILINGUISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-16",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “aprendizado”?",
+      "translation": "Aprendizado",
+      "librasStructure": "APRENDIZADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=93&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-17",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “capaz”?",
+      "translation": "Capaz",
+      "librasStructure": "CAPAZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=98&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-18",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “desenvolvimento”?",
+      "translation": "Desenvolvimento",
+      "librasStructure": "DESENVOLVIMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=101&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-19",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “oralismo”?",
+      "translation": "Oralismo",
+      "librasStructure": "ORALISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=104&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-20",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “inclusão”?",
+      "translation": "Inclusão",
+      "librasStructure": "INCLUSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=106&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-21",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “L'Épée”?",
+      "translation": "L'Épée",
+      "librasStructure": "L'ÉPÉE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=113&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-22",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “comunicação total”?",
+      "translation": "Comunicação total",
+      "librasStructure": "COMUNICAÇÃO-TOTAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=116&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-23",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “gestualismo”?",
+      "translation": "Gestualismo",
+      "librasStructure": "GESTUALISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=120&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-24",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “congresso de Milão”?",
+      "translation": "Congresso de Milão",
+      "librasStructure": "CONGRESSO-DE-MILÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=123&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-25",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “homenagem”?",
+      "translation": "Homenagem",
+      "librasStructure": "HOMENAGEM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-26",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “direito”?",
+      "translation": "Direito",
+      "librasStructure": "DIREITO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=134&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-27",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “legislação”?",
+      "translation": "Legislação",
+      "librasStructure": "LEGISLAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=137&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-28",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “seminário”?",
+      "translation": "Seminário",
+      "librasStructure": "SEMINÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=139&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-29",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “aparelho de amplificação sonora”?",
+      "translation": "Aparelho de amplificação sonora",
+      "librasStructure": "APARELHO-DE-AMPLIFICAÇÃO-SONORA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=142&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-30",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “implante coclear”?",
+      "translation": "Implante coclear",
+      "librasStructure": "IMPLANTE-COCLEAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=145&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-31",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “palestra”?",
+      "translation": "Palestra",
+      "librasStructure": "PALESTRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-32",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “congresso”?",
+      "translation": "Congresso",
+      "librasStructure": "CONGRESSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=152&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-33",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “rebaixar”?",
+      "translation": "Rebaixar",
+      "librasStructure": "REBAIXAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=155&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-34",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “incapaz”?",
+      "translation": "Incapaz",
+      "librasStructure": "INCAPAZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=158&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-35",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “bimodalismo”?",
+      "translation": "Bimodalismo",
+      "librasStructure": "BIMODALISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=162&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-36",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “audiometria”?",
+      "translation": "Audiometria",
+      "librasStructure": "AUDIOMETRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=166&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-37",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “terapia fonológica”?",
+      "translation": "Terapia fonológica",
+      "librasStructure": "TERAPIA-FONOLÓGICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=171&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-38",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “mímica”?",
+      "translation": "Mímica",
+      "librasStructure": "MÍMICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=174&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-39",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “vibração”?",
+      "translation": "Vibração",
+      "librasStructure": "VIBRAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=177&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-40",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “invisível”?",
+      "translation": "Invisível",
+      "librasStructure": "INVISÍVEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=180&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-41",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “luta”?",
+      "translation": "Luta",
+      "librasStructure": "LUTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=183&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-42",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “decreto”?",
+      "translation": "Decreto",
+      "librasStructure": "DECRETO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=190&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-43",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade híbrida”?",
+      "translation": "Identidade híbrida",
+      "librasStructure": "IDENTIDADE-HÍBRIDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=193&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-44",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “contemporâneo”?",
+      "translation": "Contemporâneo",
+      "librasStructure": "CONTEMPORÂNEO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=197&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-45",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “submissão”?",
+      "translation": "Submissão",
+      "librasStructure": "SUBMISSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=201&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-46",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “visibilidade”?",
+      "translation": "Visibilidade",
+      "librasStructure": "VISIBILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=204&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-47",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade de transição”?",
+      "translation": "Identidade de transição",
+      "librasStructure": "IDENTIDADE-DE-TRANSIÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=209&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-48",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade flutuante”?",
+      "translation": "Identidade flutuante",
+      "librasStructure": "IDENTIDADE-FLUTUANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=214&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-49",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade incompleta”?",
+      "translation": "Identidade incompleta",
+      "librasStructure": "IDENTIDADE-INCOMPLETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=221&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-50",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade política”?",
+      "translation": "Identidade política",
+      "librasStructure": "IDENTIDADE-POLÍTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=228&end=234&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-51",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “identidade”?",
+      "translation": "Identidade",
+      "librasStructure": "IDENTIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=232&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-52",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “guia-intérprete”?",
+      "translation": "Guia-intérprete",
+      "librasStructure": "GUIA-INTÉRPRETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=235&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-53",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “surdocego”?",
+      "translation": "Surdocego",
+      "librasStructure": "SURDOCEGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=239&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "identidade-cultura-surda-54",
+      "section": "Identidade e cultura surda",
+      "situation": "Numa conversa sobre cultura surda, como você sinaliza “artefatos culturais”?",
+      "translation": "Artefatos culturais",
+      "librasStructure": "ARTEFATOS-CULTURAIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/CRrhVsfZw8U?start=246&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CRrhVsfZw8U",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

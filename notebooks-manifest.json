@@ -1,132 +1,814 @@
 {
   "notebooks": [
     {
-      "id": "adverbios-comparacao",
-      "hash": "20c259216635d470",
-      "updatedAt": "2026-10-07T15:05:18.964Z",
-      "title": "Advérbios de Comparação",
-      "description": "Aprenda a comparar tamanho, quantidade, qualidade, nível e direitos com perguntas claras e exemplos de situações reais.",
-      "cardCount": 8
+      "id": "adjetivos-aparencia",
+      "hash": "2a639010653a962d",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Adjetivos: aparência e qualidades",
+      "description": "Tamanho, forma, cor clara ou escura, limpo, sujo, fácil, difícil e outras qualidades.",
+      "cardCount": 33,
+      "collection": "Gramática",
+      "order": 2,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "adjetivos-sentimentos",
+      "hash": "30aa5ead7a9f6003",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Adjetivos: sentimentos e comportamento",
+      "description": "Sentimentos, emoções e jeitos de ser.",
+      "cardCount": 34,
+      "collection": "Gramática",
+      "order": 3,
+      "difficulty": "basico"
+    },
+    {
+      "id": "adverbios",
+      "hash": "d6e8e4cbfaee4109",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Advérbios e conectivos",
+      "description": "Sim, não e talvez; hoje, ontem e amanhã; sempre e nunca; e os conectivos “mas” e “mais”.",
+      "cardCount": 29,
+      "collection": "Gramática",
+      "order": 5,
+      "difficulty": "basico"
+    },
+    {
+      "id": "alfabeto",
+      "hash": "6c3c4dc06a85ddaf",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Alfabeto manual",
+      "description": "As letras do alfabeto manual da Libras (datilologia), base para soletrar nomes e palavras.",
+      "cardCount": 26,
+      "collection": "Dia a dia",
+      "order": 1,
+      "difficulty": "iniciante",
+      "next": [
+        {
+          "notebookId": "primeiros-sinais",
+          "reason": "Depois das letras, os primeiros cumprimentos."
+        },
+        {
+          "notebookId": "soletracao-ritmica",
+          "reason": "Pratique a soletração com palavras curtas."
+        }
+      ]
+    },
+    {
+      "id": "alimentos",
+      "hash": "811aeffbc6e1783c",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Alimentos e bebidas",
+      "description": "Comidas do dia a dia e bebidas para conversar sobre refeições.",
+      "cardCount": 60,
+      "collection": "Dia a dia",
+      "order": 7,
+      "difficulty": "basico"
+    },
+    {
+      "id": "animais",
+      "hash": "95f8e3f6e1f7373f",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Animais",
+      "description": "Animais domésticos e selvagens.",
+      "cardCount": 27,
+      "collection": "Vocabulário",
+      "order": 5,
+      "difficulty": "basico"
+    },
+    {
+      "id": "biologia",
+      "hash": "700176b8fe83d2ad",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Biologia",
+      "description": "Célula, genética, corpo humano, ecologia e evolução.",
+      "cardCount": 33,
+      "collection": "Áreas profissionais",
+      "order": 5,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "casa-cozinha",
+      "hash": "b401484680a45585",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Casa e cozinha",
+      "description": "Móveis, eletrodomésticos e o vocabulário de uma receita.",
+      "cardCount": 50,
+      "collection": "Dia a dia",
+      "order": 9,
+      "difficulty": "basico"
     },
     {
       "id": "cidades-goias",
-      "hash": "d945ea0d76d277b6",
+      "hash": "fea0a6d4e2f8d28c",
       "updatedAt": "2026-10-07T15:58:12.028Z",
       "title": "Cidades de Goiás",
       "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar.",
-      "cardCount": 58
+      "cardCount": 58,
+      "collection": "Lugares",
+      "order": 4,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "ciencias-humanas",
+      "hash": "8dc6fc967066154f",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Ciências humanas",
+      "description": "Política, sociedade, direitos e história.",
+      "cardCount": 39,
+      "collection": "Áreas profissionais",
+      "order": 8,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "classificadores",
+      "hash": "05cda1f2fb59d7af",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Classificadores e espaço",
+      "description": "Tipos de classificadores e sinais de direção e perspectiva.",
+      "cardCount": 18,
+      "collection": "Gramática",
+      "order": 12,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "comparar-intensificar",
+      "hash": "0abceddf77f7cf6a",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Comparar e intensificar",
+      "description": "Comparações (mais, menos, igual) e como a Libras marca a intensidade de um sinal.",
+      "cardCount": 31,
+      "collection": "Gramática",
+      "order": 6,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "adjetivos-aparencia",
+          "reason": "Os pares de intensidade usam adjetivos."
+        }
+      ]
+    },
+    {
+      "id": "comunicacao",
+      "hash": "9e4d7b1cde7150bc",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Meios de comunicação",
+      "description": "Tecnologia, internet, redes sociais, TV e telefonia.",
+      "cardCount": 33,
+      "collection": "Dia a dia",
+      "order": 14,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "comunidades-surdas",
+      "hash": "2986c349d77b41bb",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Comunidades surdas",
+      "description": "Povo surdo, associações e instituições da comunidade surda no Brasil.",
+      "cardCount": 17,
+      "collection": "Comunidade surda e sociedade",
+      "order": 1,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "identidade-cultura-surda",
+          "reason": "Conceitos de identidade e cultura surda."
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico",
+      "hash": "1a6b10bc024707dc",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Contexto jurídico (criminal)",
+      "description": "Sinais do contexto jurídico e criminal: polícia, processo, crimes e justiça.",
+      "cardCount": 38,
+      "collection": "Áreas profissionais",
+      "order": 2,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "cores",
+      "hash": "e4ea4867a46bdaeb",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Cores",
+      "description": "As cores e os tons claro e escuro.",
+      "cardCount": 23,
+      "collection": "Vocabulário",
+      "order": 1,
+      "difficulty": "iniciante"
     },
     {
       "id": "corpo-humano",
-      "hash": "c86bea814ab69541",
+      "hash": "8122f077d85a1ca1",
       "updatedAt": "2026-10-07T15:07:17.154Z",
       "title": "Corpo Humano",
       "description": "Vocabulário de partes do corpo, órgãos, sistemas e estética.",
-      "cardCount": 53
+      "cardCount": 53,
+      "collection": "Vocabulário",
+      "order": 8,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "descrever",
+      "hash": "7e3e54951561dc80",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Descrever pessoas e objetos",
+      "description": "Adjetivação descritiva: estampas, texturas, tipos de cabelo e detalhes do rosto.",
+      "cardCount": 24,
+      "collection": "Gramática",
+      "order": 4,
+      "difficulty": "basico",
+      "prerequisites": [
+        {
+          "notebookId": "adjetivos-aparencia",
+          "reason": "Comece pelos adjetivos de aparência."
+        }
+      ]
+    },
+    {
+      "id": "dinheiro",
+      "hash": "9ee6f84555c7e773",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Dinheiro e compras",
+      "description": "Valores em reais, formas de pagamento, banco e compras.",
+      "cardCount": 57,
+      "collection": "Dia a dia",
+      "order": 6,
+      "difficulty": "basico",
+      "prerequisites": [
+        {
+          "notebookId": "numeros",
+          "reason": "Os valores usam os sinais de números."
+        }
+      ]
     },
     {
       "id": "direito-em-libras",
-      "hash": "032b403840593e4e",
+      "hash": "43bda903d3519004",
       "updatedAt": "2026-10-08T05:23:42.115Z",
       "title": "Direito em Libras",
       "description": "",
-      "cardCount": 109
+      "cardCount": 109,
+      "collection": "Áreas profissionais",
+      "order": 1,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "disciplinas",
+      "hash": "9447c4e7eea48e0d",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Disciplinas escolares",
+      "description": "Nomes das disciplinas da escola.",
+      "cardCount": 19,
+      "collection": "Vocabulário",
+      "order": 4,
+      "difficulty": "basico"
+    },
+    {
+      "id": "documentos",
+      "hash": "c9a3e851873bebd3",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Documentos",
+      "description": "Documentos pessoais, cartões, certidões, contas e seguros.",
+      "cardCount": 58,
+      "collection": "Dia a dia",
+      "order": 13,
+      "difficulty": "intermediario"
     },
     {
       "id": "doencas",
-      "hash": "195bcdd6f044a925",
+      "hash": "031c2879227b6963",
       "updatedAt": "2026-10-07T16:13:55.996Z",
       "title": "Doenças",
       "description": "Vocabulário de doenças, sintomas e condições de saúde em Libras, para fins de aprendizagem.",
-      "cardCount": 36
+      "cardCount": 36,
+      "collection": "Vocabulário",
+      "order": 10,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "drogas",
+      "hash": "6f9746efc1878ef1",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Drogas",
+      "description": "Drogas lícitas e ilícitas, tráfico e prevenção.",
+      "cardCount": 18,
+      "collection": "Comunidade surda e sociedade",
+      "order": 3,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "escola-materiais",
+      "hash": "a8035af97e1affb1",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Escola: materiais",
+      "description": "Materiais escolares e objetos da sala de aula.",
+      "cardCount": 39,
+      "collection": "Vocabulário",
+      "order": 2,
+      "difficulty": "basico"
+    },
+    {
+      "id": "escola-rotina",
+      "hash": "0856b70c7e0d640f",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Escola: aula, avaliação e equipe",
+      "description": "Rotina escolar, avaliação e os profissionais da escola.",
+      "cardCount": 51,
+      "collection": "Vocabulário",
+      "order": 3,
+      "difficulty": "basico"
     },
     {
       "id": "esportes",
-      "hash": "5eafe4600fa2448a",
+      "hash": "fba4543102021f9c",
       "updatedAt": "2026-10-07T15:55:36.027Z",
-      "title": "Esportes",
+      "title": "Esportes: modalidades",
       "description": "Vocabulário de modalidades esportivas em Libras.",
-      "cardCount": 71
+      "cardCount": 49,
+      "collection": "Vocabulário",
+      "order": 12,
+      "difficulty": "intermediario",
+      "next": [
+        {
+          "notebookId": "esportes-competicoes",
+          "reason": "Continue com o vocabulário de competições e resultados."
+        }
+      ]
+    },
+    {
+      "id": "esportes-competicoes",
+      "hash": "b7fbca34eb5079bb",
+      "updatedAt": "2026-10-09T05:20:00.000Z",
+      "title": "Esportes: competições e resultados",
+      "description": "Torneios, placares, vitória, derrota e outros termos de competição.",
+      "cardCount": 22,
+      "collection": "Vocabulário",
+      "order": 13,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "esportes",
+          "reason": "Comece pelas modalidades esportivas."
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais",
+      "hash": "c78f5db16f8d8093",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Estados e capitais do Brasil",
+      "description": "Regiões, estados e capitais do Brasil.",
+      "cardCount": 31,
+      "collection": "Lugares",
+      "order": 5,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "familia",
+      "hash": "cc70d3e5c0659930",
+      "updatedAt": "2026-10-08T23:30:00.000Z",
+      "title": "Família e relacionamentos",
+      "description": "Sinais de família, pessoas, idades e relacionamentos para falar de quem faz parte da sua vida.",
+      "cardCount": 49,
+      "collection": "Dia a dia",
+      "order": 4,
+      "difficulty": "iniciante",
+      "prerequisites": [
+        {
+          "notebookId": "primeiros-sinais",
+          "reason": "Os exemplos usam os cumprimentos do caderno Primeiros sinais."
+        }
+      ],
+      "next": [
+        {
+          "notebookId": "verbos-sem-concordancia",
+          "reason": "Tem verbos como AMAR, NAMORAR e CONVERSAR para falar das pessoas próximas."
+        }
+      ]
     },
     {
       "id": "filosofia",
-      "hash": "8e21ef2a5dde86b3",
+      "hash": "eb8227bfcc432e32",
       "updatedAt": "2026-10-08T05:14:07.092Z",
       "title": "Filosofia",
       "description": "",
-      "cardCount": 24
+      "cardCount": 24,
+      "collection": "Comunidade surda e sociedade",
+      "order": 6,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "frutas-legumes",
+      "hash": "6d444f0399b0da4f",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Frutas, legumes e verduras",
+      "description": "Frutas, legumes e verduras da feira e do mercado.",
+      "cardCount": 47,
+      "collection": "Dia a dia",
+      "order": 8,
+      "difficulty": "basico"
+    },
+    {
+      "id": "goiania-bairros",
+      "hash": "d776252388ba9177",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Goiânia: bairros e terminais",
+      "description": "Setores de Goiânia e terminais de ônibus.",
+      "cardCount": 42,
+      "collection": "Lugares",
+      "order": 1,
+      "difficulty": "basico"
+    },
+    {
+      "id": "goiania-ensino-times",
+      "hash": "5eb518ce8a082ee0",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Goiânia: faculdades e times",
+      "description": "Instituições de ensino superior e times de futebol de Goiás.",
+      "cardCount": 18,
+      "collection": "Lugares",
+      "order": 3,
+      "difficulty": "basico"
+    },
+    {
+      "id": "goiania-lazer",
+      "hash": "2ba6855c2ebe260c",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Goiânia: compras e lazer",
+      "description": "Shoppings, feiras, supermercados, clubes, parques e praças de Goiânia.",
+      "cardCount": 49,
+      "collection": "Lugares",
+      "order": 2,
+      "difficulty": "basico"
     },
     {
       "id": "higiene-pessoal",
-      "hash": "89b59e373cafb4fa",
+      "hash": "21f953adc5f50175",
       "updatedAt": "2026-10-07T16:11:21.974Z",
       "title": "Higiene Pessoal",
       "description": "Vocabulário de objetos, produtos e ações de higiene pessoal.",
-      "cardCount": 41
+      "cardCount": 41,
+      "collection": "Vocabulário",
+      "order": 9,
+      "difficulty": "intermediario"
     },
     {
       "id": "horas-periodos",
-      "hash": "92d0e9050277b026",
+      "hash": "77c369506ae00567",
       "updatedAt": "2026-10-07T15:59:01.367Z",
-      "title": "Horas e períodos do dia",
-      "description": "Expressões de horário, períodos do dia e relações de tempo em Libras.",
-      "cardCount": 17
+      "title": "Horas, dias e calendário",
+      "description": "Horas, períodos do dia, dias da semana e expressões de tempo como semana que vem e ano passado.",
+      "cardCount": 60,
+      "collection": "Dia a dia",
+      "order": 5,
+      "difficulty": "basico"
     },
     {
-      "id": "mas-mais",
-      "hash": "988e4d3e2b41e0ab",
-      "updatedAt": "2026-10-07T16:02:50.128Z",
-      "title": "Mas e Mais",
-      "description": "Diferenças de uso entre mas e mais em Libras.",
-      "cardCount": 4
+      "id": "identidade-cultura-surda",
+      "hash": "6de1ba89cc0b6e00",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Identidade e cultura surda",
+      "description": "Conceitos sobre identidade, cultura, educação e história das pessoas surdas.",
+      "cardCount": 54,
+      "collection": "Cultura",
+      "order": 1,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "ist",
+      "hash": "2fc5a5f7880d9b53",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Saúde sexual e IST",
+      "description": "Infecções sexualmente transmissíveis, corpo e prevenção.",
+      "cardCount": 28,
+      "collection": "Vocabulário",
+      "order": 15,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "doencas",
+          "reason": "Comece pelas doenças e sintomas."
+        }
+      ]
+    },
+    {
+      "id": "matematica",
+      "hash": "9d0ce443524e9275",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Matemática e física",
+      "description": "Termos de matemática e de física para a sala de aula.",
+      "cardCount": 28,
+      "collection": "Áreas profissionais",
+      "order": 4,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "numeros",
+          "reason": "Comece pelos números."
+        }
+      ]
+    },
+    {
+      "id": "numeros",
+      "hash": "643fc948a0ea3763",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Números",
+      "description": "Números cardinais, ordinais e a ideia de quantidade em Libras.",
+      "cardCount": 38,
+      "collection": "Dia a dia",
+      "order": 3,
+      "difficulty": "iniciante",
+      "next": [
+        {
+          "notebookId": "dinheiro",
+          "reason": "Use os números para falar de preços e valores."
+        }
+      ]
+    },
+    {
+      "id": "paises",
+      "hash": "d7b688c958858915",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Países e continentes",
+      "description": "Continentes e países em Libras.",
+      "cardCount": 41,
+      "collection": "Lugares",
+      "order": 6,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "estados-capitais",
+          "reason": "Comece pelos estados do Brasil."
+        }
+      ]
+    },
+    {
+      "id": "pesos-medidas",
+      "hash": "d9f1affe560c24f3",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Pesos e medidas",
+      "description": "Peso, comprimento, volume e instrumentos de medida.",
+      "cardCount": 19,
+      "collection": "Vocabulário",
+      "order": 6,
+      "difficulty": "basico"
+    },
+    {
+      "id": "primeiros-sinais",
+      "hash": "39528a1dff496890",
+      "updatedAt": "2026-10-08T23:30:00.000Z",
+      "title": "Primeiros sinais",
+      "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras.",
+      "cardCount": 22,
+      "collection": "Dia a dia",
+      "order": 2,
+      "difficulty": "iniciante",
+      "next": [
+        {
+          "notebookId": "familia",
+          "reason": "Depois de se apresentar, aprenda a falar da sua família."
+        },
+        {
+          "notebookId": "horas-periodos",
+          "reason": "Bom dia, boa tarde e boa noite levam aos períodos do dia."
+        }
+      ]
     },
     {
       "id": "producao-multimidia-bilingue",
-      "hash": "14c9f103356fde68",
+      "hash": "e7ae7f0d13aa6437",
       "updatedAt": "2026-10-08T04:37:38.328Z",
       "title": "Produção Multimídia Bilíngue",
       "description": "",
-      "cardCount": 220
+      "cardCount": 219,
+      "collection": "Áreas profissionais",
+      "order": 3,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "profissoes",
+      "hash": "7614b93b37ceca41",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Profissões",
+      "description": "Profissões e ocupações.",
+      "cardCount": 43,
+      "collection": "Vocabulário",
+      "order": 7,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "pronomes",
+      "hash": "a35efe4265a3e632",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Pronomes pessoais, possessivos e interrogativos",
+      "description": "Eu, você, ele; meu, seu, nosso; e as perguntas onde, o quê e para quê.",
+      "cardCount": 34,
+      "collection": "Gramática",
+      "order": 1,
+      "difficulty": "iniciante",
+      "next": [
+        {
+          "notebookId": "adjetivos-aparencia",
+          "reason": "Com os pronomes, comece a descrever pessoas e coisas."
+        }
+      ]
     },
     {
       "id": "pronomes-indefinidos",
-      "hash": "066ddd1b3b0d8c54",
+      "hash": "b0f23568e8501765",
       "updatedAt": "2026-10-07T16:05:03.645Z",
       "title": "Pronomes indefinidos e quantificadores",
       "description": "Sinais para indicar quantidade, ausência, individualidade e distribuição.",
-      "cardCount": 23
+      "cardCount": 23,
+      "collection": "Gramática",
+      "order": 7,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "pronomes",
+          "reason": "Comece pelos pronomes pessoais."
+        }
+      ]
+    },
+    {
+      "id": "quimica",
+      "hash": "00de6f8321838703",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Química",
+      "description": "Átomos, ligações, reações, misturas e soluções.",
+      "cardCount": 30,
+      "collection": "Áreas profissionais",
+      "order": 6,
+      "difficulty": "avancado"
     },
     {
       "id": "saude",
-      "hash": "8f0f02c9e0d1d206",
+      "hash": "1e4af367b2bd7e7b",
       "updatedAt": "2026-10-07T16:13:19.604Z",
       "title": "Saúde",
       "description": "Vocabulário de saúde e corpo humano em Libras, para fins de aprendizagem.",
-      "cardCount": 82
+      "cardCount": 50,
+      "collection": "Vocabulário",
+      "order": 11,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "saude-prevencao",
+      "hash": "f59607c22ecfb01e",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Saúde: prevenção e atendimento",
+      "description": "Prevenção, hábitos, exames e atendimento em saúde.",
+      "cardCount": 31,
+      "collection": "Vocabulário",
+      "order": 14,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "saude",
+          "reason": "Comece pelo vocabulário básico de saúde."
+        }
+      ]
     },
     {
       "id": "sociologia",
-      "hash": "12736b1d3d55044a",
+      "hash": "953495af1b52cda4",
       "updatedAt": "2026-10-08T05:16:25.889Z",
       "title": "Sociologia",
       "description": "",
-      "cardCount": 24
+      "cardCount": 24,
+      "collection": "Comunidade surda e sociedade",
+      "order": 5,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "soletracao-ritmica",
+      "hash": "cd7276c51187fbf3",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Soletração rítmica",
+      "description": "Palavras curtas soletradas com ritmo próprio, como se fossem um sinal.",
+      "cardCount": 60,
+      "collection": "Dia a dia",
+      "order": 12,
+      "difficulty": "basico",
+      "prerequisites": [
+        {
+          "notebookId": "alfabeto",
+          "reason": "Usa as letras do alfabeto manual."
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira",
+      "hash": "dcd8d2cd27598240",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Surdocegueira",
+      "description": "Comunicação e acessibilidade com pessoas surdocegas: Libras tátil, braile, guia-intérprete e outros recursos.",
+      "cardCount": 55,
+      "collection": "Comunidade surda e sociedade",
+      "order": 2,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "identidade-cultura-surda",
+          "reason": "Conceitos de identidade e cultura surda."
+        }
+      ]
+    },
+    {
+      "id": "transporte",
+      "hash": "6ec456edf6dd507d",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Meios de transporte",
+      "description": "Veículos e meios de transporte por terra, água e ar.",
+      "cardCount": 24,
+      "collection": "Dia a dia",
+      "order": 11,
+      "difficulty": "basico"
     },
     {
       "id": "verbos-concordancia",
-      "hash": "ad69bb939bd796a8",
+      "hash": "86b8e599aeeb8b60",
       "updatedAt": "2026-10-07T16:15:52.165Z",
       "title": "Verbos com concordância",
       "description": "Verbos que podem direcionar o movimento entre participantes na Libras.",
-      "cardCount": 44
+      "cardCount": 44,
+      "collection": "Gramática",
+      "order": 9,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "verbos-sem-concordancia",
+          "reason": "Comece pelos verbos sem concordância."
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero",
+      "hash": "03e18a1d313c98b6",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Verbos com concordância de gênero",
+      "description": "Verbos que mudam a configuração de mão conforme quem age: pessoa, objeto ou animal.",
+      "cardCount": 39,
+      "collection": "Gramática",
+      "order": 10,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "verbos-concordancia",
+          "reason": "Entenda primeiro a concordância de pessoa."
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao",
+      "hash": "0b4c9f139be2fc36",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Verbos com concordância de localização",
+      "description": "Verbos que se realizam no lugar do corpo ou do objeto em que a ação acontece.",
+      "cardCount": 22,
+      "collection": "Gramática",
+      "order": 11,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "verbos-concordancia",
+          "reason": "Entenda primeiro a concordância de pessoa."
+        }
+      ]
     },
     {
       "id": "verbos-sem-concordancia",
-      "hash": "ea0ee517879b634a",
+      "hash": "120c46fa0a2f839a",
       "updatedAt": "2026-10-07T16:16:29.398Z",
       "title": "Verbos sem concordância",
       "description": "Verbos apresentados sem direcionamento entre participantes.",
-      "cardCount": 32
+      "cardCount": 32,
+      "collection": "Gramática",
+      "order": 8,
+      "difficulty": "intermediario",
+      "prerequisites": [
+        {
+          "notebookId": "pronomes",
+          "reason": "Os verbos se combinam com os pronomes pessoais."
+        }
+      ]
+    },
+    {
+      "id": "vestuario",
+      "hash": "1858ae80e5449271",
+      "updatedAt": "2026-10-09T05:00:00.000Z",
+      "title": "Roupas e acessórios",
+      "description": "Peças de roupa, calçados e acessórios.",
+      "cardCount": 51,
+      "collection": "Dia a dia",
+      "order": 10,
+      "difficulty": "basico"
     }
-  ]
+  ],
+  "redirects": {
+    "mas-mais": "adverbios",
+    "adverbios-comparacao": "comparar-intensificar"
+  }
 }

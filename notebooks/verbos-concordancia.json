@@ -13,6 +13,47 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T16:15:52.165Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:10:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 9,
+  "difficulty": "intermediario",
+  "prerequisites": [
+    {
+      "notebookId": "verbos-sem-concordancia",
+      "reason": "Comece pelos verbos sem concordância."
     }
   ],
   "cards": [
@@ -133,6 +174,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:15:52.165Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "familia",
+          "cardId": "familia-40"
         }
       ]
     },
@@ -1028,7 +1083,7 @@
       "id": "verbo-concordancia-43",
       "section": "Verbos com concordância",
       "situation": "Como você sinaliza respeitar?",
-      "translation": "Respeitar",
+      "translation": "Respeitar (com concordância)",
       "librasStructure": "RESPEITAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
       "examples": [
@@ -1045,6 +1100,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:15:52.165Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },

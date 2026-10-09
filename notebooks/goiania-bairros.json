@@ -1,0 +1,863 @@
+{
+  "id": "goiania-bairros",
+  "title": "Goiânia: bairros e terminais",
+  "description": "Setores de Goiânia e terminais de ônibus.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Lugares",
+  "order": 1,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "goiania-bairros-01",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Centro”?",
+      "translation": "Centro",
+      "librasStructure": "CENTRO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-02",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Campinas (bairro)”?",
+      "translation": "Campinas (bairro)",
+      "librasStructure": "CAMPINAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-03",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Nova Esperança”?",
+      "translation": "Jardim Nova Esperança",
+      "librasStructure": "JARDIM-NOVA-ESPERANÇA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=21&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-04",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Novo Mundo”?",
+      "translation": "Jardim Novo Mundo",
+      "librasStructure": "JARDIM-NOVO-MUNDO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=25&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-05",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Santa Helena”?",
+      "translation": "Vila Santa Helena",
+      "librasStructure": "VILA-SANTA-HELENA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-06",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Parque Atheneu”?",
+      "translation": "Parque Atheneu",
+      "librasStructure": "PARQUE-ATHENEU",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-07",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Conjunto Vera Cruz”?",
+      "translation": "Conjunto Vera Cruz",
+      "librasStructure": "CONJUNTO-VERA-CRUZ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=35&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-08",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Goiânia Viva”?",
+      "translation": "Goiânia Viva",
+      "librasStructure": "GOIÂNIA-VIVA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-09",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Morada do Sol”?",
+      "translation": "Setor Morada do Sol",
+      "librasStructure": "SETOR-MORADA-DO-SOL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-10",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Ipê”?",
+      "translation": "Jardim Ipê",
+      "librasStructure": "JARDIM-IPÊ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=46&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-11",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Balneário Meia Ponte”?",
+      "translation": "Jardim Balneário Meia Ponte",
+      "librasStructure": "JARDIM-BALNEÁRIO-MEIA-PONTE",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=52&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-12",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Negrão de Lima”?",
+      "translation": "Setor Negrão de Lima",
+      "librasStructure": "SETOR-NEGRÃO-DE-LIMA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=55&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-13",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor São Domingos”?",
+      "translation": "Setor São Domingos",
+      "librasStructure": "SETOR-SÃO-DOMINGOS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=62&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-14",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Aeroporto”?",
+      "translation": "Setor Aeroporto",
+      "librasStructure": "SETOR-AEROPORTO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=66&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-15",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Nova”?",
+      "translation": "Vila Nova",
+      "librasStructure": "VILA-NOVA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-16",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Bueno”?",
+      "translation": "Setor Bueno",
+      "librasStructure": "SETOR-BUENO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-17",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Nova Suíça”?",
+      "translation": "Setor Nova Suíça",
+      "librasStructure": "SETOR-NOVA-SUÍÇA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=77&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-18",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Goiás”?",
+      "translation": "Jardim Goiás",
+      "librasStructure": "JARDIM-GOIÁS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=80&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-19",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Guanabara”?",
+      "translation": "Jardim Guanabara",
+      "librasStructure": "JARDIM-GUANABARA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-20",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Castelo Branco”?",
+      "translation": "Setor Castelo Branco",
+      "librasStructure": "SETOR-CASTELO-BRANCO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=87&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-21",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor dos Funcionários”?",
+      "translation": "Setor dos Funcionários",
+      "librasStructure": "SETOR-DOS-FUNCIONÁRIOS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=91&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-22",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Goiânia 2”?",
+      "translation": "Setor Goiânia 2",
+      "librasStructure": "SETOR-GOIÂNIA-2",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=95&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-23",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Bairro Feliz”?",
+      "translation": "Bairro Feliz",
+      "librasStructure": "BAIRRO-FELIZ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=98&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-24",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim América”?",
+      "translation": "Jardim América",
+      "librasStructure": "JARDIM-AMÉRICA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=101&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-25",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Bela Vista”?",
+      "translation": "Jardim Bela Vista",
+      "librasStructure": "JARDIM-BELA-VISTA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=104&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-26",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Finsocial”?",
+      "translation": "Vila Finsocial",
+      "librasStructure": "VILA-FINSOCIAL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=108&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-27",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Vitória”?",
+      "translation": "Jardim Vitória",
+      "librasStructure": "JARDIM-VITÓRIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=112&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-28",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Sul”?",
+      "translation": "Setor Sul",
+      "librasStructure": "SETOR-SUL",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-29",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Universitário”?",
+      "translation": "Setor Universitário",
+      "librasStructure": "SETOR-UNIVERSITÁRIO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=117&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-30",
+      "section": "Bairros",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Cidade Jardim”?",
+      "translation": "Cidade Jardim",
+      "librasStructure": "CIDADE-JARDIM",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/tEf5K685umY?start=120&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-31",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Novo Mundo”?",
+      "translation": "Terminal Novo Mundo",
+      "librasStructure": "TERMINAL-NOVO-MUNDO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-32",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Bíblia”?",
+      "translation": "Terminal Bíblia",
+      "librasStructure": "TERMINAL-BÍBLIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-33",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Praça A”?",
+      "translation": "Terminal Praça A",
+      "librasStructure": "TERMINAL-PRAÇA-A",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=21&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-34",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal do Dergo”?",
+      "translation": "Terminal do Dergo",
+      "librasStructure": "TERMINAL-DO-DERGO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=25&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-35",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Padre Pelágio”?",
+      "translation": "Terminal Padre Pelágio",
+      "librasStructure": "TERMINAL-PADRE-PELÁGIO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-36",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Isidória”?",
+      "translation": "Terminal Isidória",
+      "librasStructure": "TERMINAL-ISIDÓRIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-37",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Vera Cruz”?",
+      "translation": "Terminal Vera Cruz",
+      "librasStructure": "TERMINAL-VERA-CRUZ",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=36&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-38",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal do Cruzeiro”?",
+      "translation": "Terminal do Cruzeiro",
+      "librasStructure": "TERMINAL-DO-CRUZEIRO",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-39",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Bandeiras”?",
+      "translation": "Terminal Bandeiras",
+      "librasStructure": "TERMINAL-BANDEIRAS",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=42&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-40",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Maranata”?",
+      "translation": "Terminal Maranata",
+      "librasStructure": "TERMINAL-MARANATA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=46&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-41",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Vila Brasília”?",
+      "translation": "Terminal Vila Brasília",
+      "librasStructure": "TERMINAL-VILA-BRASÍLIA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-bairros-42",
+      "section": "Terminais de ônibus",
+      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Cidade Viva”?",
+      "translation": "Terminal Cidade Viva",
+      "librasStructure": "TERMINAL-CIDADE-VIVA",
+      "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=54&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

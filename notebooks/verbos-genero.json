@@ -1,0 +1,809 @@
+{
+  "id": "verbos-genero",
+  "title": "Verbos com concordância de gênero",
+  "description": "Verbos que mudam a configuração de mão conforme quem age: pessoa, objeto ou animal.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 10,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "verbos-concordancia",
+      "reason": "Entenda primeiro a concordância de pessoa."
+    }
+  ],
+  "cards": [
+    {
+      "id": "verbos-genero-01",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar / caminhar — várias pessoas (forma 1)”?",
+      "translation": "Andar / caminhar — várias pessoas (forma 1)",
+      "librasStructure": "ANDAR/CAMINHAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=36&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-02",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar / caminhar — várias pessoas (forma 2)”?",
+      "translation": "Andar / caminhar — várias pessoas (forma 2)",
+      "librasStructure": "ANDAR/CAMINHAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=43&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-03",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar / caminhar — uma pessoa”?",
+      "translation": "Andar / caminhar — uma pessoa",
+      "librasStructure": "ANDAR/CAMINHAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=50&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-04",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — pessoa caminhando (forma 1)”?",
+      "translation": "Cair — pessoa caminhando (forma 1)",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=60&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-05",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — pessoa caminhando (forma 2)”?",
+      "translation": "Cair — pessoa caminhando (forma 2)",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=67&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-06",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas de pé — em círculo”?",
+      "translation": "Pessoas de pé — em círculo",
+      "librasStructure": "PESSOAS-DE-PÉ",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=72&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-07",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas de pé — em fila (forma 1)”?",
+      "translation": "Pessoas de pé — em fila (forma 1)",
+      "librasStructure": "PESSOAS-DE-PÉ",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-08",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas de pé — em fila (forma 2)”?",
+      "translation": "Pessoas de pé — em fila (forma 2)",
+      "librasStructure": "PESSOAS-DE-PÉ",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=86&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-09",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas sentadas — em círculo”?",
+      "translation": "Pessoas sentadas — em círculo",
+      "librasStructure": "PESSOAS-SENTADAS",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=92&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-10",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas sentadas — plateia”?",
+      "translation": "Pessoas sentadas — plateia",
+      "librasStructure": "PESSOAS-SENTADAS",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=99&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-11",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoas sentadas — várias cadeiras”?",
+      "translation": "Pessoas sentadas — várias cadeiras",
+      "librasStructure": "PESSOAS-SENTADAS",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=107&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-12",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “pessoa sentada — balanço”?",
+      "translation": "Pessoa sentada — balanço",
+      "librasStructure": "PESSOA-SENTADA",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=115&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-13",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — pessoa de joelho”?",
+      "translation": "Cair — pessoa de joelho",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=123&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-14",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — pessoa de bicicleta”?",
+      "translation": "Cair — pessoa de bicicleta",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=129&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-15",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — pessoa correndo”?",
+      "translation": "Cair — pessoa correndo",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=136&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-16",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — carro”?",
+      "translation": "Andar — carro",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=149&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-17",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “bater — carro na árvore”?",
+      "translation": "Bater — carro na árvore",
+      "librasStructure": "BATER",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=156&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-18",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — árvore”?",
+      "translation": "Cair — árvore",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=164&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-19",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — folha da árvore”?",
+      "translation": "Cair — folha da árvore",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=170&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-20",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — cabelo”?",
+      "translation": "Cair — cabelo",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=178&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-21",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — copo”?",
+      "translation": "Cair — copo",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=184&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-22",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — dente”?",
+      "translation": "Cair — dente",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=191&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-23",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cair — comida”?",
+      "translation": "Cair — comida",
+      "librasStructure": "CAIR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=198&end=207&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-24",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “carregar — bolsa”?",
+      "translation": "Carregar — bolsa",
+      "librasStructure": "CARREGAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=205&end=214&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-25",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “cortar — tesoura”?",
+      "translation": "Cortar — tesoura",
+      "librasStructure": "CORTAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=213&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-26",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “costurar — agulha”?",
+      "translation": "Costurar — agulha",
+      "librasStructure": "COSTURAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=217&end=225&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-27",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “costurar — máquina”?",
+      "translation": "Costurar — máquina",
+      "librasStructure": "COSTURAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=224&end=231&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-28",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “furar — furadeira”?",
+      "translation": "Furar — furadeira",
+      "librasStructure": "FURAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=230&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-29",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “voar — avião”?",
+      "translation": "Voar — avião",
+      "librasStructure": "VOAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=237&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-30",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — aranha”?",
+      "translation": "Andar — aranha",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=250&end=260&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-31",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — tartaruga”?",
+      "translation": "Andar — tartaruga",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=258&end=270&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-32",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — cachorro”?",
+      "translation": "Andar — cachorro",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=269&end=281&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-33",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — formiga”?",
+      "translation": "Andar — formiga",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=279&end=290&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-34",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — gato”?",
+      "translation": "Andar — gato",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=288&end=299&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-35",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “andar — pinguim”?",
+      "translation": "Andar — pinguim",
+      "librasStructure": "ANDAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=297&end=305&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-36",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “correr — cavalo”?",
+      "translation": "Correr — cavalo",
+      "librasStructure": "CORRER",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=303&end=314&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-37",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “nadar — peixe”?",
+      "translation": "Nadar — peixe",
+      "librasStructure": "NADAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=313&end=327&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-38",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “rastejar — cobra”?",
+      "translation": "Rastejar — cobra",
+      "librasStructure": "RASTEJAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=325&end=343&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-genero-39",
+      "section": "Concordância de gênero",
+      "situation": "Como você sinaliza “voar — pássaro”?",
+      "translation": "Voar — pássaro",
+      "librasStructure": "VOAR",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=343&end=354&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

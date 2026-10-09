@@ -13,8 +13,35 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T15:07:17.154Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
     }
   ],
+  "collection": "Vocabulário",
+  "order": 8,
+  "difficulty": "intermediario",
   "cards": [
     {
       "id": "corpo-01",
@@ -380,7 +407,7 @@
       "id": "corpo-16",
       "section": "Estrutura geral e cabeça",
       "situation": "Como você sinaliza língua?",
-      "translation": "Língua",
+      "translation": "Língua (órgão)",
       "librasStructure": "LÍNGUA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
       "examples": [
@@ -397,6 +424,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T15:07:17.154Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -1069,6 +1104,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T15:07:17.154Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-10"
         }
       ]
     },

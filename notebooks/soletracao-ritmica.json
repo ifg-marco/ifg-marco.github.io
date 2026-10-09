@@ -1,0 +1,1229 @@
+{
+  "id": "soletracao-ritmica",
+  "title": "Soletração rítmica",
+  "description": "Palavras curtas soletradas com ritmo próprio, como se fossem um sinal.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 12,
+  "difficulty": "basico",
+  "prerequisites": [
+    {
+      "notebookId": "alfabeto",
+      "reason": "Usa as letras do alfabeto manual."
+    }
+  ],
+  "cards": [
+    {
+      "id": "soletracao-ritmica-01",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “N-U-N-C-A”?",
+      "translation": "N-U-N-C-A",
+      "librasStructure": "N-U-N-C-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-02",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-A-L”?",
+      "translation": "S-A-L",
+      "librasStructure": "S-A-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-03",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-O-U”?",
+      "translation": "V-O-U",
+      "librasStructure": "V-O-U",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-04",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-I”?",
+      "translation": "O-I",
+      "librasStructure": "O-I",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-05",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “D-O-U-T-O-R”?",
+      "translation": "D-O-U-T-O-R",
+      "librasStructure": "D-O-U-T-O-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=35&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-06",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “P-A-Z”?",
+      "translation": "P-A-Z",
+      "librasStructure": "P-A-Z",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-07",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “F-É”?",
+      "translation": "F-É",
+      "librasStructure": "F-É",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=43&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-08",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “M-A-R”?",
+      "translation": "M-A-R",
+      "librasStructure": "M-A-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-09",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-K”?",
+      "translation": "O-K",
+      "librasStructure": "O-K",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=51&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-10",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-A-L-O-R”?",
+      "translation": "V-A-L-O-R",
+      "librasStructure": "V-A-L-O-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-11",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “M-A-U”?",
+      "translation": "M-A-U",
+      "librasStructure": "M-A-U",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-12",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “R-U-A”?",
+      "translation": "R-U-A",
+      "librasStructure": "R-U-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=69&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-13",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “B-O-M”?",
+      "translation": "B-O-M",
+      "librasStructure": "B-O-M",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-14",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-O-M-O”?",
+      "translation": "C-O-M-O",
+      "librasStructure": "C-O-M-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-15",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-B-A”?",
+      "translation": "O-B-A",
+      "librasStructure": "O-B-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-16",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-U-R-O”?",
+      "translation": "O-U-R-O",
+      "librasStructure": "O-U-R-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-17",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “B-A-R”?",
+      "translation": "B-A-R",
+      "librasStructure": "B-A-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=90&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-18",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-O-L”?",
+      "translation": "S-O-L",
+      "librasStructure": "S-O-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=93&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-19",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-I-U”?",
+      "translation": "V-I-U",
+      "librasStructure": "V-I-U",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=96&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-20",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “L-U-Z”?",
+      "translation": "L-U-Z",
+      "librasStructure": "L-U-Z",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=99&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-21",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “D-I-A”?",
+      "translation": "D-I-A",
+      "librasStructure": "D-I-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-22",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-O-M-A-R”?",
+      "translation": "S-O-M-A-R",
+      "librasStructure": "S-O-M-A-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=113&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-23",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “N-Ã-O”?",
+      "translation": "N-Ã-O",
+      "librasStructure": "N-Ã-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=118&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-24",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-L-A-R-O”?",
+      "translation": "C-L-A-R-O",
+      "librasStructure": "C-L-A-R-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-25",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-E”?",
+      "translation": "S-E",
+      "librasStructure": "S-E",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-26",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “A-R”?",
+      "translation": "A-R",
+      "librasStructure": "A-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=133&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-27",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “L-I-X-O”?",
+      "translation": "L-I-X-O",
+      "librasStructure": "L-I-X-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-28",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “G-Á-S”?",
+      "translation": "G-Á-S",
+      "librasStructure": "G-Á-S",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=140&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-29",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “B-E-B-Ê”?",
+      "translation": "B-E-B-Ê",
+      "librasStructure": "B-E-B-Ê",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=143&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-30",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “A-Z-A-R”?",
+      "translation": "A-Z-A-R",
+      "librasStructure": "A-Z-A-R",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=145&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-31",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “Q-U-E-M”?",
+      "translation": "Q-U-E-M",
+      "librasStructure": "Q-U-E-M",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=149&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-32",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “P-A-I”?",
+      "translation": "P-A-I",
+      "librasStructure": "P-A-I",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=153&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-33",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-O-V-Ó”?",
+      "translation": "V-O-V-Ó",
+      "librasStructure": "V-O-V-Ó",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=156&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-34",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-U-C-O”?",
+      "translation": "S-U-C-O",
+      "librasStructure": "S-U-C-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=160&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-35",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “A-V-E-N-I-D-A”?",
+      "translation": "A-V-E-N-I-D-A",
+      "librasStructure": "A-V-E-N-I-D-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=162&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-36",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “F-I-M”?",
+      "translation": "F-I-M",
+      "librasStructure": "F-I-M",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=172&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-37",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “G-I-Z”?",
+      "translation": "G-I-Z",
+      "librasStructure": "G-I-Z",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=175&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-38",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “M-E-L”?",
+      "translation": "M-E-L",
+      "librasStructure": "M-E-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=179&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-39",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “M-I-L”?",
+      "translation": "M-I-L",
+      "librasStructure": "M-I-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-40",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-I-V-O”?",
+      "translation": "V-I-V-O",
+      "librasStructure": "V-I-V-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=185&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-41",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-H-Á”?",
+      "translation": "C-H-Á",
+      "librasStructure": "C-H-Á",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=188&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-42",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “R-G”?",
+      "translation": "R-G",
+      "librasStructure": "R-G",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=191&end=196&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-43",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-E-D-O”?",
+      "translation": "C-E-D-O",
+      "librasStructure": "C-E-D-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=195&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-44",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “D-V-D”?",
+      "translation": "D-V-D",
+      "librasStructure": "D-V-D",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=199&end=203&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-45",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “G-O-L”?",
+      "translation": "G-O-L",
+      "librasStructure": "G-O-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=205&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-46",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-I-X-I”?",
+      "translation": "V-I-X-I",
+      "librasStructure": "V-I-X-I",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=209&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-47",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “A-Z-U-L”?",
+      "translation": "A-Z-U-L",
+      "librasStructure": "A-Z-U-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=217&end=221&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-48",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-A-I”?",
+      "translation": "V-A-I",
+      "librasStructure": "V-A-I",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=220&end=225&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-49",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “R-I-O”?",
+      "translation": "R-I-O",
+      "librasStructure": "R-I-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=229&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-50",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “P-I-Z-Z-A”?",
+      "translation": "P-I-Z-Z-A",
+      "librasStructure": "P-I-Z-Z-A",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=232&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-51",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “P-É”?",
+      "translation": "P-É",
+      "librasStructure": "P-É",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=236&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-52",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-U”?",
+      "translation": "O-U",
+      "librasStructure": "O-U",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=239&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-53",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “V-A-R-A-L”?",
+      "translation": "V-A-R-A-L",
+      "librasStructure": "V-A-R-A-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=241&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-54",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “S-I-M”?",
+      "translation": "S-I-M",
+      "librasStructure": "S-I-M",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=246&end=251&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-55",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “B-E-M”?",
+      "translation": "B-E-M",
+      "librasStructure": "B-E-M",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=252&end=258&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-56",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-P-F”?",
+      "translation": "C-P-F",
+      "librasStructure": "C-P-F",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=256&end=259&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-57",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “M-A-L”?",
+      "translation": "M-A-L",
+      "librasStructure": "M-A-L",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=259&end=264&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-58",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “C-D”?",
+      "translation": "C-D",
+      "librasStructure": "C-D",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=262&end=265&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-59",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “O-V-O”?",
+      "translation": "O-V-O",
+      "librasStructure": "O-V-O",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=265&end=269&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "soletracao-ritmica-60",
+      "section": "Soletração rítmica",
+      "situation": "Como fica a soletração rítmica de “A-F-F”?",
+      "translation": "A-F-F",
+      "librasStructure": "A-F-F",
+      "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=271&end=277&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

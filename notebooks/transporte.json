@@ -1,0 +1,503 @@
+{
+  "id": "transporte",
+  "title": "Meios de transporte",
+  "description": "Veículos e meios de transporte por terra, água e ar.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 11,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "transporte-01",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “carro”?",
+      "translation": "Carro",
+      "librasStructure": "CARRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-02",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “caminhão”?",
+      "translation": "Caminhão",
+      "librasStructure": "CAMINHÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=21&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-03",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “trem”?",
+      "translation": "Trem",
+      "librasStructure": "TREM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=28&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-04",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “helicóptero”?",
+      "translation": "Helicóptero",
+      "librasStructure": "HELICÓPTERO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-05",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “navio”?",
+      "translation": "Navio",
+      "librasStructure": "NAVIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-06",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “submarino”?",
+      "translation": "Submarino",
+      "librasStructure": "SUBMARINO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-07",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “carroça”?",
+      "translation": "Carroça",
+      "librasStructure": "CARROÇA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=43&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-08",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “moto”?",
+      "translation": "Moto",
+      "librasStructure": "MOTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-09",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “paraquedas”?",
+      "translation": "Paraquedas",
+      "librasStructure": "PARAQUEDAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-10",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “avião”?",
+      "translation": "Avião",
+      "librasStructure": "AVIÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=53&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-11",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “trem-bala”?",
+      "translation": "Trem-bala",
+      "librasStructure": "TREM-BALA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-12",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “lancha”?",
+      "translation": "Lancha",
+      "librasStructure": "LANCHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=59&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-13",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “canoa”?",
+      "translation": "Canoa",
+      "librasStructure": "CANOA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=63&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-14",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “táxi”?",
+      "translation": "Táxi",
+      "librasStructure": "TÁXI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=68&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-15",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “foguete”?",
+      "translation": "Foguete",
+      "librasStructure": "FOGUETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=72&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-16",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “van”?",
+      "translation": "Van",
+      "librasStructure": "VAN",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=75&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-17",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “uber”?",
+      "translation": "Uber",
+      "librasStructure": "UBER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=81&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-18",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “bicicleta”?",
+      "translation": "Bicicleta",
+      "librasStructure": "BICICLETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=85&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-19",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “metrô (transporte)”?",
+      "translation": "Metrô (transporte)",
+      "librasStructure": "METRÔ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=88&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-20",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “barco”?",
+      "translation": "Barco",
+      "librasStructure": "BARCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=91&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-21",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “veleiro”?",
+      "translation": "Veleiro",
+      "librasStructure": "VELEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=95&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-22",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “balão”?",
+      "translation": "Balão",
+      "librasStructure": "BALÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=100&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-23",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “jet ski”?",
+      "translation": "Jet ski",
+      "librasStructure": "JET-SKI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=104&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "transporte-24",
+      "section": "Transporte",
+      "situation": "Ao contar como você se desloca, como sinaliza “ônibus”?",
+      "translation": "Ônibus",
+      "librasStructure": "ÔNIBUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=108&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "id": "comunicacao",
+  "title": "Meios de comunicação",
+  "description": "Tecnologia, internet, redes sociais, TV e telefonia.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 14,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "comunicacao-01",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Tablet”?",
+      "translation": "Tablet",
+      "librasStructure": "TABLET",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-02",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Telegrama”?",
+      "translation": "Telegrama",
+      "librasStructure": "TELEGRAMA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-03",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Google”?",
+      "translation": "Google",
+      "librasStructure": "GOOGLE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-04",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Hotmail”?",
+      "translation": "Hotmail",
+      "librasStructure": "HOTMAIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=31&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-05",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Internet”?",
+      "translation": "Internet",
+      "librasStructure": "INTERNET",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=33&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-06",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Webcam”?",
+      "translation": "Webcam",
+      "librasStructure": "WEBCAM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=37&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-07",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Globo (TV)”?",
+      "translation": "Globo (TV)",
+      "librasStructure": "GLOBO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=41&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-08",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Celular”?",
+      "translation": "Celular",
+      "librasStructure": "CELULAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-09",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “WhatsApp”?",
+      "translation": "WhatsApp",
+      "librasStructure": "WHATSAPP",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-10",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Satélite”?",
+      "translation": "Satélite",
+      "librasStructure": "SATÉLITE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=48&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-11",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Redes sociais”?",
+      "translation": "Redes sociais",
+      "librasStructure": "REDES-SOCIAIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=54&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-12",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “SBT”?",
+      "translation": "SBT",
+      "librasStructure": "SBT",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-13",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Fax”?",
+      "translation": "Fax",
+      "librasStructure": "FAX",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=65&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-14",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Mensagem”?",
+      "translation": "Mensagem",
+      "librasStructure": "MENSAGEM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=69&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-15",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Facebook”?",
+      "translation": "Facebook",
+      "librasStructure": "FACEBOOK",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=72&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-16",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Gmail”?",
+      "translation": "Gmail",
+      "librasStructure": "GMAIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-17",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Wi-Fi”?",
+      "translation": "Wi-Fi",
+      "librasStructure": "WI-FI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=78&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-18",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Claro (operadora)”?",
+      "translation": "Claro (operadora)",
+      "librasStructure": "CLARO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=81&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-19",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Chamada de vídeo”?",
+      "translation": "Chamada de vídeo",
+      "librasStructure": "CHAMADA-DE-VÍDEO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=83&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-20",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Record (TV)”?",
+      "translation": "Record (TV)",
+      "librasStructure": "RECORD",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-21",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Instagram”?",
+      "translation": "Instagram",
+      "librasStructure": "INSTAGRAM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=93&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-22",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Telegram”?",
+      "translation": "Telegram",
+      "librasStructure": "TELEGRAM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-23",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “TDD (telefone para surdos)”?",
+      "translation": "TDD (telefone para surdos)",
+      "librasStructure": "TDD",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=99&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-24",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Fone de ouvido”?",
+      "translation": "Fone de ouvido",
+      "librasStructure": "FONE-DE-OUVIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=105&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-25",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Impressora”?",
+      "translation": "Impressora",
+      "librasStructure": "IMPRESSORA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=109&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-26",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “E-mail”?",
+      "translation": "E-mail",
+      "librasStructure": "E-MAIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=111&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-27",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Twitter”?",
+      "translation": "Twitter",
+      "librasStructure": "TWITTER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=114&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-28",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Skype”?",
+      "translation": "Skype",
+      "librasStructure": "SKYPE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-29",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “TIM (operadora)”?",
+      "translation": "TIM (operadora)",
+      "librasStructure": "TIM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-30",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Vivo (operadora)”?",
+      "translation": "Vivo (operadora)",
+      "librasStructure": "VIVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-31",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Tecnologia”?",
+      "translation": "Tecnologia",
+      "librasStructure": "TECNOLOGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=129&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-32",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Band (TV)”?",
+      "translation": "Band (TV)",
+      "librasStructure": "BAND",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=132&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunicacao-33",
+      "section": "Comunicação",
+      "situation": "Ao falar de tecnologia e comunicação, como você sinaliza “Snapchat”?",
+      "translation": "Snapchat",
+      "librasStructure": "SNAPCHAT",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/G4ed5JC0NEA?start=138&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=G4ed5JC0NEA",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

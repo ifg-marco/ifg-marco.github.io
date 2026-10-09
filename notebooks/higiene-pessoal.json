@@ -13,8 +13,35 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T16:11:21.974Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
     }
   ],
+  "collection": "Vocabulário",
+  "order": 9,
+  "difficulty": "intermediario",
   "cards": [
     {
       "id": "higiene-01",
@@ -61,6 +88,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-02"
         }
       ]
     },
@@ -85,6 +126,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-03"
         }
       ]
     },
@@ -133,6 +188,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-05"
         }
       ]
     },
@@ -157,6 +226,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-06"
         }
       ]
     },
@@ -181,6 +264,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-08"
         }
       ]
     },
@@ -229,6 +326,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-09"
         }
       ]
     },
@@ -373,6 +484,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-12"
         }
       ]
     },
@@ -428,7 +553,7 @@
       "id": "higiene-18",
       "section": "Higiene e cuidados pessoais",
       "situation": "Como você sinaliza álcool?",
-      "translation": "Álcool",
+      "translation": "Álcool (variação)",
       "librasStructure": "ÁLCOOL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
       "examples": [
@@ -445,6 +570,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -469,6 +602,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-13"
         }
       ]
     },
@@ -493,6 +640,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-14"
         }
       ]
     },
@@ -541,6 +702,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-16"
         }
       ]
     },
@@ -565,6 +740,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-17"
         }
       ]
     },
@@ -589,6 +778,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-18"
         }
       ]
     },
@@ -613,6 +816,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-19"
         }
       ]
     },
@@ -853,6 +1070,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "saude",
+          "cardId": "saude-higiene-10"
         }
       ]
     },
@@ -980,7 +1211,7 @@
       "id": "higiene-41",
       "section": "Higiene e cuidados pessoais",
       "situation": "Como você sinaliza absorvente?",
-      "translation": "Absorvente",
+      "translation": "Absorvente (variação)",
       "librasStructure": "ABSORVENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
       "examples": [
@@ -997,6 +1228,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:11:21.974Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     }

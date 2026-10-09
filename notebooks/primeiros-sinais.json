@@ -1,0 +1,511 @@
+{
+  "id": "primeiros-sinais",
+  "title": "Primeiros sinais",
+  "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-08T23:30:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-08T23:30:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 2,
+  "difficulty": "iniciante",
+  "next": [
+    {
+      "notebookId": "familia",
+      "reason": "Depois de se apresentar, aprenda a falar da sua família."
+    },
+    {
+      "notebookId": "horas-periodos",
+      "reason": "Bom dia, boa tarde e boa noite levam aos períodos do dia."
+    }
+  ],
+  "cards": [
+    {
+      "id": "primeiros-sinais-01",
+      "section": "Cumprimentos",
+      "situation": "Você chega à aula de manhã. Como você cumprimenta a turma?",
+      "translation": "Bom dia!",
+      "librasStructure": "BOM-DIA",
+      "notes": "Cumprimento usado pela manhã. Olhe para as pessoas ao sinalizar: o contato visual faz parte da conversa em Libras. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Bom dia! Tudo bem? → BOM-DIA! TUDO-BEM? (sobrancelhas levantadas)"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=28&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-02",
+      "section": "Cumprimentos",
+      "situation": "Depois do almoço você encontra um professor surdo. Como você o cumprimenta?",
+      "translation": "Boa tarde!",
+      "librasStructure": "BOA-TARDE",
+      "notes": "Cumprimento usado à tarde. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=37&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-03",
+      "section": "Cumprimentos",
+      "situation": "Você chega à aula do curso noturno. Como você cumprimenta a turma?",
+      "translation": "Boa noite!",
+      "librasStructure": "BOA-NOITE",
+      "notes": "Cumprimento usado à noite; também serve para se despedir. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Boa noite! Tudo bem? → BOA-NOITE! TUDO-BEM? (sobrancelhas levantadas)"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=43&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-04",
+      "section": "Cumprimentos",
+      "situation": "Um amigo surdo manda uma chamada de vídeo de madrugada. Como você o cumprimenta?",
+      "translation": "Boa madrugada!",
+      "librasStructure": "BOA-MADRUGADA",
+      "notes": "Cumprimento para a madrugada, comum em chamadas de vídeo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=53&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-05",
+      "section": "Cumprimentos",
+      "situation": "Você encontra um colega surdo no corredor. Como você pergunta se está tudo bem?",
+      "translation": "Tudo bem?",
+      "librasStructure": "TUDO-BEM?",
+      "notes": "Pergunta de sim ou não: sobrancelhas levantadas e olhar dirigido à pessoa. Sem a expressão de pergunta, a frase vira afirmação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Bom dia! Tudo bem? → BOM-DIA! TUDO-BEM? (sobrancelhas levantadas)"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=21&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-06",
+      "section": "Cumprimentos",
+      "situation": "Você reencontra um colega depois das férias. Como pergunta como ele está?",
+      "translation": "Como vai você?",
+      "librasStructure": "COMO-VAI-VOCÊ?",
+      "notes": "Pergunta aberta: sobrancelhas franzidas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=93&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-07",
+      "section": "Cumprimentos",
+      "situation": "Perguntaram como você está e você está bem. Como responde?",
+      "translation": "Bom / bem",
+      "librasStructure": "BOM",
+      "notes": "O mesmo sinal traduz “bom” e “bem”; o contexto define o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Tudo bem? Bem! → TUDO-BEM? BOM!"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=83&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-08",
+      "section": "Cumprimentos",
+      "situation": "Perguntaram se está tudo bem, mas o dia não está tão bom. Como responde?",
+      "translation": "Mais ou menos",
+      "librasStructure": "MAIS-OU-MENOS",
+      "notes": "A expressão facial acompanha o sentido: neutra, sem sorriso largo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Tudo bem? Mais ou menos. → TUDO-BEM? MAIS-OU-MENOS."
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=47&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-09",
+      "section": "Cumprimentos",
+      "situation": "É sexta-feira e a aula acabou. Como você se despede da turma?",
+      "translation": "Bom fim de semana!",
+      "librasStructure": "BOM FIM-DE-SEMANA",
+      "notes": "Fim de semana: sábado e domingo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Obrigado! Bom fim de semana! → OBRIGADO! BOM FIM-DE-SEMANA!"
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-10",
+      "section": "Apresentação",
+      "situation": "Um colega surdo acabou de se apresentar. O que você responde?",
+      "translation": "Prazer em conhecer você",
+      "librasStructure": "PRAZER CONHECER VOCÊ",
+      "notes": "Use depois de saber o nome da pessoa, com expressão amigável. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Prazer em conhecer você! → PRAZER CONHECER VOCÊ!"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=65&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-11",
+      "section": "Apresentação",
+      "situation": "Chegou uma pessoa nova na turma. Como você pergunta o nome dela?",
+      "translation": "Qual é o seu nome?",
+      "librasStructure": "NOME VOCÊ QUAL?",
+      "notes": "Pergunta aberta: sobrancelhas franzidas. A resposta costuma vir soletrada no alfabeto manual. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Bom dia! Qual é o seu nome? → BOM-DIA! NOME VOCÊ QUAL? (sobrancelhas franzidas)"
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-12",
+      "section": "Apresentação",
+      "situation": "Agora é a sua vez de se apresentar. Como você começa?",
+      "translation": "Meu nome é…",
+      "librasStructure": "MEU NOME + nome soletrado",
+      "notes": "Depois do sinal, soletre o seu nome com o alfabeto manual (datilologia), letra por letra. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Meu nome é Ana. → MEU NOME A-N-A."
+      ],
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-13",
+      "section": "Apresentação",
+      "situation": "Pediram seu nome completo para a lista de presença. Como você sinaliza “nome completo”?",
+      "translation": "Nome completo",
+      "librasStructure": "NOME COMPLETO",
+      "notes": "O nome completo é soletrado no alfabeto manual. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=19&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-14",
+      "section": "Apresentação",
+      "situation": "Alguém quer saber qual é o seu sinal pessoal. Como você sinaliza “sinal”?",
+      "translation": "Seu sinal (sinal pessoal)",
+      "librasStructure": "SINAL",
+      "notes": "Na comunidade surda, cada pessoa recebe um sinal pessoal, que funciona como nome. Ele é dado por uma pessoa surda, não escolhido por quem o recebe. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Qual é o seu sinal? → SINAL VOCÊ QUAL? (sobrancelhas franzidas)"
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=26&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-15",
+      "section": "Apresentação",
+      "situation": "Você conta que está aprendendo a língua de sinais do Brasil. Como sinaliza o nome dela?",
+      "translation": "Libras",
+      "librasStructure": "LIBRAS",
+      "notes": "Libras é a Língua Brasileira de Sinais, reconhecida pela Lei nº 10.436/2002. É uma língua completa, com gramática própria. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=37&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-16",
+      "section": "Cortesia",
+      "situation": "Você precisa pedir algo com educação. Como sinaliza “por favor”?",
+      "translation": "Por favor",
+      "librasStructure": "POR-FAVOR",
+      "notes": "Acompanhe com expressão de pedido, sem pressa. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=71&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-17",
+      "section": "Cortesia",
+      "situation": "Um colega ajudou você. Como você agradece?",
+      "translation": "Obrigado(a)",
+      "librasStructure": "OBRIGADO",
+      "notes": "Fórmula de agradecimento; o sinal é o mesmo para “obrigado” e “obrigada”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Obrigado! De nada. → OBRIGADO! DE-NADA."
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-18",
+      "section": "Cortesia",
+      "situation": "Alguém agradece a sua ajuda. Como você responde?",
+      "translation": "De nada",
+      "librasStructure": "DE-NADA",
+      "notes": "Resposta a um agradecimento. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Obrigado! De nada. → OBRIGADO! DE-NADA."
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-19",
+      "section": "Cortesia",
+      "situation": "Como você sinaliza o verbo “agradecer”, como em “quero agradecer a turma”?",
+      "translation": "Agradecer",
+      "librasStructure": "AGRADECER",
+      "notes": "Verbo; para simplesmente dizer “obrigado”, use OBRIGADO. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=56&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-20",
+      "section": "Cortesia",
+      "situation": "Você precisa passar entre duas pessoas que conversam em Libras. O que sinaliza?",
+      "translation": "Com licença",
+      "librasStructure": "COM-LICENÇA",
+      "notes": "Passar entre duas pessoas que sinalizam interrompe a conversa; peça licença antes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-21",
+      "section": "Cortesia",
+      "situation": "Um colega diz que gosta de Libras e você também. Como sinaliza “também”?",
+      "translation": "Também",
+      "librasStructure": "TAMBÉM",
+      "notes": "Muito usado para concordar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [
+        "Eu também! → (apontar para si) TAMBÉM!"
+      ],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=41&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "primeiros-sinais-22",
+      "section": "Cortesia",
+      "situation": "Convidaram você para estudar no sábado e você ainda não sabe se vai. Como responde?",
+      "translation": "Talvez",
+      "librasStructure": "TALVEZ",
+      "notes": "Expressão facial de dúvida reforça o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-08T23:30:00.000Z"
+        }
+      ]
+    }
+  ]
+}

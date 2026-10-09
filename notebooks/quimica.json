@@ -1,0 +1,623 @@
+{
+  "id": "quimica",
+  "title": "Química",
+  "description": "Átomos, ligações, reações, misturas e soluções.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 6,
+  "difficulty": "avancado",
+  "cards": [
+    {
+      "id": "quimica-01",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “átomo”?",
+      "translation": "Átomo",
+      "librasStructure": "ÁTOMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=5&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-02",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “ligação covalente”?",
+      "translation": "Ligação covalente",
+      "librasStructure": "LIGAÇÃO-COVALENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=11&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-03",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “ligação iônica”?",
+      "translation": "Ligação iônica",
+      "librasStructure": "LIGAÇÃO-IÔNICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=18&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-04",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “ligação metálica”?",
+      "translation": "Ligação metálica",
+      "librasStructure": "LIGAÇÃO-METÁLICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=23&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-05",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “reação química”?",
+      "translation": "Reação química",
+      "librasStructure": "REAÇÃO-QUÍMICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=31&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-06",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “base (química)”?",
+      "translation": "Base (química)",
+      "librasStructure": "BASE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=38&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-07",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “ácido”?",
+      "translation": "Ácido",
+      "librasStructure": "ÁCIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=45&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-08",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “solubilidade”?",
+      "translation": "Solubilidade",
+      "librasStructure": "SOLUBILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=51&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-09",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “oxidação”?",
+      "translation": "Oxidação",
+      "librasStructure": "OXIDAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=59&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-10",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “solidificação”?",
+      "translation": "Solidificação",
+      "librasStructure": "SOLIDIFICAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=69&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-11",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “líquido”?",
+      "translation": "Líquido",
+      "librasStructure": "LÍQUIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=76&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-12",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “gasoso”?",
+      "translation": "Gasoso",
+      "librasStructure": "GASOSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=83&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-13",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “mistura”?",
+      "translation": "Mistura",
+      "librasStructure": "MISTURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=90&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-14",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “modificar”?",
+      "translation": "Modificar",
+      "librasStructure": "MODIFICAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=99&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-15",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “tabela periódica”?",
+      "translation": "Tabela periódica",
+      "librasStructure": "TABELA-PERIÓDICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=105&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-16",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “pressão”?",
+      "translation": "Pressão",
+      "librasStructure": "PRESSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=114&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-17",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “termômetro e temperatura”?",
+      "translation": "Termômetro e temperatura",
+      "librasStructure": "TERMÔMETRO-E-TEMPERATURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=123&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-18",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “volume (de gás)”?",
+      "translation": "Volume (de gás)",
+      "librasStructure": "VOLUME",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=132&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-19",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “volume (de líquido)”?",
+      "translation": "Volume (de líquido)",
+      "librasStructure": "VOLUME",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=137&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-20",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “hidroxila”?",
+      "translation": "Hidroxila",
+      "librasStructure": "HIDROXILA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=142&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-21",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “mistura heterogênea”?",
+      "translation": "Mistura heterogênea",
+      "librasStructure": "MISTURA-HETEROGÊNEA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=147&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-22",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “mistura homogênea”?",
+      "translation": "Mistura homogênea",
+      "librasStructure": "MISTURA-HOMOGÊNEA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=153&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-23",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “sólido”?",
+      "translation": "Sólido",
+      "librasStructure": "SÓLIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=168&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-24",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “condensação”?",
+      "translation": "Condensação",
+      "librasStructure": "CONDENSAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=178&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-25",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “solução sólido-líquido”?",
+      "translation": "Solução sólido-líquido",
+      "librasStructure": "SOLUÇÃO-SÓLIDO-LÍQUIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=186&end=196&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-26",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “soluto”?",
+      "translation": "Soluto",
+      "librasStructure": "SOLUTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=196&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-27",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “solvente”?",
+      "translation": "Solvente",
+      "librasStructure": "SOLVENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=204&end=214&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-28",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “molécula”?",
+      "translation": "Molécula",
+      "librasStructure": "MOLÉCULA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=213&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-29",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “pipeta”?",
+      "translation": "Pipeta",
+      "librasStructure": "PIPETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=221&end=230&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "quimica-30",
+      "section": "Química",
+      "situation": "Numa aula de química, como você sinaliza “bureta”?",
+      "translation": "Bureta",
+      "librasStructure": "BURETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=229&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

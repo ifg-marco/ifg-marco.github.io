@@ -1,0 +1,509 @@
+{
+  "id": "descrever",
+  "title": "Descrever pessoas e objetos",
+  "description": "Adjetivação descritiva: estampas, texturas, tipos de cabelo e detalhes do rosto.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 4,
+  "difficulty": "basico",
+  "prerequisites": [
+    {
+      "notebookId": "adjetivos-aparencia",
+      "reason": "Comece pelos adjetivos de aparência."
+    }
+  ],
+  "cards": [
+    {
+      "id": "descrever-01",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “quadrado”?",
+      "translation": "Quadrado",
+      "librasStructure": "QUADRADO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=22&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-02",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “listrado / listrada”?",
+      "translation": "Listrado / listrada",
+      "librasStructure": "LISTRADO/LISTRADA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=28&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-03",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “desenho (estampa)”?",
+      "translation": "Desenho (estampa)",
+      "librasStructure": "DESENHO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=34&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-04",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “florido”?",
+      "translation": "Florido",
+      "librasStructure": "FLORIDO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=39&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-05",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “riscado”?",
+      "translation": "Riscado",
+      "librasStructure": "RISCADO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=44&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-06",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “brilhante”?",
+      "translation": "Brilhante",
+      "librasStructure": "BRILHANTE",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=52&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-07",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “encaracolado (cabelo)”?",
+      "translation": "Encaracolado (cabelo)",
+      "librasStructure": "ENCARACOLADO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-08",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “ondulado (cabelo)”?",
+      "translation": "Ondulado (cabelo)",
+      "librasStructure": "ONDULADO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=59&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-09",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “crespo (cabelo)”?",
+      "translation": "Crespo (cabelo)",
+      "librasStructure": "CRESPO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-10",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “liso (cabelo)”?",
+      "translation": "Liso (cabelo)",
+      "librasStructure": "LISO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=67&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-11",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampado / estampada”?",
+      "translation": "Estampado / estampada",
+      "librasStructure": "ESTAMPADO/ESTAMPADA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=72&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-12",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “xadrez (estampa)”?",
+      "translation": "Xadrez (estampa)",
+      "librasStructure": "XADREZ",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=76&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-13",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “bolinhas”?",
+      "translation": "Bolinhas",
+      "librasStructure": "BOLINHAS",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=81&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-14",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de onça”?",
+      "translation": "Estampa de onça",
+      "librasStructure": "ESTAMPA-DE-ONÇA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=85&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-15",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de zebra”?",
+      "translation": "Estampa de zebra",
+      "librasStructure": "ESTAMPA-DE-ZEBRA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=91&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-16",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de animais”?",
+      "translation": "Estampa de animais",
+      "librasStructure": "ESTAMPA-DE-ANIMAIS",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=99&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-17",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de cobra”?",
+      "translation": "Estampa de cobra",
+      "librasStructure": "ESTAMPA-DE-COBRA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=105&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-18",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cacheado”?",
+      "translation": "Cacheado",
+      "librasStructure": "CACHEADO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=110&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-19",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “bigode”?",
+      "translation": "Bigode",
+      "librasStructure": "BIGODE",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=115&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-20",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “careca”?",
+      "translation": "Careca",
+      "librasStructure": "CARECA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=120&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-21",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “boca (descrição)”?",
+      "translation": "Boca (descrição)",
+      "librasStructure": "BOCA",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-22",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cabelo curto”?",
+      "translation": "Cabelo curto",
+      "librasStructure": "CABELO-CURTO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=130&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-23",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cabelo longo”?",
+      "translation": "Cabelo longo",
+      "librasStructure": "CABELO-LONGO",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=134&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "descrever-24",
+      "section": "Descrição",
+      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “roupa com letras”?",
+      "translation": "Roupa com letras",
+      "librasStructure": "ROUPA-COM-LETRAS",
+      "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=145&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "id": "profissoes",
+  "title": "Profissões",
+  "description": "Profissões e ocupações.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 7,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "profissoes-01",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “administrador”?",
+      "translation": "Administrador",
+      "librasStructure": "ADMINISTRADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=20&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-02",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “polícia Militar”?",
+      "translation": "Polícia Militar",
+      "librasStructure": "POLÍCIA-MILITAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=22&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-03",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “polícia Rotam”?",
+      "translation": "Polícia Rotam",
+      "librasStructure": "POLÍCIA-ROTAM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-04",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “intérprete de Libras”?",
+      "translation": "Intérprete de Libras",
+      "librasStructure": "INTÉRPRETE-DE-LIBRAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=28&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-05",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “advogado”?",
+      "translation": "Advogado",
+      "librasStructure": "ADVOGADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=31&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-06",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “polícia Federal”?",
+      "translation": "Polícia Federal",
+      "librasStructure": "POLÍCIA-FEDERAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-07",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “juiz”?",
+      "translation": "Juiz",
+      "librasStructure": "JUIZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=43&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-08",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “polícia Civil”?",
+      "translation": "Polícia Civil",
+      "librasStructure": "POLÍCIA-CIVIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=46&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-09",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “engenheiro”?",
+      "translation": "Engenheiro",
+      "librasStructure": "ENGENHEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=50&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-10",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “médico”?",
+      "translation": "Médico",
+      "librasStructure": "MÉDICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-11",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “gerente”?",
+      "translation": "Gerente",
+      "librasStructure": "GERENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=61&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-12",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “jornalista”?",
+      "translation": "Jornalista",
+      "librasStructure": "JORNALISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-13",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “nutricionista”?",
+      "translation": "Nutricionista",
+      "librasStructure": "NUTRICIONISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=71&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-14",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “pintor”?",
+      "translation": "Pintor",
+      "librasStructure": "PINTOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-15",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “vendedor”?",
+      "translation": "Vendedor",
+      "librasStructure": "VENDEDOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=77&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-16",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “arquiteto”?",
+      "translation": "Arquiteto",
+      "librasStructure": "ARQUITETO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=81&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-17",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “pedagogo”?",
+      "translation": "Pedagogo",
+      "librasStructure": "PEDAGOGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=85&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-18",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “contador”?",
+      "translation": "Contador",
+      "librasStructure": "CONTADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-19",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “estudante”?",
+      "translation": "Estudante",
+      "librasStructure": "ESTUDANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=90&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-20",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “médico cirurgião”?",
+      "translation": "Médico cirurgião",
+      "librasStructure": "MÉDICO-CIRURGIÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-21",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “enfermeiro”?",
+      "translation": "Enfermeiro",
+      "librasStructure": "ENFERMEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=97&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-22",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “bombeiro”?",
+      "translation": "Bombeiro",
+      "librasStructure": "BOMBEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=107&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-23",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “chefe”?",
+      "translation": "Chefe",
+      "librasStructure": "CHEFE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=110&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-24",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “fisioterapeuta”?",
+      "translation": "Fisioterapeuta",
+      "librasStructure": "FISIOTERAPEUTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-25",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “motorista”?",
+      "translation": "Motorista",
+      "librasStructure": "MOTORISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=117&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-26",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “piloto”?",
+      "translation": "Piloto",
+      "librasStructure": "PILOTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-27",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “repórter”?",
+      "translation": "Repórter",
+      "librasStructure": "REPÓRTER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-28",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “dentista”?",
+      "translation": "Dentista",
+      "librasStructure": "DENTISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=126&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-29",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “psicólogo”?",
+      "translation": "Psicólogo",
+      "librasStructure": "PSICÓLOGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=131&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-30",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “pedreiro”?",
+      "translation": "Pedreiro",
+      "librasStructure": "PEDREIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=134&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-31",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “fotógrafo”?",
+      "translation": "Fotógrafo",
+      "librasStructure": "FOTÓGRAFO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=138&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-32",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “cozinheiro”?",
+      "translation": "Cozinheiro",
+      "librasStructure": "COZINHEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=141&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-33",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “ator / atriz”?",
+      "translation": "Ator / atriz",
+      "librasStructure": "ATOR/ATRIZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=144&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-34",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “cabeleireiro / cabeleireira”?",
+      "translation": "Cabeleireiro / cabeleireira",
+      "librasStructure": "CABELEIREIRO/CABELEIREIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-35",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “jardineiro”?",
+      "translation": "Jardineiro",
+      "librasStructure": "JARDINEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=156&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-36",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “atendente”?",
+      "translation": "Atendente",
+      "librasStructure": "ATENDENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=160&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-37",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “zelador”?",
+      "translation": "Zelador",
+      "librasStructure": "ZELADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=164&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-38",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “garçom”?",
+      "translation": "Garçom",
+      "librasStructure": "GARÇOM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=168&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-39",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “mecânico”?",
+      "translation": "Mecânico",
+      "librasStructure": "MECÂNICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=171&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-40",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “fonoaudiólogo”?",
+      "translation": "Fonoaudiólogo",
+      "librasStructure": "FONOAUDIÓLOGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=175&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-41",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “médico veterinário”?",
+      "translation": "Médico veterinário",
+      "librasStructure": "MÉDICO-VETERINÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=178&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-42",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “eletricista”?",
+      "translation": "Eletricista",
+      "librasStructure": "ELETRICISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=181&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "profissoes-43",
+      "section": "Profissões",
+      "situation": "Alguém pergunta o que você faz. Como você sinaliza “babá”?",
+      "translation": "Babá",
+      "librasStructure": "BABÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=185&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

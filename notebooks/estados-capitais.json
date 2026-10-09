@@ -1,0 +1,643 @@
+{
+  "id": "estados-capitais",
+  "title": "Estados e capitais do Brasil",
+  "description": "Regiões, estados e capitais do Brasil.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Lugares",
+  "order": 5,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "estados-capitais-01",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Região Norte”?",
+      "translation": "Região Norte",
+      "librasStructure": "REGIÃO-NORTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=22&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-02",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Amazonas e Manaus”?",
+      "translation": "Amazonas e Manaus",
+      "librasStructure": "AMAZONAS-E-MANAUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=27&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-03",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Pará e Belém”?",
+      "translation": "Pará e Belém",
+      "librasStructure": "PARÁ-E-BELÉM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=32&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-04",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Acre e Rio Branco”?",
+      "translation": "Acre e Rio Branco",
+      "librasStructure": "ACRE-E-RIO-BRANCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=39&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-05",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Rondônia e Porto Velho”?",
+      "translation": "Rondônia e Porto Velho",
+      "librasStructure": "RONDÔNIA-E-PORTO-VELHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=47&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-06",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Amapá e Macapá”?",
+      "translation": "Amapá e Macapá",
+      "librasStructure": "AMAPÁ-E-MACAPÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=53&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-07",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Tocantins e Palmas”?",
+      "translation": "Tocantins e Palmas",
+      "librasStructure": "TOCANTINS-E-PALMAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=61&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-08",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Região Nordeste”?",
+      "translation": "Região Nordeste",
+      "librasStructure": "REGIÃO-NORDESTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=69&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-09",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Maranhão e São Luís”?",
+      "translation": "Maranhão e São Luís",
+      "librasStructure": "MARANHÃO-E-SÃO-LUÍS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=73&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-10",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Piauí e Teresina”?",
+      "translation": "Piauí e Teresina",
+      "librasStructure": "PIAUÍ-E-TERESINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-11",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Ceará e Fortaleza”?",
+      "translation": "Ceará e Fortaleza",
+      "librasStructure": "CEARÁ-E-FORTALEZA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=87&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-12",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Rio Grande do Norte e Natal”?",
+      "translation": "Rio Grande do Norte e Natal",
+      "librasStructure": "RIO-GRANDE-DO-NORTE-E-NATAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=95&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-13",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Paraíba e João Pessoa”?",
+      "translation": "Paraíba e João Pessoa",
+      "librasStructure": "PARAÍBA-E-JOÃO-PESSOA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=102&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-14",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Pernambuco e Recife”?",
+      "translation": "Pernambuco e Recife",
+      "librasStructure": "PERNAMBUCO-E-RECIFE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=109&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-15",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Alagoas e Maceió”?",
+      "translation": "Alagoas e Maceió",
+      "librasStructure": "ALAGOAS-E-MACEIÓ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=115&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-16",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Sergipe e Aracaju”?",
+      "translation": "Sergipe e Aracaju",
+      "librasStructure": "SERGIPE-E-ARACAJU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=122&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-17",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Bahia e Salvador”?",
+      "translation": "Bahia e Salvador",
+      "librasStructure": "BAHIA-E-SALVADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=132&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-18",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Região Centro-Oeste”?",
+      "translation": "Região Centro-Oeste",
+      "librasStructure": "REGIÃO-CENTRO-OESTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=137&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-19",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Goiás e Goiânia”?",
+      "translation": "Goiás e Goiânia",
+      "librasStructure": "GOIÁS-E-GOIÂNIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=141&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-20",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Mato Grosso e Cuiabá”?",
+      "translation": "Mato Grosso e Cuiabá",
+      "librasStructure": "MATO-GROSSO-E-CUIABÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=145&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-21",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Mato Grosso do Sul e Campo Grande”?",
+      "translation": "Mato Grosso do Sul e Campo Grande",
+      "librasStructure": "MATO-GROSSO-DO-SUL-E-CAMPO-GRANDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=153&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-22",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Distrito Federal e Brasília”?",
+      "translation": "Distrito Federal e Brasília",
+      "librasStructure": "DISTRITO-FEDERAL-E-BRASÍLIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=160&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-23",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Região Sudeste”?",
+      "translation": "Região Sudeste",
+      "librasStructure": "REGIÃO-SUDESTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=165&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-24",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Espírito Santo e Vitória”?",
+      "translation": "Espírito Santo e Vitória",
+      "librasStructure": "ESPÍRITO-SANTO-E-VITÓRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=174&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-25",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Minas Gerais e Belo Horizonte”?",
+      "translation": "Minas Gerais e Belo Horizonte",
+      "librasStructure": "MINAS-GERAIS-E-BELO-HORIZONTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=181&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-26",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Rio de Janeiro (estado e capital)”?",
+      "translation": "Rio de Janeiro (estado e capital)",
+      "librasStructure": "RIO-DE-JANEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=187&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-27",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “São Paulo (estado e capital)”?",
+      "translation": "São Paulo (estado e capital)",
+      "librasStructure": "SÃO-PAULO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=193&end=203&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-28",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Região Sul”?",
+      "translation": "Região Sul",
+      "librasStructure": "REGIÃO-SUL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=201&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-29",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Paraná e Curitiba”?",
+      "translation": "Paraná e Curitiba",
+      "librasStructure": "PARANÁ-E-CURITIBA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=204&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-30",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Rio Grande do Sul e Porto Alegre”?",
+      "translation": "Rio Grande do Sul e Porto Alegre",
+      "librasStructure": "RIO-GRANDE-DO-SUL-E-PORTO-ALEGRE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=210&end=220&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "estados-capitais-31",
+      "section": "Estados e capitais",
+      "situation": "Ao falar de viagens pelo Brasil, como você sinaliza “Santa Catarina e Florianópolis”?",
+      "translation": "Santa Catarina e Florianópolis",
+      "librasStructure": "SANTA-CATARINA-E-FLORIANÓPOLIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=218&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

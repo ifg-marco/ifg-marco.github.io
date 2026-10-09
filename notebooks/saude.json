@@ -13,8 +13,35 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T16:13:19.604Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
     }
   ],
+  "collection": "Vocabulário",
+  "order": 11,
+  "difficulty": "intermediario",
   "cards": [
     {
       "id": "saude-01",
@@ -233,30 +260,6 @@
       ]
     },
     {
-      "id": "saude-10",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza veia?",
-      "translation": "Veia",
-      "librasStructure": "VEIA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Veia”.",
-        "Use “Veia” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Veia” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=90&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-11",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza músculo?",
@@ -269,78 +272,6 @@
         "Depois de assistir ao vídeo, tente produzir “Músculo” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=103&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-12",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza sarampo?",
-      "translation": "Sarampo",
-      "librasStructure": "SARAMPO",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Sarampo”.",
-        "Use “Sarampo” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Sarampo” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=111&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-13",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza catapora?",
-      "translation": "Catapora",
-      "librasStructure": "CATAPORA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Catapora”.",
-        "Use “Catapora” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Catapora” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=119&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-14",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza rubéola?",
-      "translation": "Rubéola",
-      "librasStructure": "RUBÉOLA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Rubéola”.",
-        "Use “Rubéola” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Rubéola” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=126&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -389,30 +320,6 @@
         "Depois de assistir ao vídeo, tente produzir “Caxumba” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=141&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-17",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza meningite?",
-      "translation": "Meningite",
-      "librasStructure": "MENINGITE",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Meningite”.",
-        "Use “Meningite” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Meningite” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=150&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -497,30 +404,6 @@
       ]
     },
     {
-      "id": "saude-21",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza tosse?",
-      "translation": "Tosse",
-      "librasStructure": "TOSSE",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Tosse”.",
-        "Use “Tosse” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Tosse” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=182&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-22",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza fumar?",
@@ -593,54 +476,6 @@
       ]
     },
     {
-      "id": "saude-25",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza pneumonia?",
-      "translation": "Pneumonia",
-      "librasStructure": "PNEUMONIA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Pneumonia”.",
-        "Use “Pneumonia” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Pneumonia” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=215&end=222&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-26",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza asma?",
-      "translation": "Asma",
-      "librasStructure": "ASMA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Asma”.",
-        "Use “Asma” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Asma” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=222&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-27",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza febre?",
@@ -653,30 +488,6 @@
         "Depois de assistir ao vídeo, tente produzir “Febre” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=236&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-28",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza dor de cabeça?",
-      "translation": "Dor de cabeça",
-      "librasStructure": "DOR DE CABEÇA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Dor de cabeça”.",
-        "Use “Dor de cabeça” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Dor de cabeça” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=243&end=252&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -761,30 +572,6 @@
       ]
     },
     {
-      "id": "saude-32",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza gastrite?",
-      "translation": "Gastrite",
-      "librasStructure": "GASTRITE",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Gastrite”.",
-        "Use “Gastrite” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Gastrite” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=274&end=281&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-33",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza febre amarela?",
@@ -821,30 +608,6 @@
         "Depois de assistir ao vídeo, tente produzir “Chikungunya” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=288&end=296&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-35",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza zika?",
-      "translation": "Zika",
-      "librasStructure": "ZIKA",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Zika”.",
-        "Use “Zika” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Zika” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=296&end=304&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -917,54 +680,6 @@
         "Depois de assistir ao vídeo, tente produzir “Hipertensão” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=317&end=328&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-39",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza colesterol?",
-      "translation": "Colesterol",
-      "librasStructure": "COLESTEROL",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Colesterol”.",
-        "Use “Colesterol” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Colesterol” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=328&end=335&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-40",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza diabetes?",
-      "translation": "Diabetes",
-      "librasStructure": "DIABETES",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Diabetes”.",
-        "Use “Diabetes” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Diabetes” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=335&end=344&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -1097,30 +812,6 @@
       ]
     },
     {
-      "id": "saude-46",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza depressão?",
-      "translation": "Depressão",
-      "librasStructure": "DEPRESSÃO",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Depressão”.",
-        "Use “Depressão” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Depressão” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=386&end=406&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-47",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza suicídio?",
@@ -1145,30 +836,6 @@
       ]
     },
     {
-      "id": "saude-48",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza ansiedade?",
-      "translation": "Ansiedade",
-      "librasStructure": "ANSIEDADE",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Ansiedade”.",
-        "Use “Ansiedade” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Ansiedade” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=417&end=428&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
       "id": "saude-49",
       "section": "Saúde e cuidados",
       "situation": "Como você sinaliza covid-19?",
@@ -1181,54 +848,6 @@
         "Depois de assistir ao vídeo, tente produzir “COVID-19” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=428&end=436&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-50",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza aids?",
-      "translation": "AIDS",
-      "librasStructure": "AIDS",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “AIDS”.",
-        "Use “AIDS” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “AIDS” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=436&end=444&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-51",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hiv?",
-      "translation": "HIV",
-      "librasStructure": "HIV",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “HIV”.",
-        "Use “HIV” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “HIV” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=444&end=451&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -1325,30 +944,6 @@
         "Depois de assistir ao vídeo, tente produzir “Hepatite C” novamente."
       ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=478&end=484&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-56",
-      "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hpv?",
-      "translation": "HPV",
-      "librasStructure": "HPV",
-      "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “HPV”.",
-        "Use “HPV” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “HPV” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=484&end=491&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
@@ -1553,54 +1148,6 @@
       ]
     },
     {
-      "id": "saude-higiene-02",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza algodão?",
-      "translation": "Algodão",
-      "librasStructure": "ALGODÃO",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Algodão”.",
-        "Use “Algodão” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Algodão” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-03",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza tesoura?",
-      "translation": "Tesoura",
-      "librasStructure": "TESOURA",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Tesoura”.",
-        "Use “Tesoura” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Tesoura” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
       "id": "saude-higiene-04",
       "section": "Higiene e cuidados",
       "situation": "Como você sinaliza creme dental?",
@@ -1613,54 +1160,6 @@
         "Depois de assistir ao vídeo, tente produzir “Creme dental” novamente."
       ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-05",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza escova de dente?",
-      "translation": "Escova de dente",
-      "librasStructure": "ESCOVA DE DENTE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Escova de dente”.",
-        "Use “Escova de dente” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Escova de dente” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-06",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza cotonete?",
-      "translation": "Cotonete",
-      "librasStructure": "COTONETE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Cotonete”.",
-        "Use “Cotonete” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Cotonete” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
@@ -1697,78 +1196,6 @@
       ]
     },
     {
-      "id": "saude-higiene-08",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza toalha de rosto?",
-      "translation": "Toalha de rosto",
-      "librasStructure": "TOALHA DE ROSTO",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Toalha de rosto”.",
-        "Use “Toalha de rosto” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Toalha de rosto” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-09",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza sabonete?",
-      "translation": "Sabonete",
-      "librasStructure": "SABONETE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Sabonete”.",
-        "Use “Sabonete” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Sabonete” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-10",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza pente?",
-      "translation": "Pente",
-      "librasStructure": "PENTE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Pente”.",
-        "Use “Pente” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Pente” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
       "id": "saude-higiene-11",
       "section": "Higiene e cuidados",
       "situation": "Como você sinaliza cortador de unha?",
@@ -1793,78 +1220,6 @@
       ]
     },
     {
-      "id": "saude-higiene-12",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza álcool?",
-      "translation": "Álcool",
-      "librasStructure": "ÁLCOOL",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Álcool”.",
-        "Use “Álcool” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Álcool” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-13",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza shampoo?",
-      "translation": "Shampoo",
-      "librasStructure": "SHAMPOO",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Shampoo”.",
-        "Use “Shampoo” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Shampoo” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=53&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-14",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza condicionador?",
-      "translation": "Condicionador",
-      "librasStructure": "CONDICIONADOR",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Condicionador”.",
-        "Use “Condicionador” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Condicionador” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=57&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
       "id": "saude-higiene-15",
       "section": "Higiene e cuidados",
       "situation": "Como você sinaliza hidratante de pele?",
@@ -1877,102 +1232,6 @@
         "Depois de assistir ao vídeo, tente produzir “Hidratante de pele” novamente."
       ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-16",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza desodorante?",
-      "translation": "Desodorante",
-      "librasStructure": "DESODORANTE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Desodorante”.",
-        "Use “Desodorante” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Desodorante” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=66&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-17",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza papel higiênico?",
-      "translation": "Papel higiênico",
-      "librasStructure": "PAPEL HIGIÊNICO",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Papel higiênico”.",
-        "Use “Papel higiênico” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Papel higiênico” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-18",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza pinça?",
-      "translation": "Pinça",
-      "librasStructure": "PINÇA",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Pinça”.",
-        "Use “Pinça” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Pinça” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
-        }
-      ]
-    },
-    {
-      "id": "saude-higiene-19",
-      "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza absorvente?",
-      "translation": "Absorvente",
-      "librasStructure": "ABSORVENTE",
-      "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Absorvente”.",
-        "Use “Absorvente” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Absorvente” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=77&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",

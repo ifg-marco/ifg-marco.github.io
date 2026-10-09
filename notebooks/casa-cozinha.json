@@ -1,0 +1,1023 @@
+{
+  "id": "casa-cozinha",
+  "title": "Casa e cozinha",
+  "description": "Móveis, eletrodomésticos e o vocabulário de uma receita.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 9,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "casa-cozinha-01",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “almofada”?",
+      "translation": "Almofada",
+      "librasStructure": "ALMOFADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=14&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-02",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “armário”?",
+      "translation": "Armário",
+      "librasStructure": "ARMÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=19&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-03",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “cadeira”?",
+      "translation": "Cadeira",
+      "librasStructure": "CADEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-04",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “cama”?",
+      "translation": "Cama",
+      "librasStructure": "CAMA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=26&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-05",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “colher”?",
+      "translation": "Colher",
+      "librasStructure": "COLHER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=29&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-06",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “garfo”?",
+      "translation": "Garfo",
+      "librasStructure": "GARFO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-07",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “faca”?",
+      "translation": "Faca",
+      "librasStructure": "FACA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-08",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “copo”?",
+      "translation": "Copo",
+      "librasStructure": "COPO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=36&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-09",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “cortina”?",
+      "translation": "Cortina",
+      "librasStructure": "CORTINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-10",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “fogão”?",
+      "translation": "Fogão",
+      "librasStructure": "FOGÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-11",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “jarra”?",
+      "translation": "Jarra",
+      "librasStructure": "JARRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-12",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “geladeira”?",
+      "translation": "Geladeira",
+      "librasStructure": "GELADEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-13",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “guarda-roupa”?",
+      "translation": "Guarda-roupa",
+      "librasStructure": "GUARDA-ROUPA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=53&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-14",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “máquina de lavar roupas”?",
+      "translation": "Máquina de lavar roupas",
+      "librasStructure": "MÁQUINA-DE-LAVAR-ROUPAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=57&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-15",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “mesa”?",
+      "translation": "Mesa",
+      "librasStructure": "MESA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=60&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-16",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “micro-ondas”?",
+      "translation": "Micro-ondas",
+      "librasStructure": "MICRO-ONDAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-17",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “panela”?",
+      "translation": "Panela",
+      "librasStructure": "PANELA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=65&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-18",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “porta”?",
+      "translation": "Porta",
+      "librasStructure": "PORTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-19",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “prato”?",
+      "translation": "Prato",
+      "librasStructure": "PRATO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-20",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “sofá”?",
+      "translation": "Sofá",
+      "librasStructure": "SOFÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=72&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-21",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “som”?",
+      "translation": "Som",
+      "librasStructure": "SOM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-22",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “rádio”?",
+      "translation": "Rádio",
+      "librasStructure": "RÁDIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-23",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “home theater”?",
+      "translation": "Home theater",
+      "librasStructure": "HOME-THEATER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=82&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-24",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “televisão”?",
+      "translation": "Televisão",
+      "librasStructure": "TELEVISÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=86&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-25",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “aparelho de DVD”?",
+      "translation": "Aparelho de DVD",
+      "librasStructure": "APARELHO-DE-DVD",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=89&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-26",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “controle remoto”?",
+      "translation": "Controle remoto",
+      "librasStructure": "CONTROLE-REMOTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-27",
+      "section": "Móveis e utensílios",
+      "situation": "Em casa, como você sinaliza “tapete”?",
+      "translation": "Tapete",
+      "librasStructure": "TAPETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-28",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “receita”?",
+      "translation": "Receita",
+      "librasStructure": "RECEITA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=14&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-29",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “ingredientes”?",
+      "translation": "Ingredientes",
+      "librasStructure": "INGREDIENTES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=19&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-30",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “modo de fazer”?",
+      "translation": "Modo de fazer",
+      "librasStructure": "MODO-DE-FAZER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=24&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-31",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “ferver”?",
+      "translation": "Ferver",
+      "librasStructure": "FERVER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-32",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “xícara”?",
+      "translation": "Xícara",
+      "librasStructure": "XÍCARA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=43&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-33",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “metade”?",
+      "translation": "Metade",
+      "librasStructure": "METADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-34",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “colher de sopa”?",
+      "translation": "Colher de sopa",
+      "librasStructure": "COLHER-DE-SOPA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=50&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-35",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “colher de chá”?",
+      "translation": "Colher de chá",
+      "librasStructure": "COLHER-DE-CHÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-36",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “fritar”?",
+      "translation": "Fritar",
+      "librasStructure": "FRITAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=60&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-37",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “1/3 (um terço)”?",
+      "translation": "1/3 (um terço)",
+      "librasStructure": "1/3",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=70&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-38",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “ferver em banho-maria”?",
+      "translation": "Ferver em banho-maria",
+      "librasStructure": "FERVER-EM-BANHO-MARIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=78&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-39",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “morno”?",
+      "translation": "Morno",
+      "librasStructure": "MORNO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=92&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-40",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “graus”?",
+      "translation": "Graus",
+      "librasStructure": "GRAUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=98&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-41",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “pré-aquecer”?",
+      "translation": "Pré-aquecer",
+      "librasStructure": "PRÉ-AQUECER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=103&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-42",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “minutos”?",
+      "translation": "Minutos",
+      "librasStructure": "MINUTOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=112&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-43",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “horas”?",
+      "translation": "Horas",
+      "librasStructure": "HORAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=116&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-44",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “bacia”?",
+      "translation": "Bacia",
+      "librasStructure": "BACIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=125&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-45",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “batedeira”?",
+      "translation": "Batedeira",
+      "librasStructure": "BATEDEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-46",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “liquidificador”?",
+      "translation": "Liquidificador",
+      "librasStructure": "LIQUIDIFICADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=134&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-47",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “untar”?",
+      "translation": "Untar",
+      "librasStructure": "UNTAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=138&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-48",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “forma retangular”?",
+      "translation": "Forma retangular",
+      "librasStructure": "FORMA-RETANGULAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=145&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-49",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “forma redonda”?",
+      "translation": "Forma redonda",
+      "librasStructure": "FORMA-REDONDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=149&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "casa-cozinha-50",
+      "section": "Receita",
+      "situation": "Em casa, como você sinaliza “A gosto”?",
+      "translation": "A gosto",
+      "librasStructure": "A-GOSTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=154&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "id": "verbos-localizacao",
+  "title": "Verbos com concordância de localização",
+  "description": "Verbos que se realizam no lugar do corpo ou do objeto em que a ação acontece.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 11,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "verbos-concordancia",
+      "reason": "Entenda primeiro a concordância de pessoa."
+    }
+  ],
+  "cards": [
+    {
+      "id": "verbos-localizacao-01",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “alisar — cabelo”?",
+      "translation": "Alisar — cabelo",
+      "librasStructure": "ALISAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=32&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-02",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “beijar — boca”?",
+      "translation": "Beijar — boca",
+      "librasStructure": "BEIJAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=38&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-03",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “beijar — rosto”?",
+      "translation": "Beijar — rosto",
+      "librasStructure": "BEIJAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=46&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-04",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “fazer cirurgia — barriga (cesárea)”?",
+      "translation": "Fazer cirurgia — barriga (cesárea)",
+      "librasStructure": "FAZER-CIRURGIA",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=55&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-05",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “fazer cirurgia — rosto”?",
+      "translation": "Fazer cirurgia — rosto",
+      "librasStructure": "FAZER-CIRURGIA",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=62&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-06",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “cortar — unhas”?",
+      "translation": "Cortar — unhas",
+      "librasStructure": "CORTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=69&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-07",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “cortar — cabelo”?",
+      "translation": "Cortar — cabelo",
+      "librasStructure": "CORTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=74&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-08",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “deitar — cama”?",
+      "translation": "Deitar — cama",
+      "librasStructure": "DEITAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=81&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-09",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “engessar — braço”?",
+      "translation": "Engessar — braço",
+      "librasStructure": "ENGESSAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=91&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-10",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “escovar — cabelo”?",
+      "translation": "Escovar — cabelo",
+      "librasStructure": "ESCOVAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=101&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-11",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “escrever — quadro / lousa”?",
+      "translation": "Escrever — quadro / lousa",
+      "librasStructure": "ESCREVER",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=108&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-12",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “escrever — caderno”?",
+      "translation": "Escrever — caderno",
+      "librasStructure": "ESCREVER",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=115&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-13",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “fazer — cílios”?",
+      "translation": "Fazer — cílios",
+      "librasStructure": "FAZER",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=122&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-14",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “maquiar — rosto”?",
+      "translation": "Maquiar — rosto",
+      "librasStructure": "MAQUIAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=129&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-15",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “passar batom — lábios”?",
+      "translation": "Passar batom — lábios",
+      "librasStructure": "PASSAR-BATOM",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=136&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-16",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pentear — cabelo”?",
+      "translation": "Pentear — cabelo",
+      "librasStructure": "PENTEAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=142&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-17",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pintar — unhas”?",
+      "translation": "Pintar — unhas",
+      "librasStructure": "PINTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=148&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-18",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pintar — cabelo”?",
+      "translation": "Pintar — cabelo",
+      "librasStructure": "PINTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=155&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-19",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pintar — carro”?",
+      "translation": "Pintar — carro",
+      "librasStructure": "PINTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=161&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-20",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pintar — casa”?",
+      "translation": "Pintar — casa",
+      "librasStructure": "PINTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=168&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-21",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “pintar — parede”?",
+      "translation": "Pintar — parede",
+      "librasStructure": "PINTAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=175&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "verbos-localizacao-22",
+      "section": "Concordância de localização",
+      "situation": "Como você sinaliza “tirar — sobrancelha”?",
+      "translation": "Tirar — sobrancelha",
+      "librasStructure": "TIRAR",
+      "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/662pv4KchBM?start=183&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": "goiania-ensino-times",
+  "title": "Goiânia: faculdades e times",
+  "description": "Instituições de ensino superior e times de futebol de Goiás.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Lugares",
+  "order": 3,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "goiania-ensino-times-01",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Anhanguera”?",
+      "translation": "Faculdade Anhanguera",
+      "librasStructure": "FACULDADE-ANHANGUERA",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=17&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-02",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “PUC Goiás”?",
+      "translation": "PUC Goiás",
+      "librasStructure": "PUC-GOIÁS",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-03",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “UniAraguaia”?",
+      "translation": "UniAraguaia",
+      "librasStructure": "UNIARAGUAIA",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-04",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “UFG (Universidade Federal de Goiás)”?",
+      "translation": "UFG (Universidade Federal de Goiás)",
+      "librasStructure": "UFG",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=26&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-05",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “UEG (Universidade Estadual de Goiás)”?",
+      "translation": "UEG (Universidade Estadual de Goiás)",
+      "librasStructure": "UEG",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=30&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-06",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Padrão”?",
+      "translation": "Faculdade Padrão",
+      "librasStructure": "FACULDADE-PADRÃO",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=33&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-07",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Universo”?",
+      "translation": "Faculdade Universo",
+      "librasStructure": "FACULDADE-UNIVERSO",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-08",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Senac”?",
+      "translation": "Faculdade Senac",
+      "librasStructure": "FACULDADE-SENAC",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=41&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-09",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “UniEVANGÉLICA”?",
+      "translation": "UniEVANGÉLICA",
+      "librasStructure": "UNIEVANGÉLICA",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=44&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-10",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Objetivo”?",
+      "translation": "Faculdade Objetivo",
+      "librasStructure": "FACULDADE-OBJETIVO",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=50&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-11",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “UNIFASAM”?",
+      "translation": "UNIFASAM",
+      "librasStructure": "UNIFASAM",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-12",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “IFG (Instituto Federal de Goiás)”?",
+      "translation": "IFG (Instituto Federal de Goiás)",
+      "librasStructure": "IFG",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=58&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-13",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “IF Goiano”?",
+      "translation": "IF Goiano",
+      "librasStructure": "IF-GOIANO",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=61&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-14",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Faculdade Senai”?",
+      "translation": "Faculdade Senai",
+      "librasStructure": "FACULDADE-SENAI",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=65&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-15",
+      "section": "Faculdades",
+      "situation": "Como você sinaliza “Unifan”?",
+      "translation": "Unifan",
+      "librasStructure": "UNIFAN",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=70&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-16",
+      "section": "Times de futebol",
+      "situation": "Como você sinaliza “Atlético Goianiense (time)”?",
+      "translation": "Atlético Goianiense (time)",
+      "librasStructure": "ATLÉTICO-GOIANIENSE",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-17",
+      "section": "Times de futebol",
+      "situation": "Como você sinaliza “Goiás Esporte Clube (time)”?",
+      "translation": "Goiás Esporte Clube (time)",
+      "librasStructure": "GOIÁS-ESPORTE-CLUBE",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=19&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "goiania-ensino-times-18",
+      "section": "Times de futebol",
+      "situation": "Como você sinaliza “Vila Nova Futebol Clube (time)”?",
+      "translation": "Vila Nova Futebol Clube (time)",
+      "librasStructure": "VILA-NOVA-FUTEBOL-CLUBE",
+      "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

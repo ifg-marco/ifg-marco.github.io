@@ -13,8 +13,27 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-08T05:16:25.889Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
     }
   ],
+  "collection": "Comunidade surda e sociedade",
+  "order": 5,
+  "difficulty": "avancado",
   "cards": [
     {
       "id": "sociologia-001",
@@ -140,7 +159,7 @@
       "id": "sociologia-007",
       "section": "Sociologia",
       "situation": "Como você sinaliza Poder?",
-      "translation": "Poder",
+      "translation": "Poder (substantivo)",
       "librasStructure": "",
       "notes": "",
       "examples": [],
@@ -153,6 +172,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T05:16:25.887Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -240,7 +267,7 @@
       "id": "sociologia-012",
       "section": "Sociologia",
       "situation": "Como você sinaliza Ideologia?",
-      "translation": "Ideologia",
+      "translation": "Ideologia (na Sociologia)",
       "librasStructure": "",
       "notes": "",
       "examples": [],
@@ -253,6 +280,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T05:16:25.888Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },

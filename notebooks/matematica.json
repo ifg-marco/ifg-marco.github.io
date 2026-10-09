@@ -1,0 +1,589 @@
+{
+  "id": "matematica",
+  "title": "Matemática e física",
+  "description": "Termos de matemática e de física para a sala de aula.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 4,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "numeros",
+      "reason": "Comece pelos números."
+    }
+  ],
+  "cards": [
+    {
+      "id": "matematica-01",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “equação”?",
+      "translation": "Equação",
+      "librasStructure": "EQUAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=5&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-02",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “álgebra”?",
+      "translation": "Álgebra",
+      "librasStructure": "ÁLGEBRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=8&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-03",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “análise combinatória”?",
+      "translation": "Análise combinatória",
+      "librasStructure": "ANÁLISE-COMBINATÓRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=24&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-04",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “probabilidade”?",
+      "translation": "Probabilidade",
+      "librasStructure": "PROBABILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=29&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-05",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “função”?",
+      "translation": "Função",
+      "librasStructure": "FUNÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=35&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-06",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “integral”?",
+      "translation": "Integral",
+      "librasStructure": "INTEGRAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=42&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-07",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “matrizes”?",
+      "translation": "Matrizes",
+      "librasStructure": "MATRIZES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=47&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-08",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “fração”?",
+      "translation": "Fração",
+      "librasStructure": "FRAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=54&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-09",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “raiz quadrada”?",
+      "translation": "Raiz quadrada",
+      "librasStructure": "RAIZ-QUADRADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=63&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-10",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “potência”?",
+      "translation": "Potência",
+      "librasStructure": "POTÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=68&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-11",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “formas geométricas”?",
+      "translation": "Formas geométricas",
+      "librasStructure": "FORMAS-GEOMÉTRICAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=75&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-12",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “expressão aritmética”?",
+      "translation": "Expressão aritmética",
+      "librasStructure": "EXPRESSÃO-ARITMÉTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=83&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-13",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “logaritmo”?",
+      "translation": "Logaritmo",
+      "librasStructure": "LOGARITMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=91&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-14",
+      "section": "Matemática",
+      "situation": "Numa aula de exatas, como você sinaliza “oposto”?",
+      "translation": "Oposto",
+      "librasStructure": "OPOSTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=98&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-15",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “aceleração”?",
+      "translation": "Aceleração",
+      "librasStructure": "ACELERAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=17&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-16",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “energia cinética”?",
+      "translation": "Energia cinética",
+      "librasStructure": "ENERGIA-CINÉTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=24&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-17",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “energia gravitacional”?",
+      "translation": "Energia gravitacional",
+      "librasStructure": "ENERGIA-GRAVITACIONAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=30&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-18",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “energia potencial elástica”?",
+      "translation": "Energia potencial elástica",
+      "librasStructure": "ENERGIA-POTENCIAL-ELÁSTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=37&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-19",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “lei da gravitação universal”?",
+      "translation": "Lei da gravitação universal",
+      "librasStructure": "LEI-DA-GRAVITAÇÃO-UNIVERSAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=45&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-20",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “óptica”?",
+      "translation": "Óptica",
+      "librasStructure": "ÓPTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=59&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-21",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “leis de Newton”?",
+      "translation": "Leis de Newton",
+      "librasStructure": "LEIS-DE-NEWTON",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=70&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-22",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “inércia”?",
+      "translation": "Inércia",
+      "librasStructure": "INÉRCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=82&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-23",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “bobina”?",
+      "translation": "Bobina",
+      "librasStructure": "BOBINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=91&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-24",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “momento angular”?",
+      "translation": "Momento angular",
+      "librasStructure": "MOMENTO-ANGULAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=97&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-25",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “equilíbrio”?",
+      "translation": "Equilíbrio",
+      "librasStructure": "EQUILÍBRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=104&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-26",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “força”?",
+      "translation": "Força",
+      "librasStructure": "FORÇA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=109&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-27",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “deformação”?",
+      "translation": "Deformação",
+      "librasStructure": "DEFORMAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=116&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "matematica-28",
+      "section": "Física",
+      "situation": "Numa aula de exatas, como você sinaliza “decímetro”?",
+      "translation": "Decímetro",
+      "librasStructure": "DECÍMETRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

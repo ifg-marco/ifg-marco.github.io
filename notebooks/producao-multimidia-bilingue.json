@@ -13,8 +13,35 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-08T04:37:38.328Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
     }
   ],
+  "collection": "Áreas profissionais",
+  "order": 3,
+  "difficulty": "avancado",
   "cards": [
     {
       "id": "producao-multimidia-bilingue-001",
@@ -2217,26 +2244,6 @@
       ]
     },
     {
-      "id": "producao-multimidia-bilingue-111",
-      "section": "Produção Multimídia",
-      "situation": "Como você sinaliza Bactéria?",
-      "translation": "Bactéria",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [],
-      "video": "https://www.youtube.com/embed/Gh7-5vbXlWw?start=2&end=9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gh7-5vbXlWw",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T04:37:38.325Z"
-        }
-      ]
-    },
-    {
       "id": "producao-multimidia-bilingue-112",
       "section": "Produção Multimídia",
       "situation": "Como você sinaliza Anafase?",
@@ -2700,7 +2707,7 @@
       "id": "producao-multimidia-bilingue-135",
       "section": "Produção Multimídia",
       "situation": "Como você sinaliza Ementa?",
-      "translation": "Ementa",
+      "translation": "Ementa (de disciplina)",
       "librasStructure": "",
       "notes": "",
       "examples": [],
@@ -2713,6 +2720,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T04:37:38.326Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -3240,7 +3255,7 @@
       "id": "producao-multimidia-bilingue-162",
       "section": "Produção Multimídia",
       "situation": "Como você sinaliza Língua?",
-      "translation": "Língua",
+      "translation": "Língua (idioma)",
       "librasStructure": "",
       "notes": "",
       "examples": [],
@@ -3253,6 +3268,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T04:37:38.326Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },

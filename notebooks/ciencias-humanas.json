@@ -1,0 +1,803 @@
+{
+  "id": "ciencias-humanas",
+  "title": "Ciências humanas",
+  "description": "Política, sociedade, direitos e história.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 8,
+  "difficulty": "avancado",
+  "cards": [
+    {
+      "id": "ciencias-humanas-01",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “discurso”?",
+      "translation": "Discurso",
+      "librasStructure": "DISCURSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=19&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-02",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “autonomia”?",
+      "translation": "Autonomia",
+      "librasStructure": "AUTONOMIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-03",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “identidade cultural”?",
+      "translation": "Identidade cultural",
+      "librasStructure": "IDENTIDADE-CULTURAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=36&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-04",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “cidadão”?",
+      "translation": "Cidadão",
+      "librasStructure": "CIDADÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=41&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-05",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “justiça social”?",
+      "translation": "Justiça social",
+      "librasStructure": "JUSTIÇA-SOCIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=51&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-06",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “liberalismo”?",
+      "translation": "Liberalismo",
+      "librasStructure": "LIBERALISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=58&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-07",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “alienado”?",
+      "translation": "Alienado",
+      "librasStructure": "ALIENADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=66&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-08",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “norma social”?",
+      "translation": "Norma social",
+      "librasStructure": "NORMA-SOCIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=77&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-09",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “iluminismo”?",
+      "translation": "Iluminismo",
+      "librasStructure": "ILUMINISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=83&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-10",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “revolução Industrial”?",
+      "translation": "Revolução Industrial",
+      "librasStructure": "REVOLUÇÃO-INDUSTRIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=91&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-11",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “simbologia / símbolo”?",
+      "translation": "Simbologia / símbolo",
+      "librasStructure": "SIMBOLOGIA/SÍMBOLO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-12",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “colônia”?",
+      "translation": "Colônia",
+      "librasStructure": "COLÔNIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=102&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-13",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “teoria crítica”?",
+      "translation": "Teoria crítica",
+      "librasStructure": "TEORIA-CRÍTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=110&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-14",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “utopia”?",
+      "translation": "Utopia",
+      "librasStructure": "UTOPIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=115&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-15",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “burguesia”?",
+      "translation": "Burguesia",
+      "librasStructure": "BURGUESIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=120&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-16",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “perspectiva”?",
+      "translation": "Perspectiva",
+      "librasStructure": "PERSPECTIVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=128&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-17",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “escravo”?",
+      "translation": "Escravo",
+      "librasStructure": "ESCRAVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=132&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-18",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “partido político”?",
+      "translation": "Partido político",
+      "librasStructure": "PARTIDO-POLÍTICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=137&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-19",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “feminismo”?",
+      "translation": "Feminismo",
+      "librasStructure": "FEMINISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=141&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-20",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “subjetivo / subjetividade”?",
+      "translation": "Subjetivo / subjetividade",
+      "librasStructure": "SUBJETIVO/SUBJETIVIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=145&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-21",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “diversidade racial”?",
+      "translation": "Diversidade racial",
+      "librasStructure": "DIVERSIDADE-RACIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=150&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-22",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “refugiado”?",
+      "translation": "Refugiado",
+      "librasStructure": "REFUGIADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=159&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-23",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “burocracia”?",
+      "translation": "Burocracia",
+      "librasStructure": "BUROCRACIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=166&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-24",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “censura”?",
+      "translation": "Censura",
+      "librasStructure": "CENSURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=172&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-25",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “estatuto”?",
+      "translation": "Estatuto",
+      "librasStructure": "ESTATUTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=185&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-26",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “presidente”?",
+      "translation": "Presidente",
+      "librasStructure": "PRESIDENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=189&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-27",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “poder Legislativo”?",
+      "translation": "Poder Legislativo",
+      "librasStructure": "PODER-LEGISLATIVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=203&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-28",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “poder Judiciário”?",
+      "translation": "Poder Judiciário",
+      "librasStructure": "PODER-JUDICIÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=208&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-29",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “hierarquia”?",
+      "translation": "Hierarquia",
+      "librasStructure": "HIERARQUIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=221&end=230&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-30",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “artigo (de lei)”?",
+      "translation": "Artigo (de lei)",
+      "librasStructure": "ARTIGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=228&end=235&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-31",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “soberania”?",
+      "translation": "Soberania",
+      "librasStructure": "SOBERANIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=233&end=239&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-32",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “direitos humanos”?",
+      "translation": "Direitos humanos",
+      "librasStructure": "DIREITOS-HUMANOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=243&end=250&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-33",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “sustentabilidade”?",
+      "translation": "Sustentabilidade",
+      "librasStructure": "SUSTENTABILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=249&end=257&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-34",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “empatia”?",
+      "translation": "Empatia",
+      "librasStructure": "EMPATIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=258&end=263&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-35",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “preconceito”?",
+      "translation": "Preconceito",
+      "librasStructure": "PRECONCEITO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=262&end=267&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-36",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “tradição”?",
+      "translation": "Tradição",
+      "librasStructure": "TRADIÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=269&end=274&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-37",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “comunista”?",
+      "translation": "Comunista",
+      "librasStructure": "COMUNISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=282&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-38",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “socialista”?",
+      "translation": "Socialista",
+      "librasStructure": "SOCIALISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=290&end=296&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ciencias-humanas-39",
+      "section": "Ciências humanas",
+      "situation": "Numa aula de ciências humanas, como você sinaliza “historiografia”?",
+      "translation": "Historiografia",
+      "librasStructure": "HISTORIOGRAFIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=294&end=303&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "id": "ist",
+  "title": "Saúde sexual e IST",
+  "description": "Infecções sexualmente transmissíveis, corpo e prevenção.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 15,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "doencas",
+      "reason": "Comece pelas doenças e sintomas."
+    }
+  ],
+  "cards": [
+    {
+      "id": "ist-01",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “vírus”?",
+      "translation": "Vírus",
+      "librasStructure": "VÍRUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=21&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-02",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “hepatite”?",
+      "translation": "Hepatite",
+      "librasStructure": "HEPATITE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=39&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-03",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “sífilis”?",
+      "translation": "Sífilis",
+      "librasStructure": "SÍFILIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=44&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-04",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “gonorreia”?",
+      "translation": "Gonorreia",
+      "librasStructure": "GONORREIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=49&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-05",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “candidíase”?",
+      "translation": "Candidíase",
+      "librasStructure": "CANDIDÍASE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=56&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-06",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “herpes genital”?",
+      "translation": "Herpes genital",
+      "librasStructure": "HERPES-GENITAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=64&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-07",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “cancro mole”?",
+      "translation": "Cancro mole",
+      "librasStructure": "CANCRO-MOLE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=73&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-08",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “clamídia”?",
+      "translation": "Clamídia",
+      "librasStructure": "CLAMÍDIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=79&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-09",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “sintomas”?",
+      "translation": "Sintomas",
+      "librasStructure": "SINTOMAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-10",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “dor / doer”?",
+      "translation": "Dor / doer",
+      "librasStructure": "DOR/DOER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=88&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-11",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “sangramento”?",
+      "translation": "Sangramento",
+      "librasStructure": "SANGRAMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=92&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-12",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “feridas”?",
+      "translation": "Feridas",
+      "librasStructure": "FERIDAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=96&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-13",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “anticoncepcional”?",
+      "translation": "Anticoncepcional",
+      "librasStructure": "ANTICONCEPCIONAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=104&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-14",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “camisinha”?",
+      "translation": "Camisinha",
+      "librasStructure": "CAMISINHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=113&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-15",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “coceira”?",
+      "translation": "Coceira",
+      "librasStructure": "COCEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=121&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-16",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “transmissão”?",
+      "translation": "Transmissão",
+      "librasStructure": "TRANSMISSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-17",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “corrimento”?",
+      "translation": "Corrimento",
+      "librasStructure": "CORRIMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=134&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-18",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “ejaculação”?",
+      "translation": "Ejaculação",
+      "librasStructure": "EJACULAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=139&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-19",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “ereção”?",
+      "translation": "Ereção",
+      "librasStructure": "EREÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=143&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-20",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “estéril”?",
+      "translation": "Estéril",
+      "librasStructure": "ESTÉRIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=146&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-21",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “fimose”?",
+      "translation": "Fimose",
+      "librasStructure": "FIMOSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=156&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-22",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “masturbação”?",
+      "translation": "Masturbação",
+      "librasStructure": "MASTURBAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=161&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-23",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “penetração”?",
+      "translation": "Penetração",
+      "librasStructure": "PENETRAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-24",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “prevenção”?",
+      "translation": "Prevenção",
+      "librasStructure": "PREVENÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=193&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-25",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “sexo vaginal”?",
+      "translation": "Sexo vaginal",
+      "librasStructure": "SEXO-VAGINAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=200&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-26",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “sexo anal”?",
+      "translation": "Sexo anal",
+      "librasStructure": "SEXO-ANAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=205&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-27",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “tesão”?",
+      "translation": "Tesão",
+      "librasStructure": "TESÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=209&end=216&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ist-28",
+      "section": "Saúde sexual",
+      "situation": "Numa orientação de saúde, como você sinaliza “cura”?",
+      "translation": "Cura",
+      "librasStructure": "CURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=214&end=220&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

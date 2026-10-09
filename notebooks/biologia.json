@@ -1,0 +1,683 @@
+{
+  "id": "biologia",
+  "title": "Biologia",
+  "description": "Célula, genética, corpo humano, ecologia e evolução.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 5,
+  "difficulty": "avancado",
+  "cards": [
+    {
+      "id": "biologia-01",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “célula”?",
+      "translation": "Célula",
+      "librasStructure": "CÉLULA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=5&end=11&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-02",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “mitocôndria”?",
+      "translation": "Mitocôndria",
+      "librasStructure": "MITOCÔNDRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=10&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-03",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “RNA”?",
+      "translation": "RNA",
+      "librasStructure": "RNA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=21&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-04",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “gene”?",
+      "translation": "Gene",
+      "librasStructure": "GENE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=41&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-05",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “genótipo”?",
+      "translation": "Genótipo",
+      "librasStructure": "GENÓTIPO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=54&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-06",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “fenótipo”?",
+      "translation": "Fenótipo",
+      "librasStructure": "FENÓTIPO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=59&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-07",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “alelo”?",
+      "translation": "Alelo",
+      "librasStructure": "ALELO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=65&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-08",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “genética”?",
+      "translation": "Genética",
+      "librasStructure": "GENÉTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=71&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-09",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “homeostase”?",
+      "translation": "Homeostase",
+      "librasStructure": "HOMEOSTASE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=74&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-10",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “hormônio”?",
+      "translation": "Hormônio",
+      "librasStructure": "HORMÔNIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-11",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “metabolismo”?",
+      "translation": "Metabolismo",
+      "librasStructure": "METABOLISMO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=87&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-12",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “sinapse”?",
+      "translation": "Sinapse",
+      "librasStructure": "SINAPSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=96&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-13",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “hemoglobina”?",
+      "translation": "Hemoglobina",
+      "librasStructure": "HEMOGLOBINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=103&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-14",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “anatomia”?",
+      "translation": "Anatomia",
+      "librasStructure": "ANATOMIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=113&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-15",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “tecido”?",
+      "translation": "Tecido",
+      "librasStructure": "TECIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=125&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-16",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “órgão”?",
+      "translation": "Órgão",
+      "librasStructure": "ÓRGÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=131&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-17",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “sistema nervoso”?",
+      "translation": "Sistema nervoso",
+      "librasStructure": "SISTEMA-NERVOSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=139&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-18",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “sistema digestório”?",
+      "translation": "Sistema digestório",
+      "librasStructure": "SISTEMA-DIGESTÓRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=151&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-19",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “sistema cardiovascular”?",
+      "translation": "Sistema cardiovascular",
+      "librasStructure": "SISTEMA-CARDIOVASCULAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=160&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-20",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “ecologia”?",
+      "translation": "Ecologia",
+      "librasStructure": "ECOLOGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=174&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-21",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “meio ambiente”?",
+      "translation": "Meio ambiente",
+      "librasStructure": "MEIO-AMBIENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=184&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-22",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “ecossistema”?",
+      "translation": "Ecossistema",
+      "librasStructure": "ECOSSISTEMA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=192&end=201&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-23",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “biodiversidade”?",
+      "translation": "Biodiversidade",
+      "librasStructure": "BIODIVERSIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=201&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-24",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “nicho ecológico”?",
+      "translation": "Nicho ecológico",
+      "librasStructure": "NICHO-ECOLÓGICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=209&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-25",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “sucessão ecológica”?",
+      "translation": "Sucessão ecológica",
+      "librasStructure": "SUCESSÃO-ECOLÓGICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=218&end=231&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-26",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “imunologia”?",
+      "translation": "Imunologia",
+      "librasStructure": "IMUNOLOGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=231&end=239&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-27",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “antígeno”?",
+      "translation": "Antígeno",
+      "librasStructure": "ANTÍGENO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=254&end=265&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-28",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “anticorpo”?",
+      "translation": "Anticorpo",
+      "librasStructure": "ANTICORPO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=263&end=276&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-29",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “evolução”?",
+      "translation": "Evolução",
+      "librasStructure": "EVOLUÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=282&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-30",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “adaptação”?",
+      "translation": "Adaptação",
+      "librasStructure": "ADAPTAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=290&end=297&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-31",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “mutação”?",
+      "translation": "Mutação",
+      "librasStructure": "MUTAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=296&end=304&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-32",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “espécies”?",
+      "translation": "Espécies",
+      "librasStructure": "ESPÉCIES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=303&end=313&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "biologia-33",
+      "section": "Biologia",
+      "situation": "Numa aula de biologia, como você sinaliza “fossilização”?",
+      "translation": "Fossilização",
+      "librasStructure": "FOSSILIZAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=313&end=341&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

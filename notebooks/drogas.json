@@ -1,0 +1,383 @@
+{
+  "id": "drogas",
+  "title": "Drogas",
+  "description": "Drogas lícitas e ilícitas, tráfico e prevenção.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Comunidade surda e sociedade",
+  "order": 3,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "drogas-01",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “drogas”?",
+      "translation": "Drogas",
+      "librasStructure": "DROGAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-02",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “drogas ilícitas”?",
+      "translation": "Drogas ilícitas",
+      "librasStructure": "DROGAS-ILÍCITAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-03",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “cigarro”?",
+      "translation": "Cigarro",
+      "librasStructure": "CIGARRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-04",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “maconha”?",
+      "translation": "Maconha",
+      "librasStructure": "MACONHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=28&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-05",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “cocaína”?",
+      "translation": "Cocaína",
+      "librasStructure": "COCAÍNA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=31&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-06",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “ecstasy”?",
+      "translation": "Ecstasy",
+      "librasStructure": "ECSTASY",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=33&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-07",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “boa noite, Cinderela (golpe)”?",
+      "translation": "Boa noite, Cinderela (golpe)",
+      "librasStructure": "BOA-NOITE,-CINDERELA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=36&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-08",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “heroína”?",
+      "translation": "Heroína",
+      "librasStructure": "HEROÍNA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-09",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “crack”?",
+      "translation": "Crack",
+      "librasStructure": "CRACK",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=45&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-10",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “tráfico”?",
+      "translation": "Tráfico",
+      "librasStructure": "TRÁFICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-11",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “traficante”?",
+      "translation": "Traficante",
+      "librasStructure": "TRAFICANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=55&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-12",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “usuário de drogas”?",
+      "translation": "Usuário de drogas",
+      "librasStructure": "USUÁRIO-DE-DROGAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=59&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-13",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “viciado”?",
+      "translation": "Viciado",
+      "librasStructure": "VICIADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-14",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “cola de sapateiro”?",
+      "translation": "Cola de sapateiro",
+      "librasStructure": "COLA-DE-SAPATEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=65&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-15",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “anabolizantes”?",
+      "translation": "Anabolizantes",
+      "librasStructure": "ANABOLIZANTES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-16",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “lança-perfume”?",
+      "translation": "Lança-perfume",
+      "librasStructure": "LANÇA-PERFUME",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-17",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “veneno”?",
+      "translation": "Veneno",
+      "librasStructure": "VENENO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=77&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "drogas-18",
+      "section": "Drogas",
+      "situation": "Numa conversa sobre prevenção, como você sinaliza “overdose”?",
+      "translation": "Overdose",
+      "librasStructure": "OVERDOSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=80&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

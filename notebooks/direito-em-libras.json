@@ -13,8 +13,27 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-08T05:23:42.115Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
     }
   ],
+  "collection": "Áreas profissionais",
+  "order": 1,
+  "difficulty": "avancado",
   "cards": [
     {
       "id": "direito-em-libras-001",
@@ -2080,7 +2099,7 @@
       "id": "direito-em-libras-104",
       "section": "Direito",
       "situation": "Como você sinaliza Ementa?",
-      "translation": "Ementa",
+      "translation": "Ementa (jurídica)",
       "librasStructure": "",
       "notes": "",
       "examples": [],
@@ -2093,6 +2112,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T05:23:42.115Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },

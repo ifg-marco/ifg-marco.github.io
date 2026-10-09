@@ -1,0 +1,783 @@
+{
+  "id": "contexto-juridico",
+  "title": "Contexto jurídico (criminal)",
+  "description": "Sinais do contexto jurídico e criminal: polícia, processo, crimes e justiça.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 2,
+  "difficulty": "avancado",
+  "cards": [
+    {
+      "id": "contexto-juridico-01",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “flagrante”?",
+      "translation": "Flagrante",
+      "librasStructure": "FLAGRANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=13&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-02",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “detido / detenção”?",
+      "translation": "Detido / detenção",
+      "librasStructure": "DETIDO/DETENÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=22&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-03",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “estupro”?",
+      "translation": "Estupro",
+      "librasStructure": "ESTUPRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=27&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-04",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “confissão”?",
+      "translation": "Confissão",
+      "librasStructure": "CONFISSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=33&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-05",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “protesto”?",
+      "translation": "Protesto",
+      "librasStructure": "PROTESTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=38&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-06",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “justiça”?",
+      "translation": "Justiça",
+      "librasStructure": "JUSTIÇA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=42&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-07",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “bandido”?",
+      "translation": "Bandido",
+      "librasStructure": "BANDIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=47&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-08",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “impeachment”?",
+      "translation": "Impeachment",
+      "librasStructure": "IMPEACHMENT",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=60&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-09",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “prisão”?",
+      "translation": "Prisão",
+      "librasStructure": "PRISÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=65&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-10",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “concessão”?",
+      "translation": "Concessão",
+      "librasStructure": "CONCESSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=69&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-11",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “punição”?",
+      "translation": "Punição",
+      "librasStructure": "PUNIÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=74&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-12",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “fórum”?",
+      "translation": "Fórum",
+      "librasStructure": "FÓRUM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-13",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “assassinato”?",
+      "translation": "Assassinato",
+      "librasStructure": "ASSASSINATO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=91&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-14",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “roubar”?",
+      "translation": "Roubar",
+      "librasStructure": "ROUBAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=101&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-15",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “acusação / acusado”?",
+      "translation": "Acusação / acusado",
+      "librasStructure": "ACUSAÇÃO/ACUSADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=104&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-16",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “acordo”?",
+      "translation": "Acordo",
+      "librasStructure": "ACORDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=108&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-17",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “conselho Tutelar”?",
+      "translation": "Conselho Tutelar",
+      "librasStructure": "CONSELHO-TUTELAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=113&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-18",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “greve”?",
+      "translation": "Greve",
+      "librasStructure": "GREVE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=118&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-19",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “cela”?",
+      "translation": "Cela",
+      "librasStructure": "CELA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=128&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-20",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “IML (Instituto Médico Legal)”?",
+      "translation": "IML (Instituto Médico Legal)",
+      "librasStructure": "IML",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=133&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-21",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “prisão perpétua”?",
+      "translation": "Prisão perpétua",
+      "librasStructure": "PRISÃO-PERPÉTUA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=150&end=157&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-22",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “regras”?",
+      "translation": "Regras",
+      "librasStructure": "REGRAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=162&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-23",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “multa”?",
+      "translation": "Multa",
+      "librasStructure": "MULTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-24",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “escrivão”?",
+      "translation": "Escrivão",
+      "librasStructure": "ESCRIVÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=179&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-25",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “delegado”?",
+      "translation": "Delegado",
+      "librasStructure": "DELEGADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=195&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-26",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “acareação”?",
+      "translation": "Acareação",
+      "librasStructure": "ACAREAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=199&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-27",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “testemunho”?",
+      "translation": "Testemunho",
+      "librasStructure": "TESTEMUNHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=203&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-28",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “morrer”?",
+      "translation": "Morrer",
+      "librasStructure": "MORRER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=211&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-29",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “perito”?",
+      "translation": "Perito",
+      "librasStructure": "PERITO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=216&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-30",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “desigualdade”?",
+      "translation": "Desigualdade",
+      "librasStructure": "DESIGUALDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=222&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-31",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “ata”?",
+      "translation": "Ata",
+      "librasStructure": "ATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=226&end=232&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-32",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “defesa”?",
+      "translation": "Defesa",
+      "librasStructure": "DEFESA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=231&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-33",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “culpado”?",
+      "translation": "Culpado",
+      "librasStructure": "CULPADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=236&end=242&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-34",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “agressão”?",
+      "translation": "Agressão",
+      "librasStructure": "AGRESSÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=241&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-35",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “menor de idade”?",
+      "translation": "Menor de idade",
+      "librasStructure": "MENOR-DE-IDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=245&end=251&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-36",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “pedofilia”?",
+      "translation": "Pedofilia",
+      "librasStructure": "PEDOFILIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=250&end=256&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-37",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “violência”?",
+      "translation": "Violência",
+      "librasStructure": "VIOLÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=265&end=270&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "contexto-juridico-38",
+      "section": "Contexto jurídico",
+      "situation": "Num atendimento jurídico, como você sinaliza “violência contra a mulher”?",
+      "translation": "Violência contra a mulher",
+      "librasStructure": "VIOLÊNCIA-CONTRA-A-MULHER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/pzyIMnX6Y3c?start=268&end=275&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pzyIMnX6Y3c",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

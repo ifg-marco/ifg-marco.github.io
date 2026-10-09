@@ -1,0 +1,403 @@
+{
+  "id": "disciplinas",
+  "title": "Disciplinas escolares",
+  "description": "Nomes das disciplinas da escola.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 4,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "disciplinas-01",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “História”?",
+      "translation": "História",
+      "librasStructure": "HISTÓRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=13&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-02",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Espanhol”?",
+      "translation": "Espanhol",
+      "librasStructure": "ESPANHOL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-03",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Física”?",
+      "translation": "Física",
+      "librasStructure": "FÍSICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-04",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Redação”?",
+      "translation": "Redação",
+      "librasStructure": "REDAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=22&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-05",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Libras (disciplina)”?",
+      "translation": "Libras (disciplina)",
+      "librasStructure": "LIBRAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=26&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-06",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Português”?",
+      "translation": "Português",
+      "librasStructure": "PORTUGUÊS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=30&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-07",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Biologia”?",
+      "translation": "Biologia",
+      "librasStructure": "BIOLOGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=33&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-08",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Inglês”?",
+      "translation": "Inglês",
+      "librasStructure": "INGLÊS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=37&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-09",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Educação Física”?",
+      "translation": "Educação Física",
+      "librasStructure": "EDUCAÇÃO-FÍSICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=41&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-10",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Ensino Religioso”?",
+      "translation": "Ensino Religioso",
+      "librasStructure": "ENSINO-RELIGIOSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=44&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-11",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Matemática”?",
+      "translation": "Matemática",
+      "librasStructure": "MATEMÁTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=49&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-12",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Ciências”?",
+      "translation": "Ciências",
+      "librasStructure": "CIÊNCIAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-13",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Geografia”?",
+      "translation": "Geografia",
+      "librasStructure": "GEOGRAFIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=60&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-14",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Sociologia”?",
+      "translation": "Sociologia",
+      "librasStructure": "SOCIOLOGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=68&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-15",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Música”?",
+      "translation": "Música",
+      "librasStructure": "MÚSICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=72&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-16",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Química”?",
+      "translation": "Química",
+      "librasStructure": "QUÍMICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=76&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-17",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Literatura”?",
+      "translation": "Literatura",
+      "librasStructure": "LITERATURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=81&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-18",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Arte”?",
+      "translation": "Arte",
+      "librasStructure": "ARTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=86&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "disciplinas-19",
+      "section": "Disciplinas",
+      "situation": "Ao falar do seu horário de aulas, como você sinaliza “Geometria”?",
+      "translation": "Geometria",
+      "librasStructure": "GEOMETRIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

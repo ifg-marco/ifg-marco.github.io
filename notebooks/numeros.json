@@ -1,0 +1,789 @@
+{
+  "id": "numeros",
+  "title": "Números",
+  "description": "Números cardinais, ordinais e a ideia de quantidade em Libras.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 3,
+  "difficulty": "iniciante",
+  "next": [
+    {
+      "notebookId": "dinheiro",
+      "reason": "Use os números para falar de preços e valores."
+    }
+  ],
+  "cards": [
+    {
+      "id": "numeros-01",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 0 (zero)?",
+      "translation": "0 (zero)",
+      "librasStructure": "0",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-02",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 1 (um)?",
+      "translation": "1 (um)",
+      "librasStructure": "1",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=30&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-03",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 2 (dois)?",
+      "translation": "2 (dois)",
+      "librasStructure": "2",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-04",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 3 (três)?",
+      "translation": "3 (três)",
+      "librasStructure": "3",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-05",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 4 (quatro)?",
+      "translation": "4 (quatro)",
+      "librasStructure": "4",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-06",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 5 (cinco)?",
+      "translation": "5 (cinco)",
+      "librasStructure": "5",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=38&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-07",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 6 (seis)?",
+      "translation": "6 (seis)",
+      "librasStructure": "6",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-08",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 7 (sete)?",
+      "translation": "7 (sete)",
+      "librasStructure": "7",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=42&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-09",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 8 (oito)?",
+      "translation": "8 (oito)",
+      "librasStructure": "8",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-10",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 9 (nove)?",
+      "translation": "9 (nove)",
+      "librasStructure": "9",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=45&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-11",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 10 (dez)?",
+      "translation": "10 (dez)",
+      "librasStructure": "10",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=47&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-12",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 11 (onze)?",
+      "translation": "11 (onze)",
+      "librasStructure": "11",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-13",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 12 (doze)?",
+      "translation": "12 (doze)",
+      "librasStructure": "12",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-14",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 13 (treze)?",
+      "translation": "13 (treze)",
+      "librasStructure": "13",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-15",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 14 (catorze)?",
+      "translation": "14 (catorze)",
+      "librasStructure": "14",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=55&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-16",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 15 (quinze)?",
+      "translation": "15 (quinze)",
+      "librasStructure": "15",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=56&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-17",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 17 (dezessete)?",
+      "translation": "17 (dezessete)",
+      "librasStructure": "17",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=59&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-18",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 18 (dezoito)?",
+      "translation": "18 (dezoito)",
+      "librasStructure": "18",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-19",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 19 (dezenove)?",
+      "translation": "19 (dezenove)",
+      "librasStructure": "19",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-20",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 20 (vinte)?",
+      "translation": "20 (vinte)",
+      "librasStructure": "20",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-21",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 21 (vinte e um)?",
+      "translation": "21 (vinte e um)",
+      "librasStructure": "21",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-22",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 23 (vinte e três)?",
+      "translation": "23 (vinte e três)",
+      "librasStructure": "23",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-23",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 34 (trinta e quatro)?",
+      "translation": "34 (trinta e quatro)",
+      "librasStructure": "34",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-24",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 60 (sessenta)?",
+      "translation": "60 (sessenta)",
+      "librasStructure": "60",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=76&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-25",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 100 (cem)?",
+      "translation": "100 (cem)",
+      "librasStructure": "100",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=84&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-26",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 1.000 (mil)?",
+      "translation": "1.000 (mil)",
+      "librasStructure": "1.000",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=96&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-27",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 10.000 (dez mil)?",
+      "translation": "10.000 (dez mil)",
+      "librasStructure": "10.000",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=112&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-28",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 10 milhões?",
+      "translation": "10 milhões",
+      "librasStructure": "10-MILHÕES",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=115&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-29",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 10 bilhões?",
+      "translation": "10 bilhões",
+      "librasStructure": "10-BILHÕES",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=124&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-30",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 1 bilhão?",
+      "translation": "1 bilhão",
+      "librasStructure": "1-BILHÃO",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=128&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-31",
+      "section": "Cardinais",
+      "situation": "Como você sinaliza o número 2 bilhões?",
+      "translation": "2 bilhões",
+      "librasStructure": "2-BILHÕES",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=131&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-32",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 1º (primeiro)?",
+      "translation": "1º (primeiro)",
+      "librasStructure": "1º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=142&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-33",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 2º (segundo)?",
+      "translation": "2º (segundo)",
+      "librasStructure": "2º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=144&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-34",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 4º (quarto)?",
+      "translation": "4º (quarto)",
+      "librasStructure": "4º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=148&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-35",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 5º (quinto)?",
+      "translation": "5º (quinto)",
+      "librasStructure": "5º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-36",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 7º (sétimo)?",
+      "translation": "7º (sétimo)",
+      "librasStructure": "7º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=152&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-37",
+      "section": "Ordinais",
+      "situation": "Como você sinaliza o número 8º (oitavo)?",
+      "translation": "8º (oitavo)",
+      "librasStructure": "8º",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=154&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "numeros-38",
+      "section": "Quantidade",
+      "situation": "Como você sinaliza o número Quantidade?",
+      "translation": "Quantidade",
+      "librasStructure": "QUANTIDADE",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=157&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

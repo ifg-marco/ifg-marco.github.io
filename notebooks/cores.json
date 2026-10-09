@@ -1,0 +1,483 @@
+{
+  "id": "cores",
+  "title": "Cores",
+  "description": "As cores e os tons claro e escuro.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 1,
+  "difficulty": "iniciante",
+  "cards": [
+    {
+      "id": "cores-01",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “cores”?",
+      "translation": "Cores",
+      "librasStructure": "CORES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=13&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-02",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “amarelo”?",
+      "translation": "Amarelo",
+      "librasStructure": "AMARELO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=16&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-03",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “marrom”?",
+      "translation": "Marrom",
+      "librasStructure": "MARROM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-04",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “roxo”?",
+      "translation": "Roxo",
+      "librasStructure": "ROXO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-05",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “laranja (alaranjado)”?",
+      "translation": "Laranja (alaranjado)",
+      "librasStructure": "LARANJA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=26&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-06",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “azul”?",
+      "translation": "Azul",
+      "librasStructure": "AZUL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=30&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-07",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “branco”?",
+      "translation": "Branco",
+      "librasStructure": "BRANCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=36&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-08",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “lilás”?",
+      "translation": "Lilás",
+      "librasStructure": "LILÁS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-09",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “dourado”?",
+      "translation": "Dourado",
+      "librasStructure": "DOURADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=43&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-10",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “bege”?",
+      "translation": "Bege",
+      "librasStructure": "BEGE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-11",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “vinho”?",
+      "translation": "Vinho",
+      "librasStructure": "VINHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-12",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “verde”?",
+      "translation": "Verde",
+      "librasStructure": "VERDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-13",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “ouro”?",
+      "translation": "Ouro",
+      "librasStructure": "OURO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=57&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-14",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “cinza”?",
+      "translation": "Cinza",
+      "librasStructure": "CINZA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=61&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-15",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “negro (pessoa)”?",
+      "translation": "Negro (pessoa)",
+      "librasStructure": "NEGRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=64&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-16",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “preto (coisa)”?",
+      "translation": "Preto (coisa)",
+      "librasStructure": "PRETO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=68&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-17",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “rosa”?",
+      "translation": "Rosa",
+      "librasStructure": "ROSA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=75&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-18",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “vermelho”?",
+      "translation": "Vermelho",
+      "librasStructure": "VERMELHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=82&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-19",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “brilhante (cor)”?",
+      "translation": "Brilhante (cor)",
+      "librasStructure": "BRILHANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-20",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “transparente”?",
+      "translation": "Transparente",
+      "librasStructure": "TRANSPARENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=88&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-21",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “claro (cor)”?",
+      "translation": "Claro (cor)",
+      "librasStructure": "CLARO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=93&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-22",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “escuro (cor)”?",
+      "translation": "Escuro (cor)",
+      "librasStructure": "ESCURO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=96&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cores-23",
+      "section": "Cores",
+      "situation": "Ao dizer a cor de um objeto, como você sinaliza “prata”?",
+      "translation": "Prata",
+      "librasStructure": "PRATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=99&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

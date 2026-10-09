@@ -1,0 +1,369 @@
+{
+  "id": "comunidades-surdas",
+  "title": "Comunidades surdas",
+  "description": "Povo surdo, associações e instituições da comunidade surda no Brasil.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Comunidade surda e sociedade",
+  "order": 1,
+  "difficulty": "intermediario",
+  "prerequisites": [
+    {
+      "notebookId": "identidade-cultura-surda",
+      "reason": "Conceitos de identidade e cultura surda."
+    }
+  ],
+  "cards": [
+    {
+      "id": "comunidades-surdas-01",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “povo”?",
+      "translation": "Povo",
+      "librasStructure": "POVO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-02",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “comunidade”?",
+      "translation": "Comunidade",
+      "librasStructure": "COMUNIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-03",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “comunidade (variação)”?",
+      "translation": "Comunidade (variação)",
+      "librasStructure": "COMUNIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=26&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-04",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “ouvinte”?",
+      "translation": "Ouvinte",
+      "librasStructure": "OUVINTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-05",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “cultura”?",
+      "translation": "Cultura",
+      "librasStructure": "CULTURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=34&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-06",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “visual”?",
+      "translation": "Visual",
+      "librasStructure": "VISUAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-07",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “espacial”?",
+      "translation": "Espacial",
+      "librasStructure": "ESPACIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=41&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-08",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “bilíngue”?",
+      "translation": "Bilíngue",
+      "librasStructure": "BILÍNGUE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-09",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “individual”?",
+      "translation": "Individual",
+      "librasStructure": "INDIVIDUAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-10",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “feneis”?",
+      "translation": "Feneis",
+      "librasStructure": "FENEIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-11",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “INES”?",
+      "translation": "INES",
+      "librasStructure": "INES",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=57&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-12",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “associação”?",
+      "translation": "Associação",
+      "librasStructure": "ASSOCIAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=60&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-13",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “ASG (Associação de Surdos de Goiânia)”?",
+      "translation": "ASG (Associação de Surdos de Goiânia)",
+      "librasStructure": "ASG",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-14",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “lei”?",
+      "translation": "Lei",
+      "librasStructure": "LEI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-15",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “esporte”?",
+      "translation": "Esporte",
+      "librasStructure": "ESPORTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-16",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “criação”?",
+      "translation": "Criação",
+      "librasStructure": "CRIAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=76&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "comunidades-surdas-17",
+      "section": "Comunidades surdas",
+      "situation": "Ao falar da comunidade surda, como você sinaliza “grupo”?",
+      "translation": "Grupo",
+      "librasStructure": "GRUPO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

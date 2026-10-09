@@ -1,0 +1,1129 @@
+{
+  "id": "surdocegueira",
+  "title": "Surdocegueira",
+  "description": "Comunicação e acessibilidade com pessoas surdocegas: Libras tátil, braile, guia-intérprete e outros recursos.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Comunidade surda e sociedade",
+  "order": 2,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "identidade-cultura-surda",
+      "reason": "Conceitos de identidade e cultura surda."
+    }
+  ],
+  "cards": [
+    {
+      "id": "surdocegueira-01",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda auditiva”?",
+      "translation": "Perda auditiva",
+      "librasStructure": "PERDA-AUDITIVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=5&end=11&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-02",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda visual”?",
+      "translation": "Perda visual",
+      "librasStructure": "PERDA-VISUAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=9&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-03",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome de CHARGE”?",
+      "translation": "Síndrome de CHARGE",
+      "librasStructure": "SÍNDROME-DE-CHARGE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=18&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-04",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome de Usher”?",
+      "translation": "Síndrome de Usher",
+      "librasStructure": "SÍNDROME-DE-USHER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-05",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome”?",
+      "translation": "Síndrome",
+      "librasStructure": "SÍNDROME",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=34&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-06",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “libras tátil”?",
+      "translation": "Libras tátil",
+      "librasStructure": "LIBRAS-TÁTIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=39&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-07",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “pró-tátil”?",
+      "translation": "Pró-tátil",
+      "librasStructure": "PRÓ-TÁTIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=44&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-08",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “braile”?",
+      "translation": "Braile",
+      "librasStructure": "BRAILE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-09",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “tadoma”?",
+      "translation": "Tadoma",
+      "librasStructure": "TADOMA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-10",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação háptica”?",
+      "translation": "Comunicação háptica",
+      "librasStructure": "COMUNICAÇÃO-HÁPTICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=62&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-11",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cela braile”?",
+      "translation": "Cela braile",
+      "librasStructure": "CELA-BRAILE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=71&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-12",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “alfabeto tátil”?",
+      "translation": "Alfabeto tátil",
+      "librasStructure": "ALFABETO-TÁTIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-13",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “orientação e mobilidade”?",
+      "translation": "Orientação e mobilidade",
+      "librasStructure": "ORIENTAÇÃO-E-MOBILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-14",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “bengala”?",
+      "translation": "Bengala",
+      "librasStructure": "BENGALA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=91&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-15",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “baixa visão”?",
+      "translation": "Baixa visão",
+      "librasStructure": "BAIXA-VISÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=97&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-16",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “deficiência auditiva”?",
+      "translation": "Deficiência auditiva",
+      "librasStructure": "DEFICIÊNCIA-AUDITIVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=103&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-17",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “CID”?",
+      "translation": "CID",
+      "librasStructure": "CID",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-18",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “laudo”?",
+      "translation": "Laudo",
+      "librasStructure": "LAUDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=112&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-19",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “diagnóstico”?",
+      "translation": "Diagnóstico",
+      "librasStructure": "DIAGNÓSTICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-20",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “congênita”?",
+      "translation": "Congênita",
+      "librasStructure": "CONGÊNITA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=132&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-21",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “adquirida”?",
+      "translation": "Adquirida",
+      "librasStructure": "ADQUIRIDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-22",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “acessibilidade”?",
+      "translation": "Acessibilidade",
+      "librasStructure": "ACESSIBILIDADE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=144&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-23",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “choques anafiláticos”?",
+      "translation": "Choques anafiláticos",
+      "librasStructure": "CHOQUES-ANAFILÁTICOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=151&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-24",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “instrutor mediador”?",
+      "translation": "Instrutor mediador",
+      "librasStructure": "INSTRUTOR-MEDIADOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=158&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-25",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “audiodescrição”?",
+      "translation": "Audiodescrição",
+      "librasStructure": "AUDIODESCRIÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=178&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-26",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “retinose pigmentar”?",
+      "translation": "Retinose pigmentar",
+      "librasStructure": "RETINOSE-PIGMENTAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=185&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-27",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cegueira noturna”?",
+      "translation": "Cegueira noturna",
+      "librasStructure": "CEGUEIRA-NOTURNA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=189&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-28",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda da visão periférica”?",
+      "translation": "Perda da visão periférica",
+      "librasStructure": "PERDA-DA-VISÃO-PERIFÉRICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=196&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-29",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda da visão central”?",
+      "translation": "Perda da visão central",
+      "librasStructure": "PERDA-DA-VISÃO-CENTRAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=203&end=209&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-30",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “helen Keller”?",
+      "translation": "Helen Keller",
+      "librasStructure": "HELEN-KELLER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=209&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-31",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “guia-vidente”?",
+      "translation": "Guia-vidente",
+      "librasStructure": "GUIA-VIDENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=218&end=224&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-32",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação receptiva”?",
+      "translation": "Comunicação receptiva",
+      "librasStructure": "COMUNICAÇÃO-RECEPTIVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=226&end=231&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-33",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação expressiva”?",
+      "translation": "Comunicação expressiva",
+      "librasStructure": "COMUNICAÇÃO-EXPRESSIVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=233&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-34",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação simbólica”?",
+      "translation": "Comunicação simbólica",
+      "librasStructure": "COMUNICAÇÃO-SIMBÓLICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=241&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-35",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “fala ampliada”?",
+      "translation": "Fala ampliada",
+      "librasStructure": "FALA-AMPLIADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=251&end=257&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-36",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “libras em campo reduzido”?",
+      "translation": "Libras em campo reduzido",
+      "librasStructure": "LIBRAS-EM-CAMPO-REDUZIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=260&end=265&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-37",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “braile nos dedos”?",
+      "translation": "Braile nos dedos",
+      "librasStructure": "BRAILE-NOS-DEDOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=267&end=273&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-38",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “fala”?",
+      "translation": "Fala",
+      "librasStructure": "FALA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=277&end=283&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-39",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “alfabeto manual com duas mãos”?",
+      "translation": "Alfabeto manual com duas mãos",
+      "librasStructure": "ALFABETO-MANUAL-COM-DUAS-MÃOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=282&end=288&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-40",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “pranchas alfabéticas”?",
+      "translation": "Pranchas alfabéticas",
+      "librasStructure": "PRANCHAS-ALFABÉTICAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=291&end=296&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-41",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “sistema Malossi”?",
+      "translation": "Sistema Malossi",
+      "librasStructure": "SISTEMA-MALOSSI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=300&end=306&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-42",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “sistema Lorm”?",
+      "translation": "Sistema Lorm",
+      "librasStructure": "SISTEMA-LORM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=309&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-43",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “máquina Perkins”?",
+      "translation": "Máquina Perkins",
+      "librasStructure": "MÁQUINA-PERKINS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=318&end=324&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-44",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “uso do dedo como lápis”?",
+      "translation": "Uso do dedo como lápis",
+      "librasStructure": "USO-DO-DEDO-COMO-LÁPIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=326&end=332&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-45",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “escrita na palma da mão”?",
+      "translation": "Escrita na palma da mão",
+      "librasStructure": "ESCRITA-NA-PALMA-DA-MÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=335&end=340&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-46",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “placas alfabéticas com letras”?",
+      "translation": "Placas alfabéticas com letras",
+      "librasStructure": "PLACAS-ALFABÉTICAS-COM-LETRAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=343&end=349&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-47",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “código Morse”?",
+      "translation": "Código Morse",
+      "librasStructure": "CÓDIGO-MORSE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=354&end=359&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-48",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “escrita ampliada”?",
+      "translation": "Escrita ampliada",
+      "librasStructure": "ESCRITA-AMPLIADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=362&end=368&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-49",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cartões de comunicação”?",
+      "translation": "Cartões de comunicação",
+      "librasStructure": "CARTÕES-DE-COMUNICAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=370&end=376&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-50",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação não simbólica”?",
+      "translation": "Comunicação não simbólica",
+      "librasStructure": "COMUNICAÇÃO-NÃO-SIMBÓLICA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=382&end=388&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-51",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “expressões faciais”?",
+      "translation": "Expressões faciais",
+      "librasStructure": "EXPRESSÕES-FACIAIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=394&end=399&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-52",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “movimentos dos olhos”?",
+      "translation": "Movimentos dos olhos",
+      "librasStructure": "MOVIMENTOS-DOS-OLHOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=400&end=406&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-53",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “toque”?",
+      "translation": "Toque",
+      "librasStructure": "TOQUE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=407&end=413&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-54",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “movimentos com objeto”?",
+      "translation": "Movimentos com objeto",
+      "librasStructure": "MOVIMENTOS-COM-OBJETO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=416&end=422&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "surdocegueira-55",
+      "section": "Surdocegueira",
+      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “ações descritivas”?",
+      "translation": "Ações descritivas",
+      "librasStructure": "AÇÕES-DESCRITIVAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=424&end=430&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

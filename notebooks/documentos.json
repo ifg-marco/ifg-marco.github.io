@@ -1,0 +1,1183 @@
+{
+  "id": "documentos",
+  "title": "Documentos",
+  "description": "Documentos pessoais, cartões, certidões, contas e seguros.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 13,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "documentos-01",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Documentos”?",
+      "translation": "Documentos",
+      "librasStructure": "DOCUMENTOS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=10&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-02",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Atestado médico”?",
+      "translation": "Atestado médico",
+      "librasStructure": "ATESTADO-MÉDICO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=15&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-03",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Bater ponto”?",
+      "translation": "Bater ponto",
+      "librasStructure": "BATER-PONTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-04",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Boleto bancário”?",
+      "translation": "Boleto bancário",
+      "librasStructure": "BOLETO-BANCÁRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=28&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-05",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão da aposentadoria”?",
+      "translation": "Cartão da aposentadoria",
+      "librasStructure": "CARTÃO-DA-APOSENTADORIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-06",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do Bradesco”?",
+      "translation": "Cartão do Bradesco",
+      "librasStructure": "CARTÃO-DO-BRADESCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-07",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do Banco do Brasil”?",
+      "translation": "Cartão do Banco do Brasil",
+      "librasStructure": "CARTÃO-DO-BANCO-DO-BRASIL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-08",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão de banco”?",
+      "translation": "Cartão de banco",
+      "librasStructure": "CARTÃO-DE-BANCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=44&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-09",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão da Caixa”?",
+      "translation": "Cartão da Caixa",
+      "librasStructure": "CARTÃO-DA-CAIXA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=48&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-10",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do Ipasgo”?",
+      "translation": "Cartão do Ipasgo",
+      "librasStructure": "CARTÃO-DO-IPASGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=62&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-11",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do Itaú”?",
+      "translation": "Cartão do Itaú",
+      "librasStructure": "CARTÃO-DO-ITAÚ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-12",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do PIS”?",
+      "translation": "Cartão do PIS",
+      "librasStructure": "CARTÃO-DO-PIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=71&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-13",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Sitpass”?",
+      "translation": "Sitpass",
+      "librasStructure": "SITPASS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=75&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-14",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão do SUS”?",
+      "translation": "Cartão do SUS",
+      "librasStructure": "CARTÃO-DO-SUS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-15",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão da Unimed”?",
+      "translation": "Cartão da Unimed",
+      "librasStructure": "CARTÃO-DA-UNIMED",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=86&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-16",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartão de vacina”?",
+      "translation": "Cartão de vacina",
+      "librasStructure": "CARTÃO-DE-VACINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=90&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-17",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Reservista”?",
+      "translation": "Reservista",
+      "librasStructure": "RESERVISTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=96&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-18",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Carteira de trabalho”?",
+      "translation": "Carteira de trabalho",
+      "librasStructure": "CARTEIRA-DE-TRABALHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=100&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-19",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “CNH (carteira de motorista)”?",
+      "translation": "CNH (carteira de motorista)",
+      "librasStructure": "CNH",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=104&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-20",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Cartório”?",
+      "translation": "Cartório",
+      "librasStructure": "CARTÓRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=108&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-21",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Certidão de casamento”?",
+      "translation": "Certidão de casamento",
+      "librasStructure": "CERTIDÃO-DE-CASAMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=112&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-22",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Certidão de divórcio”?",
+      "translation": "Certidão de divórcio",
+      "librasStructure": "CERTIDÃO-DE-DIVÓRCIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=116&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-23",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Certidão de nascimento”?",
+      "translation": "Certidão de nascimento",
+      "librasStructure": "CERTIDÃO-DE-NASCIMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=119&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-24",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Certidão de óbito”?",
+      "translation": "Certidão de óbito",
+      "librasStructure": "CERTIDÃO-DE-ÓBITO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-25",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Certificado”?",
+      "translation": "Certificado",
+      "librasStructure": "CERTIFICADO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-26",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Código de barras”?",
+      "translation": "Código de barras",
+      "librasStructure": "CÓDIGO-DE-BARRAS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=133&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-27",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Comprovante de residência”?",
+      "translation": "Comprovante de residência",
+      "librasStructure": "COMPROVANTE-DE-RESIDÊNCIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=137&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-28",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Conta de água”?",
+      "translation": "Conta de água",
+      "librasStructure": "CONTA-DE-ÁGUA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=142&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-29",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Conta de energia”?",
+      "translation": "Conta de energia",
+      "librasStructure": "CONTA-DE-ENERGIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=146&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-30",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Contracheque”?",
+      "translation": "Contracheque",
+      "librasStructure": "CONTRACHEQUE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=151&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-31",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “CPF”?",
+      "translation": "CPF",
+      "librasStructure": "CPF",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=154&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-32",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Currículo”?",
+      "translation": "Currículo",
+      "librasStructure": "CURRÍCULO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=158&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-33",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Currículo vitae”?",
+      "translation": "Currículo vitae",
+      "librasStructure": "CURRÍCULO-VITAE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=162&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-34",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Declaração”?",
+      "translation": "Declaração",
+      "librasStructure": "DECLARAÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=166&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-35",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Documento do carro”?",
+      "translation": "Documento do carro",
+      "librasStructure": "DOCUMENTO-DO-CARRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=170&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-36",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Documento da moto”?",
+      "translation": "Documento da moto",
+      "librasStructure": "DOCUMENTO-DA-MOTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=173&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-37",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Escritura de imóvel”?",
+      "translation": "Escritura de imóvel",
+      "librasStructure": "ESCRITURA-DE-IMÓVEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=177&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-38",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Imposto de Renda”?",
+      "translation": "Imposto de Renda",
+      "librasStructure": "IMPOSTO-DE-RENDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=188&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-39",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Imposto”?",
+      "translation": "Imposto",
+      "librasStructure": "IMPOSTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=193&end=198&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-40",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Inscrição”?",
+      "translation": "Inscrição",
+      "librasStructure": "INSCRIÇÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=197&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-41",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “IPTU”?",
+      "translation": "IPTU",
+      "librasStructure": "IPTU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=200&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-42",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “IPVA”?",
+      "translation": "IPVA",
+      "librasStructure": "IPVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=206&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-43",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Nubank”?",
+      "translation": "Nubank",
+      "librasStructure": "NUBANK",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=220&end=225&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-44",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Ofício”?",
+      "translation": "Ofício",
+      "librasStructure": "OFÍCIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=224&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-45",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Pasep”?",
+      "translation": "Pasep",
+      "librasStructure": "PASEP",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=229&end=235&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-46",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Passagem”?",
+      "translation": "Passagem",
+      "librasStructure": "PASSAGEM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=235&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-47",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Passaporte”?",
+      "translation": "Passaporte",
+      "librasStructure": "PASSAPORTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=242&end=248&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-48",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Passe Livre”?",
+      "translation": "Passe Livre",
+      "librasStructure": "PASSE-LIVRE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=246&end=251&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-49",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “RG (Registro Geral)”?",
+      "translation": "RG (Registro Geral)",
+      "librasStructure": "RG",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=250&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-50",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “RG (variação)”?",
+      "translation": "RG (variação)",
+      "librasStructure": "RG",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=253&end=259&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-51",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Seguro de automóvel”?",
+      "translation": "Seguro de automóvel",
+      "librasStructure": "SEGURO-DE-AUTOMÓVEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=258&end=263&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-52",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Seguro de vida”?",
+      "translation": "Seguro de vida",
+      "librasStructure": "SEGURO-DE-VIDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=262&end=268&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-53",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Seguro empresarial”?",
+      "translation": "Seguro empresarial",
+      "librasStructure": "SEGURO-EMPRESARIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=266&end=272&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-54",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Seguro residencial”?",
+      "translation": "Seguro residencial",
+      "librasStructure": "SEGURO-RESIDENCIAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=270&end=276&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-55",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Seguro saúde”?",
+      "translation": "Seguro saúde",
+      "librasStructure": "SEGURO-SAÚDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=274&end=280&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-56",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Senha”?",
+      "translation": "Senha",
+      "librasStructure": "SENHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=278&end=284&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-57",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Sistema de pagamento”?",
+      "translation": "Sistema de pagamento",
+      "librasStructure": "SISTEMA-DE-PAGAMENTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=283&end=288&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "documentos-58",
+      "section": "Documentos",
+      "situation": "Num atendimento, como você sinaliza “Título de eleitor”?",
+      "translation": "Título de eleitor",
+      "librasStructure": "TÍTULO-DE-ELEITOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=288&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

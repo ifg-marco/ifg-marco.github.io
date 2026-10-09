@@ -1,0 +1,963 @@
+{
+  "id": "frutas-legumes",
+  "title": "Frutas, legumes e verduras",
+  "description": "Frutas, legumes e verduras da feira e do mercado.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 8,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "frutas-legumes-01",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “abóbora”?",
+      "translation": "Abóbora",
+      "librasStructure": "ABÓBORA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=15&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-02",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “abobrinha italiana”?",
+      "translation": "Abobrinha italiana",
+      "librasStructure": "ABOBRINHA-ITALIANA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=19&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-03",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “alho”?",
+      "translation": "Alho",
+      "librasStructure": "ALHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-04",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “berinjela”?",
+      "translation": "Berinjela",
+      "librasStructure": "BERINJELA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-05",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “beterraba”?",
+      "translation": "Beterraba",
+      "librasStructure": "BETERRABA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-06",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “batata”?",
+      "translation": "Batata",
+      "librasStructure": "BATATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=34&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-07",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “batata-doce”?",
+      "translation": "Batata-doce",
+      "librasStructure": "BATATA-DOCE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=37&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-08",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cebola”?",
+      "translation": "Cebola",
+      "librasStructure": "CEBOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-09",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cenoura”?",
+      "translation": "Cenoura",
+      "librasStructure": "CENOURA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=45&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-10",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “chuchu”?",
+      "translation": "Chuchu",
+      "librasStructure": "CHUCHU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-11",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cogumelo”?",
+      "translation": "Cogumelo",
+      "librasStructure": "COGUMELO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=53&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-12",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “couve-flor”?",
+      "translation": "Couve-flor",
+      "librasStructure": "COUVE-FLOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=57&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-13",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “feijão verde”?",
+      "translation": "Feijão verde",
+      "librasStructure": "FEIJÃO-VERDE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=62&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-14",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “gengibre”?",
+      "translation": "Gengibre",
+      "librasStructure": "GENGIBRE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=69&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-15",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “jiló”?",
+      "translation": "Jiló",
+      "librasStructure": "JILÓ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-16",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “milho”?",
+      "translation": "Milho",
+      "librasStructure": "MILHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-17",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pepino”?",
+      "translation": "Pepino",
+      "librasStructure": "PEPINO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=82&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-18",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pimenta”?",
+      "translation": "Pimenta",
+      "librasStructure": "PIMENTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=86&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-19",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “mandioca”?",
+      "translation": "Mandioca",
+      "librasStructure": "MANDIOCA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=90&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-20",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “amendoim”?",
+      "translation": "Amendoim",
+      "librasStructure": "AMENDOIM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=93&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-21",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cebolinha”?",
+      "translation": "Cebolinha",
+      "librasStructure": "CEBOLINHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-22",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pimentão”?",
+      "translation": "Pimentão",
+      "librasStructure": "PIMENTÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=102&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-23",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “quiabo”?",
+      "translation": "Quiabo",
+      "librasStructure": "QUIABO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-24",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pequi”?",
+      "translation": "Pequi",
+      "librasStructure": "PEQUI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=113&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-25",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pera”?",
+      "translation": "Pera",
+      "librasStructure": "PERA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=118&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-26",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “pêssego”?",
+      "translation": "Pêssego",
+      "librasStructure": "PÊSSEGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-27",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “tomate”?",
+      "translation": "Tomate",
+      "librasStructure": "TOMATE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=124&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-28",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “uva”?",
+      "translation": "Uva",
+      "librasStructure": "UVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=128&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-29",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “ameixa”?",
+      "translation": "Ameixa",
+      "librasStructure": "AMEIXA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=132&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-30",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “açaí”?",
+      "translation": "Açaí",
+      "librasStructure": "AÇAÍ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=137&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-31",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “acerola”?",
+      "translation": "Acerola",
+      "librasStructure": "ACEROLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=145&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-32",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “amora”?",
+      "translation": "Amora",
+      "librasStructure": "AMORA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=149&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-33",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “carambola”?",
+      "translation": "Carambola",
+      "librasStructure": "CARAMBOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=154&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-34",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cajamanga”?",
+      "translation": "Cajamanga",
+      "librasStructure": "CAJAMANGA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=158&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-35",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “caqui”?",
+      "translation": "Caqui",
+      "librasStructure": "CAQUI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=164&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-36",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cereja”?",
+      "translation": "Cereja",
+      "librasStructure": "CEREJA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=169&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-37",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “cupuaçu”?",
+      "translation": "Cupuaçu",
+      "librasStructure": "CUPUAÇU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=174&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-38",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “damasco”?",
+      "translation": "Damasco",
+      "librasStructure": "DAMASCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=177&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-39",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “figo”?",
+      "translation": "Figo",
+      "librasStructure": "FIGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=182&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-40",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “graviola”?",
+      "translation": "Graviola",
+      "librasStructure": "GRAVIOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=186&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-41",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “tamarindo”?",
+      "translation": "Tamarindo",
+      "librasStructure": "TAMARINDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=191&end=198&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-42",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “romã”?",
+      "translation": "Romã",
+      "librasStructure": "ROMÃ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=196&end=203&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-43",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “agrião”?",
+      "translation": "Agrião",
+      "librasStructure": "AGRIÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=202&end=208&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-44",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “alface”?",
+      "translation": "Alface",
+      "librasStructure": "ALFACE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=207&end=213&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-45",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “brócolis”?",
+      "translation": "Brócolis",
+      "librasStructure": "BRÓCOLIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=212&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-46",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “couve”?",
+      "translation": "Couve",
+      "librasStructure": "COUVE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=217&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "frutas-legumes-47",
+      "section": "Frutas, legumes e verduras",
+      "situation": "Na feira, como você sinaliza “repolho”?",
+      "translation": "Repolho",
+      "librasStructure": "REPOLHO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/2yS_3AoFqRQ?start=222&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2yS_3AoFqRQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

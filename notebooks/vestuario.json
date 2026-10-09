@@ -1,0 +1,1043 @@
+{
+  "id": "vestuario",
+  "title": "Roupas e acessórios",
+  "description": "Peças de roupa, calçados e acessórios.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 10,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "vestuario-01",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “avental”?",
+      "translation": "Avental",
+      "librasStructure": "AVENTAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-02",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bermuda”?",
+      "translation": "Bermuda",
+      "librasStructure": "BERMUDA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=21&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-03",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “biquíni”?",
+      "translation": "Biquíni",
+      "librasStructure": "BIQUÍNI",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=26&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-04",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa”?",
+      "translation": "Blusa",
+      "librasStructure": "BLUSA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-05",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bolso”?",
+      "translation": "Bolso",
+      "librasStructure": "BOLSO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=35&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-06",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calça jeans”?",
+      "translation": "Calça jeans",
+      "librasStructure": "CALÇA-JEANS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-07",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calcinha”?",
+      "translation": "Calcinha",
+      "librasStructure": "CALCINHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-08",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisa de manga curta”?",
+      "translation": "Camisa de manga curta",
+      "librasStructure": "CAMISA-DE-MANGA-CURTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=46&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-09",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisa de manga longa”?",
+      "translation": "Camisa de manga longa",
+      "librasStructure": "CAMISA-DE-MANGA-LONGA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=52&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-10",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa de frio”?",
+      "translation": "Blusa de frio",
+      "librasStructure": "BLUSA-DE-FRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=58&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-11",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa de manga curta”?",
+      "translation": "Blusa de manga curta",
+      "librasStructure": "BLUSA-DE-MANGA-CURTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=63&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-12",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calça de couro”?",
+      "translation": "Calça de couro",
+      "librasStructure": "CALÇA-DE-COURO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=68&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-13",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisola”?",
+      "translation": "Camisola",
+      "librasStructure": "CAMISOLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=73&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-14",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “casaco”?",
+      "translation": "Casaco",
+      "librasStructure": "CASACO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=78&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-15",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “cueca”?",
+      "translation": "Cueca",
+      "librasStructure": "CUECA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=84&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-16",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calcinha (variação)”?",
+      "translation": "Calcinha (variação)",
+      "librasStructure": "CALCINHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-17",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “jaqueta jeans”?",
+      "translation": "Jaqueta jeans",
+      "librasStructure": "JAQUETA-JEANS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=91&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-18",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “jaqueta de couro”?",
+      "translation": "Jaqueta de couro",
+      "librasStructure": "JAQUETA-DE-COURO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-19",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “luva”?",
+      "translation": "Luva",
+      "librasStructure": "LUVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=103&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-20",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “macacão”?",
+      "translation": "Macacão",
+      "librasStructure": "MACACÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=108&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-21",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “maiô”?",
+      "translation": "Maiô",
+      "librasStructure": "MAIÔ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=111&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-22",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “meia”?",
+      "translation": "Meia",
+      "librasStructure": "MEIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=115&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-23",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “meia-calça”?",
+      "translation": "Meia-calça",
+      "librasStructure": "MEIA-CALÇA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=119&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-24",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “pijama”?",
+      "translation": "Pijama",
+      "librasStructure": "PIJAMA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=127&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-25",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “saia rodada”?",
+      "translation": "Saia rodada",
+      "librasStructure": "SAIA-RODADA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-26",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sunga”?",
+      "translation": "Sunga",
+      "librasStructure": "SUNGA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=134&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-27",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sutiã”?",
+      "translation": "Sutiã",
+      "librasStructure": "SUTIÃ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=138&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-28",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “vestido”?",
+      "translation": "Vestido",
+      "librasStructure": "VESTIDO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=141&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-29",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “zíper”?",
+      "translation": "Zíper",
+      "librasStructure": "ZÍPER",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=145&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-30",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “salto alto”?",
+      "translation": "Salto alto",
+      "librasStructure": "SALTO-ALTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=149&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-31",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “chinelo”?",
+      "translation": "Chinelo",
+      "librasStructure": "CHINELO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=154&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-32",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sandália”?",
+      "translation": "Sandália",
+      "librasStructure": "SANDÁLIA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=157&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-33",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “tênis”?",
+      "translation": "Tênis",
+      "librasStructure": "TÊNIS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=161&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-34",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “terno”?",
+      "translation": "Terno",
+      "librasStructure": "TERNO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=165&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-35",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “batom”?",
+      "translation": "Batom",
+      "librasStructure": "BATOM",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=169&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-36",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “brinco”?",
+      "translation": "Brinco",
+      "librasStructure": "BRINCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=174&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-37",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “colar”?",
+      "translation": "Colar",
+      "librasStructure": "COLAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=177&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-38",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “chapéu”?",
+      "translation": "Chapéu",
+      "librasStructure": "CHAPÉU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=181&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-39",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “esmalte”?",
+      "translation": "Esmalte",
+      "librasStructure": "ESMALTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=190&end=196&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-40",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “guarda-chuva”?",
+      "translation": "Guarda-chuva",
+      "librasStructure": "GUARDA-CHUVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=195&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-41",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “maleta”?",
+      "translation": "Maleta",
+      "librasStructure": "MALETA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=201&end=207&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-42",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “óculos escuros”?",
+      "translation": "Óculos escuros",
+      "librasStructure": "ÓCULOS-ESCUROS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=207&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-43",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “óculos de sol”?",
+      "translation": "Óculos de sol",
+      "librasStructure": "ÓCULOS-DE-SOL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=211&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-44",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “boné”?",
+      "translation": "Boné",
+      "librasStructure": "BONÉ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=216&end=221&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-45",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bolsa”?",
+      "translation": "Bolsa",
+      "librasStructure": "BOLSA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=219&end=225&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-46",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “relógio”?",
+      "translation": "Relógio",
+      "librasStructure": "RELÓGIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=223&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-47",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “pulseira”?",
+      "translation": "Pulseira",
+      "librasStructure": "PULSEIRA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=227&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-48",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bota”?",
+      "translation": "Bota",
+      "librasStructure": "BOTA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=231&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-49",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “gravata”?",
+      "translation": "Gravata",
+      "librasStructure": "GRAVATA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=236&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-50",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “cinto”?",
+      "translation": "Cinto",
+      "librasStructure": "CINTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=239&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "vestuario-51",
+      "section": "Roupas e acessórios",
+      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “suspensório”?",
+      "translation": "Suspensório",
+      "librasStructure": "SUSPENSÓRIO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=243&end=249&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1223 @@
+{
+  "id": "alimentos",
+  "title": "Alimentos e bebidas",
+  "description": "Comidas do dia a dia e bebidas para conversar sobre refeições.",
+  "section": "Caderno público",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-09T05:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:00:00.000Z"
+    }
+  ],
+  "collection": "Dia a dia",
+  "order": 7,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "alimentos-01",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “arroz”?",
+      "translation": "Arroz",
+      "librasStructure": "ARROZ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=12&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-02",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “feijão”?",
+      "translation": "Feijão",
+      "librasStructure": "FEIJÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=15&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-03",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “macarrão”?",
+      "translation": "Macarrão",
+      "librasStructure": "MACARRÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=19&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-04",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “sal”?",
+      "translation": "Sal",
+      "librasStructure": "SAL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-05",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “óleo”?",
+      "translation": "Óleo",
+      "librasStructure": "ÓLEO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-06",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “sorvete”?",
+      "translation": "Sorvete",
+      "librasStructure": "SORVETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=31&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-07",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “bauru”?",
+      "translation": "Bauru",
+      "librasStructure": "BAURU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=35&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-08",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “sopa”?",
+      "translation": "Sopa",
+      "librasStructure": "SOPA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=38&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-09",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “sanduíche”?",
+      "translation": "Sanduíche",
+      "librasStructure": "SANDUÍCHE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=43&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-10",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “queijo”?",
+      "translation": "Queijo",
+      "librasStructure": "QUEIJO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=47&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-11",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “requeijão”?",
+      "translation": "Requeijão",
+      "librasStructure": "REQUEIJÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=52&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-12",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “presunto”?",
+      "translation": "Presunto",
+      "librasStructure": "PRESUNTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-13",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “pão de queijo”?",
+      "translation": "Pão de queijo",
+      "librasStructure": "PÃO-DE-QUEIJO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=60&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-14",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “pipoca”?",
+      "translation": "Pipoca",
+      "librasStructure": "PIPOCA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=65&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-15",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “pastel”?",
+      "translation": "Pastel",
+      "librasStructure": "PASTEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=70&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-16",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “rosca”?",
+      "translation": "Rosca",
+      "librasStructure": "ROSCA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=75&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-17",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “pão doce”?",
+      "translation": "Pão doce",
+      "librasStructure": "PÃO-DOCE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=81&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-18",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “pão”?",
+      "translation": "Pão",
+      "librasStructure": "PÃO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=86&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-19",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “arroz doce”?",
+      "translation": "Arroz doce",
+      "librasStructure": "ARROZ-DOCE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=92&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-20",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “feijão tropeiro”?",
+      "translation": "Feijão tropeiro",
+      "librasStructure": "FEIJÃO-TROPEIRO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=96&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-21",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “mel”?",
+      "translation": "Mel",
+      "librasStructure": "MEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=102&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-22",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “maionese”?",
+      "translation": "Maionese",
+      "librasStructure": "MAIONESE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=109&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-23",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “manteiga”?",
+      "translation": "Manteiga",
+      "librasStructure": "MANTEIGA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=114&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-24",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “linguiça”?",
+      "translation": "Linguiça",
+      "librasStructure": "LINGUIÇA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=120&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-25",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “frango”?",
+      "translation": "Frango",
+      "librasStructure": "FRANGO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=128&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-26",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “peixe”?",
+      "translation": "Peixe",
+      "librasStructure": "PEIXE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=132&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-27",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “carne de porco”?",
+      "translation": "Carne de porco",
+      "librasStructure": "CARNE-DE-PORCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=137&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-28",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “gelatina”?",
+      "translation": "Gelatina",
+      "librasStructure": "GELATINA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=143&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-29",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “chocolate”?",
+      "translation": "Chocolate",
+      "librasStructure": "CHOCOLATE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=149&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-30",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “doce”?",
+      "translation": "Doce",
+      "librasStructure": "DOCE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=154&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-31",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “churrasco”?",
+      "translation": "Churrasco",
+      "librasStructure": "CHURRASCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=159&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-32",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “chiclete”?",
+      "translation": "Chiclete",
+      "librasStructure": "CHICLETE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=163&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-33",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “carne”?",
+      "translation": "Carne",
+      "librasStructure": "CARNE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=169&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-34",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “cachorro-quente”?",
+      "translation": "Cachorro-quente",
+      "librasStructure": "CACHORRO-QUENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-35",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “bolacha / biscoito”?",
+      "translation": "Bolacha / biscoito",
+      "librasStructure": "BOLACHA/BISCOITO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=178&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-36",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “bolo”?",
+      "translation": "Bolo",
+      "librasStructure": "BOLO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=185&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-37",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “bala”?",
+      "translation": "Bala",
+      "librasStructure": "BALA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=192&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-38",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “azeite”?",
+      "translation": "Azeite",
+      "librasStructure": "AZEITE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=196&end=201&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-39",
+      "section": "Alimentos",
+      "situation": "Na hora da refeição, como você sinaliza “açúcar”?",
+      "translation": "Açúcar",
+      "librasStructure": "AÇÚCAR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=200&end=207&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-40",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “adoçante”?",
+      "translation": "Adoçante",
+      "librasStructure": "ADOÇANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-41",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “água com gás”?",
+      "translation": "Água com gás",
+      "librasStructure": "ÁGUA-COM-GÁS",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=19&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-42",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “chocolate quente”?",
+      "translation": "Chocolate quente",
+      "librasStructure": "CHOCOLATE-QUENTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=23&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-43",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “coca-Cola”?",
+      "translation": "Coca-Cola",
+      "librasStructure": "COCA-COLA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-44",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “vinho branco”?",
+      "translation": "Vinho branco",
+      "librasStructure": "VINHO-BRANCO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=33&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-45",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “vinho tinto”?",
+      "translation": "Vinho tinto",
+      "librasStructure": "VINHO-TINTO",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-46",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “chá”?",
+      "translation": "Chá",
+      "librasStructure": "CHÁ",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=44&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-47",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “leite”?",
+      "translation": "Leite",
+      "librasStructure": "LEITE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=50&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-48",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “refrigerante”?",
+      "translation": "Refrigerante",
+      "librasStructure": "REFRIGERANTE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=53&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-49",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “cerveja”?",
+      "translation": "Cerveja",
+      "librasStructure": "CERVEJA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=57&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-50",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “fanta Uva”?",
+      "translation": "Fanta Uva",
+      "librasStructure": "FANTA-UVA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-51",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “água”?",
+      "translation": "Água",
+      "librasStructure": "ÁGUA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=66&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-52",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “pinga”?",
+      "translation": "Pinga",
+      "librasStructure": "PINGA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=82&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-53",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “fanta Laranja”?",
+      "translation": "Fanta Laranja",
+      "librasStructure": "FANTA-LARANJA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-54",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “licor”?",
+      "translation": "Licor",
+      "librasStructure": "LICOR",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-55",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “uísque”?",
+      "translation": "Uísque",
+      "librasStructure": "UÍSQUE",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=103&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-56",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “coquetel”?",
+      "translation": "Coquetel",
+      "librasStructure": "COQUETEL",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=111&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-57",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “caipirinha”?",
+      "translation": "Caipirinha",
+      "librasStructure": "CAIPIRINHA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=124&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-58",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “vodca”?",
+      "translation": "Vodca",
+      "librasStructure": "VODCA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=134&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-59",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “caracu”?",
+      "translation": "Caracu",
+      "librasStructure": "CARACU",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=138&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "alimentos-60",
+      "section": "Bebidas",
+      "situation": "Na hora da refeição, como você sinaliza “tequila”?",
+      "translation": "Tequila",
+      "librasStructure": "TEQUILA",
+      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "changeLog": [
+        {
+          "action": "created",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T05:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

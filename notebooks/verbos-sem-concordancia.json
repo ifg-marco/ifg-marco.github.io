@@ -13,6 +13,47 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T16:16:29.398Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:10:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 8,
+  "difficulty": "intermediario",
+  "prerequisites": [
+    {
+      "notebookId": "pronomes",
+      "reason": "Os verbos se combinam com os pronomes pessoais."
     }
   ],
   "cards": [
@@ -20,7 +61,7 @@
       "id": "verbo-sem-concordancia-01",
       "section": "Verbos sem concordância",
       "situation": "Como você sinaliza respeitar?",
-      "translation": "Respeitar",
+      "translation": "Respeitar (sem concordância)",
       "librasStructure": "RESPEITAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
       "examples": [
@@ -37,6 +78,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:16:29.398Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -92,7 +141,7 @@
       "id": "verbo-sem-concordancia-04",
       "section": "Verbos sem concordância",
       "situation": "Como você sinaliza poder?",
-      "translation": "Poder",
+      "translation": "Poder (verbo)",
       "librasStructure": "PODER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
       "examples": [
@@ -109,6 +158,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:16:29.398Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -685,6 +742,20 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:16:29.398Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "familia",
+          "cardId": "familia-41"
         }
       ]
     },

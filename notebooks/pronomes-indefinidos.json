@@ -13,6 +13,47 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-07T16:05:03.645Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:10:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T05:10:00.000Z"
+    }
+  ],
+  "collection": "Gramática",
+  "order": 7,
+  "difficulty": "intermediario",
+  "prerequisites": [
+    {
+      "notebookId": "pronomes",
+      "reason": "Comece pelos pronomes pessoais."
     }
   ],
   "cards": [
@@ -404,7 +445,7 @@
       "id": "indefinido-extra-05",
       "section": "Variações e revisão",
       "situation": "Como você sinaliza ninguém?",
-      "translation": "Ninguém",
+      "translation": "Ninguém (variação)",
       "librasStructure": "NINGUÉM",
       "notes": "Observe a variação apresentada neste vídeo.",
       "examples": [
@@ -421,6 +462,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:07:12.688Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -452,7 +501,7 @@
       "id": "indefinido-extra-07",
       "section": "Variações e revisão",
       "situation": "Como você sinaliza nada?",
-      "translation": "Nada",
+      "translation": "Nada (variação)",
       "librasStructure": "NADA",
       "notes": "Observe a variação apresentada neste vídeo.",
       "examples": [
@@ -469,6 +518,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:07:12.688Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -524,7 +581,7 @@
       "id": "indefinido-extra-10",
       "section": "Variações e revisão",
       "situation": "Como você sinaliza só?",
-      "translation": "Só",
+      "translation": "Só (variação)",
       "librasStructure": "SÓ",
       "notes": "Observe a variação apresentada neste vídeo.",
       "examples": [
@@ -541,6 +598,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:07:12.688Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     },
@@ -548,7 +613,7 @@
       "id": "indefinido-extra-11",
       "section": "Variações e revisão",
       "situation": "Como você sinaliza sozinho?",
-      "translation": "Sozinho",
+      "translation": "Sozinho (variação)",
       "librasStructure": "SOZINHO",
       "notes": "Observe a variação apresentada neste vídeo.",
       "examples": [
@@ -565,6 +630,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-07T16:07:12.688Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-09T03:10:00.000Z"
         }
       ]
     }

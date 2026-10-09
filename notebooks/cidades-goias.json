@@ -21,8 +21,27 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-08T12:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-09T03:00:00.000Z"
     }
   ],
+  "collection": "Lugares",
+  "order": 4,
+  "difficulty": "intermediario",
   "cards": [
     {
       "id": "goias-02",
