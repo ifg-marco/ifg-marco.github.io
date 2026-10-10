@@ -256,7 +256,7 @@
     },
     {
       "id": "disciplinas",
-      "hash": "28a90b302a8694d5",
+      "hash": "45b0b46fc43a4c9b",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Disciplinas escolares",
       "description": "Nomes das disciplinas da escola.",
@@ -267,7 +267,7 @@
     },
     {
       "id": "documentos",
-      "hash": "0d7c782d76be0850",
+      "hash": "f1c611c281a1768e",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Documentos",
       "description": "Documentos pessoais, cartões, certidões, contas e seguros.",
@@ -289,7 +289,7 @@
     },
     {
       "id": "drogas",
-      "hash": "5454e692d4a858ab",
+      "hash": "b192dc0d1e5dc753",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Drogas",
       "description": "Drogas lícitas e ilícitas, tráfico e prevenção.",
@@ -300,7 +300,7 @@
     },
     {
       "id": "escola-materiais",
-      "hash": "18850f94abbec76d",
+      "hash": "577d7f8d35d6bfa6",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Escola: materiais",
       "description": "Materiais escolares e objetos da sala de aula.",
@@ -311,7 +311,7 @@
     },
     {
       "id": "escola-rotina",
-      "hash": "598b057969206db1",
+      "hash": "fcdf326b8754f2d2",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Escola: aula, avaliação e equipe",
       "description": "Rotina escolar, avaliação e os profissionais da escola.",
@@ -423,7 +423,7 @@
     },
     {
       "id": "goiania-ensino-times",
-      "hash": "697da7e1de5ffcae",
+      "hash": "4ab0ee49c8ec7c74",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Goiânia: faculdades e times",
       "description": "Instituições de ensino superior e times de futebol de Goiás.",
@@ -467,7 +467,7 @@
     },
     {
       "id": "identidade-cultura-surda",
-      "hash": "6f2efe60fd842ee9",
+      "hash": "39c337add693368b",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Identidade e cultura surda",
       "description": "Conceitos sobre identidade, cultura, educação e história das pessoas surdas.",
@@ -546,7 +546,7 @@
     },
     {
       "id": "pesos-medidas",
-      "hash": "2b539d4edb86db95",
+      "hash": "1060cb6d5869d912",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Pesos e medidas",
       "description": "Peso, comprimento, volume e instrumentos de medida.",
