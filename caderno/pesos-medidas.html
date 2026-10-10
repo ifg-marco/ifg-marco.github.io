@@ -2,7 +2,10 @@
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
     <!-- seo:start -->
     <title>Pesos e medidas em Libras — 19 cartões | Caderno de Libras</title>
     <meta name="description" content="Peso, comprimento, volume e instrumentos de medida. 19 cartões com vídeo em Libras, tradução e revisão espaçada. Gratuito e sem cadastro." />
@@ -40,12 +43,28 @@
       }
     </script>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W6NBLMCWW3"></script>
+    <!-- D7: o dataLayer nasce já (os eventos ficam na fila); o gtag.js só baixa depois do
+         load, no ócio do navegador, para não disputar a carga inicial. Pode perder visitas
+         que fecham a página antes disso. -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
       gtag('config', 'G-W6NBLMCWW3');
+      (function () {
+        function carregarGtag() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-W6NBLMCWW3';
+          document.head.appendChild(s);
+        }
+        function aposCarga() {
+          if ('requestIdleCallback' in window) requestIdleCallback(carregarGtag, { timeout: 3000 });
+          else setTimeout(carregarGtag, 1);
+        }
+        if (document.readyState === 'complete') aposCarga();
+        else window.addEventListener('load', aposCarga, { once: true });
+      })();
     </script>
     <link rel="preconnect" href="https://www.youtube.com" />
     <link rel="preconnect" href="https://i.ytimg.com" />
@@ -54,36 +73,33 @@
     <link rel="icon" href="/icons/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
     <meta name="theme-color" content="#46178f" />
-    <link href="/_app/immutable/entry/start.BZcz4k8L.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/B8SIH_j8.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CBaWC9ev.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CO-EB1MY.js" rel="modulepreload">
-		<link href="/_app/immutable/entry/app.Cm4MKpuy.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/PPVm8Dsz.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/Dflpou3i.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CIBIJx5u.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CChFImu8.js" rel="modulepreload">
-		<link href="/_app/immutable/nodes/0.rOrp-Hzd.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/Cwe7NKi8.js" rel="modulepreload">
+    <link href="/_app/immutable/entry/start.CGyUOTVo.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BvtWTict.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/jm6y9L6S.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CgJgLf1T.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.DJxeKrB-.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/Cl5ll-C3.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CBdJNYuL.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DGgKceXY.js" rel="modulepreload">
+		<link href="/_app/immutable/nodes/0.8Nmnc8h3.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CqYALpEv.js" rel="modulepreload">
 		
-		<link href="/_app/immutable/assets/0.DQ5uMUal.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+		<link href="/_app/immutable/assets/engagement.MZnx0Avn.css" rel="stylesheet">
+		<link href="/_app/immutable/assets/0.CkBLn7hk.css" rel="stylesheet">
   </head>
   <body data-sveltekit-preload-data="hover">
     <div style="display: contents">
 			<script>
 				{
-					__sveltekit_iy89kr = {
+					__sveltekit_14g6tkv = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.BZcz4k8L.js"),
-						import("/_app/immutable/entry/app.Cm4MKpuy.js")
+						import("/_app/immutable/entry/start.CGyUOTVo.js"),
+						import("/_app/immutable/entry/app.DJxeKrB-.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});

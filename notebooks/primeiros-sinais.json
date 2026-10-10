@@ -21,19 +21,62 @@
         "email": "marco.aq7@gmail.com"
       },
       "at": "2026-10-09T03:00:00.000Z"
-    }
-  ],
-  "collection": "Dia a dia",
-  "order": 2,
-  "difficulty": "iniciante",
-  "next": [
-    {
-      "notebookId": "familia",
-      "reason": "Depois de se apresentar, aprenda a falar da sua família."
     },
     {
-      "notebookId": "horas-periodos",
-      "reason": "Bom dia, boa tarde e boa noite levam aos períodos do dia."
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:01:49.951Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:02:13.636Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:03:00.452Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:03:38.086Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:04:19.337Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:05:10.853Z"
+    },
+    {
+      "action": "edited",
+      "actor": {
+        "name": "Marco Antônio",
+        "email": "marco.aq7@gmail.com"
+      },
+      "at": "2026-10-10T04:06:02.071Z"
     }
   ],
   "cards": [
@@ -47,7 +90,7 @@
       "examples": [
         "Bom dia! Tudo bem? → BOM-DIA! TUDO-BEM? (sobrancelhas levantadas)"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=28&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=22&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
           "action": "created",
@@ -56,6 +99,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:01:49.951Z"
         }
       ]
     },
@@ -69,7 +120,7 @@
       "examples": [
         "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=37&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
           "action": "created",
@@ -78,6 +129,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:02:13.636Z"
         }
       ]
     },
@@ -133,7 +192,7 @@
       "examples": [
         "Bom dia! Tudo bem? → BOM-DIA! TUDO-BEM? (sobrancelhas levantadas)"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=21&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
           "action": "created",
@@ -142,6 +201,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:03:00.452Z"
         }
       ]
     },
@@ -155,7 +222,7 @@
       "examples": [
         "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=93&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
           "action": "created",
@@ -164,6 +231,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:03:38.086Z"
         }
       ]
     },
@@ -177,7 +252,7 @@
       "examples": [
         "Tudo bem? Bem! → TUDO-BEM? BOM!"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=83&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=84&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
           "action": "created",
@@ -186,6 +261,22 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:04:19.337Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:05:10.853Z"
         }
       ]
     },
@@ -199,7 +290,7 @@
       "examples": [
         "Tudo bem? Mais ou menos. → TUDO-BEM? MAIS-OU-MENOS."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=47&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
           "action": "created",
@@ -208,6 +299,14 @@
             "email": "marco.aq7@gmail.com"
           },
           "at": "2026-10-08T23:30:00.000Z"
+        },
+        {
+          "action": "edited",
+          "actor": {
+            "name": "Marco Antônio",
+            "email": "marco.aq7@gmail.com"
+          },
+          "at": "2026-10-10T04:06:02.071Z"
         }
       ]
     },

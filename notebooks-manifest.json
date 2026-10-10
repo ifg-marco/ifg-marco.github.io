@@ -35,11 +35,11 @@
     },
     {
       "id": "alfabeto",
-      "hash": "6c3c4dc06a85ddaf",
+      "hash": "c26a92592f92c7cc",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Alfabeto manual",
-      "description": "As letras do alfabeto manual da Libras (datilologia), base para soletrar nomes e palavras.",
-      "cardCount": 26,
+      "description": "Aprenda o alfabeto manual completo da Libras em um único vídeo, da letra A à letra Z.",
+      "cardCount": 1,
       "collection": "Dia a dia",
       "order": 1,
       "difficulty": "iniciante",
@@ -557,24 +557,11 @@
     },
     {
       "id": "primeiros-sinais",
-      "hash": "39528a1dff496890",
+      "hash": "62522e95e426d4c6",
       "updatedAt": "2026-10-08T23:30:00.000Z",
       "title": "Primeiros sinais",
       "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras.",
-      "cardCount": 22,
-      "collection": "Dia a dia",
-      "order": 2,
-      "difficulty": "iniciante",
-      "next": [
-        {
-          "notebookId": "familia",
-          "reason": "Depois de se apresentar, aprenda a falar da sua família."
-        },
-        {
-          "notebookId": "horas-periodos",
-          "reason": "Bom dia, boa tarde e boa noite levam aos períodos do dia."
-        }
-      ]
+      "cardCount": 22
     },
     {
       "id": "producao-multimidia-bilingue",
