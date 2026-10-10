@@ -183,9 +183,9 @@
     {
       "id": "comparacao-06",
       "section": "Comparação",
-      "situation": "Como você diz que algo é melhor que outra coisa?",
+      "situation": "Como você diz que algo é melhor que outra coisa? Iguais (Objeto)?",
       "translation": "Melhor que",
-      "librasStructure": "MELHOR-QUE",
+      "librasStructure": "MELHOR-QUE, IGUAL (OBJETOS)",
       "notes": "Use para comparar qualidade, preferência ou resultado, deixando clara a relação entre os dois elementos.",
       "examples": [
         "“Para mim, revisar hoje é melhor que deixar para amanhã.”",
