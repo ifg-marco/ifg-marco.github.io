@@ -73,33 +73,114 @@
     <link rel="icon" href="/icons/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
     <meta name="theme-color" content="#46178f" />
-    <link href="/_app/immutable/entry/start.BgqQEkHN.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CFA7xT6b.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/jm6y9L6S.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BirgvWjm.js" rel="modulepreload">
-		<link href="/_app/immutable/entry/app.CYurUf_S.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/Cl5ll-C3.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CBdJNYuL.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/DGgKceXY.js" rel="modulepreload">
-		<link href="/_app/immutable/nodes/0.J-bOY5_y.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CjNIqzvh.js" rel="modulepreload">
+    <!-- Carregamento inicial: visível antes do JavaScript (no primeiro acesso ele ainda não
+         está no cache e pode demorar); +layout.svelte o remove ao montar o app. -->
+    <style>
+      #carregamento-inicial {
+        position: fixed;
+        inset: 0;
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+        padding: 1.5rem;
+        background: #f8fafc;
+        color: #1e1b4b;
+        font-family: system-ui, sans-serif;
+        text-align: center;
+      }
+      #carregamento-inicial .giro {
+        width: 2.5rem;
+        height: 2.5rem;
+        border: 4px solid #ddd6fe;
+        border-top-color: #46178f;
+        border-radius: 50%;
+        animation: giro-inicial 0.8s linear infinite;
+      }
+      @keyframes giro-inicial {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        #carregamento-inicial .giro {
+          animation: none;
+        }
+      }
+      #carregamento-inicial p {
+        margin: 0;
+        max-width: 22rem;
+        line-height: 1.5;
+      }
+      #carregamento-inicial .titulo {
+        font-weight: 900;
+        font-size: 1.125rem;
+      }
+      #carregamento-inicial button {
+        min-height: 2.9rem;
+        border: 2px solid #46178f;
+        border-radius: 1.25rem;
+        background: #46178f;
+        padding: 0.75rem 1rem;
+        color: #fff;
+        font: inherit;
+        font-weight: 800;
+      }
+    </style>
+    <link href="/_app/immutable/entry/start.BuCSMUzG.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/Cdk6xmsM.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/C9ELG5BU.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CMrqPO9b.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.DZKijj6c.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CHVxwlwl.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/Dmyd6YoB.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/uwlYjKgm.js" rel="modulepreload">
+		<link href="/_app/immutable/nodes/0.BpTav_Rq.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/B5_rE7rL.js" rel="modulepreload">
 		
 		<link href="/_app/immutable/assets/engagement.MZnx0Avn.css" rel="stylesheet">
 		<link href="/_app/immutable/assets/0.RfH2wuTG.css" rel="stylesheet">
   </head>
   <body data-sveltekit-preload-data="hover">
+    <div id="carregamento-inicial" role="status" aria-live="polite">
+      <div class="giro" aria-hidden="true"></div>
+      <p class="titulo">Carregando o Caderno de Libras…</p>
+      <div class="falha" hidden>
+        <p>Está demorando mais que o normal. Se a internet estiver lenta, aguarde mais um pouco.</p>
+        <p><button type="button" onclick="location.reload()">Recarregar a página</button></p>
+        <p>Se continuar assim, feche o navegador ou o app (também na lista de apps recentes) e abra de novo.</p>
+      </div>
+    </div>
+    <script>
+      // Se o app não montar (JavaScript que não baixou, caminho errado no GitHub Pages),
+      // a pessoa recebe orientação em vez de uma tela parada.
+      (function () {
+        function mostrarFalha() {
+          var aviso = document.getElementById('carregamento-inicial');
+          if (!aviso) return;
+          aviso.querySelector('.falha').hidden = false;
+          console.error('[caderno]', { etapa: 'falha', fase: 'inicialização do app' });
+        }
+        setTimeout(mostrarFalha, 15000);
+        window.addEventListener('unhandledrejection', function (evento) {
+          if (/import|module/i.test(String(evento.reason && evento.reason.message))) mostrarFalha();
+        });
+      })();
+    </script>
     <div style="display: contents">
 			<script>
 				{
-					__sveltekit_bz83tj = {
+					__sveltekit_l9ume1 = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.BgqQEkHN.js"),
-						import("/_app/immutable/entry/app.CYurUf_S.js")
+						import("/_app/immutable/entry/start.BuCSMUzG.js"),
+						import("/_app/immutable/entry/app.DZKijj6c.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
