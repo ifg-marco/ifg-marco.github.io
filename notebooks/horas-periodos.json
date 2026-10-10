@@ -7,28 +7,13 @@
   "createdAt": "2026-10-07T15:59:01.367Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T15:59:01.367Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:00:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Dia a dia",
@@ -42,20 +27,17 @@
       "translation": "Uma hora",
       "librasStructure": "UMA HORA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Uma hora”.",
-        "Use “Uma hora” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Uma hora” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=27&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -66,20 +48,17 @@
       "translation": "Duas horas",
       "librasStructure": "DUAS HORAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Duas horas”.",
-        "Use “Duas horas” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Duas horas” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -90,20 +69,17 @@
       "translation": "Três horas",
       "librasStructure": "TRÊS HORAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Três horas”.",
-        "Use “Três horas” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Três horas” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -114,20 +90,17 @@
       "translation": "Quatro horas",
       "librasStructure": "QUATRO HORAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Quatro horas”.",
-        "Use “Quatro horas” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Quatro horas” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -138,20 +111,17 @@
       "translation": "Cinco horas",
       "librasStructure": "CINCO HORAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Cinco horas”.",
-        "Use “Cinco horas” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Cinco horas” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=37&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -162,20 +132,17 @@
       "translation": "Manhã",
       "librasStructure": "MANHÃ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Manhã”.",
-        "Use “Manhã” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Manhã” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -186,20 +153,17 @@
       "translation": "Tarde",
       "librasStructure": "TARDE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Tarde”.",
-        "Use “Tarde” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Tarde” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=43&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=43&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -210,20 +174,17 @@
       "translation": "Noite",
       "librasStructure": "NOITE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Noite”.",
-        "Use “Noite” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Noite” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=45&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -234,20 +195,17 @@
       "translation": "Madrugada",
       "librasStructure": "MADRUGADA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Madrugada”.",
-        "Use “Madrugada” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Madrugada” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=49&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -258,20 +216,17 @@
       "translation": "Cedo",
       "librasStructure": "CEDO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Cedo”.",
-        "Use “Cedo” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Cedo” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -282,20 +237,17 @@
       "translation": "Atrasada / atraso",
       "librasStructure": "ATRASADA / ATRASO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Atrasada / atraso”.",
-        "Use “Atrasada / atraso” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Atrasada / atraso” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=55&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -306,20 +258,17 @@
       "translation": "Dia inteiro",
       "librasStructure": "DIA INTEIRO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Dia inteiro”.",
-        "Use “Dia inteiro” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Dia inteiro” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=59&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=59&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -330,20 +279,17 @@
       "translation": "Adiantado",
       "librasStructure": "ADIANTADO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Adiantado”.",
-        "Use “Adiantado” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Adiantado” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=62&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -354,20 +300,17 @@
       "translation": "Cinco minutos",
       "librasStructure": "CINCO MINUTOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Cinco minutos”.",
-        "Use “Cinco minutos” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Cinco minutos” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=65&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -378,20 +321,17 @@
       "translation": "Meia hora",
       "librasStructure": "MEIA HORA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Meia hora”.",
-        "Use “Meia hora” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Meia hora” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=68&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=68&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -402,20 +342,17 @@
       "translation": "Dia inteiro (variação)",
       "librasStructure": "DIA INTEIRO (VARIAÇÃO)",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Dia inteiro (variação)”.",
-        "Use “Dia inteiro (variação)” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Dia inteiro (variação)” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=70&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -426,880 +363,880 @@
       "translation": "Amanhecer",
       "librasStructure": "AMANHECER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tempo e horários.",
-      "examples": [
-        "Na aula de tempo e horários, pratique o sinal de “Amanhecer”.",
-        "Use “Amanhecer” em uma frase relacionada a tempo e horários.",
-        "Depois de assistir ao vídeo, tente produzir “Amanhecer” novamente."
-      ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "examples": [],
+      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:59:01.367Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-18",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “segunda-feira”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “segunda-feira”?",
       "translation": "Segunda-feira",
       "librasStructure": "SEGUNDA-FEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-19",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “terça-feira”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “terça-feira”?",
       "translation": "Terça-feira",
       "librasStructure": "TERÇA-FEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-20",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “quarta-feira”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “quarta-feira”?",
       "translation": "Quarta-feira",
       "librasStructure": "QUARTA-FEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=28&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-21",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “quinta-feira”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “quinta-feira”?",
       "translation": "Quinta-feira",
       "librasStructure": "QUINTA-FEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=30&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=30&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-22",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “sexta-feira”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “sexta-feira”?",
       "translation": "Sexta-feira",
       "librasStructure": "SEXTA-FEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-23",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “sábado”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “sábado”?",
       "translation": "Sábado",
       "librasStructure": "SÁBADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=37&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-24",
       "section": "Dias da semana",
-      "situation": "Ao combinar um compromisso, como você sinaliza “domingo”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “domingo”?",
       "translation": "Domingo",
       "librasStructure": "DOMINGO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-25",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “janeiro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “janeiro”?",
       "translation": "Janeiro",
       "librasStructure": "JANEIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=214&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=214&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-26",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “fevereiro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “fevereiro”?",
       "translation": "Fevereiro",
       "librasStructure": "FEVEREIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=217&end=221&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=217&end=220&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-27",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “março”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “março”?",
       "translation": "Março",
       "librasStructure": "MARÇO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=219&end=224&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=219&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-28",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “abril”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “abril”?",
       "translation": "Abril",
       "librasStructure": "ABRIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=222&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=222&end=226&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-29",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “maio”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “maio”?",
       "translation": "Maio",
       "librasStructure": "MAIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=225&end=230&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=225&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-30",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “junho”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “junho”?",
       "translation": "Junho",
       "librasStructure": "JUNHO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=229&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=229&end=232&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-31",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “julho”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “julho”?",
       "translation": "Julho",
       "librasStructure": "JULHO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=232&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=232&end=235&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-32",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “agosto”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “agosto”?",
       "translation": "Agosto",
       "librasStructure": "AGOSTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=235&end=239&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=236&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-33",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “setembro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “setembro”?",
       "translation": "Setembro",
       "librasStructure": "SETEMBRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=237&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=238&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-34",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “outubro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “outubro”?",
       "translation": "Outubro",
       "librasStructure": "OUTUBRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=239&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=239&end=242&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-35",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “novembro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “novembro”?",
       "translation": "Novembro",
       "librasStructure": "NOVEMBRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=242&end=245&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=242&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-36",
       "section": "Meses do ano",
-      "situation": "Ao combinar um compromisso, como você sinaliza “dezembro”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “dezembro”?",
       "translation": "Dezembro",
       "librasStructure": "DEZEMBRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=244&end=248&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=244&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-37",
       "section": "Datas",
-      "situation": "Ao combinar um compromisso, como você sinaliza “década”?",
+      "situation": "Como você sinaliza um período de dez anos (\"década\")?",
       "translation": "Década",
       "librasStructure": "DÉCADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=342&end=347&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "examples": [
+        "A década de 1990 marcou muitas mudanças na tecnologia."
+      ],
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=342&end=346&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-38",
       "section": "Datas",
-      "situation": "Ao combinar um compromisso, como você sinaliza “século”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “século”?",
       "translation": "Século",
       "librasStructure": "SÉCULO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=346&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=346&end=351&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-39",
       "section": "Datas",
-      "situation": "Ao combinar um compromisso, como você sinaliza “férias”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “férias”?",
       "translation": "Férias",
       "librasStructure": "FÉRIAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=456&end=460&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=456&end=459&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-40",
       "section": "Datas",
-      "situation": "Ao combinar um compromisso, como você sinaliza “feriado”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “feriado”?",
       "translation": "Feriado",
       "librasStructure": "FERIADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=466&end=472&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=466&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-41",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “todo dia”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “todo dia”?",
       "translation": "Todo dia",
       "librasStructure": "TODO-DIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-42",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “um dia”?",
-      "translation": "Um dia",
-      "librasStructure": "UM-DIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “um dia”, “dois dias” e “três dias”?",
+      "translation": "Um dia, dois dias, três dias",
+      "librasStructure": "UM-DIA DOIS-DIAS TRÊS-DIAS",
+      "notes": "Repare que o número se incorpora ao sinal de DIA: muda a configuração de mão, o movimento é o mesmo. Pode haver variação regional; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=26&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=26&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "horas-periodos-43",
-      "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “dois dias”?",
-      "translation": "Dois dias",
-      "librasStructure": "DOIS-DIAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "id": "horas-periodos-44",
-      "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “três dias”?",
-      "translation": "Três dias",
-      "librasStructure": "TRÊS-DIAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=30&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
-      "changeLog": [
-        {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:40:25.536Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-45",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “semana que vem”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “semana que vem”?",
       "translation": "Semana que vem",
       "librasStructure": "SEMANA-QUE-VEM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=51&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-46",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “semana passada”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “semana passada”?",
       "translation": "Semana passada",
       "librasStructure": "SEMANA-PASSADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=55&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-47",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “esta semana”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “esta semana”?",
       "translation": "Esta semana",
       "librasStructure": "ESTA-SEMANA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=61&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-48",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “uma semana”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “uma semana”?",
       "translation": "Uma semana",
       "librasStructure": "UMA-SEMANA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=64&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-49",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “duas semanas”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “duas semanas”?",
       "translation": "Duas semanas",
       "librasStructure": "DUAS-SEMANAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-50",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “mês que vem”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “mês que vem”?",
       "translation": "Mês que vem",
       "librasStructure": "MÊS-QUE-VEM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=80&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=80&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-51",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “mês passado”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “mês passado”?",
       "translation": "Mês passado",
       "librasStructure": "MÊS-PASSADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=85&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-52",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “este mês”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “este mês”?",
       "translation": "Este mês",
       "librasStructure": "ESTE-MÊS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=89&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=89&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-53",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “um mês”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “um mês”?",
       "translation": "Um mês",
       "librasStructure": "UM-MÊS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=92&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-54",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “dois meses”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “dois meses”?",
       "translation": "Dois meses",
       "librasStructure": "DOIS-MESES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=94&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-55",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “ano que vem”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “ano que vem”?",
       "translation": "Ano que vem",
       "librasStructure": "ANO-QUE-VEM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=112&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-56",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “ano passado”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “ano passado”?",
       "translation": "Ano passado",
       "librasStructure": "ANO-PASSADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=114&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-57",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “ano atual”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “ano atual”?",
       "translation": "Ano atual",
       "librasStructure": "ANO-ATUAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=116&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-58",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “este ano”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “este ano”?",
       "translation": "Este ano",
       "librasStructure": "ESTE-ANO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=119&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=119&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-59",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “um ano”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “um ano”?",
       "translation": "Um ano",
       "librasStructure": "UM-ANO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=122&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=122&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
     {
       "id": "horas-periodos-60",
       "section": "Dias, semanas, meses e anos",
-      "situation": "Ao combinar um compromisso, como você sinaliza “dois anos”?",
+      "situation": "Ao falar sobre datas e períodos, como você sinaliza “dois anos”?",
       "translation": "Dois anos",
       "librasStructure": "DOIS-ANOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=126&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:19:18.313Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     }

@@ -7,36 +7,13 @@
   "createdAt": "2026-10-07T15:58:12.028Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T15:58:12.028Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-08T12:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:00:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Lugares",
@@ -58,20 +35,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=22&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -90,20 +60,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -122,20 +85,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -154,20 +110,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -186,20 +135,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -218,20 +160,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -250,20 +185,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -282,20 +210,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=39&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -314,20 +235,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=41&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -346,20 +260,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -378,20 +285,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=46&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -410,20 +310,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=48&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -442,20 +335,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=51&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -474,20 +360,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -506,20 +385,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=56&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -538,20 +410,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=58&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -570,20 +435,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=61&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -602,20 +460,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=63&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -634,20 +485,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -666,20 +510,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=68&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -698,20 +535,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -730,20 +560,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=72&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -762,20 +585,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=74&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -794,20 +610,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=77&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -826,20 +635,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=79&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -858,20 +660,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=81&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -890,20 +685,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=83&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -922,20 +710,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -954,20 +735,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=88&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -986,20 +760,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=90&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1018,20 +785,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=93&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1050,20 +810,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=96&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1082,20 +835,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=98&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1114,20 +860,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1146,20 +885,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=103&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1178,20 +910,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=106&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1210,20 +935,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=109&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1242,20 +960,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=111&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1274,20 +985,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=113&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1306,20 +1010,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=115&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1338,20 +1035,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=118&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1370,20 +1060,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1402,20 +1085,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=123&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1434,20 +1110,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=125&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1466,20 +1135,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=127&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1498,20 +1160,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=130&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1530,20 +1185,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=132&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1562,20 +1210,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1594,20 +1235,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=137&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1626,20 +1260,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=140&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1658,20 +1285,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=142&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1690,20 +1310,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=145&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1722,20 +1335,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=147&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1754,20 +1360,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=150&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1786,20 +1385,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=152&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1818,20 +1410,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=154&end=157&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1850,20 +1435,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=157&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1882,20 +1460,13 @@
       "video": "https://www.youtube.com/embed/dI-IOOyY0OA?start=159&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:58:12.028Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T12:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T12:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     }

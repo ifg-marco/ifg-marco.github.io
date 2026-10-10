@@ -7,36 +7,13 @@
   "createdAt": "2026-10-07T16:13:19.604Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T16:13:19.604Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Vocabulário",
@@ -50,20 +27,16 @@
       "translation": "Sangue",
       "librasStructure": "SANGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Sangue”.",
-        "Use “Sangue” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Sangue” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=12&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -74,20 +47,16 @@
       "translation": "DNA",
       "librasStructure": "DNA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “DNA”.",
-        "Use “DNA” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “DNA” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=20&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -98,20 +67,16 @@
       "translation": "Câncer",
       "librasStructure": "CÂNCER",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Câncer”.",
-        "Use “Câncer” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Câncer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=32&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -122,20 +87,16 @@
       "translation": "Menstruação",
       "librasStructure": "MENSTRUAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Menstruação”.",
-        "Use “Menstruação” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Menstruação” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=44&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -146,20 +107,16 @@
       "translation": "Cólica",
       "librasStructure": "CÓLICA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Cólica”.",
-        "Use “Cólica” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Cólica” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=57&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -170,20 +127,16 @@
       "translation": "TPM",
       "librasStructure": "TPM",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “TPM”.",
-        "Use “TPM” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “TPM” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=63&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -194,20 +147,16 @@
       "translation": "Vômito",
       "librasStructure": "VÔMITO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Vômito”.",
-        "Use “Vômito” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Vômito” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=70&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -218,20 +167,16 @@
       "translation": "Urinar",
       "librasStructure": "URINAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Urinar”.",
-        "Use “Urinar” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Urinar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -242,20 +187,16 @@
       "translation": "Defecar",
       "librasStructure": "DEFECAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Defecar”.",
-        "Use “Defecar” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Defecar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=83&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -266,20 +207,16 @@
       "translation": "Músculo",
       "librasStructure": "MÚSCULO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Músculo”.",
-        "Use “Músculo” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Músculo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=103&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -290,20 +227,16 @@
       "translation": "Hanseníase",
       "librasStructure": "HANSENÍASE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Hanseníase”.",
-        "Use “Hanseníase” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hanseníase” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -314,20 +247,16 @@
       "translation": "Caxumba",
       "librasStructure": "CAXUMBA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Caxumba”.",
-        "Use “Caxumba” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Caxumba” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=141&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -338,20 +267,16 @@
       "translation": "Adoecer; doente",
       "librasStructure": "ADOECER; DOENTE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Adoecer; doente”.",
-        "Use “Adoecer; doente” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Adoecer; doente” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=158&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -362,20 +287,16 @@
       "translation": "Verminose",
       "librasStructure": "VERMINOSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Verminose”.",
-        "Use “Verminose” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Verminose” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=169&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -386,20 +307,16 @@
       "translation": "Gripe",
       "librasStructure": "GRIPE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Gripe”.",
-        "Use “Gripe” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Gripe” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=176&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -410,20 +327,16 @@
       "translation": "Fumar",
       "librasStructure": "FUMAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Fumar”.",
-        "Use “Fumar” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Fumar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=190&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -434,20 +347,16 @@
       "translation": "Tuberculose",
       "librasStructure": "TUBERCULOSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Tuberculose”.",
-        "Use “Tuberculose” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Tuberculose” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=197&end=206&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -458,20 +367,16 @@
       "translation": "Bronquite",
       "librasStructure": "BRONQUITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Bronquite”.",
-        "Use “Bronquite” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Bronquite” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=206&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -482,20 +387,16 @@
       "translation": "Febre",
       "librasStructure": "FEBRE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Febre”.",
-        "Use “Febre” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Febre” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=236&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -506,20 +407,16 @@
       "translation": "AVC",
       "librasStructure": "AVC",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “AVC”.",
-        "Use “AVC” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “AVC” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=252&end=257&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -530,20 +427,16 @@
       "translation": "Tomar remédio",
       "librasStructure": "TOMAR REMÉDIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Tomar remédio”.",
-        "Use “Tomar remédio” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Tomar remédio” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=257&end=263&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -554,20 +447,16 @@
       "translation": "Vacina",
       "librasStructure": "VACINA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Vacina”.",
-        "Use “Vacina” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Vacina” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=263&end=274&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -578,20 +467,16 @@
       "translation": "Febre amarela",
       "librasStructure": "FEBRE AMARELA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Febre amarela”.",
-        "Use “Febre amarela” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Febre amarela” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=281&end=288&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -602,20 +487,16 @@
       "translation": "Chikungunya",
       "librasStructure": "CHIKUNGUNYA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Chikungunya”.",
-        "Use “Chikungunya” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Chikungunya” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=288&end=296&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -626,20 +507,16 @@
       "translation": "Dengue",
       "librasStructure": "DENGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Dengue”.",
-        "Use “Dengue” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Dengue” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=304&end=311&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -650,20 +527,16 @@
       "translation": "Tireoide",
       "librasStructure": "TIREOIDE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Tireoide”.",
-        "Use “Tireoide” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Tireoide” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=311&end=317&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -674,20 +547,16 @@
       "translation": "Hipertensão",
       "librasStructure": "HIPERTENSÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Hipertensão”.",
-        "Use “Hipertensão” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hipertensão” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=317&end=328&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -698,20 +567,16 @@
       "translation": "Anemia",
       "librasStructure": "ANEMIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Anemia”.",
-        "Use “Anemia” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Anemia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=344&end=354&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -722,20 +587,16 @@
       "translation": "Trauma",
       "librasStructure": "TRAUMA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Trauma”.",
-        "Use “Trauma” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Trauma” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=354&end=361&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -746,20 +607,16 @@
       "translation": "Amnésia",
       "librasStructure": "AMNÉSIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Amnésia”.",
-        "Use “Amnésia” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Amnésia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=361&end=371&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -770,20 +627,16 @@
       "translation": "Fraqueza",
       "librasStructure": "FRAQUEZA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Fraqueza”.",
-        "Use “Fraqueza” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Fraqueza” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=371&end=377&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -794,20 +647,16 @@
       "translation": "Falta de motivação",
       "librasStructure": "FALTA DE MOTIVAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Falta de motivação”.",
-        "Use “Falta de motivação” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Falta de motivação” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=377&end=386&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -818,20 +667,16 @@
       "translation": "Suicídio",
       "librasStructure": "SUICÍDIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Suicídio”.",
-        "Use “Suicídio” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Suicídio” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=406&end=417&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -842,20 +687,16 @@
       "translation": "COVID-19",
       "librasStructure": "COVID-19",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “COVID-19”.",
-        "Use “COVID-19” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “COVID-19” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=428&end=436&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -866,20 +707,16 @@
       "translation": "Herpes",
       "librasStructure": "HERPES",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Herpes”.",
-        "Use “Herpes” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Herpes” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=451&end=467&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -890,20 +727,16 @@
       "translation": "Hepatite A",
       "librasStructure": "HEPATITE A",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Hepatite A”.",
-        "Use “Hepatite A” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hepatite A” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=467&end=472&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -914,20 +747,16 @@
       "translation": "Hepatite B",
       "librasStructure": "HEPATITE B",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Hepatite B”.",
-        "Use “Hepatite B” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hepatite B” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=472&end=478&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -938,20 +767,16 @@
       "translation": "Hepatite C",
       "librasStructure": "HEPATITE C",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Hepatite C”.",
-        "Use “Hepatite C” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hepatite C” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=478&end=484&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -962,20 +787,16 @@
       "translation": "Obesidade",
       "librasStructure": "OBESIDADE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Obesidade”.",
-        "Use “Obesidade” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Obesidade” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=491&end=499&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -986,20 +807,16 @@
       "translation": "Alergia",
       "librasStructure": "ALERGIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Alergia”.",
-        "Use “Alergia” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Alergia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=499&end=509&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1010,20 +827,16 @@
       "translation": "Afta",
       "librasStructure": "AFTA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Afta”.",
-        "Use “Afta” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Afta” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=509&end=517&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1034,20 +847,16 @@
       "translation": "Doença",
       "librasStructure": "DOENÇA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Doença”.",
-        "Use “Doença” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Doença” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=517&end=523&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1058,20 +867,16 @@
       "translation": "Pressão alta",
       "librasStructure": "PRESSÃO ALTA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Pressão alta”.",
-        "Use “Pressão alta” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Pressão alta” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=523&end=531&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1082,20 +887,16 @@
       "translation": "Pressão baixa",
       "librasStructure": "PRESSÃO BAIXA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Pressão baixa”.",
-        "Use “Pressão baixa” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Pressão baixa” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=531&end=539&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1106,20 +907,16 @@
       "translation": "Estresse",
       "librasStructure": "ESTRESSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de saúde e cuidados, pratique o sinal de “Estresse”.",
-        "Use “Estresse” em uma frase relacionada a saúde e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Estresse” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=539&end=543&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:19.604Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:19.604Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1130,20 +927,16 @@
       "translation": "Higiene",
       "librasStructure": "HIGIENE",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Higiene”.",
-        "Use “Higiene” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Higiene” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=14&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:12.029Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1154,20 +947,16 @@
       "translation": "Creme dental",
       "librasStructure": "CREME DENTAL",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Creme dental”.",
-        "Use “Creme dental” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Creme dental” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:12.029Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1178,20 +967,16 @@
       "translation": "Toalha",
       "librasStructure": "TOALHA",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Toalha”.",
-        "Use “Toalha” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Toalha” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:12.029Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1202,20 +987,16 @@
       "translation": "Cortador de unha",
       "librasStructure": "CORTADOR DE UNHA",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Cortador de unha”.",
-        "Use “Cortador de unha” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Cortador de unha” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:12.029Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1226,20 +1007,16 @@
       "translation": "Hidratante de pele",
       "librasStructure": "HIDRATANTE DE PELE",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de higiene e cuidados, pratique o sinal de “Hidratante de pele”.",
-        "Use “Hidratante de pele” em uma frase relacionada a higiene e cuidados.",
-        "Depois de assistir ao vídeo, tente produzir “Hidratante de pele” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:12.029Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:12.029Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

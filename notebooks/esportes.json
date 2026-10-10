@@ -7,36 +7,13 @@
   "createdAt": "2026-10-07T15:55:36.027Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T15:55:36.027Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:20:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:20:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Vocabulário",
@@ -56,20 +33,16 @@
       "translation": "Atletismo",
       "librasStructure": "ATLETISMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Atletismo”.",
-        "Use “Atletismo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Atletismo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=8&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -80,20 +53,16 @@
       "translation": "Badminton",
       "librasStructure": "BADMINTON",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Badminton”.",
-        "Use “Badminton” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Badminton” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=12&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -104,20 +73,16 @@
       "translation": "Baseball",
       "librasStructure": "BASEBALL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Baseball”.",
-        "Use “Baseball” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Baseball” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -128,20 +93,16 @@
       "translation": "Basquete (3 pessoas)",
       "librasStructure": "BASQUETE (3 PESSOAS)",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Basquete (3 pessoas)”.",
-        "Use “Basquete (3 pessoas)” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Basquete (3 pessoas)” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -152,20 +113,16 @@
       "translation": "Basquete (6 pessoas)",
       "librasStructure": "BASQUETE (6 PESSOAS)",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Basquete (6 pessoas)”.",
-        "Use “Basquete (6 pessoas)” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Basquete (6 pessoas)” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=25&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -176,20 +133,16 @@
       "translation": "Boliche",
       "librasStructure": "BOLICHE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Boliche”.",
-        "Use “Boliche” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Boliche” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -200,20 +153,16 @@
       "translation": "Boxe",
       "librasStructure": "BOXE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Boxe”.",
-        "Use “Boxe” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Boxe” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -224,20 +173,16 @@
       "translation": "Canoagem",
       "librasStructure": "CANOAGEM",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Canoagem”.",
-        "Use “Canoagem” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Canoagem” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=40&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -248,20 +193,16 @@
       "translation": "Ciclismo",
       "librasStructure": "CICLISMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Ciclismo”.",
-        "Use “Ciclismo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Ciclismo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -272,20 +213,16 @@
       "translation": "Escalada",
       "librasStructure": "ESCALADA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Escalada”.",
-        "Use “Escalada” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Escalada” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -296,20 +233,16 @@
       "translation": "Esgrima",
       "librasStructure": "ESGRIMA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Esgrima”.",
-        "Use “Esgrima” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Esgrima” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -320,20 +253,16 @@
       "translation": "Futebol",
       "librasStructure": "FUTEBOL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Futebol”.",
-        "Use “Futebol” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Futebol” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -344,20 +273,16 @@
       "translation": "Futebol (7 pessoas)",
       "librasStructure": "FUTEBOL (7 PESSOAS)",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Futebol (7 pessoas)”.",
-        "Use “Futebol (7 pessoas)” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Futebol (7 pessoas)” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -368,20 +293,16 @@
       "translation": "Futebol de praia",
       "librasStructure": "FUTEBOL DE PRAIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Futebol de praia”.",
-        "Use “Futebol de praia” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Futebol de praia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=68&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -392,20 +313,16 @@
       "translation": "Futsal",
       "librasStructure": "FUTSAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Futsal”.",
-        "Use “Futsal” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Futsal” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -416,20 +333,16 @@
       "translation": "Ginástica artística",
       "librasStructure": "GINÁSTICA ARTÍSTICA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Ginástica artística”.",
-        "Use “Ginástica artística” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Ginástica artística” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=76&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -440,20 +353,16 @@
       "translation": "Golfe",
       "librasStructure": "GOLFE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Golfe”.",
-        "Use “Golfe” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Golfe” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -464,20 +373,16 @@
       "translation": "Handebol",
       "librasStructure": "HANDEBOL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Handebol”.",
-        "Use “Handebol” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Handebol” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -488,20 +393,16 @@
       "translation": "Hipismo",
       "librasStructure": "HIPISMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Hipismo”.",
-        "Use “Hipismo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Hipismo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -512,20 +413,16 @@
       "translation": "Hóquei na grama",
       "librasStructure": "HÓQUEI NA GRAMA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Hóquei na grama”.",
-        "Use “Hóquei na grama” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Hóquei na grama” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=92&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -536,20 +433,16 @@
       "translation": "Judô",
       "librasStructure": "JUDÔ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Judô”.",
-        "Use “Judô” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Judô” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -560,20 +453,16 @@
       "translation": "Karatê",
       "librasStructure": "KARATÊ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Karatê”.",
-        "Use “Karatê” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Karatê” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=100&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -584,20 +473,16 @@
       "translation": "Lutas",
       "librasStructure": "LUTAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Lutas”.",
-        "Use “Lutas” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Lutas” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=103&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -608,20 +493,16 @@
       "translation": "Maratona",
       "librasStructure": "MARATONA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Maratona”.",
-        "Use “Maratona” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Maratona” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -632,20 +513,16 @@
       "translation": "Natação",
       "librasStructure": "NATAÇÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Natação”.",
-        "Use “Natação” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Natação” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -656,20 +533,16 @@
       "translation": "Peteca",
       "librasStructure": "PETECA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Peteca”.",
-        "Use “Peteca” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Peteca” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=117&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -680,20 +553,16 @@
       "translation": "Polo aquático",
       "librasStructure": "POLO AQUÁTICO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Polo aquático”.",
-        "Use “Polo aquático” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Polo aquático” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -704,20 +573,16 @@
       "translation": "Rugby",
       "librasStructure": "RUGBY",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Rugby”.",
-        "Use “Rugby” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Rugby” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -728,20 +593,16 @@
       "translation": "Skate",
       "librasStructure": "SKATE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Skate”.",
-        "Use “Skate” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Skate” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -752,20 +613,16 @@
       "translation": "Surfe",
       "librasStructure": "SURFE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Surfe”.",
-        "Use “Surfe” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Surfe” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -776,20 +633,16 @@
       "translation": "Tiro esportivo",
       "librasStructure": "TIRO ESPORTIVO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Tiro esportivo”.",
-        "Use “Tiro esportivo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Tiro esportivo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -800,20 +653,16 @@
       "translation": "Tiro com arco",
       "librasStructure": "TIRO COM ARCO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Tiro com arco”.",
-        "Use “Tiro com arco” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Tiro com arco” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=144&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -824,20 +673,16 @@
       "translation": "Taekwondo",
       "librasStructure": "TAEKWONDO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Taekwondo”.",
-        "Use “Taekwondo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Taekwondo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -848,20 +693,16 @@
       "translation": "Triatlo (maratona, ciclismo e natação)",
       "librasStructure": "TRIATLO (MARATONA, CICLISMO E NATAÇÃO)",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Triatlo (maratona, ciclismo e natação)”.",
-        "Use “Triatlo (maratona, ciclismo e natação)” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Triatlo (maratona, ciclismo e natação)” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=151&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -872,20 +713,16 @@
       "translation": "Tênis de mesa",
       "librasStructure": "TÊNIS DE MESA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Tênis de mesa”.",
-        "Use “Tênis de mesa” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Tênis de mesa” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=161&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -896,20 +733,16 @@
       "translation": "Tênis de quadra",
       "librasStructure": "TÊNIS DE QUADRA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Tênis de quadra”.",
-        "Use “Tênis de quadra” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Tênis de quadra” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=166&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -920,20 +753,16 @@
       "translation": "Vela",
       "librasStructure": "VELA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Vela”.",
-        "Use “Vela” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Vela” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=173&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -944,20 +773,16 @@
       "translation": "Vôlei de praia",
       "librasStructure": "VÔLEI DE PRAIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Vôlei de praia”.",
-        "Use “Vôlei de praia” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Vôlei de praia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=177&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -968,20 +793,16 @@
       "translation": "Vôlei de quadra",
       "librasStructure": "VÔLEI DE QUADRA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Vôlei de quadra”.",
-        "Use “Vôlei de quadra” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Vôlei de quadra” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=180&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -992,20 +813,16 @@
       "translation": "Xadrez",
       "librasStructure": "XADREZ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Xadrez”.",
-        "Use “Xadrez” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Xadrez” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1016,20 +833,16 @@
       "translation": "Ginástica",
       "librasStructure": "GINÁSTICA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Ginástica”.",
-        "Use “Ginástica” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Ginástica” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=22&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1040,20 +853,16 @@
       "translation": "Sumô",
       "librasStructure": "SUMÔ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Sumô”.",
-        "Use “Sumô” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Sumô” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=53&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1064,20 +873,16 @@
       "translation": "Automobilismo",
       "librasStructure": "AUTOMOBILISMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Automobilismo”.",
-        "Use “Automobilismo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Automobilismo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1088,20 +893,16 @@
       "translation": "Hidroginástica",
       "librasStructure": "HIDROGINÁSTICA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Hidroginástica”.",
-        "Use “Hidroginástica” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Hidroginástica” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1112,20 +913,16 @@
       "translation": "Pilates",
       "librasStructure": "PILATES",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Pilates”.",
-        "Use “Pilates” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Pilates” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1136,20 +933,16 @@
       "translation": "Musculação",
       "librasStructure": "MUSCULAÇÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Musculação”.",
-        "Use “Musculação” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Musculação” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=88&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1160,20 +953,16 @@
       "translation": "Motociclismo",
       "librasStructure": "MOTOCICLISMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Motociclismo”.",
-        "Use “Motociclismo” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Motociclismo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=102&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1184,20 +973,16 @@
       "translation": "Patinação",
       "librasStructure": "PATINAÇÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Patinação”.",
-        "Use “Patinação” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Patinação” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=111&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1208,20 +993,16 @@
       "translation": "Tênis de praia",
       "librasStructure": "TÊNIS DE PRAIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de modalidades esportivas.",
-      "examples": [
-        "Na aula de modalidades esportivas, pratique o sinal de “Tênis de praia”.",
-        "Use “Tênis de praia” em uma frase relacionada a modalidades esportivas.",
-        "Depois de assistir ao vídeo, tente produzir “Tênis de praia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=115&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:55:36.027Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:55:36.027Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

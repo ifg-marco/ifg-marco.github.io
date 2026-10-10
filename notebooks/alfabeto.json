@@ -7,20 +7,13 @@
   "createdAt": "2026-10-09T05:00:00.000Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:00:00.000Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T00:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-10T00:00:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Dia a dia",
@@ -48,20 +41,13 @@
       "video": "https://www.youtube.com/embed/-GGelepjtlk?start=17&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-GGelepjtlk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T00:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T00:00:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     }

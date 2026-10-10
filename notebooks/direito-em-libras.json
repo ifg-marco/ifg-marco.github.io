@@ -7,28 +7,13 @@
   "createdAt": "2026-10-08T05:23:42.115Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-08T05:23:42.115Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Áreas profissionais",
@@ -47,11 +32,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.109Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.109Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -67,11 +52,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.110Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.110Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -87,11 +72,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.110Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.110Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -107,11 +92,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.110Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.110Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -127,11 +112,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.110Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.110Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -147,11 +132,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -167,11 +152,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -187,11 +172,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -207,11 +192,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -227,11 +212,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -247,11 +232,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -267,11 +252,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -287,11 +272,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.111Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.111Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -307,11 +292,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -327,11 +312,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -347,11 +332,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -367,11 +352,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -387,11 +372,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -407,11 +392,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -427,11 +412,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -447,11 +432,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -467,11 +452,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -487,11 +472,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -507,11 +492,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -527,11 +512,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -547,11 +532,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -567,11 +552,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -587,11 +572,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -607,11 +592,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -627,11 +612,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -647,11 +632,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -667,11 +652,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -687,11 +672,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.112Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.112Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -707,11 +692,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -727,11 +712,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -747,11 +732,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -767,11 +752,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -787,11 +772,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -807,11 +792,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -827,11 +812,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -847,11 +832,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -867,11 +852,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -887,11 +872,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -907,11 +892,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -927,11 +912,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -947,11 +932,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -967,11 +952,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -987,11 +972,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1007,11 +992,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1027,11 +1012,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1047,11 +1032,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1067,11 +1052,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1087,11 +1072,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1107,11 +1092,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1127,11 +1112,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1147,11 +1132,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1167,11 +1152,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1187,11 +1172,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1207,11 +1192,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1227,11 +1212,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1247,11 +1232,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1267,11 +1252,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1287,11 +1272,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1307,11 +1292,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.113Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.113Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1327,11 +1312,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1347,11 +1332,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1367,11 +1352,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1387,11 +1372,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1407,11 +1392,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1427,11 +1412,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1447,11 +1432,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1467,11 +1452,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1487,11 +1472,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1507,11 +1492,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1527,11 +1512,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1547,11 +1532,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1567,11 +1552,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1587,11 +1572,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1607,11 +1592,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1627,11 +1612,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1647,11 +1632,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1667,11 +1652,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1687,11 +1672,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1707,11 +1692,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1727,11 +1712,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1747,11 +1732,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1767,11 +1752,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1787,11 +1772,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1807,11 +1792,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1827,11 +1812,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.114Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.114Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1847,11 +1832,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1867,11 +1852,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1887,11 +1872,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1907,11 +1892,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1927,11 +1912,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1947,11 +1932,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1967,11 +1952,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1987,11 +1972,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2007,11 +1992,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2027,11 +2012,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2047,11 +2032,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2067,11 +2052,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2087,11 +2072,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2106,20 +2091,13 @@
       "video": "https://www.youtube.com/embed/YhKFQsVFNRw?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YhKFQsVFNRw",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -2135,11 +2113,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2155,11 +2133,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2175,11 +2153,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2195,11 +2173,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -2215,11 +2193,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T05:23:42.115Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T05:23:42.115Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

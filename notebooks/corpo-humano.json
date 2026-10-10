@@ -7,36 +7,13 @@
   "createdAt": "2026-10-07T15:07:17.154Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T15:07:17.154Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Vocabulário",
@@ -50,20 +27,16 @@
       "translation": "Corpo humano",
       "librasStructure": "CORPO HUMANO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Corpo humano”.",
-        "Use “Corpo humano” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Corpo humano” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=15&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -74,20 +47,16 @@
       "translation": "Cabeça",
       "librasStructure": "CABEÇA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Cabeça”.",
-        "Use “Cabeça” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Cabeça” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=21&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -98,20 +67,16 @@
       "translation": "Testa",
       "librasStructure": "TESTA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Testa”.",
-        "Use “Testa” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Testa” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=23&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -122,20 +87,16 @@
       "translation": "Pálpebra",
       "librasStructure": "PÁLPEBRA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Pálpebra”.",
-        "Use “Pálpebra” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Pálpebra” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=27&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -146,20 +107,16 @@
       "translation": "Cílios",
       "librasStructure": "CÍLIOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Cílios”.",
-        "Use “Cílios” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Cílios” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -170,20 +127,16 @@
       "translation": "Bochecha",
       "librasStructure": "BOCHECHA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Bochecha”.",
-        "Use “Bochecha” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Bochecha” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -194,20 +147,16 @@
       "translation": "Pescoço",
       "librasStructure": "PESCOÇO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Pescoço”.",
-        "Use “Pescoço” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Pescoço” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -218,20 +167,16 @@
       "translation": "Cabelo",
       "librasStructure": "CABELO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Cabelo”.",
-        "Use “Cabelo” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Cabelo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -242,20 +187,16 @@
       "translation": "Sobrancelha",
       "librasStructure": "SOBRANCELHA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Sobrancelha”.",
-        "Use “Sobrancelha” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Sobrancelha” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -266,20 +207,16 @@
       "translation": "Olhos",
       "librasStructure": "OLHOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Olhos”.",
-        "Use “Olhos” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Olhos” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -290,20 +227,16 @@
       "translation": "Nariz",
       "librasStructure": "NARIZ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Nariz”.",
-        "Use “Nariz” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Nariz” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -314,20 +247,16 @@
       "translation": "Lábios",
       "librasStructure": "LÁBIOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Lábios”.",
-        "Use “Lábios” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Lábios” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=56&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -338,20 +267,16 @@
       "translation": "Queixo",
       "librasStructure": "QUEIXO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Queixo”.",
-        "Use “Queixo” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Queixo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -362,20 +287,16 @@
       "translation": "Boca",
       "librasStructure": "BOCA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Boca”.",
-        "Use “Boca” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Boca” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -386,20 +307,16 @@
       "translation": "Dente",
       "librasStructure": "DENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Dente”.",
-        "Use “Dente” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Dente” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -410,28 +327,17 @@
       "translation": "Língua (órgão)",
       "librasStructure": "LÍNGUA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Língua”.",
-        "Use “Língua” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Língua” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -442,20 +348,16 @@
       "translation": "Garganta",
       "librasStructure": "GARGANTA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Garganta”.",
-        "Use “Garganta” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Garganta” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -466,20 +368,16 @@
       "translation": "Orelha",
       "librasStructure": "ORELHA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Orelha”.",
-        "Use “Orelha” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Orelha” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=78&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -490,20 +388,16 @@
       "translation": "Barba",
       "librasStructure": "BARBA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de estrutura geral e cabeça.",
-      "examples": [
-        "Na aula de estrutura geral e cabeça, pratique o sinal de “Barba”.",
-        "Use “Barba” em uma frase relacionada a estrutura geral e cabeça.",
-        "Depois de assistir ao vídeo, tente produzir “Barba” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -514,20 +408,16 @@
       "translation": "Barriga",
       "librasStructure": "BARRIGA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Barriga”.",
-        "Use “Barriga” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Barriga” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -538,20 +428,16 @@
       "translation": "Costas",
       "librasStructure": "COSTAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Costas”.",
-        "Use “Costas” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Costas” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -562,20 +448,16 @@
       "translation": "Unhas",
       "librasStructure": "UNHAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Unhas”.",
-        "Use “Unhas” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Unhas” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -586,20 +468,16 @@
       "translation": "Mão",
       "librasStructure": "MÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Mão”.",
-        "Use “Mão” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Mão” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=95&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -610,20 +488,16 @@
       "translation": "Perna",
       "librasStructure": "PERNA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Perna”.",
-        "Use “Perna” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Perna” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=98&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -634,20 +508,16 @@
       "translation": "Braço",
       "librasStructure": "BRAÇO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Braço”.",
-        "Use “Braço” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Braço” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=101&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -658,20 +528,16 @@
       "translation": "Dedo",
       "librasStructure": "DEDO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Dedo”.",
-        "Use “Dedo” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Dedo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -682,20 +548,16 @@
       "translation": "Pé",
       "librasStructure": "PÉ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Pé”.",
-        "Use “Pé” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Pé” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=107&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -706,20 +568,16 @@
       "translation": "Cotovelo",
       "librasStructure": "COTOVELO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Cotovelo”.",
-        "Use “Cotovelo” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Cotovelo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -730,20 +588,16 @@
       "translation": "Coxa",
       "librasStructure": "COXA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Coxa”.",
-        "Use “Coxa” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Coxa” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=115&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -754,20 +608,16 @@
       "translation": "Joelho",
       "librasStructure": "JOELHO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Joelho”.",
-        "Use “Joelho” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Joelho” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -778,20 +628,16 @@
       "translation": "Nádega",
       "librasStructure": "NÁDEGA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Nádega”.",
-        "Use “Nádega” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Nádega” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=123&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -802,20 +648,16 @@
       "translation": "Ombro",
       "librasStructure": "OMBRO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de tronco e membros.",
-      "examples": [
-        "Na aula de tronco e membros, pratique o sinal de “Ombro”.",
-        "Use “Ombro” em uma frase relacionada a tronco e membros.",
-        "Depois de assistir ao vídeo, tente produzir “Ombro” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -826,20 +668,16 @@
       "translation": "Pele",
       "librasStructure": "PELE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Pele”.",
-        "Use “Pele” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Pele” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=131&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -850,20 +688,16 @@
       "translation": "Osso",
       "librasStructure": "OSSO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Osso”.",
-        "Use “Osso” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Osso” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -874,20 +708,16 @@
       "translation": "Costelas",
       "librasStructure": "COSTELAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Costelas”.",
-        "Use “Costelas” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Costelas” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=137&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -898,20 +728,16 @@
       "translation": "Esqueleto",
       "librasStructure": "ESQUELETO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Esqueleto”.",
-        "Use “Esqueleto” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Esqueleto” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=142&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -922,20 +748,16 @@
       "translation": "Cérebro",
       "librasStructure": "CÉREBRO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Cérebro”.",
-        "Use “Cérebro” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Cérebro” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=145&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -946,20 +768,16 @@
       "translation": "Coração",
       "librasStructure": "CORAÇÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Coração”.",
-        "Use “Coração” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Coração” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=153&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -970,20 +788,16 @@
       "translation": "Pulmão",
       "librasStructure": "PULMÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Pulmão”.",
-        "Use “Pulmão” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Pulmão” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=156&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -994,20 +808,16 @@
       "translation": "Fígado",
       "librasStructure": "FÍGADO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Fígado”.",
-        "Use “Fígado” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Fígado” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=160&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1018,20 +828,16 @@
       "translation": "Intestino",
       "librasStructure": "INTESTINO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Intestino”.",
-        "Use “Intestino” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Intestino” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=164&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1042,20 +848,16 @@
       "translation": "Estômago",
       "librasStructure": "ESTÔMAGO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Estômago”.",
-        "Use “Estômago” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Estômago” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=168&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1066,20 +868,16 @@
       "translation": "Coluna",
       "librasStructure": "COLUNA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Coluna”.",
-        "Use “Coluna” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Coluna” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=171&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1090,28 +888,17 @@
       "translation": "Veia",
       "librasStructure": "VEIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Veia”.",
-        "Use “Veia” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Veia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=174&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -1128,20 +915,16 @@
       "translation": "Bexiga",
       "librasStructure": "BEXIGA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Bexiga”.",
-        "Use “Bexiga” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Bexiga” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1152,20 +935,16 @@
       "translation": "Rins",
       "librasStructure": "RINS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Rins”.",
-        "Use “Rins” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Rins” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=181&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1176,20 +955,16 @@
       "translation": "Ovário",
       "librasStructure": "OVÁRIO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Ovário”.",
-        "Use “Ovário” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Ovário” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=185&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1200,20 +975,16 @@
       "translation": "Vagina",
       "librasStructure": "VAGINA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Vagina”.",
-        "Use “Vagina” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Vagina” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=189&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1224,20 +995,16 @@
       "translation": "Ânus",
       "librasStructure": "ÂNUS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Ânus”.",
-        "Use “Ânus” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Ânus” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=192&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1248,20 +1015,16 @@
       "translation": "Pênis",
       "librasStructure": "PÊNIS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de órgãos internos e sistemas.",
-      "examples": [
-        "Na aula de órgãos internos e sistemas, pratique o sinal de “Pênis”.",
-        "Use “Pênis” em uma frase relacionada a órgãos internos e sistemas.",
-        "Depois de assistir ao vídeo, tente produzir “Pênis” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=195&end=198&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1272,20 +1035,16 @@
       "translation": "Seios",
       "librasStructure": "SEIOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de procedimentos e estética.",
-      "examples": [
-        "Na aula de procedimentos e estética, pratique o sinal de “Seios”.",
-        "Use “Seios” em uma frase relacionada a procedimentos e estética.",
-        "Depois de assistir ao vídeo, tente produzir “Seios” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=198&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1296,20 +1055,16 @@
       "translation": "Silicone",
       "librasStructure": "SILICONE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de procedimentos e estética.",
-      "examples": [
-        "Na aula de procedimentos e estética, pratique o sinal de “Silicone”.",
-        "Use “Silicone” em uma frase relacionada a procedimentos e estética.",
-        "Depois de assistir ao vídeo, tente produzir “Silicone” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=200&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1320,20 +1075,16 @@
       "translation": "Lipoaspiração",
       "librasStructure": "LIPOASPIRAÇÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de procedimentos e estética.",
-      "examples": [
-        "Na aula de procedimentos e estética, pratique o sinal de “Lipoaspiração”.",
-        "Use “Lipoaspiração” em uma frase relacionada a procedimentos e estética.",
-        "Depois de assistir ao vídeo, tente produzir “Lipoaspiração” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/mbWKGn5LyE0?start=205&end=209&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mbWKGn5LyE0",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T15:07:17.154Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T15:07:17.154Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

@@ -7,44 +7,13 @@
   "createdAt": "2026-10-07T16:15:52.165Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T16:15:52.165Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:10:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Gramática",
@@ -64,20 +33,16 @@
       "translation": "Avisar",
       "librasStructure": "AVISAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Avisar”.",
-        "Use “Avisar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Avisar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -88,20 +53,16 @@
       "translation": "Captar",
       "librasStructure": "CAPTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Captar”.",
-        "Use “Captar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Captar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=21&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -112,20 +73,16 @@
       "translation": "Mandar",
       "librasStructure": "MANDAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Mandar”.",
-        "Use “Mandar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Mandar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=23&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -136,20 +93,16 @@
       "translation": "Perguntar",
       "librasStructure": "PERGUNTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Perguntar”.",
-        "Use “Perguntar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Perguntar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -160,28 +113,17 @@
       "translation": "Paquerar",
       "librasStructure": "PAQUERAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Paquerar”.",
-        "Use “Paquerar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Paquerar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -198,20 +140,16 @@
       "translation": "Emprestar",
       "librasStructure": "EMPRESTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Emprestar”.",
-        "Use “Emprestar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Emprestar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=28&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -222,20 +160,16 @@
       "translation": "Enganar",
       "librasStructure": "ENGANAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Enganar”.",
-        "Use “Enganar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Enganar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -246,20 +180,16 @@
       "translation": "Convidar",
       "librasStructure": "CONVIDAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Convidar”.",
-        "Use “Convidar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Convidar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -270,20 +200,16 @@
       "translation": "Enviar",
       "librasStructure": "ENVIAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Enviar”.",
-        "Use “Enviar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Enviar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -294,20 +220,16 @@
       "translation": "Morder",
       "librasStructure": "MORDER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Morder”.",
-        "Use “Morder” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Morder” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=36&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -318,20 +240,16 @@
       "translation": "Levar",
       "librasStructure": "LEVAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Levar”.",
-        "Use “Levar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Levar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=38&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -342,20 +260,16 @@
       "translation": "Telefonar",
       "librasStructure": "TELEFONAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Telefonar”.",
-        "Use “Telefonar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Telefonar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -366,20 +280,16 @@
       "translation": "Influenciar",
       "librasStructure": "INFLUENCIAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Influenciar”.",
-        "Use “Influenciar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Influenciar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=42&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -390,20 +300,16 @@
       "translation": "Faltar",
       "librasStructure": "FALTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Faltar”.",
-        "Use “Faltar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Faltar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=44&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -414,20 +320,16 @@
       "translation": "Provocar",
       "librasStructure": "PROVOCAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Provocar”.",
-        "Use “Provocar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Provocar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -438,20 +340,16 @@
       "translation": "Acusar",
       "librasStructure": "ACUSAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Acusar”.",
-        "Use “Acusar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Acusar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -462,20 +360,16 @@
       "translation": "Responder",
       "librasStructure": "RESPONDER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Responder”.",
-        "Use “Responder” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Responder” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=51&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -486,20 +380,16 @@
       "translation": "Processar",
       "librasStructure": "PROCESSAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Processar”.",
-        "Use “Processar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Processar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -510,20 +400,16 @@
       "translation": "Cuidar",
       "librasStructure": "CUIDAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Cuidar”.",
-        "Use “Cuidar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Cuidar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=54&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -534,20 +420,16 @@
       "translation": "Trair",
       "librasStructure": "TRAIR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Trair”.",
-        "Use “Trair” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Trair” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -558,20 +440,16 @@
       "translation": "Aconselhar",
       "librasStructure": "ACONSELHAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Aconselhar”.",
-        "Use “Aconselhar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Aconselhar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -582,20 +460,16 @@
       "translation": "Pagar",
       "librasStructure": "PAGAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Pagar”.",
-        "Use “Pagar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Pagar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=66&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -606,20 +480,16 @@
       "translation": "Mexer",
       "librasStructure": "MEXER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Mexer”.",
-        "Use “Mexer” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Mexer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=67&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -630,20 +500,16 @@
       "translation": "Demitir",
       "librasStructure": "DEMITIR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Demitir”.",
-        "Use “Demitir” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Demitir” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -654,20 +520,16 @@
       "translation": "Bater",
       "librasStructure": "BATER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Bater”.",
-        "Use “Bater” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Bater” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=71&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -678,20 +540,16 @@
       "translation": "Escolher",
       "librasStructure": "ESCOLHER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Escolher”.",
-        "Use “Escolher” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Escolher” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -702,20 +560,16 @@
       "translation": "Procurar",
       "librasStructure": "PROCURAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Procurar”.",
-        "Use “Procurar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Procurar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=75&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -726,20 +580,16 @@
       "translation": "Brigar",
       "librasStructure": "BRIGAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Brigar”.",
-        "Use “Brigar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Brigar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=77&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -750,20 +600,16 @@
       "translation": "Ensinar",
       "librasStructure": "ENSINAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Ensinar”.",
-        "Use “Ensinar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Ensinar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=83&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -774,20 +620,16 @@
       "translation": "Matar",
       "librasStructure": "MATAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Matar”.",
-        "Use “Matar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Matar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=85&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -798,20 +640,16 @@
       "translation": "Tirar",
       "librasStructure": "TIRAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Tirar”.",
-        "Use “Tirar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Tirar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=91&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -822,20 +660,16 @@
       "translation": "Beijar",
       "librasStructure": "BEIJAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Beijar”.",
-        "Use “Beijar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Beijar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -846,20 +680,16 @@
       "translation": "Chamar",
       "librasStructure": "CHAMAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Chamar”.",
-        "Use “Chamar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Chamar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -870,20 +700,16 @@
       "translation": "Perdoar",
       "librasStructure": "PERDOAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Perdoar”.",
-        "Use “Perdoar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Perdoar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=99&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -894,20 +720,16 @@
       "translation": "Copiar",
       "librasStructure": "COPIAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Copiar”.",
-        "Use “Copiar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Copiar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -918,20 +740,16 @@
       "translation": "Ajudar",
       "librasStructure": "AJUDAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Ajudar”.",
-        "Use “Ajudar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Ajudar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=103&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -942,20 +760,16 @@
       "translation": "Filmar",
       "librasStructure": "FILMAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Filmar”.",
-        "Use “Filmar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Filmar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -966,20 +780,16 @@
       "translation": "Voltar",
       "librasStructure": "VOLTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Voltar”.",
-        "Use “Voltar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Voltar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=107&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -990,20 +800,16 @@
       "translation": "Contar",
       "librasStructure": "CONTAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Contar”.",
-        "Use “Contar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Contar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=108&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1014,20 +820,16 @@
       "translation": "Mostrar",
       "librasStructure": "MOSTRAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Mostrar”.",
-        "Use “Mostrar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Mostrar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=110&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1038,20 +840,16 @@
       "translation": "Xingar",
       "librasStructure": "XINGAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Xingar”.",
-        "Use “Xingar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Xingar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1062,20 +860,16 @@
       "translation": "Apoiar",
       "librasStructure": "APOIAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Apoiar”.",
-        "Use “Apoiar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Apoiar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=115&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1086,28 +880,17 @@
       "translation": "Respeitar (com concordância)",
       "librasStructure": "RESPEITAR",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Respeitar”.",
-        "Use “Respeitar” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Respeitar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=121&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1118,20 +901,16 @@
       "translation": "Obedecer",
       "librasStructure": "OBEDECER",
       "notes": "Observe a direção do movimento e o uso do espaço.",
-      "examples": [
-        "Na aula de verbos com concordância, pratique o sinal de “Obedecer”.",
-        "Use “Obedecer” em uma frase relacionada a verbos com concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Obedecer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:15:52.165Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:15:52.165Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

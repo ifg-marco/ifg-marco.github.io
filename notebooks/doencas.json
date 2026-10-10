@@ -7,36 +7,13 @@
   "createdAt": "2026-10-07T16:13:55.996Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T16:13:55.996Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Vocabulário",
@@ -50,20 +27,16 @@
       "translation": "Doenças",
       "librasStructure": "DOENÇAS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Doenças”.",
-        "Use “Doenças” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Doenças” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=6&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -74,20 +47,16 @@
       "translation": "Enfarto",
       "librasStructure": "ENFARTO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Enfarto”.",
-        "Use “Enfarto” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Enfarto” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=19&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -98,28 +67,17 @@
       "translation": "Dor de cabeça",
       "librasStructure": "DOR DE CABEÇA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Dor de cabeça”.",
-        "Use “Dor de cabeça” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Dor de cabeça” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=33&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -136,20 +94,16 @@
       "translation": "Labirintite",
       "librasStructure": "LABIRINTITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Labirintite”.",
-        "Use “Labirintite” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Labirintite” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=43&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -160,28 +114,17 @@
       "translation": "Pneumonia",
       "librasStructure": "PNEUMONIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Pneumonia”.",
-        "Use “Pneumonia” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Pneumonia” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=54&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -198,28 +141,17 @@
       "translation": "Gastrite",
       "librasStructure": "GASTRITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Gastrite”.",
-        "Use “Gastrite” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Gastrite” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=66&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -236,28 +168,17 @@
       "translation": "Ansiedade",
       "librasStructure": "ANSIEDADE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Ansiedade”.",
-        "Use “Ansiedade” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Ansiedade” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=79&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -274,28 +195,17 @@
       "translation": "HIV",
       "librasStructure": "HIV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “HIV”.",
-        "Use “HIV” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “HIV” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=95&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -312,28 +222,17 @@
       "translation": "Diabetes",
       "librasStructure": "DIABETES",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Diabetes”.",
-        "Use “Diabetes” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Diabetes” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=110&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -350,28 +249,17 @@
       "translation": "Asma",
       "librasStructure": "ASMA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Asma”.",
-        "Use “Asma” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Asma” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=118&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -388,20 +276,16 @@
       "translation": "Hipertensão arterial",
       "librasStructure": "HIPERTENSÃO ARTERIAL",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Hipertensão arterial”.",
-        "Use “Hipertensão arterial” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Hipertensão arterial” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=131&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -412,28 +296,17 @@
       "translation": "Depressão",
       "librasStructure": "DEPRESSÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Depressão”.",
-        "Use “Depressão” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Depressão” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=153&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -450,28 +323,17 @@
       "translation": "Colesterol",
       "librasStructure": "COLESTEROL",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Colesterol”.",
-        "Use “Colesterol” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Colesterol” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=162&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -488,28 +350,17 @@
       "translation": "Meningite",
       "librasStructure": "MENINGITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Meningite”.",
-        "Use “Meningite” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Meningite” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=174&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -526,28 +377,17 @@
       "translation": "Tosse",
       "librasStructure": "TOSSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Tosse”.",
-        "Use “Tosse” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Tosse” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=186&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -564,20 +404,16 @@
       "translation": "Alzheimer",
       "librasStructure": "ALZHEIMER",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Alzheimer”.",
-        "Use “Alzheimer” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Alzheimer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=202&end=214&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -588,20 +424,16 @@
       "translation": "Mal de Parkinson",
       "librasStructure": "MAL DE PARKINSON",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Mal de Parkinson”.",
-        "Use “Mal de Parkinson” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Mal de Parkinson” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=214&end=226&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -612,20 +444,16 @@
       "translation": "Infecção urinária",
       "librasStructure": "INFECÇÃO URINÁRIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Infecção urinária”.",
-        "Use “Infecção urinária” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Infecção urinária” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=226&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -636,20 +464,16 @@
       "translation": "Enxaqueca",
       "librasStructure": "ENXAQUECA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Enxaqueca”.",
-        "Use “Enxaqueca” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Enxaqueca” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=241&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -660,20 +484,16 @@
       "translation": "Desmaio",
       "librasStructure": "DESMAIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Desmaio”.",
-        "Use “Desmaio” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Desmaio” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=255&end=268&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -684,20 +504,16 @@
       "translation": "Problema de coração",
       "librasStructure": "PROBLEMA DE CORAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Problema de coração”.",
-        "Use “Problema de coração” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Problema de coração” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=268&end=473&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -708,20 +524,16 @@
       "translation": "Estresse; dor",
       "librasStructure": "ESTRESSE; DOR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Estresse; dor”.",
-        "Use “Estresse; dor” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Estresse; dor” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=473&end=488&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -732,20 +544,16 @@
       "translation": "Dor",
       "librasStructure": "DOR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Dor”.",
-        "Use “Dor” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Dor” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=488&end=502&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -756,20 +564,16 @@
       "translation": "Mosquito / Dengue",
       "librasStructure": "MOSQUITO / DENGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Mosquito / Dengue”.",
-        "Use “Mosquito / Dengue” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Mosquito / Dengue” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=502&end=510&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -780,28 +584,17 @@
       "translation": "Zika",
       "librasStructure": "ZIKA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Zika”.",
-        "Use “Zika” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Zika” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=510&end=522&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -818,20 +611,16 @@
       "translation": "Gripe (influenza)",
       "librasStructure": "GRIPE (INFLUENZA)",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Gripe (influenza)”.",
-        "Use “Gripe (influenza)” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Gripe (influenza)” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=522&end=527&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -842,20 +631,16 @@
       "translation": "Hepatites virais A, B e C",
       "librasStructure": "HEPATITES VIRAIS A, B E C",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Hepatites virais A, B e C”.",
-        "Use “Hepatites virais A, B e C” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Hepatites virais A, B e C” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=527&end=543&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -866,28 +651,17 @@
       "translation": "Sarampo",
       "librasStructure": "SARAMPO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Sarampo”.",
-        "Use “Sarampo” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Sarampo” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=543&end=551&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -904,20 +678,16 @@
       "translation": "Rotavírus",
       "librasStructure": "ROTAVÍRUS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Rotavírus”.",
-        "Use “Rotavírus” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Rotavírus” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=551&end=562&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -928,28 +698,17 @@
       "translation": "HPV",
       "librasStructure": "HPV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “HPV”.",
-        "Use “HPV” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “HPV” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=562&end=573&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -966,28 +725,17 @@
       "translation": "Catapora",
       "librasStructure": "CATAPORA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Catapora”.",
-        "Use “Catapora” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Catapora” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=573&end=582&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -1004,28 +752,17 @@
       "translation": "Rubéola",
       "librasStructure": "RUBÉOLA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Rubéola”.",
-        "Use “Rubéola” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Rubéola” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=582&end=593&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -1042,20 +779,16 @@
       "translation": "Varíola",
       "librasStructure": "VARÍOLA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Varíola”.",
-        "Use “Varíola” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Varíola” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=593&end=604&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:13:55.996Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -1066,28 +799,17 @@
       "translation": "Bactéria",
       "librasStructure": "BACTÉRIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “Bactéria”.",
-        "Use “Bactéria” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “Bactéria” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=604&end=613&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -1104,28 +826,17 @@
       "translation": "HIV (variação)",
       "librasStructure": "HIV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “HIV”.",
-        "Use “HIV” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “HIV” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=613&end=623&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1136,28 +847,17 @@
       "translation": "AIDS",
       "librasStructure": "AIDS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [
-        "Na aula de doenças e sintomas, pratique o sinal de “AIDS”.",
-        "Use “AIDS” em uma frase relacionada a doenças e sintomas.",
-        "Depois de assistir ao vídeo, tente produzir “AIDS” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=623&end=627&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:13:55.996Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [

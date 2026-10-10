@@ -7,44 +7,13 @@
   "createdAt": "2026-10-07T16:16:29.398Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-07T16:16:29.398Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:10:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Gramática",
@@ -64,28 +33,17 @@
       "translation": "Respeitar (sem concordância)",
       "librasStructure": "RESPEITAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Respeitar”.",
-        "Use “Respeitar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Respeitar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -96,20 +54,16 @@
       "translation": "Amar",
       "librasStructure": "AMAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Amar”.",
-        "Use “Amar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Amar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=21&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -120,20 +74,16 @@
       "translation": "Aprender",
       "librasStructure": "APRENDER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Aprender”.",
-        "Use “Aprender” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Aprender” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=23&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -144,28 +94,17 @@
       "translation": "Poder (verbo)",
       "librasStructure": "PODER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Poder”.",
-        "Use “Poder” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Poder” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=25&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -176,20 +115,16 @@
       "translation": "Estudar",
       "librasStructure": "ESTUDAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Estudar”.",
-        "Use “Estudar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Estudar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=27&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -200,20 +135,16 @@
       "translation": "Falar",
       "librasStructure": "FALAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Falar”.",
-        "Use “Falar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Falar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -224,20 +155,16 @@
       "translation": "Esquecer",
       "librasStructure": "ESQUECER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Esquecer”.",
-        "Use “Esquecer” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Esquecer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -248,20 +175,16 @@
       "translation": "Brincar",
       "librasStructure": "BRINCAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Brincar”.",
-        "Use “Brincar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Brincar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -272,20 +195,16 @@
       "translation": "Passar",
       "librasStructure": "PASSAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Passar”.",
-        "Use “Passar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Passar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=36&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -296,20 +215,16 @@
       "translation": "Conhecer",
       "librasStructure": "CONHECER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Conhecer”.",
-        "Use “Conhecer” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Conhecer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=38&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -320,20 +235,16 @@
       "translation": "Gostar",
       "librasStructure": "GOSTAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Gostar”.",
-        "Use “Gostar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Gostar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -344,20 +255,16 @@
       "translation": "Acreditar",
       "librasStructure": "ACREDITAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Acreditar”.",
-        "Use “Acreditar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Acreditar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=42&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -368,20 +275,16 @@
       "translation": "Vingar",
       "librasStructure": "VINGAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Vingar”.",
-        "Use “Vingar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Vingar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=44&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -392,20 +295,16 @@
       "translation": "Chorar",
       "librasStructure": "CHORAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Chorar”.",
-        "Use “Chorar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Chorar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -416,20 +315,16 @@
       "translation": "Acostumar",
       "librasStructure": "ACOSTUMAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Acostumar”.",
-        "Use “Acostumar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Acostumar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -440,20 +335,16 @@
       "translation": "Comemorar",
       "librasStructure": "COMEMORAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Comemorar”.",
-        "Use “Comemorar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Comemorar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=53&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -464,20 +355,16 @@
       "translation": "Bagunçar",
       "librasStructure": "BAGUNÇAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Bagunçar”.",
-        "Use “Bagunçar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Bagunçar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=55&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -488,20 +375,16 @@
       "translation": "Admirar",
       "librasStructure": "ADMIRAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Admirar”.",
-        "Use “Admirar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Admirar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=58&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -512,20 +395,16 @@
       "translation": "Ter",
       "librasStructure": "TER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Ter”.",
-        "Use “Ter” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Ter” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=61&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -536,20 +415,16 @@
       "translation": "Comer",
       "librasStructure": "COMER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Comer”.",
-        "Use “Comer” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Comer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -560,20 +435,16 @@
       "translation": "Vomitar",
       "librasStructure": "VOMITAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Vomitar”.",
-        "Use “Vomitar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Vomitar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=66&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -584,20 +455,16 @@
       "translation": "Rir",
       "librasStructure": "RIR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Rir”.",
-        "Use “Rir” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Rir” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=68&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -608,20 +475,16 @@
       "translation": "Achar",
       "librasStructure": "ACHAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Achar”.",
-        "Use “Achar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Achar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -632,20 +495,16 @@
       "translation": "Cantar",
       "librasStructure": "CANTAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Cantar”.",
-        "Use “Cantar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Cantar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -656,20 +515,16 @@
       "translation": "Evitar",
       "librasStructure": "EVITAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Evitar”.",
-        "Use “Evitar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Evitar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=76&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -680,20 +535,16 @@
       "translation": "Comunicar",
       "librasStructure": "COMUNICAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Comunicar”.",
-        "Use “Comunicar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Comunicar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -704,20 +555,16 @@
       "translation": "Querer",
       "librasStructure": "QUERER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Querer”.",
-        "Use “Querer” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Querer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=81&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -728,28 +575,17 @@
       "translation": "Namorar",
       "librasStructure": "NAMORAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Namorar”.",
-        "Use “Namorar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Namorar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=83&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T03:10:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T03:10:00.000Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ],
       "movedFrom": [
@@ -766,20 +602,16 @@
       "translation": "Conversar",
       "librasStructure": "CONVERSAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Conversar”.",
-        "Use “Conversar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Conversar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=86&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -790,20 +622,16 @@
       "translation": "Sofrer",
       "librasStructure": "SOFRER",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Sofrer”.",
-        "Use “Sofrer” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Sofrer” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=88&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -814,20 +642,16 @@
       "translation": "Começar",
       "librasStructure": "COMEÇAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Começar”.",
-        "Use “Começar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Começar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=91&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -838,20 +662,16 @@
       "translation": "Reclamar",
       "librasStructure": "RECLAMAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de verbos sem concordância.",
-      "examples": [
-        "Na aula de verbos sem concordância, pratique o sinal de “Reclamar”.",
-        "Use “Reclamar” em uma frase relacionada a verbos sem concordância.",
-        "Depois de assistir ao vídeo, tente produzir “Reclamar” novamente."
-      ],
+      "examples": [],
       "video": "https://www.youtube.com/embed/uA_5FGwmzJU?start=93&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uA_5FGwmzJU",
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-07T16:16:29.398Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-07T16:16:29.398Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

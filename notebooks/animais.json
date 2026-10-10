@@ -8,11 +8,11 @@
   "changeLog": [
     {
       "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:00:00.000Z",
+      "changes": [
+        "created"
+      ]
     }
   ],
   "collection": "Vocabulário",
@@ -27,15 +27,16 @@
       "librasStructure": "LEÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=17&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=16.4&end=19.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -47,15 +48,16 @@
       "librasStructure": "RINOCERONTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=19.9&end=22.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -67,15 +69,16 @@
       "librasStructure": "CORUJA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=25&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=25.4&end=30.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -87,15 +90,16 @@
       "librasStructure": "TARTARUGA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=31.2&end=34.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -107,15 +111,16 @@
       "librasStructure": "CACHORRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=35.2&end=37.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -127,15 +132,16 @@
       "librasStructure": "MORCEGO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=39&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=39.4&end=43.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -147,15 +153,16 @@
       "librasStructure": "PAPAGAIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=44&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=44.1&end=46.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -167,15 +174,16 @@
       "librasStructure": "GATO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=46.8&end=49.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -191,11 +199,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -211,11 +219,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -227,15 +235,16 @@
       "librasStructure": "PORCO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=78.2&end=81.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -247,15 +256,16 @@
       "librasStructure": "COBRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=90&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=89.9&end=92.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -267,15 +277,16 @@
       "librasStructure": "SAPO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=93.7&end=98.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -291,11 +302,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -311,11 +322,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -327,15 +338,16 @@
       "librasStructure": "ONÇA-PINTADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=120&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=120.4&end=123.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -347,15 +359,16 @@
       "librasStructure": "TIGRE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=125&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=125&end=128.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -367,15 +380,16 @@
       "librasStructure": "RATO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=130.1&end=132.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -387,15 +401,16 @@
       "librasStructure": "ARARA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=134&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=133.1&end=137.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -407,15 +422,16 @@
       "librasStructure": "TAMANDUÁ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=143&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=143&end=145.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -427,15 +443,16 @@
       "librasStructure": "PATO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=148&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=147.4&end=149.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -447,15 +464,16 @@
       "librasStructure": "CAMELO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=152&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=151.7&end=155.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -467,15 +485,16 @@
       "librasStructure": "TATU",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=157&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=157.5&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -487,15 +506,16 @@
       "librasStructure": "JACARÉ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=162&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=161.5&end=163.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -507,15 +527,16 @@
       "librasStructure": "GORILA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=165&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=164.8&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -527,15 +548,16 @@
       "librasStructure": "PINGUIM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=170&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=169.5&end=172.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -551,11 +573,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

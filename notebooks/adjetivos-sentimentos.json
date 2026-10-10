@@ -8,11 +8,11 @@
   "changeLog": [
     {
       "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T05:00:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T05:00:00.000Z",
+      "changes": [
+        "created"
+      ]
     }
   ],
   "collection": "Gramática",
@@ -22,7 +22,7 @@
     {
       "id": "adjetivos-sentimentos-01",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “animado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “animado”?",
       "translation": "Animado",
       "librasStructure": "ANIMADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -31,18 +31,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-02",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “desanimado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “desanimado”?",
       "translation": "Desanimado",
       "librasStructure": "DESANIMADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -51,18 +51,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-03",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “alívio”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “alívio”?",
       "translation": "Alívio",
       "librasStructure": "ALÍVIO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -71,18 +71,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-04",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “preocupado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “preocupado”?",
       "translation": "Preocupado",
       "librasStructure": "PREOCUPADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -91,18 +91,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-05",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “calmo”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “calmo”?",
       "translation": "Calmo",
       "librasStructure": "CALMO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -111,18 +111,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-06",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “nervoso”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “nervoso”?",
       "translation": "Nervoso",
       "librasStructure": "NERVOSO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -131,18 +131,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-07",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “mal-educado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “mal-educado”?",
       "translation": "Mal-educado",
       "librasStructure": "MAL-EDUCADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -151,18 +151,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-08",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “educado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “educado”?",
       "translation": "Educado",
       "librasStructure": "EDUCADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -171,18 +171,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-09",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “humilde”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “humilde”?",
       "translation": "Humilde",
       "librasStructure": "HUMILDE",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -191,18 +191,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-10",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “orgulho”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “orgulho”?",
       "translation": "Orgulho",
       "librasStructure": "ORGULHO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -211,18 +211,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-11",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “alegre”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “alegre”?",
       "translation": "Alegre",
       "librasStructure": "ALEGRE",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -231,18 +231,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-12",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “feliz”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “feliz”?",
       "translation": "Feliz",
       "librasStructure": "FELIZ",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -251,18 +251,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-13",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “triste”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “triste”?",
       "translation": "Triste",
       "librasStructure": "TRISTE",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -271,18 +271,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-14",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “amor”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “amor”?",
       "translation": "Amor",
       "librasStructure": "AMOR",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -291,18 +291,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-15",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “ódio”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “ódio”?",
       "translation": "Ódio",
       "librasStructure": "ÓDIO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -311,18 +311,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-16",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “coragem”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “coragem”?",
       "translation": "Coragem",
       "librasStructure": "CORAGEM",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -331,18 +331,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-17",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “bravo”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “bravo”?",
       "translation": "Bravo",
       "librasStructure": "BRAVO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -351,18 +351,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-18",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “contente”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “contente”?",
       "translation": "Contente",
       "librasStructure": "CONTENTE",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -371,18 +371,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-19",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “inveja”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “inveja”?",
       "translation": "Inveja",
       "librasStructure": "INVEJA",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -391,18 +391,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-20",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “ciúme”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “ciúme”?",
       "translation": "Ciúme",
       "librasStructure": "CIÚME",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -411,18 +411,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-21",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “esperto”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “esperto”?",
       "translation": "Esperto",
       "librasStructure": "ESPERTO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -431,18 +431,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-22",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “coitado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “coitado”?",
       "translation": "Coitado",
       "librasStructure": "COITADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -451,18 +451,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-23",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “esforço”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “esforço”?",
       "translation": "Esforço",
       "librasStructure": "ESFORÇO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -471,18 +471,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-24",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “egoísta”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “egoísta”?",
       "translation": "Egoísta",
       "librasStructure": "EGOÍSTA",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -491,18 +491,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-25",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “fofoqueiro”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “fofoqueiro”?",
       "translation": "Fofoqueiro",
       "librasStructure": "FOFOQUEIRO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -511,18 +511,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-26",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “sério”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “sério”?",
       "translation": "Sério",
       "librasStructure": "SÉRIO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -531,18 +531,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-27",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “malvado”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “malvado”?",
       "translation": "Malvado",
       "librasStructure": "MALVADO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -551,18 +551,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-28",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “bruto”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “bruto”?",
       "translation": "Bruto",
       "librasStructure": "BRUTO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -571,18 +571,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-29",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “preguiçoso”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “preguiçoso”?",
       "translation": "Preguiçoso",
       "librasStructure": "PREGUIÇOSO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -591,18 +591,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-30",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “tímido”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “tímido”?",
       "translation": "Tímido",
       "librasStructure": "TÍMIDO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -611,18 +611,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-31",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “ganancioso”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “ganancioso”?",
       "translation": "Ganancioso",
       "librasStructure": "GANANCIOSO",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -631,18 +631,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-32",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “inocente”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “inocente”?",
       "translation": "Inocente",
       "librasStructure": "INOCENTE",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -651,18 +651,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-33",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “desleixado / desleixada”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “desleixado / desleixada”?",
       "translation": "Desleixado / desleixada",
       "librasStructure": "DESLEIXADO/DESLEIXADA",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -671,18 +671,18 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
     {
       "id": "adjetivos-sentimentos-34",
       "section": "Sentimentos e comportamento",
-      "situation": "Ao contar como alguém está ou é, como você sinaliza “vergonha”?",
+      "situation": "Ao falar sobre sentimentos e características, como você sinaliza “vergonha”?",
       "translation": "Vergonha",
       "librasStructure": "VERGONHA",
       "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
@@ -691,11 +691,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-09T05:00:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-09T05:00:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }

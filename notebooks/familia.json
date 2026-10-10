@@ -7,28 +7,13 @@
   "createdAt": "2026-10-08T23:30:00.000Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-08T23:30:00.000Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:10:00.000Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-09T03:10:00.000Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "collection": "Dia a dia",
@@ -57,15 +42,16 @@
       "examples": [
         "Bom dia, mãe! → BOM-DIA MÃE!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=8&end=11&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=8.8&end=11.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -79,15 +65,16 @@
       "examples": [
         "Boa tarde, pai! → BOA-TARDE PAI!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=11&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=12.2&end=15.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -105,11 +92,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -123,15 +110,16 @@
       "examples": [
         "Bom dia, irmão! → BOM-DIA IRMÃO!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=42.7&end=46.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -145,15 +133,16 @@
       "examples": [
         "Boa tarde, irmã! → BOA-TARDE IRMÃ!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=46&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=46.8&end=51.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -171,11 +160,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -189,15 +178,16 @@
       "examples": [
         "Bom dia, avô! → BOM-DIA AVÔ!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=37&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=36.6&end=40.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -215,11 +205,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -233,15 +223,16 @@
       "examples": [
         "Boa noite, neto! → BOA-NOITE NETO!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=114.3&end=117.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -255,15 +246,16 @@
       "examples": [
         "Bom dia, neta! → BOM-DIA NETA!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=109&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=109.8&end=113.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -277,15 +269,16 @@
       "examples": [
         "Boa tarde, tio! → BOA-TARDE TIO!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=29&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=29.9&end=34.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -299,15 +292,16 @@
       "examples": [
         "Boa noite, tia! → BOA-NOITE TIA!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=35&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=34.2&end=37.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -325,11 +319,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -347,11 +341,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -365,15 +359,16 @@
       "examples": [
         "Boa noite, esposa! → BOA-NOITE ESPOSA!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=57&end=60.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -387,15 +382,16 @@
       "examples": [
         "Bom dia, esposo! → BOM-DIA ESPOSO!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=64&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=64.4&end=68.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -413,11 +409,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -435,11 +431,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -453,15 +449,16 @@
       "examples": [
         "Bom dia, genro! → BOM-DIA GENRO!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=79.1&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -475,15 +472,16 @@
       "examples": [
         "Boa tarde, nora! → BOA-TARDE NORA!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=74.9&end=79.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -501,11 +499,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -519,15 +517,16 @@
       "examples": [
         "Bom dia, cunhado! → BOM-DIA CUNHADO!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=154&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=154.4&end=157.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -545,11 +544,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -563,15 +562,16 @@
       "examples": [
         "Boa noite, madrasta! → BOA-NOITE MADRASTA!"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=124&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=124&end=128.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -583,15 +583,16 @@
       "librasStructure": "ENTEADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=91.9&end=95.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -603,15 +604,16 @@
       "librasStructure": "MEIO-IRMÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=129&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=129.9&end=133.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -623,15 +625,16 @@
       "librasStructure": "FILHO-ADOTIVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=149&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=150.3&end=154.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -649,11 +652,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -671,11 +674,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -689,15 +692,16 @@
       "examples": [
         "Boa noite, homem! → BOA-NOITE HOMEM!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=3&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=3.5&end=5.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -711,15 +715,16 @@
       "examples": [
         "Bom dia, mulher! → BOM-DIA MULHER!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=5&end=8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=5.9&end=8.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -733,15 +738,16 @@
       "examples": [
         "Boa tarde, amigo! → BOA-TARDE AMIGO!"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=130&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=130.1&end=133.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -757,11 +763,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -773,15 +779,16 @@
       "librasStructure": "CRIANÇA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Bebê e Adolescente. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=39.7&end=43.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -793,15 +800,16 @@
       "librasStructure": "ADOLESCENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Criança e Adulto. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=43.8&end=47.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -817,11 +825,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -833,15 +841,16 @@
       "librasStructure": "ADULTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Adolescente. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=47.6&end=50.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -853,15 +862,16 @@
       "librasStructure": "VELHO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Jovem e Coroa. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=34&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=34.7&end=38.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -873,15 +883,16 @@
       "librasStructure": "COROA",
       "notes": "Gíria para pessoa mais velha. Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Velho. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=27.4&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -893,15 +904,16 @@
       "librasStructure": "NAMORADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Noivo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=111&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=112.1&end=115.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -913,15 +925,16 @@
       "librasStructure": "NOIVAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorar e Casamento. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=13&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=13.5&end=17.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -933,15 +946,16 @@
       "librasStructure": "NOIVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=104&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=105.1&end=109.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -957,11 +971,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -977,11 +991,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -993,15 +1007,16 @@
       "librasStructure": "TÉRMINO-DE-NAMORO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorado e Separar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=122&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=123&end=125.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1013,15 +1028,16 @@
       "librasStructure": "SEPARAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Divórcio. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=119&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=120&end=122.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1033,15 +1049,16 @@
       "librasStructure": "DIVÓRCIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Separar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=126.6&end=129.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1053,15 +1070,16 @@
       "librasStructure": "VIÚVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=115&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=116&end=119.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -1073,15 +1091,16 @@
       "librasStructure": "AMANTE",
       "notes": "Pessoa com quem se tem um relacionamento amoroso fora do casamento. Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=108&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=109.2&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:45:37.509Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     }

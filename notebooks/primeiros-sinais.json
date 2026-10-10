@@ -7,76 +7,13 @@
   "createdAt": "2026-10-08T23:30:00.000Z",
   "changeLog": [
     {
-      "action": "created",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-08T23:30:00.000Z"
-    },
-    {
       "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-09T03:00:00.000Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:01:49.951Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:02:13.636Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:03:00.452Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:03:38.086Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:04:19.337Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:05:10.853Z"
-    },
-    {
-      "action": "edited",
-      "actor": {
-        "name": "Marco Antônio",
-        "email": "marco.aq7@gmail.com"
-      },
-      "at": "2026-10-10T04:06:02.071Z"
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-10T13:05:18.166Z",
+      "changes": [
+        "created",
+        "edited"
+      ]
     }
   ],
   "cards": [
@@ -93,20 +30,13 @@
       "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=22&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:01:49.951Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:01:49.951Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -123,20 +53,13 @@
       "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:02:13.636Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:02:13.636Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -154,11 +77,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -174,11 +97,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -195,20 +118,13 @@
       "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:03:00.452Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:03:00.452Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -225,20 +141,13 @@
       "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:03:38.086Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:03:38.086Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -255,28 +164,13 @@
       "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=84&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:04:19.337Z"
-        },
-        {
-          "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:05:10.853Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:05:10.853Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -293,20 +187,13 @@
       "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
-        },
-        {
           "action": "edited",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-10T04:06:02.071Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T04:06:02.071Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -324,11 +211,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -346,11 +233,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -368,11 +255,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -386,15 +273,16 @@
       "examples": [
         "Meu nome é Ana. → MEU NOME A-N-A."
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T12:44:38.452Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -406,15 +294,16 @@
       "librasStructure": "NOME COMPLETO",
       "notes": "O nome completo é soletrado no alfabeto manual. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=19&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=19&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T12:46:59.421Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -428,15 +317,16 @@
       "examples": [
         "Qual é o seu sinal? → SINAL VOCÊ QUAL? (sobrancelhas franzidas)"
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=26&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T12:56:52.442Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -448,15 +338,16 @@
       "librasStructure": "LIBRAS",
       "notes": "Libras é a Língua Brasileira de Sinais, reconhecida pela Lei nº 10.436/2002. É uma língua completa, com gramática própria. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=37&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T12:58:03.243Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -468,15 +359,16 @@
       "librasStructure": "POR-FAVOR",
       "notes": "Acompanhe com expressão de pedido, sem pressa. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
       "examples": [],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=71&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
       "changeLog": [
         {
-          "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-10T13:05:18.166Z",
+          "changes": [
+            "created",
+            "edited"
+          ]
         }
       ]
     },
@@ -494,11 +386,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -516,11 +408,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -536,11 +428,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -556,11 +448,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -578,11 +470,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     },
@@ -598,11 +490,11 @@
       "changeLog": [
         {
           "action": "created",
-          "actor": {
-            "name": "Marco Antônio",
-            "email": "marco.aq7@gmail.com"
-          },
-          "at": "2026-10-08T23:30:00.000Z"
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-08T23:30:00.000Z",
+          "changes": [
+            "created"
+          ]
         }
       ]
     }
