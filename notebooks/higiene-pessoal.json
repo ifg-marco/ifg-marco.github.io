@@ -23,19 +23,23 @@
     {
       "id": "higiene-01",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza higiene pessoal?",
+      "situation": "Antes de sair de casa, você confere sua rotina de higiene pessoal e organiza os produtos necessários.",
       "translation": "Higiene pessoal",
       "librasStructure": "HIGIENE PESSOAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Higiene pessoal é importante para a saúde. → HIGIENE PESSOAL SAÚDE IMPORTANTE.",
+        "Ensino higiene pessoal ao meu filho. → EU ENSINAR FILHO MEU HIGIENE PESSOAL."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=3&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -43,20 +47,24 @@
     {
       "id": "higiene-02",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza algodão?",
+      "situation": "No banheiro, você pega algodão para limpar um pequeno machucado e pede ajuda ao colega.",
       "translation": "Algodão",
       "librasStructure": "ALGODÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Passa álcool no algodão. → ALGODÃO ÁLCOOL PASSAR.",
+        "Tem algodão no armário? → ARMÁRIO ALGODÃO TER?"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -70,20 +78,24 @@
     {
       "id": "higiene-03",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza tesoura?",
+      "situation": "Ao preparar o material de higiene, você procura uma tesoura para cortar a embalagem.",
       "translation": "Tesoura",
       "librasStructure": "TESOURA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Me passa a tesoura? → TESOURA PASSAR-ME?",
+        "A tesoura não corta bem. → TESOURA CORTAR(tesoura) BEM NÃO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=14&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -97,19 +109,23 @@
     {
       "id": "higiene-04",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza creme dental / pasta de dente?",
+      "situation": "De manhã, você percebe que acabou o creme dental e anota o produto na lista de compras.",
       "translation": "Creme dental / pasta de dente",
       "librasStructure": "CREME DENTAL / PASTA DE DENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Acabou a pasta de dente. → PASTA DE DENTE ACABAR.",
+        "Coloca pouco creme dental na escova. → ESCOVA DE DENTE CREME DENTAL POUCO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=25&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -117,20 +133,24 @@
     {
       "id": "higiene-05",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza escova de dente?",
+      "situation": "Depois do café, você pega a escova de dente e lembra o irmão de escovar os dentes.",
       "translation": "Escova de dente",
       "librasStructure": "ESCOVA DE DENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Esqueci a escova de dente na viagem. → VIAGEM ESCOVA DE DENTE EU ESQUECER.",
+        "Troque a escova de dente a cada três meses. → ESCOVA DE DENTE TROCAR 3 MESES."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=31&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -144,20 +164,24 @@
     {
       "id": "higiene-06",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza cotonete?",
+      "situation": "Ao organizar a gaveta, você encontra cotonetes e guarda o pacote longe das crianças.",
       "translation": "Cotonete",
       "librasStructure": "COTONETE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Não coloque cotonete dentro da orelha. → COTONETE ORELHA DENTRO COLOCAR NÃO.",
+        "Cotonete serve para limpar o umbigo do bebê. → COTONETE LIMPAR UMBIGO BEBÊ."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -171,20 +195,24 @@
     {
       "id": "higiene-07",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza toalha de rosto?",
+      "situation": "Depois de lavar o rosto, você procura a toalha de rosto limpa no banheiro.",
       "translation": "Toalha de rosto",
       "librasStructure": "TOALHA DE ROSTO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Cadê a toalha de rosto? → TOALHA DE ROSTO ONDE?",
+        "A toalha de rosto está molhada. → TOALHA DE ROSTO MOLHADA."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -198,19 +226,23 @@
     {
       "id": "higiene-08",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza toalha de banho?",
+      "situation": "Ao sair do banho, você percebe que esqueceu a toalha de banho e chama alguém.",
       "translation": "Toalha de banho",
       "librasStructure": "TOALHA DE BANHO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Me traz a toalha de banho, por favor! → TOALHA DE BANHO TRAZER-ME, POR-FAVOR!",
+        "Pendura a toalha de banho no varal. → TOALHA DE BANHO V-A-R-A-L PENDURAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -218,20 +250,24 @@
     {
       "id": "higiene-09",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza sabonete?",
+      "situation": "No mercado, você compara os sabonetes e escolhe um com cheiro suave para a família.",
       "translation": "Sabonete",
       "librasStructure": "SABONETE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Lava a mão com sabonete. → MÃO LAVAR SABONETE.",
+        "Esse sabonete tem cheiro bom. → SABONETE ESSE CHEIRO BOM."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -245,19 +281,23 @@
     {
       "id": "higiene-10",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza sabonete íntimo?",
+      "situation": "Na farmácia, você procura sabonete íntimo e pede orientação com discrição.",
       "translation": "Sabonete íntimo",
       "librasStructure": "SABONETE ÍNTIMO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Tem sabonete íntimo? → SABONETE ÍNTIMO TER?",
+        "A médica recomendou sabonete íntimo. → MÉDICA RECOMENDAR SABONETE ÍNTIMO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=59&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -265,19 +305,23 @@
     {
       "id": "higiene-11",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza esponja?",
+      "situation": "Na cozinha, você separa uma esponja limpa para lavar os objetos usados na rotina de higiene.",
       "translation": "Esponja",
       "librasStructure": "ESPONJA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Lava a louça com esponja. → LOUÇA LAVAR ESPONJA.",
+        "Uso uma esponja macia no banho. → BANHO EU USAR ESPONJA MACIA."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -285,19 +329,23 @@
     {
       "id": "higiene-12",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza cortador de unhas?",
+      "situation": "Antes de sair, você procura o cortador de unhas para cuidar das mãos.",
       "translation": "Cortador de unhas",
       "librasStructure": "CORTADOR DE UNHAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Cadê o cortador de unhas? → CORTADOR DE UNHAS ONDE?",
+        "Corta as unhas do bebê com cortador de unhas pequeno. → BEBÊ UNHA CORTAR CORTADOR DE UNHAS PEQUENO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=88&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -305,19 +353,23 @@
     {
       "id": "higiene-13",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza alicate?",
+      "situation": "Ao cuidar das unhas, você escolhe entre o alicate e o cortador e pede cuidado ao colega.",
       "translation": "Alicate",
       "librasStructure": "ALICATE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "A manicure usa alicate. → MANICURE USAR ALICATE.",
+        "Cuidado com o alicate, ele corta! → ALICATE CUIDADO, CORTAR!"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=96&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -325,19 +377,23 @@
     {
       "id": "higiene-14",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza lixa?",
+      "situation": "Depois de cortar as unhas, você pega a lixa para deixar as pontas uniformes.",
       "translation": "Lixa",
       "librasStructure": "LIXA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Passa a lixa nas unhas. → UNHAS LIXA PASSAR.",
+        "Você tem lixa de unha? → VOCÊ LIXA TER?"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=109&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -345,20 +401,24 @@
     {
       "id": "higiene-15",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza álcool?",
+      "situation": "Ao limpar as mãos e a mesa, você pede álcool e explica que acabou o frasco.",
       "translation": "Álcool",
       "librasStructure": "ÁLCOOL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Limpa a mesa com álcool. → MESA LIMPAR ÁLCOOL.",
+        "O álcool acabou. → ÁLCOOL ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=116&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -372,19 +432,23 @@
     {
       "id": "higiene-16",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza acetona?",
+      "situation": "Antes de pintar as unhas, você procura acetona para remover o esmalte antigo.",
       "translation": "Acetona",
       "librasStructure": "ACETONA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Tira o esmalte com acetona. → ESMALTE TIRAR ACETONA.",
+        "Acetona tem cheiro forte. → ACETONA CHEIRO FORTE."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -392,19 +456,23 @@
     {
       "id": "higiene-17",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza álcool em gel?",
+      "situation": "Na entrada da escola, você usa álcool em gel e oferece o frasco à colega.",
       "translation": "Álcool em gel",
       "librasStructure": "ÁLCOOL EM GEL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Passa álcool em gel nas mãos. → MÃO ÁLCOOL EM GEL PASSAR.",
+        "Quer álcool em gel? → ÁLCOOL EM GEL VOCÊ QUERER?"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=125&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -412,20 +480,25 @@
     {
       "id": "higiene-18",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza álcool?",
+      "situation": "Você mostra a variação do sinal de álcool usada por outra parte da comunidade surda.",
       "translation": "Álcool (variação)",
       "librasStructure": "ÁLCOOL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Comprei álcool na farmácia. → EU COMPRAR ÁLCOOL FARMÁCIA.",
+        "Álcool pega fogo, cuidado! → ÁLCOOL FOGO PEGAR, CUIDADO!"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=131&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -433,20 +506,24 @@
     {
       "id": "higiene-19",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza shampoo?",
+      "situation": "No banho, você percebe que o shampoo acabou e anota o produto para comprar.",
       "translation": "Shampoo",
       "librasStructure": "SHAMPOO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "O shampoo acabou. → SHAMPOO ACABAR.",
+        "Uso shampoo para cabelo cacheado. → EU USAR SHAMPOO CABELO CACHEADO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=137&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -460,20 +537,24 @@
     {
       "id": "higiene-20",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza condicionador?",
+      "situation": "Depois de lavar o cabelo, você procura o condicionador e pergunta se alguém o usou.",
       "translation": "Condicionador",
       "librasStructure": "CONDICIONADOR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Você usou meu condicionador? → CONDICIONADOR MEU VOCÊ USAR?",
+        "Depois do shampoo, passa o condicionador. → SHAMPOO DEPOIS, CONDICIONADOR PASSAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=144&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -487,19 +568,23 @@
     {
       "id": "higiene-21",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza hidratante?",
+      "situation": "Depois do banho, você passa hidratante e oferece o produto para sua irmã experimentar.",
       "translation": "Hidratante",
       "librasStructure": "HIDRATANTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Passe hidratante na pele seca. → PELE SECA HIDRATANTE PASSAR.",
+        "Esse hidratante tem cheiro de coco. → HIDRATANTE ESSE CHEIRO COCO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=154&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -507,20 +592,24 @@
     {
       "id": "higiene-22",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza desodorante?",
+      "situation": "Antes de sair para a escola, você procura o desodorante na gaveta do banheiro.",
       "translation": "Desodorante",
       "librasStructure": "DESODORANTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Esqueci de passar desodorante! → DESODORANTE EU ESQUECER PASSAR!",
+        "Desodorante sem perfume, por favor. → DESODORANTE PERFUME NÃO-TER, POR-FAVOR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=164&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -534,20 +623,24 @@
     {
       "id": "higiene-23",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza papel higiênico?",
+      "situation": "Ao conferir o banheiro, você percebe que falta papel higiênico e anota na lista de compras.",
       "translation": "Papel higiênico",
       "librasStructure": "PAPEL HIGIÊNICO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Acabou o papel higiênico! → PAPEL HIGIÊNICO ACABAR!",
+        "Compra papel higiênico no mercado. → MERCADO PAPEL HIGIÊNICO COMPRAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -561,20 +654,24 @@
     {
       "id": "higiene-24",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza pinça?",
+      "situation": "Ao organizar o kit de cuidados, você procura a pinça para retirar um pequeno espinho.",
       "translation": "Pinça",
       "librasStructure": "PINÇA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Tira o espinho com a pinça. → ESPINHO TIRAR PINÇA.",
+        "Uso a pinça para tirar a sobrancelha. → EU USAR PINÇA TIRAR(sobrancelha)."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=180&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -588,20 +685,24 @@
     {
       "id": "higiene-25",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza absorvente?",
+      "situation": "Na farmácia, você procura absorvente e compara os tamanhos disponíveis com discrição.",
       "translation": "Absorvente",
       "librasStructure": "ABSORVENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Você tem absorvente? → VOCÊ ABSORVENTE TER?",
+        "Na escola, distribuem absorvente de graça. → ESCOLA ABSORVENTE DAR GRÁTIS."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=186&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -615,19 +716,24 @@
     {
       "id": "higiene-26",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza banho?",
+      "situation": "Depois do treino, você avisa que vai tomar banho antes de encontrar os amigos.",
       "translation": "Banho",
       "librasStructure": "BANHO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Vou tomar banho. → EU TOMAR BANHO.",
+        "Banho quente ou frio? → BANHO QUENTE OU FRIO?",
+        "Dá banho no bebê? → BEBÊ BANHO DAR?"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=191&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -635,19 +741,23 @@
     {
       "id": "higiene-27",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza chuveiro?",
+      "situation": "No banheiro, você percebe que o chuveiro não aqueceu e chama alguém para verificar.",
       "translation": "Chuveiro",
       "librasStructure": "CHUVEIRO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "O chuveiro queimou. → CHUVEIRO QUEIMAR.",
+        "Liga o chuveiro no quente. → CHUVEIRO QUENTE LIGAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=199&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -655,19 +765,23 @@
     {
       "id": "higiene-28",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza fio dental?",
+      "situation": "Depois do jantar, você pega o fio dental e lembra a criança de cuidar dos dentes.",
       "translation": "Fio dental",
       "librasStructure": "FIO DENTAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Use fio dental todo dia. → FIO DENTAL USAR TODO-DIA.",
+        "O dentista mandou usar fio dental. → DENTISTA MANDAR USAR FIO DENTAL."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=204&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -675,19 +789,23 @@
     {
       "id": "higiene-29",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza lenço de papel?",
+      "situation": "Na mochila, você procura um lenço de papel para limpar as mãos durante o passeio.",
       "translation": "Lenço de papel",
       "librasStructure": "LENÇO DE PAPEL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Você tem lenço de papel? → VOCÊ LENÇO DE PAPEL TER?",
+        "Gripado, uso muito lenço de papel. → GRIPE, EU USAR LENÇO DE PAPEL MUITO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=210&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -695,19 +813,23 @@
     {
       "id": "higiene-30",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza perfume?",
+      "situation": "Antes da festa, você escolhe um perfume suave e pergunta qual fragrância a amiga prefere.",
       "translation": "Perfume",
       "librasStructure": "PERFUME",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Que perfume gostoso! → PERFUME CHEIRO GOSTOSO!",
+        "Ganhei perfume de aniversário. → ANIVERSÁRIO EU GANHAR PERFUME."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=218&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -715,19 +837,23 @@
     {
       "id": "higiene-31",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza lâminas de barbear?",
+      "situation": "Ao organizar os produtos do banheiro, você percebe que as lâminas de barbear acabaram.",
       "translation": "Lâminas de barbear",
       "librasStructure": "LÂMINAS DE BARBEAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Acabaram as lâminas de barbear. → LÂMINAS DE BARBEAR ACABAR.",
+        "Cuidado, a lâmina de barbear corta! → LÂMINAS DE BARBEAR CUIDADO, CORTAR!"
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=227&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -735,19 +861,23 @@
     {
       "id": "higiene-32",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza barbeador elétrico?",
+      "situation": "Na rotina de cuidados, você carrega o barbeador elétrico e procura uma tomada no banheiro.",
       "translation": "Barbeador elétrico",
       "librasStructure": "BARBEADOR ELÉTRICO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Meu pai usa barbeador elétrico. → PAI MEU USAR BARBEADOR ELÉTRICO.",
+        "O barbeador elétrico está sem bateria. → BARBEADOR ELÉTRICO BATERIA ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=236&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -755,19 +885,23 @@
     {
       "id": "higiene-33",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza colírio?",
+      "situation": "Depois de passar muito tempo na tela, você procura o colírio e segue a orientação médica.",
       "translation": "Colírio",
       "librasStructure": "COLÍRIO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Pingue o colírio duas vezes ao dia. → COLÍRIO PINGAR DIA 2 VEZES.",
+        "Meus olhos estão secos, preciso de colírio. → OLHOS MEUS SECO, COLÍRIO PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=246&end=253&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -775,19 +909,23 @@
     {
       "id": "higiene-34",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza band-aid / atadura?",
+      "situation": "Ao machucar o dedo, você pede um band-aid ou uma atadura para proteger o local.",
       "translation": "Band-aid / atadura",
       "librasStructure": "BAND-AID / ATADURA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Coloca um band-aid no dedo. → DEDO BAND-AID COLOCAR.",
+        "O enfermeiro enrolou a atadura no braço. → ENFERMEIRO ATADURA ENROLAR BRAÇO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=253&end=262&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -795,20 +933,24 @@
     {
       "id": "higiene-35",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza pente?",
+      "situation": "Antes da aula, você pega o pente e arruma o cabelo diante do espelho.",
       "translation": "Pente",
       "librasStructure": "PENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Me empresta seu pente? → PENTE SEU EMPRESTAR-ME?",
+        "Não divida o pente com ninguém. → PENTE DIVIDIR NINGUÉM NÃO."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=262&end=266&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -822,19 +964,23 @@
     {
       "id": "higiene-36",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza pedra-pomes / lixa para pés?",
+      "situation": "Durante o cuidado dos pés, você usa pedra-pomes e explica para que serve a lixa.",
       "translation": "Pedra-pomes / lixa para pés",
       "librasStructure": "PEDRA-POMES / LIXA PARA PÉS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Uso pedra-pomes no calcanhar. → EU USAR PEDRA-POMES CALCANHAR.",
+        "A lixa para pés deixa a pele lisa. → LIXA PARA PÉS PELE LISA DEIXAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=266&end=275&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -842,19 +988,23 @@
     {
       "id": "higiene-37",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza demaquilante / removedor de maquiagem?",
+      "situation": "Depois da festa, você procura demaquilante para remover a maquiagem antes de dormir.",
       "translation": "Demaquilante / removedor de maquiagem",
       "librasStructure": "DEMAQUILANTE / REMOVEDOR DE MAQUIAGEM",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Tira a maquiagem com demaquilante. → MAQUIAGEM TIRAR DEMAQUILANTE.",
+        "Acabou o removedor de maquiagem. → REMOVEDOR DE MAQUIAGEM ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=275&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -862,19 +1012,23 @@
     {
       "id": "higiene-38",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza lenços umedecidos?",
+      "situation": "Na bolsa do bebê, você guarda lenços umedecidos para usar durante o passeio.",
       "translation": "Lenços umedecidos",
       "librasStructure": "LENÇOS UMEDECIDOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Leva lenços umedecidos na bolsa do bebê. → BOLSA BEBÊ LENÇOS UMEDECIDOS LEVAR.",
+        "Limpa a mão com lenço umedecido. → MÃO LIMPAR LENÇOS UMEDECIDOS."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=286&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -882,19 +1036,23 @@
     {
       "id": "higiene-39",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza óleo corporal?",
+      "situation": "Depois do banho, você aplica óleo corporal e comenta que a pele ficou macia.",
       "translation": "Óleo corporal",
       "librasStructure": "ÓLEO CORPORAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "O óleo corporal deixa a pele macia. → ÓLEO CORPORAL PELE MACIA DEIXAR.",
+        "Passo óleo corporal depois do banho. → BANHO DEPOIS, EU PASSAR ÓLEO CORPORAL."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=291&end=302&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -902,19 +1060,23 @@
     {
       "id": "higiene-40",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza sabão?",
+      "situation": "Na lavanderia, você escolhe o sabão e começa a lavar as roupas da família.",
       "translation": "Sabão",
       "librasStructure": "SABÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Lava a roupa com sabão. → ROUPA LAVAR SABÃO.",
+        "O sabão em pó acabou. → SABÃO PÓ ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=302&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:11:21.974Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -922,20 +1084,25 @@
     {
       "id": "higiene-41",
       "section": "Higiene e cuidados pessoais",
-      "situation": "Como você sinaliza absorvente?",
+      "situation": "Você mostra uma variação do sinal de absorvente usada em outra região e explica o contexto.",
       "translation": "Absorvente (variação)",
       "librasStructure": "ABSORVENTE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de higiene e cuidados pessoais.",
-      "examples": [],
+      "examples": [
+        "Essa é outra forma de sinalizar absorvente. → ABSORVENTE SINAL OUTRO ESTE.",
+        "Comprei absorvente noturno. → EU COMPRAR ABSORVENTE NOITE."
+      ],
       "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=315&end=319&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:11:54.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]

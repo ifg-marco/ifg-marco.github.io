@@ -22,19 +22,24 @@
     {
       "id": "classificadores-01",
       "section": "Tipos de classificadores",
-      "situation": "Como você sinaliza “classificador de localidade”?",
+      "situation": "Você usa o classificador de localidade para mostrar no espaço onde estão os móveis da sala.",
       "translation": "Classificador de localidade",
       "librasStructure": "CLASSIFICADOR-DE-LOCALIDADE",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A mesa fica aqui e o sofá ali. → MESA CL(aqui), SOFÁ CL(ali).",
+        "Minha casa fica na esquina, a escola em frente. → CASA MINHA CL(esquina), ESCOLA CL(frente)."
+      ],
       "video": "https://www.youtube.com/embed/Ct_lFhsDqu8?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ct_lFhsDqu8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,24 @@
     {
       "id": "classificadores-02",
       "section": "Tipos de classificadores",
-      "situation": "Como você sinaliza “classificador semântico”?",
+      "situation": "Ao contar uma história, você usa o classificador semântico para mostrar a forma e o movimento do carro.",
       "translation": "Classificador semântico",
       "librasStructure": "CLASSIFICADOR-SEMÂNTICO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O carro subiu a ladeira. → CARRO CL-SEMÂNTICO(carro subir).",
+        "A bola rolou para debaixo do sofá. → BOLA CL-SEMÂNTICO(rolar) SOFÁ EMBAIXO."
+      ],
       "video": "https://www.youtube.com/embed/Ct_lFhsDqu8?start=23&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ct_lFhsDqu8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +72,24 @@
     {
       "id": "classificadores-03",
       "section": "Tipos de classificadores",
-      "situation": "Como você sinaliza “classificador de instrumento”?",
+      "situation": "Você usa o classificador de instrumento para mostrar como alguém segura e usa uma ferramenta.",
       "translation": "Classificador de instrumento",
       "librasStructure": "CLASSIFICADOR-DE-INSTRUMENTO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele martelou o prego. → ELE CL-INSTRUMENTO(martelar) PREGO.",
+        "Ela abriu a porta com a chave. → ELA CL-INSTRUMENTO(chave girar) PORTA."
+      ],
       "video": "https://www.youtube.com/embed/Ct_lFhsDqu8?start=31&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ct_lFhsDqu8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +97,24 @@
     {
       "id": "classificadores-04",
       "section": "Tipos de classificadores",
-      "situation": "Como você sinaliza “classificador de partes do corpo”?",
+      "situation": "Ao descrever uma pessoa, você usa o classificador de partes do corpo para mostrar como a perna se move.",
       "translation": "Classificador de partes do corpo",
       "librasStructure": "CLASSIFICADOR-DE-PARTES-DO-CORPO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele cruzou as pernas. → ELE CL-PARTES-DO-CORPO(pernas cruzar).",
+        "Ela piscou o olho para mim. → ELA CL-PARTES-DO-CORPO(olho piscar)-ME."
+      ],
       "video": "https://www.youtube.com/embed/Ct_lFhsDqu8?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ct_lFhsDqu8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +122,24 @@
     {
       "id": "classificadores-05",
       "section": "Tipos de classificadores",
-      "situation": "Como você sinaliza “classificador de plural”?",
+      "situation": "Você usa o classificador de plural para descrever vários carros parados lado a lado.",
       "translation": "Classificador de plural",
       "librasStructure": "CLASSIFICADOR-DE-PLURAL",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tinha muitos carros parados no estacionamento. → ESTACIONAMENTO CARRO CL-PLURAL(fileira).",
+        "Os livros estão empilhados na estante. → LIVRO CL-PLURAL(pilha) ESTANTE."
+      ],
       "video": "https://www.youtube.com/embed/Ct_lFhsDqu8?start=44&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ct_lFhsDqu8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +147,24 @@
     {
       "id": "classificadores-06",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “perto (forma 1)”?",
+      "situation": "Na escola, você explica que a biblioteca fica perto da sala de aula (forma 1).",
       "translation": "Perto (forma 1)",
       "librasStructure": "PERTO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A biblioteca fica perto daqui. → BIBLIOTECA PERTO AQUI.",
+        "Você mora perto da escola? → VOCÊ MORAR PERTO ESCOLA?"
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=16&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +172,24 @@
     {
       "id": "classificadores-07",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “pertinho”?",
+      "situation": "Uma criança pergunta pela mãe, e você mostra que ela está pertinho.",
       "translation": "Pertinho",
       "librasStructure": "PERTINHO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Sua mãe está pertinho, ali. → MÃE SUA PERTINHO, ALI.",
+        "A padaria é pertinho de casa. → PADARIA PERTINHO CASA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +197,24 @@
     {
       "id": "classificadores-08",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “perto (forma 2)”?",
+      "situation": "Você compara duas lojas e aponta a que fica mais perto (forma 2).",
       "translation": "Perto (forma 2)",
       "librasStructure": "PERTO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa loja é mais perto. → LOJA ESSA PERTO MAIS.",
+        "O ponto de ônibus fica perto do banco. → PONTO ÔNIBUS PERTO BANCO."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=21&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +222,24 @@
     {
       "id": "classificadores-09",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “longe”?",
+      "situation": "Durante a viagem, você comenta que a próxima cidade fica longe.",
       "translation": "Longe",
       "librasStructure": "LONGE",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Brasília fica longe? → BRASÍLIA LONGE?",
+        "Moro longe do trabalho. → EU MORAR LONGE TRABALHO."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +247,24 @@
     {
       "id": "classificadores-10",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “longínquo (forma 1)”?",
+      "situation": "No mapa, você aponta um lugar longínquo, muito distante (forma 1).",
       "translation": "Longínquo (forma 1)",
       "librasStructure": "LONGÍNQUO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Japão fica num lugar longínquo. → JAPÃO LONGÍNQUO.",
+        "Ele foi para uma terra longínqua. → ELE IR TERRA LONGÍNQUA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +272,24 @@
     {
       "id": "classificadores-11",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “longínquo (forma 2)”?",
+      "situation": "Contando uma viagem, você diz que o destino era longínquo (forma 2).",
       "translation": "Longínquo (forma 2)",
       "librasStructure": "LONGÍNQUO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A fazenda do meu avô é longínqua. → FAZENDA AVÔ MEU LONGÍNQUA.",
+        "Viajamos para uma cidade longínqua. → NÓS VIAJAR CIDADE LONGÍNQUA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +297,24 @@
     {
       "id": "classificadores-12",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “longínquo (forma 3)”?",
+      "situation": "Comparando dois destinos, você destaca o mais longínquo (forma 3).",
       "translation": "Longínquo (forma 3)",
       "librasStructure": "LONGÍNQUO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Manaus é mais longínqua que Brasília. → MANAUS LONGÍNQUO MAIS BRASÍLIA.",
+        "O lugar mais longínquo que já fui foi Portugal. → LUGAR LONGÍNQUO EU IR: PORTUGAL."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +322,24 @@
     {
       "id": "classificadores-13",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “frente”?",
+      "situation": "Na fila, você orienta uma colega a ficar na frente.",
       "translation": "Frente",
       "librasStructure": "FRENTE",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fica na frente, por favor. → FRENTE FICAR, POR-FAVOR.",
+        "A escola fica em frente à praça. → ESCOLA FRENTE PRAÇA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +347,23 @@
     {
       "id": "classificadores-14",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “lado direito”?",
+      "situation": "Ao explicar o caminho, você orienta a colega a virar para o lado direito.",
       "translation": "Lado direito",
       "librasStructure": "LADO-DIREITO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vire à direita na esquina. → ESQUINA VIRAR LADO-DIREITO.",
+        "O banheiro fica do lado direito. → BANHEIRO LADO-DIREITO."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=37&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -302,19 +371,24 @@
     {
       "id": "classificadores-15",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “lado esquerdo”?",
+      "situation": "Você explica o caminho até a sala, mandando virar para o lado esquerdo.",
       "translation": "Lado esquerdo",
       "librasStructure": "LADO-ESQUERDO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A sala fica do lado esquerdo. → SALA LADO-ESQUERDO.",
+        "Ele escreve com a mão esquerda. → ELE ESCREVER MÃO LADO-ESQUERDO."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +396,23 @@
     {
       "id": "classificadores-16",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “atrás”?",
+      "situation": "Uma colega procura a mochila, e você mostra que ela está atrás da cadeira.",
       "translation": "Atrás",
       "librasStructure": "ATRÁS",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A mochila está atrás da cadeira. → MOCHILA ATRÁS CADEIRA.",
+        "O mercado fica atrás da igreja. → MERCADO ATRÁS IGREJA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=43&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +420,24 @@
     {
       "id": "classificadores-17",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “em cima”?",
+      "situation": "Na cozinha, você mostra que o caderno está em cima da mesa.",
       "translation": "Em cima",
       "librasStructure": "EM-CIMA",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O caderno está em cima da mesa. → CADERNO EM-CIMA MESA.",
+        "O gato subiu em cima do armário. → GATO SUBIR EM-CIMA ARMÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=45&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +445,23 @@
     {
       "id": "classificadores-18",
       "section": "Direção e perspectiva",
-      "situation": "Como você sinaliza “por baixo”?",
+      "situation": "Você procura a chave e percebe que ela caiu por baixo do móvel.",
       "translation": "Por baixo",
       "librasStructure": "POR-BAIXO",
       "notes": "Classificadores usam a configuração de mão para representar formas, quantidades e posições no espaço. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A chave caiu por baixo do sofá. → CHAVE CAIR POR-BAIXO SOFÁ.",
+        "O cachorro dorme por baixo da mesa. → CACHORRO DORMIR POR-BAIXO MESA."
+      ],
       "video": "https://www.youtube.com/embed/gII6w3keG9M?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gII6w3keG9M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

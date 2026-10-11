@@ -22,19 +22,24 @@
     {
       "id": "drogas-01",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “drogas”?",
+      "situation": "Numa atividade de saúde, a turma conversa sobre drogas e formas de prevenção.",
       "translation": "Drogas",
       "librasStructure": "DROGAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Drogas fazem mal à saúde. → DROGAS SAÚDE MAL.",
+        "Diga não às drogas. → DROGAS NÃO."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=14&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,24 @@
     {
       "id": "drogas-02",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “drogas ilícitas”?",
+      "situation": "No debate, você diferencia drogas lícitas de drogas ilícitas, proibidas pela lei.",
       "translation": "Drogas ilícitas",
       "librasStructure": "DROGAS-ILÍCITAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Maconha e cocaína são drogas ilícitas. → MACONHA COCAÍNA DROGAS-ILÍCITAS.",
+        "Vender drogas ilícitas é crime. → DROGAS-ILÍCITAS VENDER CRIME."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=17&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +72,23 @@
     {
       "id": "drogas-03",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “cigarro”?",
+      "situation": "Uma campanha de saúde mostra os riscos do cigarro e incentiva a pessoa a buscar ajuda para parar.",
       "translation": "Cigarro",
       "librasStructure": "CIGARRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu avô parou de fumar cigarro. → AVÔ MEU CIGARRO FUMAR PARAR.",
+        "O cigarro causa câncer. → CIGARRO CÂNCER CAUSAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +96,23 @@
     {
       "id": "drogas-04",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “maconha”?",
+      "situation": "Durante uma conversa responsável, você pergunta onde encontrar orientação sobre o uso de maconha.",
       "translation": "Maconha",
       "librasStructure": "MACONHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A maconha é proibida no Brasil. → BRASIL MACONHA PROIBIDA.",
+        "O CAPS ajuda quem usa maconha. → CAPS AJUDAR PESSOA MACONHA USAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -102,19 +120,23 @@
     {
       "id": "drogas-05",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “cocaína”?",
+      "situation": "Em uma palestra, você ouve uma explicação sobre os riscos da cocaína e a importância do cuidado.",
       "translation": "Cocaína",
       "librasStructure": "COCAÍNA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A cocaína vicia rápido. → COCAÍNA VICIAR RÁPIDO.",
+        "A polícia apreendeu cocaína. → POLÍCIA COCAÍNA APREENDER."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -122,19 +144,24 @@
     {
       "id": "drogas-06",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “ecstasy”?",
+      "situation": "No material de prevenção, você lê sobre o ecstasy, droga comum em festas.",
       "translation": "Ecstasy",
       "librasStructure": "ECSTASY",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ecstasy aparece em festas. → FESTA ECSTASY APARECER.",
+        "O ecstasy desidrata o corpo. → ECSTASY CORPO DESIDRATAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +169,24 @@
     {
       "id": "drogas-07",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “boa noite, Cinderela (golpe)”?",
+      "situation": "Numa orientação de segurança, você aprende a reconhecer o golpe “Boa noite, Cinderela”, com droga na bebida.",
       "translation": "Boa noite, Cinderela (golpe)",
       "librasStructure": "BOA-NOITE,-CINDERELA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cuidado com o golpe Boa noite, Cinderela! → CUIDADO GOLPE BOA-NOITE,-CINDERELA!",
+        "Não aceite bebida de estranho: pode ser Boa noite, Cinderela. → ESTRANHO BEBIDA ACEITAR NÃO: BOA-NOITE,-CINDERELA PODER."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=36&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +194,23 @@
     {
       "id": "drogas-08",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “heroína”?",
+      "situation": "A professora apresenta diferentes substâncias e explica por que a heroína exige atenção e prevenção.",
       "translation": "Heroína",
       "librasStructure": "HEROÍNA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A heroína é injetada na veia. → HEROÍNA VEIA INJETAR.",
+        "A heroína causa muita dependência. → HEROÍNA DEPENDÊNCIA MUITO CAUSAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +218,23 @@
     {
       "id": "drogas-09",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “crack”?",
+      "situation": "Você participa de uma conversa sobre cuidado em saúde e os riscos associados ao crack.",
       "translation": "Crack",
       "librasStructure": "CRACK",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O crack destrói famílias. → CRACK FAMÍLIA DESTRUIR.",
+        "Quem usa crack precisa de tratamento. → CRACK USAR, TRATAMENTO PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=45&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -202,19 +242,23 @@
     {
       "id": "drogas-10",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “tráfico”?",
+      "situation": "No noticiário, você acompanha uma conversa sobre crime, segurança e prevenção ao tráfico.",
       "translation": "Tráfico",
       "librasStructure": "TRÁFICO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A polícia combate o tráfico. → POLÍCIA TRÁFICO COMBATER.",
+        "O tráfico é crime grave. → TRÁFICO CRIME GRAVE."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=51&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +266,24 @@
     {
       "id": "drogas-11",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “traficante”?",
+      "situation": "Numa aula de cidadania, você diferencia o traficante, que vende drogas, da pessoa que precisa de cuidado.",
       "translation": "Traficante",
       "librasStructure": "TRAFICANTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O traficante foi preso. → TRAFICANTE PRENDER.",
+        "O traficante vende, o usuário precisa de ajuda. → TRAFICANTE VENDER, USUÁRIO-DE-DROGAS AJUDA PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +291,24 @@
     {
       "id": "drogas-12",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “usuário de drogas”?",
+      "situation": "Numa conversa de saúde, você usa a expressão respeitosa “usuário de drogas”.",
       "translation": "Usuário de drogas",
       "librasStructure": "USUÁRIO-DE-DROGAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O usuário de drogas precisa de acolhimento. → USUÁRIO-DE-DROGAS ACOLHER PRECISAR.",
+        "O CAPS atende usuário de drogas. → CAPS USUÁRIO-DE-DROGAS ATENDER."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=59&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +316,24 @@
     {
       "id": "drogas-13",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “viciado”?",
+      "situation": "A equipe conversa sobre a palavra “viciado” e prefere falar em dependência, sem rotular.",
       "translation": "Viciado",
       "librasStructure": "VICIADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Em vez de viciado, diga pessoa com dependência. → VICIADO NÃO, PESSOA DEPENDÊNCIA.",
+        "Ele está viciado em jogo de celular. → ELE VICIADO JOGO CELULAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +341,24 @@
     {
       "id": "drogas-14",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “cola de sapateiro”?",
+      "situation": "Na aula de saúde, você aprende por que a cola de sapateiro, produto inalável, é perigosa.",
       "translation": "Cola de sapateiro",
       "librasStructure": "COLA-DE-SAPATEIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cheirar cola de sapateiro faz mal ao cérebro. → COLA-DE-SAPATEIRO CHEIRAR CÉREBRO MAL.",
+        "Crianças de rua usam cola de sapateiro. → CRIANÇA RUA COLA-DE-SAPATEIRO USAR."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +366,23 @@
     {
       "id": "drogas-15",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “anabolizantes”?",
+      "situation": "Na academia, uma pessoa pergunta sobre anabolizantes e você recomenda orientação profissional.",
       "translation": "Anabolizantes",
       "librasStructure": "ANABOLIZANTES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Anabolizantes fazem mal ao coração. → ANABOLIZANTES CORAÇÃO MAL.",
+        "Não use anabolizantes sem médico. → ANABOLIZANTES MÉDICO SEM USAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +390,23 @@
     {
       "id": "drogas-16",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “lança-perfume”?",
+      "situation": "Em uma orientação para festas, você conversa sobre os riscos de inalar lança-perfume.",
       "translation": "Lança-perfume",
       "librasStructure": "LANÇA-PERFUME",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O lança-perfume é proibido. → LANÇA-PERFUME PROIBIDO.",
+        "No Carnaval, cuidado com o lança-perfume. → CARNAVAL LANÇA-PERFUME CUIDADO."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +414,24 @@
     {
       "id": "drogas-17",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “veneno”?",
+      "situation": "Em casa, você encontra um veneno e avisa que ele deve ficar longe das crianças.",
       "translation": "Veneno",
       "librasStructure": "VENENO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Guarde o veneno longe das crianças. → VENENO GUARDAR LONGE CRIANÇA.",
+        "Esse produto é veneno para rato. → PRODUTO ESSE VENENO RATO."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=77&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +439,24 @@
     {
       "id": "drogas-18",
       "section": "Drogas",
-      "situation": "Numa conversa sobre prevenção, como você sinaliza “overdose”?",
+      "situation": "Numa aula de primeiros cuidados, você aprende a reconhecer uma overdose.",
       "translation": "Overdose",
       "librasStructure": "OVERDOSE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Overdose é emergência: chame o SAMU. → OVERDOSE EMERGÊNCIA: SAMU CHAMAR.",
+        "Ele morreu de overdose. → ELE MORRER OVERDOSE."
+      ],
       "video": "https://www.youtube.com/embed/chRf3GpVDt4?start=80&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:19:41.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

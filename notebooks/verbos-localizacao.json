@@ -28,19 +28,24 @@
     {
       "id": "verbos-localizacao-01",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “alisar — cabelo”?",
+      "situation": "No salão, a cliente explica que quer alisar o cabelo.",
       "translation": "Alisar — cabelo",
       "librasStructure": "ALISAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quero alisar meu cabelo. → CABELO MEU ALISAR(cabelo) QUERER.",
+        "Ela alisou o cabelo para a formatura. → FORMATURA ELA ALISAR(cabelo)."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -48,19 +53,24 @@
     {
       "id": "verbos-localizacao-02",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “beijar — boca”?",
+      "situation": "Numa conversa sobre carinho, você descreve um casal adulto que vai beijar na boca.",
       "translation": "Beijar — boca",
       "librasStructure": "BEIJAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O casal se beijou na boca no casamento. → CASAMENTO CASAL BEIJAR(boca).",
+        "Na novela, eles se beijaram na boca. → NOVELA ELES BEIJAR(boca)."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=38&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -68,19 +78,24 @@
     {
       "id": "verbos-localizacao-03",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “beijar — rosto”?",
+      "situation": "Ao cumprimentar uma pessoa próxima, você descreve como beijar no rosto.",
       "translation": "Beijar — rosto",
       "librasStructure": "BEIJAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha avó me beijou no rosto. → AVÓ MINHA BEIJAR(rosto)-ME.",
+        "No Brasil, as pessoas se beijam no rosto para cumprimentar. → BRASIL CUMPRIMENTAR BEIJAR(rosto)."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=46&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +103,24 @@
     {
       "id": "verbos-localizacao-04",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “fazer cirurgia — barriga (cesárea)”?",
+      "situation": "No atendimento de saúde, uma gestante explica que vai fazer cirurgia na barriga, uma cesárea, para o bebê nascer.",
       "translation": "Fazer cirurgia — barriga (cesárea)",
       "librasStructure": "FAZER-CIRURGIA",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela fez cesárea. → ELA FAZER-CIRURGIA(barriga).",
+        "O bebê nasceu de cesárea? → BEBÊ NASCER FAZER-CIRURGIA(barriga)?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -108,19 +128,24 @@
     {
       "id": "verbos-localizacao-05",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “fazer cirurgia — rosto”?",
+      "situation": "Numa consulta, a pessoa pergunta sobre fazer cirurgia no rosto.",
       "translation": "Fazer cirurgia — rosto",
       "librasStructure": "FAZER-CIRURGIA",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele fez cirurgia no rosto depois do acidente. → ACIDENTE DEPOIS, ELE FAZER-CIRURGIA(rosto).",
+        "Cirurgia no rosto é cara? → FAZER-CIRURGIA(rosto) CARA?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -128,19 +153,24 @@
     {
       "id": "verbos-localizacao-06",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “cortar — unhas”?",
+      "situation": "Antes de uma ocasião especial, você conta que vai cortar as unhas.",
       "translation": "Cortar — unhas",
       "librasStructure": "CORTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Corta as unhas do bebê com cuidado. → BEBÊ UNHA CORTAR(unha) CUIDADO.",
+        "Preciso cortar as unhas. → EU CORTAR(unha) PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=69&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -148,19 +178,23 @@
     {
       "id": "verbos-localizacao-07",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “cortar — cabelo”?",
+      "situation": "Uma colega pergunta por que você mudou o visual, e você conta que cortou o cabelo.",
       "translation": "Cortar — cabelo",
       "librasStructure": "CORTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cortei o cabelo ontem. → ONTEM EU CORTAR(cabelo).",
+        "Onde você corta o cabelo? → VOCÊ CORTAR(cabelo) ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=74&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -168,19 +202,24 @@
     {
       "id": "verbos-localizacao-08",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “deitar — cama”?",
+      "situation": "Depois de um dia cansativo, você avisa que vai deitar na cama.",
       "translation": "Deitar — cama",
       "librasStructure": "DEITAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou deitar, estou cansadíssimo. → EU DEITAR(cama), CANSADÍSSIMO.",
+        "O gato deitou na minha cama. → GATO DEITAR(cama) CAMA MINHA."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=81&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -188,19 +227,24 @@
     {
       "id": "verbos-localizacao-09",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “engessar — braço”?",
+      "situation": "No pronto atendimento, o médico precisou engessar o braço machucado.",
       "translation": "Engessar — braço",
       "librasStructure": "ENGESSAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O médico engessou meu braço. → MÉDICO ENGESSAR(braço)-MEU.",
+        "Caí de bicicleta e engessei o braço. → EU CAIR(bicicleta), ENGESSAR(braço)."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=91&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -208,19 +252,24 @@
     {
       "id": "verbos-localizacao-10",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “escovar — cabelo”?",
+      "situation": "Antes de sair, você vai escovar o cabelo diante do espelho.",
       "translation": "Escovar — cabelo",
       "librasStructure": "ESCOVAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Escova o cabelo antes de sair. → SAIR ANTES, ESCOVAR(cabelo).",
+        "A mãe escova o cabelo da filha. → MÃE ESCOVAR(cabelo) FILHA."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=101&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -228,19 +277,24 @@
     {
       "id": "verbos-localizacao-11",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “escrever — quadro / lousa”?",
+      "situation": "Na aula, a professora vai escrever no quadro uma informação para a turma.",
       "translation": "Escrever — quadro / lousa",
       "librasStructure": "ESCREVER",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A professora escreveu no quadro. → PROFESSORA ESCREVER(quadro).",
+        "Escreve a data no quadro, por favor. → DATA ESCREVER(quadro), POR-FAVOR."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=108&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -248,19 +302,24 @@
     {
       "id": "verbos-localizacao-12",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “escrever — caderno”?",
+      "situation": "Durante o estudo, você vai escrever uma palavra nova no caderno.",
       "translation": "Escrever — caderno",
       "librasStructure": "ESCREVER",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Escrevo os sinais novos no caderno. → SINAL NOVO EU ESCREVER(caderno).",
+        "Você escreveu a lição? → LIÇÃO VOCÊ ESCREVER(caderno)?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=115&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -268,19 +327,24 @@
     {
       "id": "verbos-localizacao-13",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “fazer — cílios”?",
+      "situation": "No salão, a profissional explica que vai fazer os cílios da cliente.",
       "translation": "Fazer — cílios",
       "librasStructure": "FAZER",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou fazer os cílios para o casamento. → CASAMENTO EU FAZER(cílios).",
+        "Quanto custa fazer os cílios? → FAZER(cílios) PREÇO QUANTO?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=122&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -288,19 +352,24 @@
     {
       "id": "verbos-localizacao-14",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “maquiar — rosto”?",
+      "situation": "Antes da festa, você vai maquiar o rosto.",
       "translation": "Maquiar — rosto",
       "librasStructure": "MAQUIAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela maquiou a noiva. → ELA MAQUIAR(rosto) NOIVA.",
+        "Você vai se maquiar para a festa? → FESTA VOCÊ MAQUIAR(rosto)?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=129&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -308,19 +377,24 @@
     {
       "id": "verbos-localizacao-15",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “passar batom — lábios”?",
+      "situation": "Uma colega se arruma e vai passar batom vermelho.",
       "translation": "Passar batom — lábios",
       "librasStructure": "PASSAR-BATOM",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela passou batom vermelho. → ELA PASSAR-BATOM VERMELHO.",
+        "Vou passar batom antes de sair. → SAIR ANTES, EU PASSAR-BATOM."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -328,19 +402,24 @@
     {
       "id": "verbos-localizacao-16",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pentear — cabelo”?",
+      "situation": "Depois do banho, você vai pentear o cabelo antes da aula.",
       "translation": "Pentear — cabelo",
       "librasStructure": "PENTEAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Penteia o cabelo, filho! → FILHO, PENTEAR(cabelo)!",
+        "Ela penteia o cabelo da boneca. → ELA PENTEAR(cabelo) BONECA."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=142&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -348,19 +427,24 @@
     {
       "id": "verbos-localizacao-17",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pintar — unhas”?",
+      "situation": "No fim de semana, você escolhe a cor para pintar as unhas.",
       "translation": "Pintar — unhas",
       "librasStructure": "PINTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pintar as unhas de vermelho. → EU PINTAR(unha) VERMELHO.",
+        "Quem pintou suas unhas? → UNHA SUA PINTAR(unha) QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=148&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -368,19 +452,24 @@
     {
       "id": "verbos-localizacao-18",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pintar — cabelo”?",
+      "situation": "Uma colega decidiu mudar o visual e vai pintar o cabelo.",
       "translation": "Pintar — cabelo",
       "librasStructure": "PINTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Pintei o cabelo de ruivo! → EU PINTAR(cabelo) RUIVO!",
+        "Minha avó pinta o cabelo todo mês. → AVÓ MINHA PINTAR(cabelo) MÊS TODO."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=155&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -388,19 +477,24 @@
     {
       "id": "verbos-localizacao-19",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pintar — carro”?",
+      "situation": "Na oficina, o profissional vai pintar o carro de outra cor.",
       "translation": "Pintar — carro",
       "librasStructure": "PINTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pintar meu carro de azul. → CARRO MEU PINTAR(carro) AZUL.",
+        "Pintar o carro custa caro. → PINTAR(carro) CARO."
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=161&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -408,19 +502,24 @@
     {
       "id": "verbos-localizacao-20",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pintar — casa”?",
+      "situation": "A família escolhe uma cor nova para pintar a casa.",
       "translation": "Pintar — casa",
       "librasStructure": "PINTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos pintar a casa de branco. → CASA NÓS PINTAR(casa) BRANCO.",
+        "Quem pintou sua casa? → CASA SUA PINTAR(casa) QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=168&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -428,19 +527,23 @@
     {
       "id": "verbos-localizacao-21",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “pintar — parede”?",
+      "situation": "Durante a reforma, você explica que vai pintar uma parede da sala.",
       "translation": "Pintar — parede",
       "librasStructure": "PINTAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pintar a parede da sala de verde. → SALA PAREDE EU PINTAR(parede) VERDE.",
+        "A criança pintou a parede com lápis! → CRIANÇA PINTAR(parede) LÁPIS!"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=175&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -448,19 +551,24 @@
     {
       "id": "verbos-localizacao-22",
       "section": "Concordância de localização",
-      "situation": "Como você sinaliza “tirar — sobrancelha”?",
+      "situation": "No salão, a profissional pergunta se você quer tirar a sobrancelha.",
       "translation": "Tirar — sobrancelha",
       "librasStructure": "TIRAR",
       "notes": "O sinal é feito no local da ação (cabelo, rosto, unhas, parede), por isso o lugar faz parte do significado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou tirar a sobrancelha amanhã. → AMANHÃ EU TIRAR(sobrancelha).",
+        "Tirar a sobrancelha dói? → TIRAR(sobrancelha) DOER?"
+      ],
       "video": "https://www.youtube.com/embed/662pv4KchBM?start=183&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=662pv4KchBM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:07:21.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

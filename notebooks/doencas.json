@@ -23,19 +23,23 @@
     {
       "id": "doenca-01",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza doenças?",
+      "situation": "Na consulta, você descreve doenças comuns da família e pergunta quando é importante procurar atendimento.",
       "translation": "Doenças",
       "librasStructure": "DOENÇAS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Quais doenças têm na sua família? → FAMÍLIA SUA DOENÇAS QUAIS?",
+        "A vacina previne muitas doenças. → VACINA PREVENIR DOENÇAS MUITO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=6&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -43,19 +47,23 @@
     {
       "id": "doenca-02",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza enfarto?",
+      "situation": "Durante a aula de saúde, você aprende a reconhecer sinais de enfarto e a buscar ajuda rapidamente.",
       "translation": "Enfarto",
       "librasStructure": "ENFARTO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu avô teve um enfarto. → AVÔ MEU ENFARTO.",
+        "Dor no peito pode ser enfarto. → PEITO DOER, ENFARTO PODER."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=19&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -63,20 +71,24 @@
     {
       "id": "doenca-03",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza dor de cabeça?",
+      "situation": "Na escola, você avisa que está com dor de cabeça e pede um momento para descansar.",
       "translation": "Dor de cabeça",
       "librasStructure": "DOR DE CABEÇA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com dor de cabeça. → EU DOR DE CABEÇA.",
+        "Barulho me dá dor de cabeça. → BARULHO DAR-ME DOR DE CABEÇA."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=33&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -90,19 +102,23 @@
     {
       "id": "doenca-04",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza labirintite?",
+      "situation": "Na consulta, você explica que sente tontura e pergunta se pode ser labirintite.",
       "translation": "Labirintite",
       "librasStructure": "LABIRINTITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha mãe tem labirintite. → MÃE MINHA LABIRINTITE.",
+        "A labirintite dá tontura. → LABIRINTITE TONTURA DAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=43&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -110,20 +126,24 @@
     {
       "id": "doenca-05",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza pneumonia?",
+      "situation": "Ao falar sobre prevenção, você comenta que uma pessoa da família teve pneumonia e precisou de acompanhamento.",
       "translation": "Pneumonia",
       "librasStructure": "PNEUMONIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu avô ficou internado com pneumonia. → AVÔ MEU INTERNAR PNEUMONIA.",
+        "Pneumonia ataca o pulmão. → PNEUMONIA ATACAR PULMÃO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=54&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -137,20 +157,24 @@
     {
       "id": "doenca-06",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza gastrite?",
+      "situation": "Depois de sentir dor no estômago, você conta ao médico que já teve gastrite.",
       "translation": "Gastrite",
       "librasStructure": "GASTRITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Tenho gastrite, não posso comer pimenta. → EU GASTRITE, PIMENTA COMER PODER NÃO.",
+        "Estresse piora a gastrite. → ESTRESSE GASTRITE PIORAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=66&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -164,20 +188,24 @@
     {
       "id": "doenca-07",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza ansiedade?",
+      "situation": "Antes da apresentação, você percebe ansiedade e conversa com a professora sobre uma estratégia para se acalmar.",
       "translation": "Ansiedade",
       "librasStructure": "ANSIEDADE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Sinto ansiedade antes da prova. → PROVA ANTES, EU ANSIEDADE.",
+        "Respirar fundo ajuda na ansiedade. → RESPIRAR FUNDO AJUDAR ANSIEDADE."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=79&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -191,20 +219,24 @@
     {
       "id": "doenca-08",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza hiv?",
+      "situation": "Na atividade de prevenção, você conversa sobre HIV com informação, respeito e cuidado para evitar estigma.",
       "translation": "HIV",
       "librasStructure": "HIV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O HIV tem tratamento gratuito pelo SUS. → HIV TRATAMENTO GRÁTIS SUS.",
+        "Fiz o teste de HIV no posto. → POSTO EU TESTE HIV FAZER."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=95&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -218,20 +250,24 @@
     {
       "id": "doenca-09",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza diabetes?",
+      "situation": "Na consulta, você explica que acompanha a diabetes e precisa manter os exames em dia.",
       "translation": "Diabetes",
       "librasStructure": "DIABETES",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu pai tem diabetes. → PAI MEU DIABETES.",
+        "Com diabetes, evite açúcar. → DIABETES, AÇÚCAR EVITAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=110&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -245,20 +281,24 @@
     {
       "id": "doenca-10",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza asma?",
+      "situation": "Durante a aula de saúde, você explica que uma pessoa com asma precisa reconhecer seus sinais e buscar cuidado.",
       "translation": "Asma",
       "librasStructure": "ASMA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu filho tem asma. → FILHO MEU ASMA.",
+        "Na crise de asma, use a bombinha. → ASMA CRISE, BOMBINHA USAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=118&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -272,19 +312,23 @@
     {
       "id": "doenca-11",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza hipertensão arterial?",
+      "situation": "Na consulta, você conversa sobre hipertensão arterial e pergunta como acompanhar a pressão com segurança.",
       "translation": "Hipertensão arterial",
       "librasStructure": "HIPERTENSÃO ARTERIAL",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha avó tem hipertensão arterial. → AVÓ MINHA HIPERTENSÃO ARTERIAL.",
+        "Com hipertensão arterial, coma menos sal. → HIPERTENSÃO ARTERIAL, SAL COMER MENOS."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=131&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -292,20 +336,24 @@
     {
       "id": "doenca-12",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza depressão?",
+      "situation": "Ao falar de saúde mental, você explica que depressão exige acolhimento e acompanhamento profissional.",
       "translation": "Depressão",
       "librasStructure": "DEPRESSÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Depressão é doença, não frescura. → DEPRESSÃO DOENÇA, FRESCURA NÃO.",
+        "Ela faz tratamento para depressão. → ELA TRATAMENTO DEPRESSÃO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=153&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -319,20 +367,24 @@
     {
       "id": "doenca-13",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza colesterol?",
+      "situation": "Na consulta de rotina, você pergunta sobre o resultado do exame de colesterol e os próximos cuidados.",
       "translation": "Colesterol",
       "librasStructure": "COLESTEROL",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu colesterol está alto. → COLESTEROL MEU ALTO.",
+        "Fritura aumenta o colesterol. → FRITURA COLESTEROL AUMENTAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=162&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -346,20 +398,24 @@
     {
       "id": "doenca-14",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza meningite?",
+      "situation": "Na aula de prevenção, você pesquisa meningite e conversa sobre a importância de procurar atendimento rapidamente.",
       "translation": "Meningite",
       "librasStructure": "MENINGITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A meningite pode causar surdez. → MENINGITE SURDEZ CAUSAR PODER.",
+        "Tem vacina contra meningite. → MENINGITE VACINA TER."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=174&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -373,20 +429,24 @@
     {
       "id": "doenca-15",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza tosse?",
+      "situation": "Durante a conversa, você percebe tosse persistente e avisa que vai marcar uma consulta.",
       "translation": "Tosse",
       "librasStructure": "TOSSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com tosse há uma semana. → EU TOSSE UMA-SEMANA.",
+        "Xarope para tosse, por favor. → XAROPE TOSSE, POR-FAVOR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=186&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -400,19 +460,23 @@
     {
       "id": "doenca-16",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza alzheimer?",
+      "situation": "Ao falar sobre envelhecimento, você explica que Alzheimer pode afetar a memória e exige apoio à família.",
       "translation": "Alzheimer",
       "librasStructure": "ALZHEIMER",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha bisavó tem Alzheimer. → BISAVÓ MINHA ALZHEIMER.",
+        "Com Alzheimer, ela esquece os nomes. → ALZHEIMER, ELA NOME ESQUECER."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=202&end=214&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -420,19 +484,23 @@
     {
       "id": "doenca-17",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza mal de parkinson?",
+      "situation": "Na pesquisa sobre doenças neurológicas, você apresenta o mal de Parkinson e busca informações confiáveis.",
       "translation": "Mal de Parkinson",
       "librasStructure": "MAL DE PARKINSON",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O mal de Parkinson causa tremor nas mãos. → MAL DE PARKINSON MÃO TREMER CAUSAR.",
+        "Meu tio tem mal de Parkinson. → TIO MEU MAL DE PARKINSON."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=214&end=226&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -440,19 +508,23 @@
     {
       "id": "doenca-18",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza infecção urinária?",
+      "situation": "Na consulta, você descreve sintomas de infecção urinária e segue a orientação do profissional.",
       "translation": "Infecção urinária",
       "librasStructure": "INFECÇÃO URINÁRIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com infecção urinária. → EU INFECÇÃO URINÁRIA.",
+        "Beba água para evitar infecção urinária. → ÁGUA BEBER, INFECÇÃO URINÁRIA EVITAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=226&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -460,19 +532,23 @@
     {
       "id": "doenca-19",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza enxaqueca?",
+      "situation": "Antes da aula, você avisa que está com enxaqueca e precisa de um ambiente mais silencioso.",
       "translation": "Enxaqueca",
       "librasStructure": "ENXAQUECA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A enxaqueca não me deixa dormir. → ENXAQUECA DORMIR DEIXAR-ME NÃO.",
+        "Luz forte piora a enxaqueca. → LUZ FORTE ENXAQUECA PIORAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=241&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -480,19 +556,23 @@
     {
       "id": "doenca-20",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza desmaio?",
+      "situation": "Na aula de primeiros cuidados, você explica o que fazer quando alguém tem um desmaio.",
       "translation": "Desmaio",
       "librasStructure": "DESMAIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Ela teve um desmaio na fila. → FILA ELA DESMAIO.",
+        "No desmaio, levante as pernas da pessoa. → DESMAIO, PESSOA PERNA LEVANTAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=255&end=268&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -500,19 +580,23 @@
     {
       "id": "doenca-21",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza problema de coração?",
+      "situation": "Na consulta, você relata um problema de coração e pergunta quais exames serão necessários.",
       "translation": "Problema de coração",
       "librasStructure": "PROBLEMA DE CORAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu avô tem problema de coração. → AVÔ MEU PROBLEMA DE CORAÇÃO.",
+        "Problema de coração precisa de cardiologista. → PROBLEMA DE CORAÇÃO PRECISAR CARDIOLOGISTA."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=268&end=473&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -520,19 +604,24 @@
     {
       "id": "doenca-22",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza estresse; dor?",
+      "situation": "Depois de uma semana difícil, você conta que sente estresse e dor no corpo.",
       "translation": "Estresse; dor",
       "librasStructure": "ESTRESSE; DOR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O estresse me dá dor nas costas. → ESTRESSE DAR-ME DOR COSTAS.",
+        "Muito trabalho, muito estresse. → TRABALHO MUITO, ESTRESSE MUITO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=473&end=488&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -540,19 +629,23 @@
     {
       "id": "doenca-23",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza dor?",
+      "situation": "Durante a consulta, você aponta o local da dor e explica quando ela começou.",
       "translation": "Dor",
       "librasStructure": "DOR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Onde é a dor? → DOR ONDE?",
+        "A dor começou ontem. → DOR COMEÇAR ONTEM."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=488&end=502&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -560,19 +653,23 @@
     {
       "id": "doenca-24",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza mosquito / dengue?",
+      "situation": "Na campanha de prevenção, você explica que o mosquito pode transmitir dengue e orienta eliminar água parada.",
       "translation": "Mosquito / Dengue",
       "librasStructure": "MOSQUITO / DENGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O mosquito da dengue gosta de água parada. → MOSQUITO DENGUE GOSTAR ÁGUA PARADA.",
+        "Meu vizinho pegou dengue. → VIZINHO MEU DENGUE PEGAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=502&end=510&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -580,20 +677,24 @@
     {
       "id": "doenca-25",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza zika?",
+      "situation": "Ao estudar doenças transmitidas por mosquitos, você apresenta a zika e fala sobre prevenção.",
       "translation": "Zika",
       "librasStructure": "ZIKA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A zika é transmitida pelo mosquito. → ZIKA MOSQUITO TRANSMITIR.",
+        "Grávida precisa se proteger da zika. → GRÁVIDA ZIKA PROTEGER PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=510&end=522&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -607,19 +708,24 @@
     {
       "id": "doenca-26",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza gripe (influenza)?",
+      "situation": "No posto de saúde, você pergunta sobre a vacina contra a gripe (influenza) e conta seus sintomas.",
       "translation": "Gripe (influenza)",
       "librasStructure": "GRIPE (INFLUENZA)",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com gripe. → EU GRIPE.",
+        "Tomei a vacina da gripe. → VACINA GRIPE EU TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=522&end=527&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -627,19 +733,23 @@
     {
       "id": "doenca-27",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza hepatites virais a, b e c?",
+      "situation": "Na atividade de saúde, você diferencia as hepatites virais A, B e C e procura informações sobre prevenção.",
       "translation": "Hepatites virais A, B e C",
       "librasStructure": "HEPATITES VIRAIS A, B E C",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Existe vacina para as hepatites A e B. → HEPATITES VIRAIS A, B VACINA EXISTIR.",
+        "A hepatite C ataca o fígado. → HEPATITE C FÍGADO ATACAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=527&end=543&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -647,20 +757,24 @@
     {
       "id": "doenca-28",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza sarampo?",
+      "situation": "Ao conferir a carteira de vacinação, você conversa sobre a prevenção do sarampo com a família.",
       "translation": "Sarampo",
       "librasStructure": "SARAMPO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O sarampo voltou ao Brasil. → BRASIL SARAMPO VOLTAR.",
+        "Seu filho tomou vacina contra sarampo? → FILHO SEU VACINA SARAMPO TOMAR?"
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=543&end=551&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -674,19 +788,23 @@
     {
       "id": "doenca-29",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza rotavírus?",
+      "situation": "Na consulta da criança, você pergunta sobre a vacina contra rotavírus e os cuidados indicados.",
       "translation": "Rotavírus",
       "librasStructure": "ROTAVÍRUS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O rotavírus causa diarreia em criança. → ROTAVÍRUS CRIANÇA DIARREIA CAUSAR.",
+        "O bebê tomou a vacina do rotavírus. → BEBÊ VACINA ROTAVÍRUS TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=551&end=562&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -694,20 +812,24 @@
     {
       "id": "doenca-30",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza hpv?",
+      "situation": "Na escola, você participa da conversa sobre HPV, vacinação e prevenção com informações confiáveis.",
       "translation": "HPV",
       "librasStructure": "HPV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A vacina do HPV é para meninos e meninas. → VACINA HPV MENINO MENINA.",
+        "Use camisinha para evitar o HPV. → CAMISINHA USAR, HPV EVITAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=562&end=573&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -721,20 +843,24 @@
     {
       "id": "doenca-31",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza catapora?",
+      "situation": "Ao conversar sobre vacinação, você explica como a catapora pode ser prevenida e acompanhada.",
       "translation": "Catapora",
       "librasStructure": "CATAPORA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu filho está com catapora. → FILHO MEU CATAPORA.",
+        "Catapora coça muito. → CATAPORA COÇAR MUITO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=573&end=582&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -748,20 +874,24 @@
     {
       "id": "doenca-32",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza rubéola?",
+      "situation": "Na aula de prevenção, você pesquisa rubéola e relaciona o tema à importância da vacinação.",
       "translation": "Rubéola",
       "librasStructure": "RUBÉOLA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Rubéola na gravidez é perigosa. → GRAVIDEZ RUBÉOLA PERIGOSA.",
+        "A rubéola pode causar surdez no bebê. → RUBÉOLA BEBÊ SURDEZ CAUSAR PODER."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=582&end=593&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -775,19 +905,23 @@
     {
       "id": "doenca-33",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza varíola?",
+      "situation": "Ao estudar a história das epidemias, você apresenta a varíola e explica como a vacinação mudou esse cenário.",
       "translation": "Varíola",
       "librasStructure": "VARÍOLA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A varíola acabou graças à vacina. → VACINA, VARÍOLA ACABAR.",
+        "A varíola matou muita gente no passado. → PASSADO VARÍOLA MATAR PESSOA MUITO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=593&end=604&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:55.996Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -795,20 +929,24 @@
     {
       "id": "doenca-34",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza bactéria?",
+      "situation": "No laboratório, você observa uma imagem e diferencia bactéria de vírus durante a atividade.",
       "translation": "Bactéria",
       "librasStructure": "BACTÉRIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Lave as mãos para tirar as bactérias. → MÃO LAVAR, BACTÉRIA TIRAR.",
+        "Antibiótico mata bactéria, não vírus. → ANTIBIÓTICO MATAR BACTÉRIA, VÍRUS NÃO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=604&end=613&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -822,20 +960,25 @@
     {
       "id": "doenca-35",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza hiv?",
+      "situation": "Na atividade de prevenção, você mostra a variação do sinal de HIV e reforça a importância da informação.",
       "translation": "HIV (variação)",
       "librasStructure": "HIV",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Quem tem HIV pode ter vida normal. → HIV PESSOA VIDA NORMAL PODER.",
+        "O exame de HIV é sigiloso. → EXAME HIV SEGREDO."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=613&end=623&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -843,20 +986,24 @@
     {
       "id": "doenca-36",
       "section": "Doenças e sintomas",
-      "situation": "Como você sinaliza aids?",
+      "situation": "Ao falar sobre saúde e direitos, você explica AIDS com respeito e destaca a importância do acompanhamento.",
       "translation": "AIDS",
       "librasStructure": "AIDS",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "AIDS e HIV não são a mesma coisa. → AIDS HIV IGUAL NÃO.",
+        "O tratamento evita a AIDS. → TRATAMENTO AIDS EVITAR."
+      ],
       "video": "https://www.youtube.com/embed/ZwEjmp6DiCg?start=623&end=627&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ZwEjmp6DiCg",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:12:22.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],

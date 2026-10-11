@@ -28,19 +28,23 @@
     {
       "id": "matematica-01",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “equação”?",
+      "situation": "Na resolução do exercício, você monta uma equação e explica como encontrou o valor desconhecido.",
       "translation": "Equação",
       "librasStructure": "EQUAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Resolva a equação: x mais 2 é igual a 5. → EQUAÇÃO RESOLVER: X MAIS 2 IGUAL 5.",
+        "Essa equação tem duas respostas? → EQUAÇÃO ESSA RESPOSTA 2 TER?"
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=5&end=8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -48,19 +52,23 @@
     {
       "id": "matematica-02",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “álgebra”?",
+      "situation": "Ao estudar letras e números, você relaciona a álgebra à representação de valores desconhecidos.",
       "translation": "Álgebra",
       "librasStructure": "ÁLGEBRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na álgebra, usamos letras no lugar dos números. → ÁLGEBRA LETRA NÚMERO LUGAR USAR.",
+        "Tenho prova de álgebra amanhã. → AMANHÃ PROVA ÁLGEBRA."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=8&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -68,19 +76,24 @@
     {
       "id": "matematica-03",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “análise combinatória”?",
+      "situation": "No problema da turma, você usa análise combinatória para contar as formas de organizar os materiais.",
       "translation": "Análise combinatória",
       "librasStructure": "ANÁLISE-COMBINATÓRIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Análise combinatória conta as possibilidades. → ANÁLISE-COMBINATÓRIA POSSIBILIDADE CONTAR.",
+        "De quantas formas posso arrumar a fila? Use análise combinatória. → FILA ARRUMAR FORMA QUANTAS? ANÁLISE-COMBINATÓRIA USAR."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +101,23 @@
     {
       "id": "matematica-04",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “probabilidade”?",
+      "situation": "Ao lançar um dado, você calcula a probabilidade de sair um número específico antes de testar.",
       "translation": "Probabilidade",
       "librasStructure": "PROBABILIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A probabilidade de sair cara é de 50%. → MOEDA CARA PROBABILIDADE 50%.",
+        "Qual a probabilidade de chover amanhã? → AMANHÃ CHUVA PROBABILIDADE QUANTO?"
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -108,19 +125,23 @@
     {
       "id": "matematica-05",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “função”?",
+      "situation": "No gráfico, você mostra como uma função relaciona o valor de entrada ao resultado.",
       "translation": "Função",
       "librasStructure": "FUNÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A função mostra a relação entre x e y. → FUNÇÃO X Y RELAÇÃO MOSTRAR.",
+        "Desenhe o gráfico da função. → FUNÇÃO GRÁFICO DESENHAR."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=35&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -128,19 +149,23 @@
     {
       "id": "matematica-06",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “integral”?",
+      "situation": "Ao estudar área sob uma curva, você apresenta a integral e compara o resultado com o gráfico.",
       "translation": "Integral",
       "librasStructure": "INTEGRAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A integral calcula a área sob a curva. → INTEGRAL ÁREA CURVA CALCULAR.",
+        "Integral é conteúdo da faculdade. → INTEGRAL CONTEÚDO FACULDADE."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -148,19 +173,23 @@
     {
       "id": "matematica-07",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “matrizes”?",
+      "situation": "Na atividade, você organiza os números em linhas e colunas para resolver um problema com matrizes.",
       "translation": "Matrizes",
       "librasStructure": "MATRIZES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Matrizes têm linhas e colunas. → MATRIZES LINHA COLUNA TER.",
+        "Multiplicar matrizes é difícil. → MATRIZES MULTIPLICAR DIFÍCIL."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=47&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -168,19 +197,23 @@
     {
       "id": "matematica-08",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “fração”?",
+      "situation": "Ao dividir uma pizza entre colegas, você representa a parte de cada pessoa usando uma fração.",
       "translation": "Fração",
       "librasStructure": "FRAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cada um comeu um quarto da pizza: é uma fração. → PIZZA 1/4 CADA-UM COMER: FRAÇÃO.",
+        "Metade é a fração um meio. → METADE FRAÇÃO 1/2."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -188,19 +221,23 @@
     {
       "id": "matematica-09",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “raiz quadrada”?",
+      "situation": "Durante o exercício, você procura a raiz quadrada de dezesseis e explica por que o resultado é quatro.",
       "translation": "Raiz quadrada",
       "librasStructure": "RAIZ-QUADRADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A raiz quadrada de 16 é 4. → 16 RAIZ-QUADRADA 4.",
+        "Use a calculadora para achar a raiz quadrada. → RAIZ-QUADRADA CALCULADORA USAR."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -208,19 +245,23 @@
     {
       "id": "matematica-10",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “potência”?",
+      "situation": "Ao revisar multiplicações repetidas, você mostra como uma potência facilita a escrita do cálculo.",
       "translation": "Potência",
       "librasStructure": "POTÊNCIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Dois elevado a três é uma potência. → 2 ELEVADO 3 POTÊNCIA.",
+        "A potência resume multiplicações repetidas. → POTÊNCIA MULTIPLICAR REPETIR RESUMIR."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=68&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -228,19 +269,23 @@
     {
       "id": "matematica-11",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “formas geométricas”?",
+      "situation": "Na atividade de desenho, você identifica formas geométricas na sala e compara seus lados e ângulos.",
       "translation": "Formas geométricas",
       "librasStructure": "FORMAS-GEOMÉTRICAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quadrado e triângulo são formas geométricas. → QUADRADO TRIÂNGULO FORMAS-GEOMÉTRICAS.",
+        "Quais formas geométricas tem na sala? → SALA FORMAS-GEOMÉTRICAS QUAIS TER?"
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=75&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -248,19 +293,23 @@
     {
       "id": "matematica-12",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “expressão aritmética”?",
+      "situation": "Ao resolver o exercício, você organiza a expressão aritmética e respeita a ordem das operações.",
       "translation": "Expressão aritmética",
       "librasStructure": "EXPRESSÃO-ARITMÉTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na expressão aritmética, a multiplicação vem antes da soma. → EXPRESSÃO-ARITMÉTICA MULTIPLICAR ANTES SOMAR.",
+        "Resolva a expressão aritmética passo a passo. → EXPRESSÃO-ARITMÉTICA RESOLVER PASSO PASSO."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=83&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -268,19 +317,23 @@
     {
       "id": "matematica-13",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “logaritmo”?",
+      "situation": "Durante a revisão, você usa o logaritmo para descobrir o expoente de uma potência.",
       "translation": "Logaritmo",
       "librasStructure": "LOGARITMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O logaritmo de 100 na base 10 é 2. → LOGARITMO 100 BASE 10 RESULTADO 2.",
+        "Logaritmo é o contrário da potência. → LOGARITMO POTÊNCIA CONTRÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=91&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -288,19 +341,23 @@
     {
       "id": "matematica-14",
       "section": "Matemática",
-      "situation": "Numa aula de exatas, como você sinaliza “oposto”?",
+      "situation": "Na reta numérica, você localiza o número oposto e compara sua distância em relação ao zero.",
       "translation": "Oposto",
       "librasStructure": "OPOSTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O oposto de 5 é menos 5. → 5 OPOSTO MENOS 5.",
+        "Números opostos ficam à mesma distância do zero. → NÚMERO OPOSTO ZERO DISTÂNCIA IGUAL."
+      ],
       "video": "https://www.youtube.com/embed/WOLl2qj6XJQ?start=98&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOLl2qj6XJQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -308,19 +365,23 @@
     {
       "id": "matematica-15",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “aceleração”?",
+      "situation": "Ao analisar o movimento de um carro, você explica que a aceleração altera sua velocidade.",
       "translation": "Aceleração",
       "librasStructure": "ACELERAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O carro teve aceleração na reta. → CARRO RETA ACELERAÇÃO.",
+        "A aceleração da gravidade é 10 m/s². → GRAVIDADE ACELERAÇÃO 10."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -328,19 +389,23 @@
     {
       "id": "matematica-16",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “energia cinética”?",
+      "situation": "No experimento com uma bola em movimento, você relaciona a velocidade à energia cinética.",
       "translation": "Energia cinética",
       "librasStructure": "ENERGIA-CINÉTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quanto mais rápido, maior a energia cinética. → RÁPIDO MAIS, ENERGIA-CINÉTICA MAIOR.",
+        "A bola rolando tem energia cinética. → BOLA ROLAR ENERGIA-CINÉTICA TER."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=24&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -348,19 +413,23 @@
     {
       "id": "matematica-17",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “energia gravitacional”?",
+      "situation": "Ao levantar um objeto, você explica que sua altura influencia a energia gravitacional.",
       "translation": "Energia gravitacional",
       "librasStructure": "ENERGIA-GRAVITACIONAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quanto mais alto, maior a energia gravitacional. → ALTO MAIS, ENERGIA-GRAVITACIONAL MAIOR.",
+        "A água da represa tem energia gravitacional. → REPRESA ÁGUA ENERGIA-GRAVITACIONAL TER."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=30&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -368,19 +437,23 @@
     {
       "id": "matematica-18",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “energia potencial elástica”?",
+      "situation": "Ao comprimir uma mola, você explica que ela armazena energia potencial elástica.",
       "translation": "Energia potencial elástica",
       "librasStructure": "ENERGIA-POTENCIAL-ELÁSTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A mola apertada guarda energia potencial elástica. → MOLA APERTAR ENERGIA-POTENCIAL-ELÁSTICA GUARDAR.",
+        "O estilingue usa energia potencial elástica. → ESTILINGUE ENERGIA-POTENCIAL-ELÁSTICA USAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=37&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -388,19 +461,23 @@
     {
       "id": "matematica-19",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “lei da gravitação universal”?",
+      "situation": "Na atividade sobre planetas, você relaciona a lei da gravitação universal à atração entre corpos.",
       "translation": "Lei da gravitação universal",
       "librasStructure": "LEI-DA-GRAVITAÇÃO-UNIVERSAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Newton criou a lei da gravitação universal. → NEWTON LEI-DA-GRAVITAÇÃO-UNIVERSAL CRIAR.",
+        "A lei da gravitação universal explica a órbita da Lua. → LEI-DA-GRAVITAÇÃO-UNIVERSAL LUA ÓRBITA EXPLICAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=45&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -408,19 +485,23 @@
     {
       "id": "matematica-20",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “óptica”?",
+      "situation": "Ao observar um espelho e uma lente, você apresenta a óptica e descreve o caminho da luz.",
       "translation": "Óptica",
       "librasStructure": "ÓPTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A óptica estuda a luz. → ÓPTICA LUZ ESTUDAR.",
+        "Os óculos funcionam pela óptica. → ÓCULOS ÓPTICA FUNCIONAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=59&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -428,19 +509,23 @@
     {
       "id": "matematica-21",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “leis de Newton”?",
+      "situation": "No experimento com carrinhos, você relaciona as leis de Newton ao movimento observado.",
       "translation": "Leis de Newton",
       "librasStructure": "LEIS-DE-NEWTON",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "São três as leis de Newton. → LEIS-DE-NEWTON 3.",
+        "As leis de Newton explicam o movimento. → LEIS-DE-NEWTON MOVIMENTO EXPLICAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=70&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -448,19 +533,23 @@
     {
       "id": "matematica-22",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “inércia”?",
+      "situation": "Ao frear o ônibus, você explica que a inércia faz o corpo continuar em movimento.",
       "translation": "Inércia",
       "librasStructure": "INÉRCIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quando o ônibus freia, a inércia nos joga para frente. → ÔNIBUS FREAR, INÉRCIA NÓS FRENTE JOGAR.",
+        "Use o cinto por causa da inércia. → INÉRCIA, CINTO USAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=82&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -468,19 +557,23 @@
     {
       "id": "matematica-23",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “bobina”?",
+      "situation": "No laboratório, você identifica a bobina e observa sua função no circuito elétrico.",
       "translation": "Bobina",
       "librasStructure": "BOBINA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A bobina cria campo magnético. → BOBINA CAMPO MAGNÉTICO CRIAR.",
+        "O motor tem uma bobina de cobre. → MOTOR BOBINA COBRE TER."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=91&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -488,19 +581,23 @@
     {
       "id": "matematica-24",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “momento angular”?",
+      "situation": "Ao observar uma roda girando, você explica como o momento angular se mantém no movimento.",
       "translation": "Momento angular",
       "librasStructure": "MOMENTO-ANGULAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A bailarina gira mais rápido ao fechar os braços: é o momento angular. → BAILARINA BRAÇO FECHAR GIRAR RÁPIDO: MOMENTO-ANGULAR.",
+        "O momento angular se conserva. → MOMENTO-ANGULAR CONSERVAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -508,19 +605,23 @@
     {
       "id": "matematica-25",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “equilíbrio”?",
+      "situation": "Ao montar a estrutura, você ajusta os pesos até alcançar o equilíbrio e registra a posição.",
       "translation": "Equilíbrio",
       "librasStructure": "EQUILÍBRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A balança está em equilíbrio. → BALANÇA EQUILÍBRIO.",
+        "Perdi o equilíbrio e caí. → EU EQUILÍBRIO PERDER, CAIR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=104&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -528,19 +629,23 @@
     {
       "id": "matematica-26",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “força”?",
+      "situation": "No experimento, você empurra o objeto e observa como a força altera seu movimento.",
       "translation": "Força",
       "librasStructure": "FORÇA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Empurre com mais força. → FORÇA MAIS EMPURRAR.",
+        "A força muda o movimento. → FORÇA MOVIMENTO MUDAR."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=109&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -548,19 +653,23 @@
     {
       "id": "matematica-27",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “deformação”?",
+      "situation": "Ao esticar o elástico, você observa a deformação e compara o formato antes e depois.",
       "translation": "Deformação",
       "librasStructure": "DEFORMAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O elástico sofreu deformação. → ELÁSTICO DEFORMAÇÃO.",
+        "Depois da batida, o carro teve deformação. → CARRO BATER DEPOIS, DEFORMAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=116&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -568,19 +677,23 @@
     {
       "id": "matematica-28",
       "section": "Física",
-      "situation": "Numa aula de exatas, como você sinaliza “decímetro”?",
+      "situation": "Ao medir a mesa, você escolhe o decímetro e compara essa unidade com o centímetro.",
       "translation": "Decímetro",
       "librasStructure": "DECÍMETRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Um decímetro tem dez centímetros. → DECÍMETRO 10 CENTÍMETRO.",
+        "A mesa tem oito decímetros. → MESA 8 DECÍMETRO."
+      ],
       "video": "https://www.youtube.com/embed/ERcdL2sUhrw?start=135&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ERcdL2sUhrw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

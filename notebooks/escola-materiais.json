@@ -22,19 +22,24 @@
     {
       "id": "escola-materiais-01",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lápis”?",
+      "situation": "Na atividade, você pede um lápis para escrever a resposta.",
       "translation": "Lápis",
       "librasStructure": "LÁPIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me empresta um lápis? → LÁPIS EMPRESTAR-ME?",
+        "Faça a prova a lápis. → PROVA LÁPIS FAZER."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=18&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,24 @@
     {
       "id": "escola-materiais-02",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “estojo”?",
+      "situation": "Antes da aula, você procura o estojo onde guardou o lápis e a borracha.",
       "translation": "Estojo",
       "librasStructure": "ESTOJO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O lápis está no estojo. → LÁPIS ESTOJO.",
+        "Esqueci meu estojo em casa. → ESTOJO MEU EU ESQUECER CASA."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=20&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +72,24 @@
     {
       "id": "escola-materiais-03",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “caneta”?",
+      "situation": "Você precisa assinar a lista de presença e pede uma caneta.",
       "translation": "Caneta",
       "librasStructure": "CANETA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem caneta azul? → CANETA AZUL TER?",
+        "Assina com caneta, não com lápis. → ASSINAR CANETA, LÁPIS NÃO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +97,24 @@
     {
       "id": "escola-materiais-04",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “grampeador”?",
+      "situation": "Você organiza as folhas do trabalho e procura o grampeador para prendê-las.",
       "translation": "Grampeador",
       "librasStructure": "GRAMPEADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me passa o grampeador? → GRAMPEADOR PASSAR-ME?",
+        "O grampeador está sem grampo. → GRAMPEADOR GRAMPO NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +122,24 @@
     {
       "id": "escola-materiais-05",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “canetas coloridas”?",
+      "situation": "No cartaz, você usa canetas coloridas para destacar os títulos.",
       "translation": "Canetas coloridas",
       "librasStructure": "CANETAS-COLORIDAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos usar canetas coloridas no cartaz. → CARTAZ NÓS USAR CANETAS-COLORIDAS.",
+        "Comprei canetas coloridas para estudar. → ESTUDAR, EU COMPRAR CANETAS-COLORIDAS."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +147,24 @@
     {
       "id": "escola-materiais-06",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “compasso”?",
+      "situation": "Na aula de geometria, você usa o compasso para desenhar um círculo.",
       "translation": "Compasso",
       "librasStructure": "COMPASSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Desenhe o círculo com o compasso. → CÍRCULO DESENHAR COMPASSO.",
+        "Cuidado com a ponta do compasso! → COMPASSO PONTA CUIDADO!"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=35&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +172,24 @@
     {
       "id": "escola-materiais-07",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “tinta”?",
+      "situation": "Na aula de arte, você prepara a tinta para pintar o cartaz.",
       "translation": "Tinta",
       "librasStructure": "TINTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Precisamos de tinta azul. → TINTA AZUL NÓS PRECISAR.",
+        "Sujei a blusa de tinta. → BLUSA EU SUJAR TINTA."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=39&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +197,24 @@
     {
       "id": "escola-materiais-08",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lápis de cor”?",
+      "situation": "Você vai colorir um desenho e procura o lápis de cor.",
       "translation": "Lápis de cor",
       "librasStructure": "LÁPIS-DE-COR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me empresta o lápis de cor vermelho? → LÁPIS-DE-COR VERMELHO EMPRESTAR-ME?",
+        "Meu filho ganhou uma caixa de lápis de cor. → FILHO MEU GANHAR CAIXA LÁPIS-DE-COR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +222,24 @@
     {
       "id": "escola-materiais-09",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “calendário”?",
+      "situation": "A turma olha o calendário para ver a data das provas e dos feriados.",
       "translation": "Calendário",
       "librasStructure": "CALENDÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Marca a prova no calendário. → PROVA MARCAR CALENDÁRIO.",
+        "Olha no calendário: segunda é feriado? → CALENDÁRIO OLHAR: SEGUNDA-FEIRA FERIADO?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +247,24 @@
     {
       "id": "escola-materiais-10",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “computador”?",
+      "situation": "Para fazer a pesquisa, você procura um computador livre na sala.",
       "translation": "Computador",
       "librasStructure": "COMPUTADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem computador livre? → COMPUTADOR LIVRE TER?",
+        "Faço o trabalho no computador. → TRABALHO EU FAZER COMPUTADOR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=57&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +272,23 @@
     {
       "id": "escola-materiais-11",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lapiseira”?",
+      "situation": "Você prefere escrever com uma ponta fina e procura sua lapiseira no estojo.",
       "translation": "Lapiseira",
       "librasStructure": "LAPISEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Prefiro lapiseira a lápis. → EU PREFERIR LAPISEIRA, LÁPIS NÃO.",
+        "Acabou o grafite da lapiseira. → LAPISEIRA GRAFITE ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -242,19 +296,24 @@
     {
       "id": "escola-materiais-12",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lancheira”?",
+      "situation": "No intervalo, você pega a lancheira com o lanche.",
       "translation": "Lancheira",
       "librasStructure": "LANCHEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem fruta na lancheira? → LANCHEIRA FRUTA TER?",
+        "Esqueci a lancheira no ônibus. → LANCHEIRA EU ESQUECER ÔNIBUS."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +321,24 @@
     {
       "id": "escola-materiais-13",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “borracha”?",
+      "situation": "Você errou uma palavra e procura a borracha para apagar.",
       "translation": "Borracha",
       "librasStructure": "BORRACHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me empresta a borracha? → BORRACHA EMPRESTAR-ME?",
+        "Apaga com a borracha. → BORRACHA APAGAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +346,24 @@
     {
       "id": "escola-materiais-14",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “apontador”?",
+      "situation": "A ponta do lápis quebrou e você procura o apontador.",
       "translation": "Apontador",
       "librasStructure": "APONTADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cadê o apontador? → APONTADOR ONDE?",
+        "Usa o apontador em cima do lixo. → APONTADOR USAR EM-CIMA LIXO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +371,24 @@
     {
       "id": "escola-materiais-15",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “clipes”?",
+      "situation": "Você usa clipes para manter as folhas do trabalho juntas.",
       "translation": "Clipes",
       "librasStructure": "CLIPES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Prende as folhas com clipes. → FOLHA PRENDER CLIPES.",
+        "Tem clipes na gaveta? → GAVETA CLIPES TER?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +396,24 @@
     {
       "id": "escola-materiais-16",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “papel”?",
+      "situation": "Você vai imprimir a atividade e pede papel.",
       "translation": "Papel",
       "librasStructure": "PAPEL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Acabou o papel da impressora. → IMPRESSORA PAPEL ACABAR.",
+        "Me dá uma folha de papel? → PAPEL FOLHA DAR-ME?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +421,24 @@
     {
       "id": "escola-materiais-17",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “DVD”?",
+      "situation": "A professora trouxe um DVD com um vídeo para a aula.",
       "translation": "DVD",
       "librasStructure": "DVD",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O DVD tem legenda? → DVD LEGENDA TER?",
+        "A professora vai passar um DVD. → PROFESSORA DVD PASSAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=89&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +446,24 @@
     {
       "id": "escola-materiais-18",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “livro literário”?",
+      "situation": "Na biblioteca, você escolhe um livro literário para ler no fim de semana.",
       "translation": "Livro literário",
       "librasStructure": "LIVRO-LITERÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Peguei um livro literário na biblioteca. → BIBLIOTECA EU PEGAR LIVRO-LITERÁRIO.",
+        "Qual livro literário você está lendo? → LIVRO-LITERÁRIO VOCÊ LER QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=93&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +471,24 @@
     {
       "id": "escola-materiais-19",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “bola”?",
+      "situation": "Na aula de Educação Física, a turma pega a bola para começar o jogo.",
       "translation": "Bola",
       "librasStructure": "BOLA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Joga a bola para mim! → BOLA JOGAR-ME!",
+        "A bola furou. → BOLA FURAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=98&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +496,24 @@
     {
       "id": "escola-materiais-20",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lápis de cera”?",
+      "situation": "Na aula de arte, você escolhe o lápis de cera para colorir o desenho.",
       "translation": "Lápis de cera",
       "librasStructure": "LÁPIS-DE-CERA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Criança pequena usa lápis de cera. → CRIANÇA PEQUENA USAR LÁPIS-DE-CERA.",
+        "O lápis de cera quebrou. → LÁPIS-DE-CERA QUEBRAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=106&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +521,24 @@
     {
       "id": "escola-materiais-21",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “lixeira”?",
+      "situation": "Depois da atividade, você procura a lixeira para jogar os papéis.",
       "translation": "Lixeira",
       "librasStructure": "LIXEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Joga o papel na lixeira. → PAPEL JOGAR LIXEIRA.",
+        "Onde fica a lixeira? → LIXEIRA ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=111&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -442,19 +546,24 @@
     {
       "id": "escola-materiais-22",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “perfurador”?",
+      "situation": "Para guardar o trabalho na pasta, você usa o perfurador nas folhas.",
       "translation": "Perfurador",
       "librasStructure": "PERFURADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fura as folhas com o perfurador. → FOLHA FURAR PERFURADOR.",
+        "O perfurador está na secretaria. → PERFURADOR SECRETARIA."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -462,19 +571,24 @@
     {
       "id": "escola-materiais-23",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “caderno”?",
+      "situation": "Você abre o caderno para anotar a explicação da aula.",
       "translation": "Caderno",
       "librasStructure": "CADERNO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Anota no caderno. → CADERNO ANOTAR.",
+        "Meu caderno de Libras está cheio de desenhos. → CADERNO LIBRAS MEU DESENHO CHEIO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=123&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -482,19 +596,24 @@
     {
       "id": "escola-materiais-24",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “corretivo”?",
+      "situation": "Você escreveu errado à caneta e usa o corretivo.",
       "translation": "Corretivo",
       "librasStructure": "CORRETIVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem corretivo? → CORRETIVO TER?",
+        "Na prova, não pode usar corretivo. → PROVA CORRETIVO USAR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=127&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -502,19 +621,24 @@
     {
       "id": "escola-materiais-25",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “giz”?",
+      "situation": "A professora escreve no quadro com giz branco.",
       "translation": "Giz",
       "librasStructure": "GIZ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Acabou o giz. → GIZ ACABAR.",
+        "O giz suja a mão. → GIZ SUJAR MÃO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=131&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -522,19 +646,24 @@
     {
       "id": "escola-materiais-26",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “apagador”?",
+      "situation": "Depois da explicação, a professora usa o apagador para limpar o quadro.",
       "translation": "Apagador",
       "librasStructure": "APAGADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me passa o apagador? → APAGADOR PASSAR-ME?",
+        "Posso usar o apagador? → APAGADOR EU USAR PODER?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -542,19 +671,24 @@
     {
       "id": "escola-materiais-27",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “escola”?",
+      "situation": "Você conta em que escola estuda e convida uma colega para conhecer.",
       "translation": "Escola",
       "librasStructure": "ESCOLA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha escola é bilíngue. → ESCOLA MINHA BILÍNGUE.",
+        "Em que escola você estuda? → VOCÊ ESTUDAR ESCOLA QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=137&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -562,19 +696,24 @@
     {
       "id": "escola-materiais-28",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “tela de projeção”?",
+      "situation": "A professora prepara a tela de projeção para mostrar um vídeo.",
       "translation": "Tela de projeção",
       "librasStructure": "TELA-DE-PROJEÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Abaixa a tela de projeção, por favor. → TELA-DE-PROJEÇÃO ABAIXAR, POR-FAVOR.",
+        "Não dá para ver a tela de projeção daqui. → AQUI TELA-DE-PROJEÇÃO VER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=145&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -582,19 +721,23 @@
     {
       "id": "escola-materiais-29",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “corda”?",
+      "situation": "Na aula de Educação Física, a turma organiza uma brincadeira que usa uma corda.",
       "translation": "Corda",
       "librasStructure": "CORDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos pular corda? → NÓS PULAR CORDA?",
+        "A corda é curta demais. → CORDA CURTA DEMAIS."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=149&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -602,19 +745,24 @@
     {
       "id": "escola-materiais-30",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “estilete”?",
+      "situation": "Na oficina, a professora orienta como cortar papelão com o estilete, com cuidado.",
       "translation": "Estilete",
       "librasStructure": "ESTILETE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cuidado com o estilete! → ESTILETE CUIDADO!",
+        "Criança não pode usar estilete. → CRIANÇA ESTILETE USAR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=152&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -622,19 +770,24 @@
     {
       "id": "escola-materiais-31",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “uniforme”?",
+      "situation": "Antes de sair de casa, você confere se está com o uniforme da escola.",
       "translation": "Uniforme",
       "librasStructure": "UNIFORME",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Sem uniforme não pode entrar. → UNIFORME NÃO-TER, ENTRAR PODER NÃO.",
+        "O uniforme está sujo. → UNIFORME SUJO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=156&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -642,19 +795,23 @@
     {
       "id": "escola-materiais-32",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “mochila”?",
+      "situation": "Você organiza os materiais e coloca tudo dentro da mochila antes de sair.",
       "translation": "Mochila",
       "librasStructure": "MOCHILA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha mochila está pesada. → MOCHILA MINHA PESADA.",
+        "Guarda o caderno na mochila. → CADERNO GUARDAR MOCHILA."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=159&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -662,19 +819,24 @@
     {
       "id": "escola-materiais-33",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “dicionário”?",
+      "situation": "Durante a leitura, você procura uma palavra no dicionário.",
       "translation": "Dicionário",
       "librasStructure": "DICIONÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Procura no dicionário. → DICIONÁRIO PROCURAR.",
+        "Existe dicionário de Libras? → DICIONÁRIO LIBRAS EXISTIR?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=162&end=165&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -682,19 +844,23 @@
     {
       "id": "escola-materiais-34",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “agenda”?",
+      "situation": "Você anota na agenda a data da próxima prova para não esquecer.",
       "translation": "Agenda",
       "librasStructure": "AGENDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Anota a prova na agenda. → PROVA ANOTAR AGENDA.",
+        "Minha agenda está cheia esta semana. → ESTA-SEMANA AGENDA MINHA CHEIA."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=172&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -702,19 +868,24 @@
     {
       "id": "escola-materiais-35",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “calculadora”?",
+      "situation": "Na atividade de matemática, você confere o resultado com a calculadora.",
       "translation": "Calculadora",
       "librasStructure": "CALCULADORA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Pode usar calculadora na prova? → PROVA CALCULADORA USAR PODER?",
+        "A calculadora do celular serve. → CELULAR CALCULADORA SERVIR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=179&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -722,19 +893,23 @@
     {
       "id": "escola-materiais-36",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “cola”?",
+      "situation": "Na produção do cartaz, você usa cola para prender o papelão e as figuras.",
       "translation": "Cola",
       "librasStructure": "COLA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Passa cola no papelão. → PAPELÃO COLA PASSAR.",
+        "A cola acabou. → COLA ACABAR."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=183&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -742,19 +917,24 @@
     {
       "id": "escola-materiais-37",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “projetor (data show)”?",
+      "situation": "A professora liga o projetor (data show) para mostrar os slides.",
       "translation": "Projetor (data show)",
       "librasStructure": "PROJETOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O projetor não está ligando. → PROJETOR LIGAR NÃO.",
+        "Desliga a luz para ver o projetor. → L-U-Z DESLIGAR, PROJETOR VER."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=186&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -762,19 +942,24 @@
     {
       "id": "escola-materiais-38",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “quadro (branco, preto ou verde)”?",
+      "situation": "A professora escreve o tema da aula no quadro.",
       "translation": "Quadro (branco, preto ou verde)",
       "librasStructure": "QUADRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Copia o que está no quadro. → QUADRO COPIAR.",
+        "O quadro da minha escola é branco. → ESCOLA MINHA QUADRO BRANCO."
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=196&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -782,19 +967,24 @@
     {
       "id": "escola-materiais-39",
       "section": "Materiais escolares",
-      "situation": "Na sala de aula, como você sinaliza “pincel”?",
+      "situation": "Você pega um pincel grosso para pintar uma parte grande do cartaz.",
       "translation": "Pincel",
       "librasStructure": "PINCEL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Lava o pincel depois de pintar. → PINTAR DEPOIS, PINCEL LAVAR.",
+        "Me passa o pincel fino? → PINCEL FINO PASSAR-ME?"
+      ],
       "video": "https://www.youtube.com/embed/NjtGKx6sxfM?start=205&end=209&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NjtGKx6sxfM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:08:12.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

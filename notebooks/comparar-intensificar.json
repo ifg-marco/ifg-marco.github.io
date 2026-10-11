@@ -28,24 +28,25 @@
     {
       "id": "comparacao-01",
       "section": "Comparação",
-      "situation": "Como você compara duas coisas ou pessoas?",
+      "situation": "Na loja, você faz a comparação de dois celulares, analisando as diferenças antes de escolher.",
       "translation": "Comparação",
       "librasStructure": "COMPARAR",
       "notes": "Use este sinal para introduzir uma comparação. Marque visualmente os dois elementos no espaço.",
       "examples": [
-        "Na atividade, compare dois sinais: “A configuração da mão de A é diferente da de B”.",
-        "Para iniciar a comparação, sinalize: “Hoje vamos comparar duas formas de estudar”.",
-        "Depois de assistir ao vídeo, faça uma comparação entre dois objetos presentes na sala."
+        "Vou comparar os preços antes de comprar. → PREÇO EU COMPARAR ANTES COMPRAR.",
+        "Não compare seu filho com o irmão. → FILHO SEU IRMÃO COMPARAR NÃO."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=10&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -59,24 +60,25 @@
     {
       "id": "comparacao-02",
       "section": "Comparação",
-      "situation": "Como você diz que algo é maior que outra coisa?",
+      "situation": "Você compara duas salas e diz qual é maior que a outra.",
       "translation": "Maior que",
       "librasStructure": "MAIOR-QUE",
       "notes": "Indique primeiro os dois elementos e depois destaque aquele que tem tamanho, quantidade ou intensidade maior.",
       "examples": [
-        "“A sala azul é maior que a sala verde.”",
-        "“Este caderno tem mais cartões que o outro.”",
-        "Compare duas filas e diga qual é maior."
+        "Essa sala é maior que aquela. → SALA ESSA MAIOR-QUE AQUELA.",
+        "Goiânia é maior que Anápolis. → GOIÂNIA MAIOR-QUE ANÁPOLIS."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -90,24 +92,25 @@
     {
       "id": "comparacao-03",
       "section": "Comparação",
-      "situation": "Como você diz que duas coisas são iguais?",
+      "situation": "Na papelaria, você encontra dois cadernos iguais, com o mesmo tamanho e preço.",
       "translation": "Igual",
       "librasStructure": "IGUAL",
       "notes": "Use quando os dois elementos têm a mesma característica, quantidade ou valor.",
       "examples": [
-        "“As duas respostas estão iguais.”",
-        "“Meu resultado é igual ao seu.”",
-        "Observe dois cartões e diga se o significado é igual."
+        "Os dois cadernos são iguais. → CADERNO DOIS IGUAL.",
+        "Sua blusa é igual à minha! → BLUSA SUA IGUAL MINHA!"
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=19&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -121,24 +124,25 @@
     {
       "id": "comparacao-04",
       "section": "Comparação",
-      "situation": "Como você diz que algo é menor que outra coisa?",
+      "situation": "Você compara duas mochilas e mostra qual é menor que a outra.",
       "translation": "Menor que",
       "librasStructure": "MENOR-QUE",
       "notes": "Indique os dois elementos e destaque aquele que tem tamanho, quantidade ou intensidade menor.",
       "examples": [
-        "“A sala verde é menor que a sala azul.”",
-        "“Este caderno tem menos cartões que o outro.”",
-        "Compare duas porções e diga qual é menor."
+        "Minha mochila é menor que a sua. → MOCHILA MINHA MENOR-QUE SUA.",
+        "O quarto é menor que a sala. → QUARTO MENOR-QUE SALA."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=26&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -152,24 +156,25 @@
     {
       "id": "comparacao-05",
       "section": "Comparação",
-      "situation": "Qual expressão liga a comparação ao segundo elemento?",
+      "situation": "Ao comparar dois colegas, você completa a frase com “do que”, indicando a referência.",
       "translation": "Do que",
       "librasStructure": "DO-QUE",
       "notes": "Em português, aparece em construções como “maior do que” e “menor do que”. Use-a para introduzir o segundo elemento.",
       "examples": [
-        "“A atividade é mais curta do que a revisão.”",
-        "“Este sinal é diferente do que vimos antes.”",
-        "Complete: “A primeira fila é maior ___ a segunda”."
+        "Ele é mais alto do que eu. → ELE ALTO MAIS DO-QUE EU.",
+        "Prefiro chá do que café. → EU PREFERIR CHÁ DO-QUE CAFÉ."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=35&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -183,24 +188,25 @@
     {
       "id": "comparacao-06",
       "section": "Comparação",
-      "situation": "Como você diz que algo é melhor que outra coisa? Iguais (Objeto)?",
+      "situation": "Você prova dois lanches e explica qual é melhor que o outro.",
       "translation": "Melhor que",
       "librasStructure": "MELHOR-QUE, IGUAL (OBJETOS)",
       "notes": "Use para comparar qualidade, preferência ou resultado, deixando clara a relação entre os dois elementos.",
       "examples": [
-        "“Para mim, revisar hoje é melhor que deixar para amanhã.”",
-        "“Este exemplo é melhor que o anterior porque mostra o contexto.”",
-        "Compare duas estratégias de estudo e escolha qual é melhor."
+        "Esse pão de queijo é melhor que aquele. → PÃO-DE-QUEIJO ESSE MELHOR-QUE AQUELE.",
+        "Ônibus é melhor que carro no centro? → CENTRO ÔNIBUS MELHOR-QUE CARRO?"
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=40&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -214,24 +220,25 @@
     {
       "id": "comparacao-07",
       "section": "Comparação",
-      "situation": "Como você diz que duas pessoas ou coisas estão no mesmo nível?",
+      "situation": "Na atividade, você explica que as duas equipes estão no mesmo nível: igual.",
       "translation": "Igual (nível)",
       "librasStructure": "IGUAL NÍVEL",
       "notes": "Use para indicar equivalência de nível, capacidade ou desempenho; não significa necessariamente que os elementos sejam idênticos.",
       "examples": [
-        "“Os dois grupos estão no mesmo nível de conhecimento.”",
-        "“Hoje, meu desempenho está no mesmo nível do seu.”",
-        "Compare duas atividades e indique se exigem o mesmo nível de dificuldade."
+        "As duas equipes estão iguais. → EQUIPE DOIS IGUAL NÍVEL.",
+        "Meu Libras e o dela estão no mesmo nível. → LIBRAS MEU DELA IGUAL NÍVEL."
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -245,24 +252,25 @@
     {
       "id": "comparacao-08",
       "section": "Comparação",
-      "situation": "Como você diz que duas pessoas têm os mesmos direitos?",
+      "situation": "Numa conversa sobre cidadania, você afirma que todas as pessoas têm direitos iguais.",
       "translation": "Igual (direitos)",
       "librasStructure": "IGUAL DIREITOS",
       "notes": "Use em contextos de cidadania, participação e acesso para destacar que os direitos são equivalentes.",
       "examples": [
-        "“Todas as pessoas têm os mesmos direitos de acesso à informação.”",
-        "“Pessoas surdas e ouvintes têm direitos iguais.”",
-        "Em uma conversa sobre cidadania, explique que o atendimento deve garantir direitos iguais."
+        "Surdos e ouvintes têm direitos iguais. → SURDO OUVINTE DIREITOS IGUAL.",
+        "Homem e mulher: direitos iguais! → HOMEM MULHER IGUAL DIREITOS!"
       ],
       "video": "https://www.youtube.com/embed/f1_wFjDHZqI?start=55&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f1_wFjDHZqI",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -276,19 +284,24 @@
     {
       "id": "comparar-intensificar-01",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “chuva → tempestade”?",
+      "situation": "Pela janela, você vê a chuva virar tempestade e mostra a intensidade no sinal.",
       "translation": "Chuva → tempestade",
       "librasStructure": "CHUVA → TEMPESTADE (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Começou com chuva e virou tempestade. → CHUVA COMEÇAR, DEPOIS TEMPESTADE.",
+        "Com essa tempestade, não vou sair. → TEMPESTADE, EU SAIR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=10&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -296,19 +309,24 @@
     {
       "id": "comparar-intensificar-02",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “demorar → demoradíssimo”?",
+      "situation": "Você esperou o ônibus por uma hora e diz que demorou demais: foi demoradíssimo.",
       "translation": "Demorar → demoradíssimo",
       "librasStructure": "DEMORAR → DEMORADÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ônibus demorou demais! → ÔNIBUS DEMORADÍSSIMO!",
+        "A fila do banco foi demoradíssima. → BANCO FILA DEMORADÍSSIMO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=15&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -316,19 +334,24 @@
     {
       "id": "comparar-intensificar-03",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “chorar (intensidade)”?",
+      "situation": "Na história, a personagem recebe uma notícia triste e chora muito. Mostre o chorar com intensidade.",
       "translation": "Chorar (intensidade)",
       "librasStructure": "CHORAR",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela chorou muito no filme. → FILME ELA CHORAR (intenso).",
+        "O bebê chorou a noite inteira. → BEBÊ CHORAR (intenso) NOITE INTEIRA."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=23&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -336,19 +359,24 @@
     {
       "id": "comparar-intensificar-04",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “feio → feiíssimo”?",
+      "situation": "Numa história, você descreve um monstro não só feio, mas feiíssimo.",
       "translation": "Feio → feiíssimo",
       "librasStructure": "FEIO → FEIÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O monstro do filme é feiíssimo. → FILME MONSTRO FEIÍSSIMO.",
+        "A roupa não é feia, é feiíssima! → ROUPA FEIO NÃO, FEIÍSSIMO!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -356,19 +384,24 @@
     {
       "id": "comparar-intensificar-05",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “lindo → belíssimo”?",
+      "situation": "Ao ver a paisagem, você intensifica o elogio: não é só linda, é belíssima.",
       "translation": "Lindo → belíssimo",
       "librasStructure": "LINDO → BELÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O pôr do sol está belíssimo! → PÔR-DO-SOL BELÍSSIMO!",
+        "Seu vestido de noiva ficou belíssimo. → VESTIDO NOIVA SEU BELÍSSIMO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=40&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -376,19 +409,24 @@
     {
       "id": "comparar-intensificar-06",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “cansado → cansadíssimo”?",
+      "situation": "Depois de um dia longo, você diz que não está só cansado, está cansadíssimo.",
       "translation": "Cansado → cansadíssimo",
       "librasStructure": "CANSADO → CANSADÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trabalhei o dia inteiro, estou cansadíssimo. → TRABALHAR DIA INTEIRO, EU CANSADÍSSIMO.",
+        "Você está cansado? — Cansadíssimo! → VOCÊ CANSADO? — CANSADÍSSIMO!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=47&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -396,19 +434,24 @@
     {
       "id": "comparar-intensificar-07",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “vento → ventania”?",
+      "situation": "Na praia, o vento aumenta muito e você avisa que virou uma ventania.",
       "translation": "Vento → ventania",
       "librasStructure": "VENTO → VENTANIA (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Que ventania! Segura o chapéu! → VENTANIA! CHAPÉU SEGURAR!",
+        "O vento virou ventania à noite. → NOITE VENTO VIRAR VENTANIA."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=58&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -416,19 +459,24 @@
     {
       "id": "comparar-intensificar-08",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “trabalho (intensidade)”?",
+      "situation": "Você conta que teve muito trabalho para terminar o projeto, usando o sinal de trabalho com intensidade.",
       "translation": "Trabalho (intensidade)",
       "librasStructure": "TRABALHO",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa semana trabalhei muito! → ESTA-SEMANA EU TRABALHO (intenso)!",
+        "Meu pai trabalha demais. → PAI MEU TRABALHO (intenso)."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -436,19 +484,24 @@
     {
       "id": "comparar-intensificar-09",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “falar → faladeira”?",
+      "situation": "Na reunião, uma pessoa fala sem parar. Você comenta que ela é faladeira.",
       "translation": "Falar → faladeira",
       "librasStructure": "FALAR → FALADEIRA (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha tia é faladeira. → TIA MINHA FALADEIRA.",
+        "Ele fala, fala... é muito faladeiro! → ELE FALAR, FALAR... FALADEIRO!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=74&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -456,19 +509,24 @@
     {
       "id": "comparar-intensificar-10",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “rápido → veloz”?",
+      "situation": "Você vê dois corredores e destaca o mais rápido: ele é veloz.",
       "translation": "Rápido → veloz",
       "librasStructure": "RÁPIDO → VELOZ (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O carro de corrida é veloz. → CARRO CORRIDA VELOZ.",
+        "Ele não é só rápido, é veloz! → ELE RÁPIDO NÃO SÓ, VELOZ!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -476,19 +534,24 @@
     {
       "id": "comparar-intensificar-11",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “feliz → felicíssimo”?",
+      "situation": "Depois de uma notícia excelente, você diz que não está só feliz, está felicíssimo.",
       "translation": "Feliz → felicíssimo",
       "librasStructure": "FELIZ → FELICÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Passei na prova! Estou felicíssimo! → PROVA PASSAR! EU FELICÍSSIMO!",
+        "Minha mãe ficou felicíssima com o presente. → MÃE MINHA FELICÍSSIMA PRESENTE."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=97&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -496,19 +559,24 @@
     {
       "id": "comparar-intensificar-12",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “alegre → alegríssimo”?",
+      "situation": "A festa começou e o ambiente ficou alegríssimo.",
       "translation": "Alegre → alegríssimo",
       "librasStructure": "ALEGRE → ALEGRÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A festa ficou alegríssima! → FESTA ALEGRÍSSIMA!",
+        "As crianças estão alegríssimas no parque. → PARQUE CRIANÇA ALEGRÍSSIMO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=103&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -516,19 +584,24 @@
     {
       "id": "comparar-intensificar-13",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “triste → tristíssimo”?",
+      "situation": "Na história, a personagem sofre uma perda e fica tristíssima.",
       "translation": "Triste → tristíssimo",
       "librasStructure": "TRISTE → TRISTÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele ficou tristíssimo com a notícia. → NOTÍCIA, ELE TRISTÍSSIMO.",
+        "Meu cachorro morreu, estou tristíssimo. → CACHORRO MEU MORRER, EU TRISTÍSSIMO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=110&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -536,19 +609,24 @@
     {
       "id": "comparar-intensificar-14",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “raiva (intensidade)”?",
+      "situation": "Depois de uma injustiça, você descreve que a pessoa ficou com muita raiva (sinal intensificado).",
       "translation": "Raiva (intensidade)",
       "librasStructure": "RAIVA",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiquei com muita raiva! → EU RAIVA (intensa)!",
+        "Ele estava com raiva do vizinho. → ELE RAIVA VIZINHO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=116&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -556,19 +634,24 @@
     {
       "id": "comparar-intensificar-15",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “dar (intensidade)”?",
+      "situation": "Você conta que alguém deu muita ajuda ao grupo, usando o sinal de dar com intensidade.",
       "translation": "Dar (intensidade)",
       "librasStructure": "DAR",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha avó dá muitos presentes. → AVÓ MINHA PRESENTE DAR (intenso).",
+        "A professora deu muita atividade! → PROFESSORA ATIVIDADE DAR (intenso)!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -576,19 +659,24 @@
     {
       "id": "comparar-intensificar-16",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “caro → caríssimo”?",
+      "situation": "Na loja, você vê que o tênis não é só caro, é caríssimo.",
       "translation": "Caro → caríssimo",
       "librasStructure": "CARO → CARÍSSIMO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse tênis é caríssimo! → TÊNIS ESSE CARÍSSIMO!",
+        "Caro? Não, é caríssimo! → CARO? NÃO, CARÍSSIMO!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=128&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -596,19 +684,24 @@
     {
       "id": "comparar-intensificar-17",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “comprar (intensidade)”?",
+      "situation": "Na promoção, uma pessoa compra muitos itens. Mostre o comprar com intensidade.",
       "translation": "Comprar (intensidade)",
       "librasStructure": "COMPRAR",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na promoção, minha mãe comprou muito! → PROMOÇÃO, MÃE MINHA COMPRAR (intenso)!",
+        "Ele compra roupa demais. → ELE ROUPA COMPRAR (intenso)."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -616,19 +709,24 @@
     {
       "id": "comparar-intensificar-18",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “frio → congelando”?",
+      "situation": "Na viagem ao Sul, você diz que não está só frio, está congelando.",
       "translation": "Frio → congelando",
       "librasStructure": "FRIO → CONGELANDO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Estou congelando! → EU CONGELANDO!",
+        "Em Gramado, no inverno, a gente congela. → GRAMADO INVERNO, NÓS CONGELANDO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=141&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -636,19 +734,24 @@
     {
       "id": "comparar-intensificar-19",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “calor (intensidade)”?",
+      "situation": "No meio da tarde, o calor está muito forte e você procura sombra. Mostre o calor com intensidade.",
       "translation": "Calor (intensidade)",
       "librasStructure": "CALOR",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Que calor em Goiânia! → GOIÂNIA CALOR (intenso)!",
+        "Com esse calor, vou tomar sorvete. → CALOR (intenso), EU TOMAR SORVETE."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=146&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -656,19 +759,24 @@
     {
       "id": "comparar-intensificar-20",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “briga → discussão”?",
+      "situation": "Duas pessoas brigam, e você tenta transformar a briga em uma discussão organizada.",
       "translation": "Briga → discussão",
       "librasStructure": "BRIGA → DISCUSSÃO (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não é briga, é discussão. → BRIGA NÃO, DISCUSSÃO.",
+        "A briga virou uma discussão séria. → BRIGA VIRAR DISCUSSÃO SÉRIA."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=152&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -676,19 +784,24 @@
     {
       "id": "comparar-intensificar-21",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “raio → trovões”?",
+      "situation": "Durante a tempestade, você vê um raio e depois sente os trovões.",
       "translation": "Raio → trovões",
       "librasStructure": "RAIO → TROVÕES (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Teve raio e trovões a noite toda. → NOITE INTEIRA RAIO, TROVÕES.",
+        "Desliga a TV, tem raio! → RAIO, TELEVISÃO DESLIGAR!"
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=160&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -696,19 +809,24 @@
     {
       "id": "comparar-intensificar-22",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “barulho → barulheira”?",
+      "situation": "Na rua, o barulho virou uma barulheira e você pede silêncio.",
       "translation": "Barulho → barulheira",
       "librasStructure": "BARULHO → BARULHEIRA (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Que barulheira na festa do vizinho! → FESTA VIZINHO BARULHEIRA!",
+        "Os surdos sentem a barulheira pela vibração. → SURDO SENTIR BARULHEIRA VIBRAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=167&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -716,19 +834,24 @@
     {
       "id": "comparar-intensificar-23",
       "section": "Intensidade",
-      "situation": "Como você sinaliza “onda → vagalhões”?",
+      "situation": "Na praia, o mar está agitado e as ondas viram vagalhões.",
       "translation": "Onda → vagalhões",
       "librasStructure": "ONDA → VAGALHÕES (intensidade)",
       "notes": "A intensidade aparece no próprio sinal: movimento mais tenso, amplo ou repetido e expressão facial mais marcada. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não entre no mar, tem vagalhões! → MAR ENTRAR NÃO, VAGALHÕES!",
+        "Ontem as ondas eram pequenas; hoje, vagalhões. → ONTEM ONDA PEQUENA; HOJE VAGALHÕES."
+      ],
       "video": "https://www.youtube.com/embed/UbtxChf9gzM?start=176&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UbtxChf9gzM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:04:47.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

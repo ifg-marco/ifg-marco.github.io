@@ -23,19 +23,24 @@
     {
       "id": "filosofia-001",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Filosofia?",
+      "situation": "Na aula, a professora pergunta que área estuda a existência, o conhecimento e os valores: a Filosofia.",
       "translation": "Filosofia",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "A Filosofia nasceu na Grécia. → FILOSOFIA NASCER GRÉCIA.",
+        "A Filosofia ensina a pensar. → FILOSOFIA PENSAR ENSINAR."
+      ],
       "video": "https://www.youtube.com/embed/CNEaGb4UhsU?start=0&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CNEaGb4UhsU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.088Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -43,20 +48,25 @@
     {
       "id": "filosofia-002",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Ideologia?",
+      "situation": "No debate, você analisa a ideologia que orienta a visão de um grupo sobre a sociedade.",
       "translation": "Ideologia (na Filosofia)",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Toda pessoa tem uma ideologia. → PESSOA TODA IDEOLOGIA TER.",
+        "A ideologia pode esconder a verdade. → IDEOLOGIA VERDADE ESCONDER PODER."
+      ],
       "video": "https://www.youtube.com/embed/fb7icm0CRzM?start=0&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fb7icm0CRzM",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -64,19 +74,23 @@
     {
       "id": "filosofia-003",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Experiência?",
+      "situation": "Uma colega relata algo que viveu, e você explica que esse aprendizado veio da experiência.",
       "translation": "Experiência",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Aprendi com a experiência. → EU APRENDER EXPERIÊNCIA.",
+        "Você tem experiência com surdos? → VOCÊ EXPERIÊNCIA SURDO TER?"
+      ],
       "video": "https://www.youtube.com/embed/nOCvG80KfBs?start=0&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nOCvG80KfBs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.089Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -84,19 +98,24 @@
     {
       "id": "filosofia-004",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Ética?",
+      "situation": "A turma conversa sobre ética: decisões corretas e responsabilidade com os outros.",
       "translation": "Ética",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Mentir não é ético. → MENTIR ÉTICA NÃO.",
+        "O intérprete segue um código de ética. → INTÉRPRETE CÓDIGO ÉTICA SEGUIR."
+      ],
       "video": "https://www.youtube.com/embed/TRxVGDDkI08?start=0&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=TRxVGDDkI08",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.089Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -104,19 +123,24 @@
     {
       "id": "filosofia-005",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Estética?",
+      "situation": "Ao analisar uma obra, vocês falam de estética: beleza, forma e sensação.",
       "translation": "Estética",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "A estética estuda o belo. → ESTÉTICA BELO ESTUDAR.",
+        "A estética da poesia em Libras é visual. → POESIA LIBRAS ESTÉTICA VISUAL."
+      ],
       "video": "https://www.youtube.com/embed/f5d0CyqMTAw?start=0&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=f5d0CyqMTAw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.089Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -124,19 +148,24 @@
     {
       "id": "filosofia-006",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Crítica?",
+      "situation": "Depois da leitura, você faz uma crítica cuidadosa, não só se gostou ou não.",
       "translation": "Crítica",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Faça uma crítica do texto. → TEXTO CRÍTICA FAZER.",
+        "Aceito sua crítica. → CRÍTICA SUA EU ACEITAR."
+      ],
       "video": "https://www.youtube.com/embed/1RDe9tW4B6E?start=0&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1RDe9tW4B6E",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.089Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -144,19 +173,24 @@
     {
       "id": "filosofia-007",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Crença?",
+      "situation": "Na conversa, uma pessoa explica uma crença que considera verdadeira, mesmo sem prova.",
       "translation": "Crença",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Respeite a crença dos outros. → CRENÇA OUTROS RESPEITAR.",
+        "Crença não é o mesmo que ciência. → CRENÇA CIÊNCIA IGUAL NÃO."
+      ],
       "video": "https://www.youtube.com/embed/g404YyXwf_A?start=0&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g404YyXwf_A",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -164,19 +198,24 @@
     {
       "id": "filosofia-008",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Conhecimento?",
+      "situation": "Você pesquisa fontes e explica o conhecimento que construiu sobre o tema.",
       "translation": "Conhecimento",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "O conhecimento liberta. → CONHECIMENTO LIBERTAR.",
+        "Quero mais conhecimento sobre Libras. → LIBRAS CONHECIMENTO MAIS EU QUERER."
+      ],
       "video": "https://www.youtube.com/embed/9lN_PIEbyL8?start=0&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9lN_PIEbyL8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -184,19 +223,24 @@
     {
       "id": "filosofia-009",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Teoria?",
+      "situation": "Na aula, você apresenta uma teoria para explicar um fenômeno.",
       "translation": "Teoria",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Na teoria é fácil, na prática é difícil. → TEORIA FÁCIL, PRÁTICA DIFÍCIL.",
+        "Essa teoria foi comprovada? → TEORIA ESSA COMPROVAR?"
+      ],
       "video": "https://www.youtube.com/embed/h9NS7TN-aew?start=0&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=h9NS7TN-aew",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -204,19 +248,24 @@
     {
       "id": "filosofia-010",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Conciência?",
+      "situation": "Ao perceber as consequências de uma escolha, você reflete com consciência.",
       "translation": "Conciência",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Tenha consciência das suas escolhas. → ESCOLHA SUA CONSCIÊNCIA TER.",
+        "Estou com a consciência tranquila. → CONSCIÊNCIA MINHA TRANQUILA."
+      ],
       "video": "https://www.youtube.com/embed/xYhGONE9RE8?start=0&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=xYhGONE9RE8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -224,19 +273,24 @@
     {
       "id": "filosofia-011",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Comportamento?",
+      "situation": "A turma observa o comportamento de uma pessoa em situações diferentes.",
       "translation": "Comportamento",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "O comportamento dele mudou. → COMPORTAMENTO DELE MUDAR.",
+        "Esse comportamento não é aceitável. → COMPORTAMENTO ESSE ACEITAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/u3gZWMEPQh0?start=0&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=u3gZWMEPQh0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -244,19 +298,24 @@
     {
       "id": "filosofia-012",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Moral?",
+      "situation": "No debate, vocês diferenciam valores pessoais e moral, as regras de convivência do grupo.",
       "translation": "Moral",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "A moral muda de uma cultura para outra. → MORAL CULTURA DIFERENTE MUDAR.",
+        "Ele não tem moral para reclamar. → ELE MORAL RECLAMAR NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/b5eqpsx37_M?start=0&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=b5eqpsx37_M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.090Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -264,19 +323,24 @@
     {
       "id": "filosofia-013",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Opinião?",
+      "situation": "Depois dos argumentos, você dá sua opinião sobre o tema.",
       "translation": "Opinião",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Na minha opinião, a Libras deve ser obrigatória. → OPINIÃO MINHA: LIBRAS OBRIGATÓRIA.",
+        "Qual é a sua opinião? → OPINIÃO SUA QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/CFU_yNnuePg?start=0&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CFU_yNnuePg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -284,19 +348,24 @@
     {
       "id": "filosofia-014",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Mito?",
+      "situation": "Ao estudar uma narrativa antiga, você diferencia o mito do fato comprovado.",
       "translation": "Mito",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "O mito explica o mundo com histórias. → MITO MUNDO EXPLICAR HISTÓRIA.",
+        "É mito que surdo não pode dirigir. → SURDO DIRIGIR PODER NÃO: MITO."
+      ],
       "video": "https://www.youtube.com/embed/8OLSzszzr8U?start=0&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8OLSzszzr8U",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -304,19 +373,24 @@
     {
       "id": "filosofia-015",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Ciência?",
+      "situation": "Você pesquisa fontes e experimentos: a ciência estuda os fenômenos de forma sistemática.",
       "translation": "Ciência",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "A ciência precisa de provas. → CIÊNCIA PROVA PRECISAR.",
+        "Confie na ciência: tome a vacina. → CIÊNCIA CONFIAR: VACINA TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/n-nIEDYF5Co?start=0&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=n-nIEDYF5Co",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -324,19 +398,24 @@
     {
       "id": "filosofia-016",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Subjetividade?",
+      "situation": "Duas pessoas vivem a mesma situação, mas cada uma interpreta com sua subjetividade.",
       "translation": "Subjetividade",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "A arte depende da subjetividade. → ARTE SUBJETIVIDADE DEPENDER.",
+        "A subjetividade de cada pessoa é única. → PESSOA CADA SUBJETIVIDADE ÚNICA."
+      ],
       "video": "https://www.youtube.com/embed/7fV9Cj0CfCI?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=7fV9Cj0CfCI",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -344,19 +423,24 @@
     {
       "id": "filosofia-017",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Realidade?",
+      "situation": "No debate, você diferencia a realidade de uma hipótese imaginada.",
       "translation": "Realidade",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Isso é sonho, não realidade. → ISSO SONHO, REALIDADE NÃO.",
+        "A realidade dos surdos mudou com a lei. → LEI, SURDO REALIDADE MUDAR."
+      ],
       "video": "https://www.youtube.com/embed/d8aqsg06X-Q?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=d8aqsg06X-Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -364,19 +448,24 @@
     {
       "id": "filosofia-018",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Intuição?",
+      "situation": "Antes de ver os dados, você segue sua intuição sobre o que vai acontecer.",
       "translation": "Intuição",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Minha intuição diz que vai chover. → INTUIÇÃO MINHA: CHUVA VIR.",
+        "Confie na sua intuição. → INTUIÇÃO SUA CONFIAR."
+      ],
       "video": "https://www.youtube.com/embed/JuGbiEyVW_k?start=0&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JuGbiEyVW_k",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -384,19 +473,24 @@
     {
       "id": "filosofia-019",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Política?",
+      "situation": "A turma conversa sobre política: decisões coletivas, governo e participação.",
       "translation": "Política",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Política não é só eleição. → POLÍTICA ELEIÇÃO SÓ NÃO.",
+        "Os surdos participam da política. → SURDO POLÍTICA PARTICIPAR."
+      ],
       "video": "https://www.youtube.com/embed/wXFQWqf_yD0?start=0&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wXFQWqf_yD0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.091Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -404,19 +498,23 @@
     {
       "id": "filosofia-020",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Aristoteles?",
+      "situation": "Na aula, você apresenta Aristóteles como um filósofo da Grécia antiga.",
       "translation": "Aristoteles",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Aristóteles foi aluno de Platão. → ARISTÓTELES ALUNO PLATÃO.",
+        "Aristóteles escreveu sobre ética e política. → ARISTÓTELES ESCREVER ÉTICA POLÍTICA."
+      ],
       "video": "https://www.youtube.com/embed/GhyTSOeE5PY?start=0&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GhyTSOeE5PY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.092Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -424,19 +522,23 @@
     {
       "id": "filosofia-021",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Sócrates?",
+      "situation": "Você conta que Sócrates ensinava por meio de perguntas e diálogos.",
       "translation": "Sócrates",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Sócrates dizia: só sei que nada sei. → SÓCRATES: EU SABER NADA SÓ SABER.",
+        "Sócrates ensinava com perguntas. → SÓCRATES ENSINAR PERGUNTA."
+      ],
       "video": "https://www.youtube.com/embed/o2y23qVrXO8?start=0&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=o2y23qVrXO8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.092Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -444,19 +546,23 @@
     {
       "id": "filosofia-022",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Platão?",
+      "situation": "Durante a leitura, você relaciona Platão a ideias, diálogo e conhecimento.",
       "translation": "Platão",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Platão escreveu o mito da caverna. → PLATÃO ESCREVER MITO CAVERNA.",
+        "Platão foi aluno de Sócrates. → PLATÃO ALUNO SÓCRATES."
+      ],
       "video": "https://www.youtube.com/embed/SkASeTjV428?start=0&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SkASeTjV428",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.092Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -464,19 +570,24 @@
     {
       "id": "filosofia-023",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Michel Foucalt?",
+      "situation": "No seminário, você apresenta Michel Foucault e suas ideias sobre poder e sociedade.",
       "translation": "Michel Foucalt",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Michel Foucault estudou o poder. → MICHEL-FOUCAULT PODER ESTUDAR.",
+        "Michel Foucault era francês. → MICHEL-FOUCAULT FRANÇA."
+      ],
       "video": "https://www.youtube.com/embed/Z3DJ52g5xeA?start=0&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Z3DJ52g5xeA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.092Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -484,19 +595,24 @@
     {
       "id": "filosofia-024",
       "section": "Filosofia",
-      "situation": "Como você sinaliza Liberdade?",
+      "situation": "A turma debate a liberdade de escolher e a responsabilidade que ela traz.",
       "translation": "Liberdade",
       "librasStructure": "",
       "notes": "",
-      "examples": [],
+      "examples": [
+        "Liberdade com responsabilidade. → LIBERDADE RESPONSABILIDADE JUNTO.",
+        "A liberdade de expressão é um direito. → LIBERDADE EXPRESSÃO DIREITO."
+      ],
       "video": "https://www.youtube.com/embed/2AakskI6R2w?start=0&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2AakskI6R2w",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-08T05:14:07.092Z",
+          "at": "2026-10-11T00:20:29.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

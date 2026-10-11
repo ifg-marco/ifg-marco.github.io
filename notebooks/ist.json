@@ -28,19 +28,23 @@
     {
       "id": "ist-01",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “vírus”?",
+      "situation": "Na aula de prevenção, você explica que um vírus pode ser transmitido e que informação ajuda a proteger a saúde.",
       "translation": "Vírus",
       "librasStructure": "VÍRUS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O HIV é um vírus. → HIV VÍRUS.",
+        "Antibiótico não mata vírus. → ANTIBIÓTICO VÍRUS MATAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=21&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -48,19 +52,23 @@
     {
       "id": "ist-02",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “hepatite”?",
+      "situation": "Na consulta, você conversa sobre hepatite e pergunta quais exames e cuidados são recomendados.",
       "translation": "Hepatite",
       "librasStructure": "HEPATITE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A hepatite pode passar pelo sexo. → HEPATITE SEXO PASSAR PODER.",
+        "Fiz o teste de hepatite no posto. → POSTO EU TESTE HEPATITE FAZER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -68,19 +76,23 @@
     {
       "id": "ist-03",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “sífilis”?",
+      "situation": "Na campanha de saúde, você apresenta sífilis com respeito e explica a importância do teste e do tratamento.",
       "translation": "Sífilis",
       "librasStructure": "SÍFILIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A sífilis tem tratamento e cura. → SÍFILIS TRATAMENTO CURA TER.",
+        "Grávida precisa fazer o teste de sífilis. → GRÁVIDA TESTE SÍFILIS FAZER PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=44&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -88,19 +100,23 @@
     {
       "id": "ist-04",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “gonorreia”?",
+      "situation": "Ao estudar ISTs, você explica que gonorreia exige avaliação profissional e que não se deve esconder sintomas.",
       "translation": "Gonorreia",
       "librasStructure": "GONORREIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A gonorreia é uma IST. → GONORREIA IST.",
+        "Gonorreia se trata com antibiótico. → GONORREIA ANTIBIÓTICO TRATAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -108,19 +124,23 @@
     {
       "id": "ist-05",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “candidíase”?",
+      "situation": "Na consulta, você descreve desconforto e pergunta ao profissional se pode ser candidíase.",
       "translation": "Candidíase",
       "librasStructure": "CANDIDÍASE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A candidíase causa coceira. → CANDIDÍASE COCEIRA CAUSAR.",
+        "Roupa apertada pode piorar a candidíase. → ROUPA APERTADA CANDIDÍASE PIORAR PODER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -128,19 +148,23 @@
     {
       "id": "ist-06",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “herpes genital”?",
+      "situation": "Na orientação de saúde, você fala sobre herpes genital sem julgamento e reforça a importância do acompanhamento.",
       "translation": "Herpes genital",
       "librasStructure": "HERPES-GENITAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O herpes genital não tem cura, mas tem tratamento. → HERPES-GENITAL CURA NÃO-TER, TRATAMENTO TER.",
+        "A camisinha ajuda a evitar o herpes genital. → CAMISINHA HERPES-GENITAL EVITAR AJUDAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=64&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -148,19 +172,23 @@
     {
       "id": "ist-07",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “cancro mole”?",
+      "situation": "Durante a aula, você apresenta cancro mole e explica por que feridas devem ser avaliadas por um profissional.",
       "translation": "Cancro mole",
       "librasStructure": "CANCRO-MOLE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cancro mole causa feridas doloridas. → CANCRO-MOLE FERIDAS DOER CAUSAR.",
+        "Cancro mole tem tratamento. → CANCRO-MOLE TRATAMENTO TER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -168,19 +196,23 @@
     {
       "id": "ist-08",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “clamídia”?",
+      "situation": "Ao revisar as ISTs, você explica que clamídia pode não apresentar sintomas e que o teste é importante.",
       "translation": "Clamídia",
       "librasStructure": "CLAMÍDIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A clamídia muitas vezes não tem sintomas. → CLAMÍDIA SINTOMAS MUITAS-VEZES NÃO-TER.",
+        "Fiz o exame de clamídia. → EU EXAME CLAMÍDIA FAZER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=79&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -188,19 +220,23 @@
     {
       "id": "ist-09",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “sintomas”?",
+      "situation": "Na consulta, você descreve os sintomas com clareza para ajudar o profissional a orientar o cuidado.",
       "translation": "Sintomas",
       "librasStructure": "SINTOMAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quais são os seus sintomas? → SINTOMAS SEUS QUAIS?",
+        "Algumas ISTs não têm sintomas. → IST ALGUMAS SINTOMAS NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -208,19 +244,23 @@
     {
       "id": "ist-10",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “dor / doer”?",
+      "situation": "Durante o atendimento, você aponta onde sente dor e explica se ela aumenta ou diminui.",
       "translation": "Dor / doer",
       "librasStructure": "DOR/DOER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Dói quando eu urino. → EU URINAR, DOER.",
+        "A dor começou ontem. → DOR COMEÇAR ONTEM."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=88&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -228,19 +268,23 @@
     {
       "id": "ist-11",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “sangramento”?",
+      "situation": "Na consulta, você informa que percebeu sangramento e pede orientação para saber o que fazer.",
       "translation": "Sangramento",
       "librasStructure": "SANGRAMENTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tive um sangramento fora do período. → SANGRAMENTO MENSTRUAÇÃO FORA.",
+        "Sangramento precisa de avaliação médica. → SANGRAMENTO MÉDICO AVALIAR PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=92&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -248,19 +292,23 @@
     {
       "id": "ist-12",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “feridas”?",
+      "situation": "Ao observar feridas, você evita conclusões e marca uma avaliação com um profissional de saúde.",
       "translation": "Feridas",
       "librasStructure": "FERIDAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Apareceram feridas na pele. → PELE FERIDAS APARECER.",
+        "Feridas devem ser vistas pelo médico. → FERIDAS MÉDICO VER PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=96&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -268,19 +316,23 @@
     {
       "id": "ist-13",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “anticoncepcional”?",
+      "situation": "Na consulta, você pergunta sobre anticoncepcional e conversa sobre a opção mais adequada para sua situação.",
       "translation": "Anticoncepcional",
       "librasStructure": "ANTICONCEPCIONAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tomo anticoncepcional todo dia. → EU ANTICONCEPCIONAL TOMAR TODO-DIA.",
+        "Anticoncepcional não protege de IST. → ANTICONCEPCIONAL IST PROTEGER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=104&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -288,19 +340,23 @@
     {
       "id": "ist-14",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “camisinha”?",
+      "situation": "Ao conversar sobre prevenção, você explica que a camisinha ajuda a reduzir o risco de ISTs.",
       "translation": "Camisinha",
       "librasStructure": "CAMISINHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Use camisinha sempre. → CAMISINHA USAR SEMPRE.",
+        "O posto dá camisinha de graça. → POSTO CAMISINHA DAR GRÁTIS."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -308,19 +364,23 @@
     {
       "id": "ist-15",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “coceira”?",
+      "situation": "Durante a consulta, você descreve coceira e explica há quanto tempo o sintoma apareceu.",
       "translation": "Coceira",
       "librasStructure": "COCEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Estou com coceira há três dias. → EU COCEIRA TRÊS-DIAS.",
+        "A coceira piora à noite. → NOITE COCEIRA PIORAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -328,19 +388,23 @@
     {
       "id": "ist-16",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “transmissão”?",
+      "situation": "Na campanha, você explica as formas de transmissão e corrige uma informação falsa com cuidado.",
       "translation": "Transmissão",
       "librasStructure": "TRANSMISSÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A transmissão do HIV não acontece pelo abraço. → HIV TRANSMISSÃO ABRAÇAR NÃO.",
+        "Como é a transmissão da sífilis? → SÍFILIS TRANSMISSÃO COMO?"
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=130&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -348,19 +412,23 @@
     {
       "id": "ist-17",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “corrimento”?",
+      "situation": "Na consulta, você informa que percebeu corrimento e pergunta se precisa fazer exames.",
       "translation": "Corrimento",
       "librasStructure": "CORRIMENTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Percebi um corrimento diferente. → EU CORRIMENTO DIFERENTE PERCEBER.",
+        "Corrimento com cheiro forte precisa de exame. → CORRIMENTO CHEIRO FORTE, EXAME PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=134&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -368,19 +436,23 @@
     {
       "id": "ist-18",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “ejaculação”?",
+      "situation": "Na orientação sobre saúde sexual, você explica que ejaculação é um tema que pode ser conversado com responsabilidade.",
       "translation": "Ejaculação",
       "librasStructure": "EJACULAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A ejaculação libera os espermatozoides. → EJACULAÇÃO ESPERMATOZOIDE LIBERAR.",
+        "O urologista pode tirar dúvidas sobre ejaculação. → UROLOGISTA EJACULAÇÃO DÚVIDA RESPONDER PODER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=139&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -388,19 +460,23 @@
     {
       "id": "ist-19",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “ereção”?",
+      "situation": "Na conversa educativa, você pergunta sobre ereção sem constrangimento e busca informação confiável.",
       "translation": "Ereção",
       "librasStructure": "EREÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Problema de ereção tem tratamento. → EREÇÃO PROBLEMA TRATAMENTO TER.",
+        "Ele foi ao urologista por causa da ereção. → ELE UROLOGISTA IR PORQUE EREÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=143&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -408,19 +484,23 @@
     {
       "id": "ist-20",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “estéril”?",
+      "situation": "Ao estudar reprodução, você explica que estéril é um termo médico que precisa de avaliação especializada.",
       "translation": "Estéril",
       "librasStructure": "ESTÉRIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O médico disse que ele é estéril. → MÉDICO FALAR ELE ESTÉRIL.",
+        "Estéril não significa doente. → ESTÉRIL SIGNIFICAR DOENTE NÃO."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=146&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -428,19 +508,23 @@
     {
       "id": "ist-21",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “fimose”?",
+      "situation": "Na consulta, você pergunta sobre fimose e recebe orientação profissional sem constrangimento.",
       "translation": "Fimose",
       "librasStructure": "FIMOSE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O menino tem fimose e vai operar. → MENINO FIMOSE, OPERAR VAI.",
+        "A fimose atrapalha a higiene. → FIMOSE HIGIENE ATRAPALHAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=156&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -448,19 +532,23 @@
     {
       "id": "ist-22",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “masturbação”?",
+      "situation": "Na educação sexual, você conversa sobre masturbação com privacidade, respeito e informação segura.",
       "translation": "Masturbação",
       "librasStructure": "MASTURBAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A masturbação é normal e privada. → MASTURBAÇÃO NORMAL PRIVADO.",
+        "Masturbação não causa doença. → MASTURBAÇÃO DOENÇA CAUSAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=161&end=165&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -468,19 +556,23 @@
     {
       "id": "ist-23",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “penetração”?",
+      "situation": "Ao falar sobre consentimento, você explica que penetração só acontece com acordo claro entre as pessoas.",
       "translation": "Penetração",
       "librasStructure": "PENETRAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A penetração exige consentimento. → PENETRAÇÃO CONSENTIMENTO PRECISAR.",
+        "Na penetração, use camisinha. → PENETRAÇÃO CAMISINHA USAR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=174&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -488,19 +580,23 @@
     {
       "id": "ist-24",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “prevenção”?",
+      "situation": "Na campanha de saúde, você reúne informações sobre prevenção e compartilha materiais confiáveis com a turma.",
       "translation": "Prevenção",
       "librasStructure": "PREVENÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A prevenção é o melhor remédio. → PREVENÇÃO REMÉDIO MELHOR.",
+        "A camisinha é a principal forma de prevenção. → CAMISINHA PREVENÇÃO PRINCIPAL."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=193&end=198&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -508,19 +604,23 @@
     {
       "id": "ist-25",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “sexo vaginal”?",
+      "situation": "Na orientação sobre práticas sexuais, você explica sexo vaginal com foco em consentimento e prevenção.",
       "translation": "Sexo vaginal",
       "librasStructure": "SEXO-VAGINAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No sexo vaginal, a camisinha evita gravidez e IST. → SEXO-VAGINAL CAMISINHA GRAVIDEZ IST EVITAR.",
+        "Sexo vaginal só com consentimento. → SEXO-VAGINAL CONSENTIMENTO SÓ."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=200&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -528,19 +628,23 @@
     {
       "id": "ist-26",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “sexo anal”?",
+      "situation": "Na conversa sobre saúde sexual, você aborda sexo anal com respeito, consentimento e cuidados de prevenção.",
       "translation": "Sexo anal",
       "librasStructure": "SEXO-ANAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No sexo anal, use camisinha e lubrificante. → SEXO-ANAL CAMISINHA LUBRIFICANTE USAR.",
+        "O sexo anal tem risco maior de IST. → SEXO-ANAL IST RISCO MAIOR."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=205&end=209&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -548,19 +652,23 @@
     {
       "id": "ist-27",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “tesão”?",
+      "situation": "Em uma conversa educativa, você explica que tesão é uma sensação pessoal e deve ser tratado com respeito.",
       "translation": "Tesão",
       "librasStructure": "TESÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Sentir tesão é natural. → TESÃO SENTIR NATURAL.",
+        "Tesão não justifica falta de consentimento. → TESÃO, CONSENTIMENTO PRECISAR AINDA."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=209&end=214&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -568,19 +676,23 @@
     {
       "id": "ist-28",
       "section": "Saúde sexual",
-      "situation": "Numa orientação de saúde, como você sinaliza “cura”?",
+      "situation": "Na consulta, você pergunta se existe cura e escuta a orientação do profissional sobre tratamento e acompanhamento.",
       "translation": "Cura",
       "librasStructure": "CURA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A sífilis tem cura. → SÍFILIS CURA TER.",
+        "O HIV ainda não tem cura, mas tem tratamento. → HIV CURA AINDA NÃO, TRATAMENTO TER."
+      ],
       "video": "https://www.youtube.com/embed/iDzfqGeK8gg?start=214&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iDzfqGeK8gg",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:04.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

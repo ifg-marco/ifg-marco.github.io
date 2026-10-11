@@ -28,19 +28,23 @@
     {
       "id": "paises-01",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Países”?",
+      "situation": "Na aula de geografia, você compara países e escolhe um destino para pesquisar com a turma.",
       "translation": "Países",
       "librasStructure": "PAÍSES",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quantos países você já visitou? → PAÍSES VOCÊ VISITAR QUANTOS?",
+        "O Brasil faz fronteira com dez países. → BRASIL FRONTEIRA PAÍSES 10."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=21&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -48,19 +52,23 @@
     {
       "id": "paises-02",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “África”?",
+      "situation": "No mapa-múndi, você localiza a África e comenta que quer conhecer sua cultura.",
       "translation": "África",
       "librasStructure": "ÁFRICA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A África tem muitos países. → ÁFRICA PAÍSES MUITO.",
+        "Muitos brasileiros têm origem na África. → BRASILEIRO MUITO ORIGEM ÁFRICA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=22&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -68,19 +76,23 @@
     {
       "id": "paises-03",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Alemanha”?",
+      "situation": "Ao organizar uma pesquisa, você escolhe a Alemanha e procura informações sobre sua história.",
       "translation": "Alemanha",
       "librasStructure": "ALEMANHA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu avô veio da Alemanha. → AVÔ MEU VIR ALEMANHA.",
+        "Na Alemanha faz muito frio no inverno. → ALEMANHA INVERNO FRIO MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=31&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -88,19 +100,23 @@
     {
       "id": "paises-04",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Argélia”?",
+      "situation": "Durante o trabalho sobre a África, você aponta a Argélia no mapa e mostra sua localização ao colega.",
       "translation": "Argélia",
       "librasStructure": "ARGÉLIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Argélia fica no norte da África. → ARGÉLIA NORTE ÁFRICA.",
+        "Na Argélia tem deserto. → ARGÉLIA DESERTO TER."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=56&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -108,19 +124,23 @@
     {
       "id": "paises-05",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Argentina”?",
+      "situation": "No planejamento de férias, você sugere a Argentina e comenta que Buenos Aires parece interessante.",
       "translation": "Argentina",
       "librasStructure": "ARGENTINA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos à Argentina nas férias? → FÉRIAS NÓS IR ARGENTINA?",
+        "A Argentina é vizinha do Brasil. → ARGENTINA VIZINHA BRASIL."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -128,19 +148,23 @@
     {
       "id": "paises-06",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Ásia”?",
+      "situation": "Na pesquisa dos continentes, você apresenta a Ásia e relaciona o tema aos países estudados.",
       "translation": "Ásia",
       "librasStructure": "ÁSIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Ásia é o maior continente. → ÁSIA CONTINENTE MAIOR.",
+        "Japão e China ficam na Ásia. → JAPÃO CHINA ÁSIA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=64&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -148,19 +172,23 @@
     {
       "id": "paises-07",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Austrália”?",
+      "situation": "Na conversa sobre destinos distantes, você mostra a Austrália no mapa e fala sobre a viagem.",
       "translation": "Austrália",
       "librasStructure": "AUSTRÁLIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Austrália tem cangurus. → AUSTRÁLIA CANGURU TER.",
+        "A Austrália fica muito longe. → AUSTRÁLIA LONGE MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -168,19 +196,23 @@
     {
       "id": "paises-08",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Bélgica”?",
+      "situation": "No roteiro pela Europa, você inclui a Bélgica e procura uma cidade para visitar.",
       "translation": "Bélgica",
       "librasStructure": "BÉLGICA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O chocolate da Bélgica é famoso. → BÉLGICA CHOCOLATE FAMOSO.",
+        "Você conhece a Bélgica? → VOCÊ CONHECER BÉLGICA?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -188,19 +220,23 @@
     {
       "id": "paises-09",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Bósnia”?",
+      "situation": "Na pesquisa sobre a Europa, você localiza a Bósnia e compartilha o mapa com a turma.",
       "translation": "Bósnia",
       "librasStructure": "BÓSNIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Bósnia fica na Europa. → BÓSNIA EUROPA.",
+        "Meu colega nasceu na Bósnia. → COLEGA MEU NASCER BÓSNIA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=77&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -208,19 +244,23 @@
     {
       "id": "paises-10",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Canadá”?",
+      "situation": "Ao comparar destinos frios, você escolhe o Canadá e comenta que gostaria de ver a neve.",
       "translation": "Canadá",
       "librasStructure": "CANADÁ",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No Canadá neva muito. → CANADÁ NEVE MUITO.",
+        "Minha prima mora no Canadá. → PRIMA MINHA MORAR CANADÁ."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -228,19 +268,23 @@
     {
       "id": "paises-11",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Chile”?",
+      "situation": "Na conversa sobre a América do Sul, você sugere o Chile para a próxima viagem da família.",
       "translation": "Chile",
       "librasStructure": "CHILE",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No Chile tem neve e deserto. → CHILE NEVE DESERTO TER.",
+        "Vamos ao Chile no inverno? → INVERNO NÓS IR CHILE?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=86&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -248,19 +292,23 @@
     {
       "id": "paises-12",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Colômbia”?",
+      "situation": "No mapa da América do Sul, você aponta a Colômbia e pergunta se o colega já visitou o país.",
       "translation": "Colômbia",
       "librasStructure": "COLÔMBIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Colômbia produz muito café. → COLÔMBIA CAFÉ PRODUZIR MUITO.",
+        "Você já visitou a Colômbia? → VOCÊ VISITAR COLÔMBIA JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=90&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -268,19 +316,23 @@
     {
       "id": "paises-13",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Coreia do Norte”?",
+      "situation": "Na pesquisa sobre a Ásia, você localiza a Coreia do Norte e compara sua posição com a Coreia do Sul.",
       "translation": "Coreia do Norte",
       "librasStructure": "COREIA-DO-NORTE",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Coreia do Norte é um país fechado. → COREIA-DO-NORTE PAÍS FECHADO.",
+        "A Coreia do Norte fica ao lado da Coreia do Sul. → COREIA-DO-NORTE LADO COREIA-DO-SUL."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=95&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -288,19 +340,23 @@
     {
       "id": "paises-14",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Coreia do Sul”?",
+      "situation": "No trabalho de geografia, você apresenta a Coreia do Sul e comenta sobre sua tecnologia.",
       "translation": "Coreia do Sul",
       "librasStructure": "COREIA-DO-SUL",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Coreia do Sul fabrica muitos celulares. → COREIA-DO-SUL CELULAR FABRICAR MUITO.",
+        "Minha irmã adora novela da Coreia do Sul. → IRMÃ MINHA ADORAR NOVELA COREIA-DO-SUL."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=100&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -308,19 +364,23 @@
     {
       "id": "paises-15",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Cuba”?",
+      "situation": "Ao conversar sobre o Caribe, você aponta Cuba no mapa e comenta que deseja conhecer sua cultura.",
       "translation": "Cuba",
       "librasStructure": "CUBA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cuba é uma ilha no Caribe. → CUBA ILHA CARIBE.",
+        "Em Cuba tem carros antigos. → CUBA CARRO ANTIGO TER."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=115&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -328,19 +388,23 @@
     {
       "id": "paises-16",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Dinamarca”?",
+      "situation": "No roteiro pela Europa, você inclui a Dinamarca e procura informações sobre o clima.",
       "translation": "Dinamarca",
       "librasStructure": "DINAMARCA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Dinamarca fica no norte da Europa. → DINAMARCA NORTE EUROPA.",
+        "Na Dinamarca o povo anda muito de bicicleta. → DINAMARCA PESSOA BICICLETA ANDAR MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=120&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -348,19 +412,23 @@
     {
       "id": "paises-17",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Dubai”?",
+      "situation": "Ao planejar uma viagem, você mostra Dubai no mapa e comenta sobre seus prédios altos.",
       "translation": "Dubai",
       "librasStructure": "DUBAI",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Dubai tem o prédio mais alto do mundo. → DUBAI PRÉDIO MAIS ALTO MUNDO.",
+        "Viajar para Dubai é caro? → DUBAI VIAJAR CARO?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=123&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -368,19 +436,23 @@
     {
       "id": "paises-18",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Egito”?",
+      "situation": "Na aula de história, você apresenta o Egito e relaciona o país às pirâmides.",
       "translation": "Egito",
       "librasStructure": "EGITO",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "As pirâmides ficam no Egito. → PIRÂMIDE EGITO.",
+        "Quero conhecer o Egito. → EU QUERER CONHECER EGITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=129&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -388,19 +460,23 @@
     {
       "id": "paises-19",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Equador”?",
+      "situation": "No mapa da América do Sul, você localiza o Equador e explica sua relação com a linha do Equador.",
       "translation": "Equador",
       "librasStructure": "EQUADOR",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A capital do Equador é Quito. → EQUADOR CAPITAL Q-U-I-T-O.",
+        "A linha do Equador passa pelo Equador. → LINHA EQUADOR PASSAR EQUADOR."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=132&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -408,19 +484,23 @@
     {
       "id": "paises-20",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Espanha”?",
+      "situation": "Na pesquisa sobre a Europa, você escolhe a Espanha e comenta que gostaria de conhecer Barcelona.",
       "translation": "Espanha",
       "librasStructure": "ESPANHA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na Espanha se fala espanhol. → ESPANHA FALAR ESPANHOL.",
+        "Barcelona fica na Espanha. → BARCELONA ESPANHA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=137&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -428,19 +508,23 @@
     {
       "id": "paises-21",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Europa”?",
+      "situation": "Ao montar um mapa dos continentes, você destaca a Europa e localiza vários países conhecidos.",
       "translation": "Europa",
       "librasStructure": "EUROPA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou fazer um intercâmbio na Europa. → EU INTERCÂMBIO EUROPA.",
+        "A Europa tem muitos países pequenos. → EUROPA PAÍSES PEQUENO MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=142&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -448,19 +532,23 @@
     {
       "id": "paises-22",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “França”?",
+      "situation": "No planejamento de viagem, você escolhe a França e comenta que quer visitar Paris.",
       "translation": "França",
       "librasStructure": "FRANÇA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Paris é a capital da França. → FRANÇA CAPITAL PARIS.",
+        "A Libras tem origem na língua de sinais da França. → LIBRAS ORIGEM LÍNGUA-SINAIS FRANÇA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=151&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -468,19 +556,23 @@
     {
       "id": "paises-23",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Gana”?",
+      "situation": "Durante a pesquisa sobre a África, você localiza Gana e apresenta o país aos colegas.",
       "translation": "Gana",
       "librasStructure": "GANA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Gana fica na África. → GANA ÁFRICA.",
+        "Em Gana se fala inglês. → GANA FALAR INGLÊS."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=155&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -488,19 +580,23 @@
     {
       "id": "paises-24",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Hong Kong”?",
+      "situation": "Na pesquisa sobre a Ásia, você apresenta Hong Kong e comenta sobre sua cidade movimentada.",
       "translation": "Hong Kong",
       "librasStructure": "HONG-KONG",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Hong Kong é uma cidade movimentada. → HONG-KONG CIDADE MOVIMENTADA.",
+        "Hong Kong fica na China. → HONG-KONG CHINA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=164&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -508,19 +604,23 @@
     {
       "id": "paises-25",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Índia”?",
+      "situation": "Na pesquisa sobre a Ásia, você apresenta a Índia e comenta sobre sua cultura e culinária.",
       "translation": "Índia",
       "librasStructure": "ÍNDIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A comida da Índia é apimentada. → ÍNDIA COMIDA PIMENTA MUITO.",
+        "A Índia tem muita gente. → ÍNDIA PESSOA MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=168&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -528,19 +628,23 @@
     {
       "id": "paises-26",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Inglaterra”?",
+      "situation": "Ao organizar um roteiro pela Europa, você inclui a Inglaterra e procura informações sobre Londres.",
       "translation": "Inglaterra",
       "librasStructure": "INGLATERRA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Londres fica na Inglaterra. → INGLATERRA LONDRES.",
+        "Na Inglaterra chove muito. → INGLATERRA CHUVA MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=173&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -548,19 +652,23 @@
     {
       "id": "paises-27",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Irã”?",
+      "situation": "No mapa da Ásia, você localiza o Irã durante a apresentação do trabalho de geografia.",
       "translation": "Irã",
       "librasStructure": "IRÃ",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Irã fica no Oriente Médio. → IRÃ ORIENTE-MÉDIO.",
+        "No Irã se fala persa. → IRÃ FALAR PERSA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -568,19 +676,23 @@
     {
       "id": "paises-28",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Iraque”?",
+      "situation": "Na aula de história, você aponta o Iraque no mapa e relaciona o país ao tema estudado.",
       "translation": "Iraque",
       "librasStructure": "IRAQUE",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Iraque fica perto do Irã. → IRAQUE PERTO IRÃ.",
+        "O Iraque teve guerra. → IRAQUE GUERRA TER."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=182&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -588,19 +700,23 @@
     {
       "id": "paises-29",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Israel”?",
+      "situation": "Durante a pesquisa sobre o Oriente Médio, você localiza Israel e compartilha o mapa com a turma.",
       "translation": "Israel",
       "librasStructure": "ISRAEL",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Israel fica no Oriente Médio. → ISRAEL ORIENTE-MÉDIO.",
+        "Jerusalém fica em Israel. → JERUSALÉM ISRAEL."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=187&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -608,19 +724,23 @@
     {
       "id": "paises-30",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Japão”?",
+      "situation": "Na conversa sobre tecnologia e cultura, você escolhe o Japão como tema para sua apresentação.",
       "translation": "Japão",
       "librasStructure": "JAPÃO",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No Japão, a comida é diferente. → JAPÃO COMIDA DIFERENTE.",
+        "Muitos japoneses moram no Brasil. → JAPÃO PESSOA BRASIL MORAR MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=192&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -628,19 +748,23 @@
     {
       "id": "paises-31",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Marrocos”?",
+      "situation": "Ao estudar a África, você localiza o Marrocos e comenta sobre suas cidades históricas.",
       "translation": "Marrocos",
       "librasStructure": "MARROCOS",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Marrocos fica no norte da África. → MARROCOS NORTE ÁFRICA.",
+        "O Marrocos tem cidades antigas. → MARROCOS CIDADE ANTIGA TER."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=196&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -648,19 +772,23 @@
     {
       "id": "paises-32",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “México”?",
+      "situation": "No planejamento das férias, você sugere o México e comenta que gostaria de conhecer sua comida.",
       "translation": "México",
       "librasStructure": "MÉXICO",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A comida do México é apimentada. → MÉXICO COMIDA PIMENTA.",
+        "Vamos ao México nas férias? → FÉRIAS NÓS IR MÉXICO?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=201&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -668,19 +796,23 @@
     {
       "id": "paises-33",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Paraguai”?",
+      "situation": "Na conversa sobre países vizinhos, você localiza o Paraguai e comenta que a viagem é possível de carro.",
       "translation": "Paraguai",
       "librasStructure": "PARAGUAI",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fui ao Paraguai fazer compras. → EU IR PARAGUAI COMPRAR.",
+        "Dá para ir de carro ao Paraguai. → PARAGUAI CARRO IR PODER."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=206&end=207&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -688,19 +820,23 @@
     {
       "id": "paises-34",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Portugal”?",
+      "situation": "Ao pesquisar países de língua portuguesa, você apresenta Portugal e compara algumas palavras usadas lá.",
       "translation": "Portugal",
       "librasStructure": "PORTUGAL",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Em Portugal também se fala português. → PORTUGAL FALAR PORTUGUÊS TAMBÉM.",
+        "A língua de sinais de Portugal é diferente da Libras. → PORTUGAL LÍNGUA-SINAIS LIBRAS DIFERENTE."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=209&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -708,19 +844,23 @@
     {
       "id": "paises-35",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Rússia”?",
+      "situation": "Na pesquisa sobre países extensos, você localiza a Rússia e observa sua grande área no mapa.",
       "translation": "Rússia",
       "librasStructure": "RÚSSIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Rússia é o maior país do mundo. → RÚSSIA PAÍS MAIOR MUNDO.",
+        "Na Rússia faz muito frio. → RÚSSIA FRIO MUITO."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=214&end=216&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -728,19 +868,23 @@
     {
       "id": "paises-36",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Suécia”?",
+      "situation": "No roteiro pelo norte da Europa, você inclui a Suécia e pesquisa como é o inverno no país.",
       "translation": "Suécia",
       "librasStructure": "SUÉCIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na Suécia o inverno é escuro. → SUÉCIA INVERNO ESCURO.",
+        "A Suécia fica perto da Dinamarca. → SUÉCIA PERTO DINAMARCA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=218&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -748,19 +892,23 @@
     {
       "id": "paises-37",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Suíça”?",
+      "situation": "Durante a conversa sobre montanhas, você apresenta a Suíça e comenta que gostaria de conhecer os Alpes.",
       "translation": "Suíça",
       "librasStructure": "SUÍÇA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Suíça tem montanhas e chocolate. → SUÍÇA MONTANHA CHOCOLATE TER.",
+        "Na Suíça neva no inverno. → SUÍÇA INVERNO NEVE."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=221&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -768,19 +916,23 @@
     {
       "id": "paises-38",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Tailândia”?",
+      "situation": "Na pesquisa sobre o Sudeste Asiático, você localiza a Tailândia e mostra o país no mapa.",
       "translation": "Tailândia",
       "librasStructure": "TAILÂNDIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Tailândia tem praias lindas. → TAILÂNDIA PRAIA LINDA TER.",
+        "Você quer conhecer a Tailândia? → VOCÊ QUERER CONHECER TAILÂNDIA?"
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=225&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -788,19 +940,23 @@
     {
       "id": "paises-39",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Turquia”?",
+      "situation": "No trabalho sobre países entre continentes, você apresenta a Turquia e comenta sua localização.",
       "translation": "Turquia",
       "librasStructure": "TURQUIA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Turquia fica entre a Europa e a Ásia. → TURQUIA MEIO EUROPA ÁSIA.",
+        "Istambul fica na Turquia. → ISTAMBUL TURQUIA."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=229&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -808,19 +964,23 @@
     {
       "id": "paises-40",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Uruguai”?",
+      "situation": "Ao planejar uma viagem curta, você sugere o Uruguai por ser um país vizinho do Brasil.",
       "translation": "Uruguai",
       "librasStructure": "URUGUAI",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Uruguai é vizinho do Rio Grande do Sul. → URUGUAI VIZINHO RIO-GRANDE-DO-SUL.",
+        "Montevidéu é a capital do Uruguai. → URUGUAI CAPITAL MONTEVIDÉU."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=235&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -828,19 +988,23 @@
     {
       "id": "paises-41",
       "section": "Países e continentes",
-      "situation": "Ao falar de uma viagem internacional, como você sinaliza “Venezuela”?",
+      "situation": "No mapa da América do Sul, você localiza a Venezuela e encerra a apresentação dos países estudados.",
       "translation": "Venezuela",
       "librasStructure": "VENEZUELA",
       "notes": "Muitos países usam o sinal da própria língua de sinais local; pode haver mais de uma forma em uso no Brasil. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Venezuela faz fronteira com o Brasil. → VENEZUELA FRONTEIRA BRASIL.",
+        "A capital da Venezuela é Caracas. → VENEZUELA CAPITAL CARACAS."
+      ],
       "video": "https://www.youtube.com/embed/HiET32ZpWy8?start=239&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HiET32ZpWy8",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:18:09.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

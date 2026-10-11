@@ -22,19 +22,25 @@
     {
       "id": "documentos-01",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Documentos”?",
+      "situation": "No atendimento do serviço público, a atendente pede seus documentos para abrir o cadastro.",
       "translation": "Documentos",
       "librasStructure": "DOCUMENTOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe todos os documentos? → DOCUMENTOS TODOS VOCÊ TRAZER?",
+        "Meus documentos estão na bolsa. → DOCUMENTOS MEUS BOLSA.",
+        "Quais documentos preciso trazer? → DOCUMENTOS QUAIS EU PRECISAR TRAZER?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +48,24 @@
     {
       "id": "documentos-02",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Atestado médico”?",
+      "situation": "Você faltou ao trabalho porque estava doente e entrega o atestado médico ao chefe.",
       "translation": "Atestado médico",
       "librasStructure": "ATESTADO-MÉDICO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe o atestado médico. → EU TRAZER ATESTADO-MÉDICO.",
+        "O atestado médico vale três dias. → ATESTADO-MÉDICO VALER TRÊS-DIAS."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=15&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +73,24 @@
     {
       "id": "documentos-03",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Bater ponto”?",
+      "situation": "No primeiro dia de trabalho, o chefe explica que você precisa bater ponto na entrada e na saída.",
       "translation": "Bater ponto",
       "librasStructure": "BATER-PONTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não esqueça de bater ponto. → BATER-PONTO ESQUECER NÃO.",
+        "Eu bato ponto às oito horas. → EU BATER-PONTO OITO HORAS."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +98,24 @@
     {
       "id": "documentos-04",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Boleto bancário”?",
+      "situation": "Chegou a conta da escola e você vai pagar o boleto bancário na casa lotérica.",
       "translation": "Boleto bancário",
       "librasStructure": "BOLETO-BANCÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pagar o boleto bancário na lotérica. → BOLETO-BANCÁRIO EU PAGAR CASA-LOTÉRICA.",
+        "O boleto bancário vence amanhã. → BOLETO-BANCÁRIO VENCER AMANHÃ."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=28&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +123,24 @@
     {
       "id": "documentos-05",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão da aposentadoria”?",
+      "situation": "Seu avô vai ao banco receber o benefício e leva o cartão da aposentadoria.",
       "translation": "Cartão da aposentadoria",
       "librasStructure": "CARTÃO-DA-APOSENTADORIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vovô, pegou o cartão da aposentadoria? → AVÔ, CARTÃO-DA-APOSENTADORIA PEGAR?",
+        "O cartão da aposentadoria venceu. → CARTÃO-DA-APOSENTADORIA VENCER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +148,24 @@
     {
       "id": "documentos-06",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do Bradesco”?",
+      "situation": "No caixa eletrônico, você usa o cartão do Bradesco para sacar dinheiro.",
       "translation": "Cartão do Bradesco",
       "librasStructure": "CARTÃO-DO-BRADESCO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Perdi o cartão do Bradesco. → CARTÃO-DO-BRADESCO EU PERDER.",
+        "Aceita cartão do Bradesco? → CARTÃO-DO-BRADESCO ACEITAR?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=35&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +173,24 @@
     {
       "id": "documentos-07",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do Banco do Brasil”?",
+      "situation": "Na loja, você paga a compra com o cartão do Banco do Brasil.",
       "translation": "Cartão do Banco do Brasil",
       "librasStructure": "CARTÃO-DO-BANCO-DO-BRASIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pagar com o cartão do Banco do Brasil. → EU PAGAR CARTÃO-DO-BANCO-DO-BRASIL.",
+        "Meu cartão do Banco do Brasil está bloqueado. → CARTÃO-DO-BANCO-DO-BRASIL MEU BLOQUEADO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +198,24 @@
     {
       "id": "documentos-08",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão de banco”?",
+      "situation": "Antes de sair para as compras, você confere se o cartão de banco está na carteira.",
       "translation": "Cartão de banco",
       "librasStructure": "CARTÃO-DE-BANCO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cadê meu cartão de banco? → CARTÃO-DE-BANCO MEU ONDE?",
+        "Nunca empreste seu cartão de banco. → CARTÃO-DE-BANCO SEU EMPRESTAR N-U-N-C-A."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=44&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +223,24 @@
     {
       "id": "documentos-09",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão da Caixa”?",
+      "situation": "Na Caixa Econômica, você pede um novo cartão da Caixa porque o seu quebrou.",
       "translation": "Cartão da Caixa",
       "librasStructure": "CARTÃO-DA-CAIXA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu cartão da Caixa quebrou. → CARTÃO-DA-CAIXA MEU QUEBRAR.",
+        "Recebo o salário no cartão da Caixa. → SALÁRIO EU RECEBER CARTÃO-DA-CAIXA."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +248,24 @@
     {
       "id": "documentos-10",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do Ipasgo”?",
+      "situation": "Na recepção da clínica, pedem o cartão do Ipasgo, o plano de saúde dos servidores de Goiás.",
       "translation": "Cartão do Ipasgo",
       "librasStructure": "CARTÃO-DO-IPASGO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe o cartão do Ipasgo? → CARTÃO-DO-IPASGO VOCÊ TRAZER?",
+        "Essa clínica aceita cartão do Ipasgo? → CLÍNICA ESSA ACEITAR CARTÃO-DO-IPASGO?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +273,24 @@
     {
       "id": "documentos-11",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do Itaú”?",
+      "situation": "No restaurante, você paga a conta com o cartão do Itaú.",
       "translation": "Cartão do Itaú",
       "librasStructure": "CARTÃO-DO-ITAÚ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Posso pagar com o cartão do Itaú? → CARTÃO-DO-ITAÚ PAGAR PODER?",
+        "O cartão do Itaú chega pelo correio. → CARTÃO-DO-ITAÚ CHEGAR CORREIO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +298,24 @@
     {
       "id": "documentos-12",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do PIS”?",
+      "situation": "No banco, para sacar o abono, o atendente pede o cartão do PIS.",
       "translation": "Cartão do PIS",
       "librasStructure": "CARTÃO-DO-PIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Onde está meu cartão do PIS? → CARTÃO-DO-PIS MEU ONDE?",
+        "Com o cartão do PIS eu saco o abono. → CARTÃO-DO-PIS, EU SACAR ABONO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +323,24 @@
     {
       "id": "documentos-13",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Sitpass”?",
+      "situation": "No terminal de ônibus de Goiânia, você recarrega o Sitpass para pagar a passagem.",
       "translation": "Sitpass",
       "librasStructure": "SITPASS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso recarregar o Sitpass. → SITPASS EU PRECISAR RECARREGAR.",
+        "Meu Sitpass está sem saldo. → SITPASS MEU SALDO NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +348,24 @@
     {
       "id": "documentos-14",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão do SUS”?",
+      "situation": "No posto de saúde, a atendente pede o cartão do SUS para marcar a consulta.",
       "translation": "Cartão do SUS",
       "librasStructure": "CARTÃO-DO-SUS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe o cartão do SUS? → CARTÃO-DO-SUS VOCÊ TRAZER?",
+        "Sem cartão do SUS não marca consulta. → CARTÃO-DO-SUS NÃO-TER, CONSULTA MARCAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +373,24 @@
     {
       "id": "documentos-15",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão da Unimed”?",
+      "situation": "Na recepção do hospital particular, você apresenta o cartão da Unimed.",
       "translation": "Cartão da Unimed",
       "librasStructure": "CARTÃO-DA-UNIMED",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu plano é Unimed, aqui está o cartão. → PLANO MEU UNIMED, CARTÃO-DA-UNIMED AQUI.",
+        "O hospital aceita o cartão da Unimed? → HOSPITAL ACEITAR CARTÃO-DA-UNIMED?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=86&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +398,24 @@
     {
       "id": "documentos-16",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartão de vacina”?",
+      "situation": "Na matrícula da escola, pedem o cartão de vacina do seu filho.",
       "translation": "Cartão de vacina",
       "librasStructure": "CARTÃO-DE-VACINA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cartão de vacina está em dia? → CARTÃO-DE-VACINA EM-DIA?",
+        "Leve o cartão de vacina ao posto. → CARTÃO-DE-VACINA LEVAR POSTO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=90&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +423,24 @@
     {
       "id": "documentos-17",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Reservista”?",
+      "situation": "Seu irmão de 19 anos vai se inscrever num concurso e precisa apresentar a reservista.",
       "translation": "Reservista",
       "librasStructure": "RESERVISTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você já tem a reservista? → VOCÊ TER RESERVISTA JÁ?",
+        "Homem precisa de reservista para o concurso. → CONCURSO, HOMEM PRECISAR RESERVISTA."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +448,24 @@
     {
       "id": "documentos-18",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Carteira de trabalho”?",
+      "situation": "No primeiro emprego, o RH pede a sua carteira de trabalho para fazer o registro.",
       "translation": "Carteira de trabalho",
       "librasStructure": "CARTEIRA-DE-TRABALHO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe a carteira de trabalho? → CARTEIRA-DE-TRABALHO VOCÊ TRAZER?",
+        "Minha carteira de trabalho agora é digital. → CARTEIRA-DE-TRABALHO MINHA AGORA DIGITAL."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=100&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +473,24 @@
     {
       "id": "documentos-19",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “CNH (carteira de motorista)”?",
+      "situation": "Numa blitz, o policial pede a CNH (carteira de motorista) e o documento do carro.",
       "translation": "CNH (carteira de motorista)",
       "librasStructure": "CNH",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Sua CNH, por favor. → CNH SUA, POR-FAVOR.",
+        "Surdo pode tirar CNH? — Sim, pode. → SURDO TIRAR CNH PODER? — S-I-M, PODER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=104&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +498,24 @@
     {
       "id": "documentos-20",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Cartório”?",
+      "situation": "Para reconhecer firma num contrato, você vai ao cartório.",
       "translation": "Cartório",
       "librasStructure": "CARTÓRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou ao cartório reconhecer firma. → EU IR CARTÓRIO RECONHECER FIRMA.",
+        "O cartório abre às oito horas? → CARTÓRIO ABRIR OITO HORAS?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=108&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +523,24 @@
     {
       "id": "documentos-21",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Certidão de casamento”?",
+      "situation": "Depois do casamento, você vai ao cartório buscar a certidão de casamento.",
       "translation": "Certidão de casamento",
       "librasStructure": "CERTIDÃO-DE-CASAMENTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A certidão de casamento já está pronta? → CERTIDÃO-DE-CASAMENTO PRONTA JÁ?",
+        "Para mudar o nome, precisa da certidão de casamento. → NOME MUDAR, CERTIDÃO-DE-CASAMENTO PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=112&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -442,19 +548,24 @@
     {
       "id": "documentos-22",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Certidão de divórcio”?",
+      "situation": "Depois do divórcio, você precisa apresentar a certidão de divórcio para atualizar o RG.",
       "translation": "Certidão de divórcio",
       "librasStructure": "CERTIDÃO-DE-DIVÓRCIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe a certidão de divórcio. → EU TRAZER CERTIDÃO-DE-DIVÓRCIO.",
+        "Onde pego a certidão de divórcio? → CERTIDÃO-DE-DIVÓRCIO PEGAR ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -462,19 +573,24 @@
     {
       "id": "documentos-23",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Certidão de nascimento”?",
+      "situation": "Na matrícula da escola, a secretaria pede a certidão de nascimento do seu filho.",
       "translation": "Certidão de nascimento",
       "librasStructure": "CERTIDÃO-DE-NASCIMENTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso da certidão de nascimento do bebê. → BEBÊ CERTIDÃO-DE-NASCIMENTO EU PRECISAR.",
+        "A certidão de nascimento é feita no cartório. → CERTIDÃO-DE-NASCIMENTO CARTÓRIO FAZER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=119&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -482,19 +598,24 @@
     {
       "id": "documentos-24",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Certidão de óbito”?",
+      "situation": "Depois do falecimento do seu avô, a família precisa da certidão de óbito para resolver os documentos.",
       "translation": "Certidão de óbito",
       "librasStructure": "CERTIDÃO-DE-ÓBITO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cartório entregou a certidão de óbito. → CARTÓRIO ENTREGAR CERTIDÃO-DE-ÓBITO.",
+        "O banco pediu a certidão de óbito do meu avô. → BANCO PEDIR CERTIDÃO-DE-ÓBITO AVÔ MEU."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=123&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -502,19 +623,24 @@
     {
       "id": "documentos-25",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Certificado”?",
+      "situation": "No fim do curso de Libras, você recebe o certificado de conclusão.",
       "translation": "Certificado",
       "librasStructure": "CERTIFICADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Recebi meu certificado de Libras! → EU RECEBER CERTIFICADO LIBRAS!",
+        "Quando sai o certificado? → CERTIFICADO SAIR QUANDO?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=126&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -522,19 +648,24 @@
     {
       "id": "documentos-26",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Código de barras”?",
+      "situation": "Na hora de pagar o boleto pelo celular, você lê o código de barras com a câmera.",
       "translation": "Código de barras",
       "librasStructure": "CÓDIGO-DE-BARRAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Digite o código de barras. → CÓDIGO-DE-BARRAS DIGITAR.",
+        "O código de barras não está lendo. → CÓDIGO-DE-BARRAS LER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=133&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -542,19 +673,24 @@
     {
       "id": "documentos-27",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Comprovante de residência”?",
+      "situation": "Na matrícula da escola, pedem um comprovante de residência com seu endereço.",
       "translation": "Comprovante de residência",
       "librasStructure": "COMPROVANTE-DE-RESIDÊNCIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A conta de luz serve como comprovante de residência? → CONTA-DE-ENERGIA COMPROVANTE-DE-RESIDÊNCIA SERVIR?",
+        "Esqueci o comprovante de residência. → EU ESQUECER COMPROVANTE-DE-RESIDÊNCIA."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=137&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -562,19 +698,24 @@
     {
       "id": "documentos-28",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Conta de água”?",
+      "situation": "Chegou a conta de água do mês e veio mais alta que o normal.",
       "translation": "Conta de água",
       "librasStructure": "CONTA-DE-ÁGUA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A conta de água veio alta. → CONTA-DE-ÁGUA ALTA.",
+        "Já pagou a conta de água? → CONTA-DE-ÁGUA PAGAR JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=142&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -582,19 +723,24 @@
     {
       "id": "documentos-29",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Conta de energia”?",
+      "situation": "No atendimento da companhia elétrica, você mostra a conta de energia atrasada.",
       "translation": "Conta de energia",
       "librasStructure": "CONTA-DE-ENERGIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A conta de energia vence dia dez. → CONTA-DE-ENERGIA VENCER DIA 10.",
+        "Desliga a luz para a conta de energia baixar. → L-U-Z DESLIGAR, CONTA-DE-ENERGIA BAIXAR."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=146&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -602,19 +748,24 @@
     {
       "id": "documentos-30",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Contracheque”?",
+      "situation": "No fim do mês, você confere o contracheque para ver os descontos do salário.",
       "translation": "Contracheque",
       "librasStructure": "CONTRACHEQUE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O contracheque já saiu? → CONTRACHEQUE SAIR JÁ?",
+        "No contracheque tem desconto do INSS. → CONTRACHEQUE TER DESCONTO INSS."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=151&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -622,19 +773,24 @@
     {
       "id": "documentos-31",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “CPF”?",
+      "situation": "Na escola, fazendo a matrícula, a secretária pede o número do seu CPF.",
       "translation": "CPF",
       "librasStructure": "CPF",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual é o seu CPF? → CPF SEU NÚMERO QUAL?",
+        "CPF na nota? → NOTA CPF?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=154&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -642,19 +798,24 @@
     {
       "id": "documentos-32",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Currículo”?",
+      "situation": "Você está procurando emprego e entrega seu currículo na loja.",
       "translation": "Currículo",
       "librasStructure": "CURRÍCULO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vim deixar meu currículo. → EU VIR DEIXAR CURRÍCULO MEU.",
+        "Coloque Libras no seu currículo! → CURRÍCULO SEU LIBRAS COLOCAR!"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=158&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -662,19 +823,24 @@
     {
       "id": "documentos-33",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Currículo vitae”?",
+      "situation": "Uma empresa estrangeira pede seu currículo vitae em inglês.",
       "translation": "Currículo vitae",
       "librasStructure": "CURRÍCULO-VITAE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A empresa pediu currículo vitae em inglês. → EMPRESA PEDIR CURRÍCULO-VITAE INGLÊS.",
+        "Você me ajuda a fazer meu currículo vitae? → CURRÍCULO-VITAE MEU VOCÊ AJUDAR-ME FAZER?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=162&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -682,19 +848,24 @@
     {
       "id": "documentos-34",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Declaração”?",
+      "situation": "Na escola, você pede uma declaração de matrícula para levar ao trabalho.",
       "translation": "Declaração",
       "librasStructure": "DECLARAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso de uma declaração de matrícula. → DECLARAÇÃO MATRÍCULA EU PRECISAR.",
+        "A declaração tem que ter carimbo? → DECLARAÇÃO CARIMBO PRECISAR?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=166&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -702,19 +873,24 @@
     {
       "id": "documentos-35",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Documento do carro”?",
+      "situation": "Antes de viajar de carro, seu pai confere se o documento do carro está no porta-luvas.",
       "translation": "Documento do carro",
       "librasStructure": "DOCUMENTO-DO-CARRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O documento do carro está no porta-luvas. → DOCUMENTO-DO-CARRO PORTA-LUVAS.",
+        "Sem documento do carro, não pode dirigir. → DOCUMENTO-DO-CARRO NÃO-TER, DIRIGIR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=170&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -722,19 +898,24 @@
     {
       "id": "documentos-36",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Documento da moto”?",
+      "situation": "Você vai vender sua moto e separa o documento da moto para o comprador.",
       "translation": "Documento da moto",
       "librasStructure": "DOCUMENTO-DA-MOTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cadê o documento da moto? → DOCUMENTO-DA-MOTO ONDE?",
+        "O documento da moto está atrasado. → DOCUMENTO-DA-MOTO ATRASADO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=173&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -742,19 +923,24 @@
     {
       "id": "documentos-37",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Escritura de imóvel”?",
+      "situation": "Seus pais compraram uma casa e vão ao cartório fazer a escritura de imóvel.",
       "translation": "Escritura de imóvel",
       "librasStructure": "ESCRITURA-DE-IMÓVEL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A escritura de imóvel é feita no cartório. → ESCRITURA-DE-IMÓVEL CARTÓRIO FAZER.",
+        "A casa ainda não tem escritura de imóvel. → CASA ESCRITURA-DE-IMÓVEL NÃO-TER AINDA."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -762,19 +948,24 @@
     {
       "id": "documentos-38",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Imposto de Renda”?",
+      "situation": "Em abril, você organiza os documentos para declarar o Imposto de Renda.",
       "translation": "Imposto de Renda",
       "librasStructure": "IMPOSTO-DE-RENDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O prazo do Imposto de Renda termina em maio. → IMPOSTO-DE-RENDA PRAZO TERMINAR MAIO.",
+        "Você já declarou o Imposto de Renda? → VOCÊ DECLARAR IMPOSTO-DE-RENDA JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=188&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -782,19 +973,24 @@
     {
       "id": "documentos-39",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Imposto”?",
+      "situation": "Na conversa sobre preços, um amigo reclama que o imposto deixa tudo mais caro.",
       "translation": "Imposto",
       "librasStructure": "IMPOSTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O imposto no Brasil é alto. → BRASIL IMPOSTO ALTO.",
+        "Nesse preço já está incluído o imposto? → PREÇO ESSE IMPOSTO INCLUIR?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=193&end=196&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -802,19 +998,24 @@
     {
       "id": "documentos-40",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Inscrição”?",
+      "situation": "Você quer fazer o curso de Libras e pergunta até quando vai a inscrição.",
       "translation": "Inscrição",
       "librasStructure": "INSCRIÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiz minha inscrição no concurso. → EU FAZER INSCRIÇÃO CONCURSO.",
+        "A inscrição é gratuita? → INSCRIÇÃO GRÁTIS?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=197&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -822,19 +1023,24 @@
     {
       "id": "documentos-41",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “IPTU”?",
+      "situation": "Em janeiro, chega o carnê do IPTU da sua casa e você decide pagar à vista.",
       "translation": "IPTU",
       "librasStructure": "IPTU",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou pagar o IPTU à vista. → IPTU EU PAGAR-À-VISTA.",
+        "O IPTU subiu este ano. → ESTE-ANO IPTU SUBIR."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=200&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -842,19 +1048,24 @@
     {
       "id": "documentos-42",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “IPVA”?",
+      "situation": "Seu pai pergunta se você já pagou o IPVA do carro deste ano.",
       "translation": "IPVA",
       "librasStructure": "IPVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O IPVA do carro está pago. → CARRO IPVA PAGAR JÁ.",
+        "Moto também paga IPVA? → MOTO IPVA PAGAR TAMBÉM?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=206&end=209&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -862,19 +1073,24 @@
     {
       "id": "documentos-43",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Nubank”?",
+      "situation": "Na conversa sobre bancos, sua amiga conta que abriu conta no Nubank pelo celular.",
       "translation": "Nubank",
       "librasStructure": "NUBANK",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Abri uma conta no Nubank. → EU ABRIR CONTA NUBANK.",
+        "O cartão do Nubank é roxo. → NUBANK CARTÃO ROXO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=220&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -882,19 +1098,24 @@
     {
       "id": "documentos-44",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Ofício”?",
+      "situation": "Na escola, a diretora envia um ofício à prefeitura pedindo um intérprete de Libras.",
       "translation": "Ofício",
       "librasStructure": "OFÍCIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A escola mandou um ofício à prefeitura. → ESCOLA MANDAR OFÍCIO PREFEITURA.",
+        "O ofício pede intérprete de Libras. → OFÍCIO PEDIR INTÉRPRETE LIBRAS."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=224&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -902,19 +1123,24 @@
     {
       "id": "documentos-45",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Pasep”?",
+      "situation": "Sua mãe, servidora pública, vai ao Banco do Brasil sacar o Pasep.",
       "translation": "Pasep",
       "librasStructure": "PASEP",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Servidor público recebe Pasep. → SERVIDOR-PÚBLICO RECEBER PASEP.",
+        "Onde saco o Pasep? → PASEP SACAR ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=229&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -922,19 +1148,24 @@
     {
       "id": "documentos-46",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Passagem”?",
+      "situation": "Você vai viajar para visitar sua avó e compra a passagem de ônibus.",
       "translation": "Passagem",
       "librasStructure": "PASSAGEM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Comprei a passagem para sexta-feira. → EU COMPRAR PASSAGEM SEXTA-FEIRA.",
+        "A passagem de avião está cara. → PASSAGEM AVIÃO CARA."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=235&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -942,19 +1173,24 @@
     {
       "id": "documentos-47",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Passaporte”?",
+      "situation": "Antes de viajar para outro país, você vai à Polícia Federal tirar o passaporte.",
       "translation": "Passaporte",
       "librasStructure": "PASSAPORTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso tirar o passaporte. → PASSAPORTE EU PRECISAR TIRAR.",
+        "Para ir à Argentina, não precisa de passaporte. → ARGENTINA IR, PASSAPORTE PRECISAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=242&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -962,19 +1198,24 @@
     {
       "id": "documentos-48",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Passe Livre”?",
+      "situation": "Como pessoa surda, você tem direito ao Passe Livre no transporte e vai fazer o cadastro.",
       "translation": "Passe Livre",
       "librasStructure": "PASSE-LIVRE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Pessoa surda tem direito ao Passe Livre. → SURDO DIREITO PASSE-LIVRE.",
+        "Meu Passe Livre venceu. → PASSE-LIVRE MEU VENCER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=246&end=249&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -982,19 +1223,24 @@
     {
       "id": "documentos-49",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “RG (Registro Geral)”?",
+      "situation": "No atendimento do serviço público, pedem seu RG (Registro Geral) para confirmar sua identidade.",
       "translation": "RG (Registro Geral)",
       "librasStructure": "RG",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Seu RG, por favor. → RG SEU, POR-FAVOR.",
+        "Perdi meu RG. → EU PERDER RG MEU."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=250&end=253&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1002,19 +1248,24 @@
     {
       "id": "documentos-50",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “RG (variação)”?",
+      "situation": "Organizando a pasta de documentos, você usa a variação do sinal de RG para perguntar onde ele está.",
       "translation": "RG (variação)",
       "librasStructure": "RG",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O RG está na pasta? → RG PASTA?",
+        "Meu RG está velho, vou tirar outro. → RG MEU VELHO, EU TIRAR NOVO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=253&end=257&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1022,19 +1273,24 @@
     {
       "id": "documentos-51",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Seguro de automóvel”?",
+      "situation": "Você comprou um carro e contrata um seguro de automóvel contra roubo e batida.",
       "translation": "Seguro de automóvel",
       "librasStructure": "SEGURO-DE-AUTOMÓVEL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiz seguro de automóvel. → EU FAZER SEGURO-DE-AUTOMÓVEL.",
+        "O seguro de automóvel cobre roubo? → SEGURO-DE-AUTOMÓVEL COBRIR ROUBO?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=258&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1042,19 +1298,24 @@
     {
       "id": "documentos-52",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Seguro de vida”?",
+      "situation": "Pensando na família, seu pai decide fazer um seguro de vida.",
       "translation": "Seguro de vida",
       "librasStructure": "SEGURO-DE-VIDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu pai fez um seguro de vida. → PAI MEU FAZER SEGURO-DE-VIDA.",
+        "O seguro de vida é caro? → SEGURO-DE-VIDA CARO?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=262&end=266&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1062,19 +1323,24 @@
     {
       "id": "documentos-53",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Seguro empresarial”?",
+      "situation": "Sua tia abriu uma loja e contrata um seguro empresarial para proteger o negócio.",
       "translation": "Seguro empresarial",
       "librasStructure": "SEGURO-EMPRESARIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A loja tem seguro empresarial. → LOJA TER SEGURO-EMPRESARIAL.",
+        "Todo negócio precisa de seguro empresarial? → NEGÓCIO TODO SEGURO-EMPRESARIAL PRECISAR?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=266&end=270&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1082,19 +1348,24 @@
     {
       "id": "documentos-54",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Seguro residencial”?",
+      "situation": "Depois de um assalto no bairro, você decide fazer um seguro residencial.",
       "translation": "Seguro residencial",
       "librasStructure": "SEGURO-RESIDENCIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiz seguro residencial para a casa. → CASA EU FAZER SEGURO-RESIDENCIAL.",
+        "O seguro residencial cobre incêndio? → SEGURO-RESIDENCIAL COBRIR INCÊNDIO?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=270&end=274&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1102,19 +1373,24 @@
     {
       "id": "documentos-55",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Seguro saúde”?",
+      "situation": "No novo emprego, a empresa oferece seguro saúde para você e sua família.",
       "translation": "Seguro saúde",
       "librasStructure": "SEGURO-SAÚDE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A empresa dá seguro saúde. → EMPRESA DAR SEGURO-SAÚDE.",
+        "O seguro saúde inclui dentista? → SEGURO-SAÚDE INCLUIR DENTISTA?"
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=274&end=278&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1122,19 +1398,24 @@
     {
       "id": "documentos-56",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Senha”?",
+      "situation": "No caixa eletrônico, a máquina pede a senha do cartão.",
       "translation": "Senha",
       "librasStructure": "SENHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esqueci a senha! → SENHA EU ESQUECER!",
+        "Não conte sua senha para ninguém. → SENHA SUA CONTAR NINGUÉM NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=278&end=282&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1142,19 +1423,24 @@
     {
       "id": "documentos-57",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Sistema de pagamento”?",
+      "situation": "Na loja virtual, você escolhe o sistema de pagamento: Pix, boleto ou cartão.",
       "translation": "Sistema de pagamento",
       "librasStructure": "SISTEMA-DE-PAGAMENTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual sistema de pagamento vocês aceitam? → SISTEMA-DE-PAGAMENTO QUAL ACEITAR?",
+        "O sistema de pagamento está fora do ar. → SISTEMA-DE-PAGAMENTO FUNCIONAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=283&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1162,19 +1448,24 @@
     {
       "id": "documentos-58",
       "section": "Documentos",
-      "situation": "Num atendimento, como você sinaliza “Título de eleitor”?",
+      "situation": "Antes da eleição, você confere seu título de eleitor para saber onde vai votar.",
       "translation": "Título de eleitor",
       "librasStructure": "TÍTULO-DE-ELEITOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você já tirou o título de eleitor? → VOCÊ TIRAR TÍTULO-DE-ELEITOR JÁ?",
+        "Com dezesseis anos já posso tirar o título de eleitor. → IDADE 16, TÍTULO-DE-ELEITOR TIRAR PODER."
+      ],
       "video": "https://www.youtube.com/embed/dov8Bl0cv74?start=288&end=292&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dov8Bl0cv74",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:01:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

@@ -33,20 +33,26 @@
     {
       "id": "alfabeto-completo",
       "section": "Alfabeto",
-      "situation": "Como você apresenta o alfabeto manual completo da Libras?",
+      "situation": "Na apresentação, uma colega pede ajuda para soletrar o próprio nome. Use o alfabeto manual completo (A–Z) e confirme cada letra com clareza.",
       "translation": "Alfabeto manual completo (A–Z)",
       "librasStructure": "Datilologia: A, B, C, ... Z",
       "notes": "A datilologia representa letras do português; não é o sinal da palavra. Use para soletrar nomes, siglas e palavras sem sinal.",
-      "examples": [],
+      "examples": [
+        "Meu nome é Ana. Vou soletrar: A-N-A. → MEU NOME A-N-A.",
+        "Qual é o seu nome? Soletre, por favor. → SEU NOME QUAL? SOLETRAR POR-FAVOR.",
+        "Pode repetir a última letra, por favor? → ÚLTIMA LETRA REPETIR, POR-FAVOR?"
+      ],
       "video": "https://www.youtube.com/embed/-GGelepjtlk?start=17&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-GGelepjtlk",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T00:00:00.000Z",
+          "at": "2026-10-10T23:53:30.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]

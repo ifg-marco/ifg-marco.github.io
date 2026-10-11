@@ -28,20 +28,25 @@
     {
       "id": "esporte-competicao-01",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza atleta ou jogador?",
+      "situation": "Antes da partida, você apresenta o atleta (ou jogador) que vai representar a equipe.",
       "translation": "Atleta ou jogador",
       "librasStructure": "ATLETA OU JOGADOR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Ele é jogador do Goiás. → ELE JOGADOR GOIÁS.",
+        "Essa atleta é surda. → ATLETA ESSA SURDA."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=5&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -55,20 +60,25 @@
     {
       "id": "esporte-competicao-02",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza amistoso?",
+      "situation": "As duas equipes vão fazer um amistoso, sem valer pontos, só para treinar.",
       "translation": "Amistoso",
       "librasStructure": "AMISTOSO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O jogo de hoje é amistoso. → HOJE JOGO AMISTOSO.",
+        "Vamos marcar um amistoso com a outra escola? → ESCOLA OUTRA AMISTOSO NÓS MARCAR?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -82,20 +92,25 @@
     {
       "id": "esporte-competicao-03",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza contra?",
+      "situation": "Você lê a tabela e vê contra quem o seu time vai jogar.",
       "translation": "Contra",
       "librasStructure": "CONTRA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Goiás contra Vila Nova no domingo. → DOMINGO GOIÁS CONTRA VILA-NOVA.",
+        "Contra quem a gente joga amanhã? → AMANHÃ NÓS JOGAR CONTRA QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -109,20 +124,25 @@
     {
       "id": "esporte-competicao-04",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza campeão?",
+      "situation": "Depois da final, a equipe vence e vira campeã do torneio.",
       "translation": "Campeão",
       "librasStructure": "CAMPEÃO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Somos campeões! → NÓS CAMPEÃO!",
+        "Quem foi o campeão do ano passado? → ANO-PASSADO CAMPEÃO QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=17&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -136,20 +156,25 @@
     {
       "id": "esporte-competicao-05",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza 2º lugar?",
+      "situation": "Na cerimônia, a equipe fica em 2º lugar na competição.",
       "translation": "2º lugar",
       "librasStructure": "2º LUGAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Ficamos em 2º lugar. → NÓS 2º LUGAR.",
+        "O 2º lugar ganha medalha de prata. → 2º LUGAR MEDALHA DE PRATA GANHAR."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=20&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -163,20 +188,25 @@
     {
       "id": "esporte-competicao-06",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza 3º lugar?",
+      "situation": "O atleta termina a prova em 3º lugar e sobe ao pódio.",
       "translation": "3º lugar",
       "librasStructure": "3º LUGAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Ela chegou em 3º lugar. → ELA CHEGAR 3º LUGAR.",
+        "3º lugar também é bom! → 3º LUGAR BOM TAMBÉM!"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -190,20 +220,25 @@
     {
       "id": "esporte-competicao-07",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza campeonato?",
+      "situation": "Você acompanha o campeonato, com várias rodadas, e comenta a tabela.",
       "translation": "Campeonato",
       "librasStructure": "CAMPEONATO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O campeonato começa em março. → CAMPEONATO COMEÇAR MARÇO.",
+        "Nosso time está em primeiro no campeonato. → CAMPEONATO TIME NOSSO 1º."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -217,20 +252,25 @@
     {
       "id": "esporte-competicao-08",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza copa?",
+      "situation": "Na televisão, você acompanha a Copa e torce pelo Brasil.",
       "translation": "Copa",
       "librasStructure": "COPA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O Brasil ganhou a Copa cinco vezes. → BRASIL COPA GANHAR 5 VEZES.",
+        "Vamos assistir ao jogo da Copa juntos? → JOGO COPA NÓS ASSISTIR JUNTO?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=31&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -244,20 +284,25 @@
     {
       "id": "esporte-competicao-09",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza jogo / jogar?",
+      "situation": "Seus amigos combinam de assistir ao jogo, e você pergunta quando ele começa.",
       "translation": "Jogo / jogar",
       "librasStructure": "JOGO / JOGAR",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O jogo começa às quatro horas. → JOGO COMEÇAR QUATRO HORAS.",
+        "Vamos jogar bola depois da aula? → AULA DEPOIS NÓS BOLA JOGAR?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=35&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -271,20 +316,25 @@
     {
       "id": "esporte-competicao-10",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza libertadores?",
+      "situation": "Você conversa sobre a Libertadores e pergunta quais times brasileiros estão jogando.",
       "translation": "Libertadores",
       "librasStructure": "LIBERTADORES",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O Flamengo está na Libertadores. → FLAMENGO LIBERTADORES PARTICIPAR.",
+        "A final da Libertadores é em novembro. → LIBERTADORES FINAL NOVEMBRO."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -298,20 +348,25 @@
     {
       "id": "esporte-competicao-11",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza medalha de ouro?",
+      "situation": "A atleta vence a prova e recebe a medalha de ouro no pódio.",
       "translation": "Medalha de ouro",
       "librasStructure": "MEDALHA DE OURO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Ela ganhou medalha de ouro! → ELA MEDALHA DE OURO GANHAR!",
+        "O 1º lugar recebe medalha de ouro. → 1º LUGAR MEDALHA DE OURO RECEBER."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=42&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -325,20 +380,25 @@
     {
       "id": "esporte-competicao-12",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza medalha de prata?",
+      "situation": "A equipe fica em segundo lugar e recebe a medalha de prata.",
       "translation": "Medalha de prata",
       "librasStructure": "MEDALHA DE PRATA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O Brasil ganhou medalha de prata no vôlei. → BRASIL VÔLEI MEDALHA DE PRATA GANHAR.",
+        "Medalha de prata também é vitória. → MEDALHA DE PRATA VITÓRIA TAMBÉM."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -352,20 +412,25 @@
     {
       "id": "esporte-competicao-13",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza medalha de bronze?",
+      "situation": "A atleta fica em terceiro lugar e recebe a medalha de bronze.",
       "translation": "Medalha de bronze",
       "librasStructure": "MEDALHA DE BRONZE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Ganhei medalha de bronze no judô. → JUDÔ EU MEDALHA DE BRONZE GANHAR.",
+        "Quem ficou com a medalha de bronze? → MEDALHA DE BRONZE QUEM GANHAR?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=52&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -379,20 +444,25 @@
     {
       "id": "esporte-competicao-14",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza olimpíadas?",
+      "situation": "Você assiste às Olimpíadas e comenta os países participantes.",
       "translation": "Olimpíadas",
       "librasStructure": "OLIMPÍADAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "As Olimpíadas são a cada quatro anos. → OLIMPÍADAS 4 ANOS CADA.",
+        "O Brasil ganhou muitas medalhas nas Olimpíadas. → OLIMPÍADAS BRASIL MEDALHA MUITO GANHAR."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -406,20 +476,25 @@
     {
       "id": "esporte-competicao-15",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza paralimpíadas?",
+      "situation": "Numa reportagem, você acompanha atletas com deficiência nas Paralimpíadas.",
       "translation": "Paralimpíadas",
       "librasStructure": "PARALIMPÍADAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O Brasil é forte nas Paralimpíadas. → PARALIMPÍADAS BRASIL FORTE.",
+        "As Paralimpíadas vêm depois das Olimpíadas. → OLIMPÍADAS DEPOIS, PARALIMPÍADAS."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=60&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -433,20 +508,25 @@
     {
       "id": "esporte-competicao-16",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza surdolimpíadas?",
+      "situation": "Você apresenta as Surdolimpíadas, competição internacional de atletas surdos.",
       "translation": "Surdolimpíadas",
       "librasStructure": "SURDOLIMPÍADAS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Os atletas surdos competem nas Surdolimpíadas. → ATLETA SURDO SURDOLIMPÍADAS COMPETIR.",
+        "O Brasil sediou as Surdolimpíadas em 2022. → 2022 SURDOLIMPÍADAS BRASIL ACONTECER."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -460,20 +540,25 @@
     {
       "id": "esporte-competicao-17",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza grupo ou chave?",
+      "situation": "Na tabela do torneio, você vê as equipes que ficaram no mesmo grupo (chave).",
       "translation": "Grupo ou chave",
       "librasStructure": "GRUPO OU CHAVE",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Nosso time está no grupo A. → TIME NOSSO GRUPO A.",
+        "Essa chave é a mais difícil. → CHAVE ESSA DIFÍCIL MAIS."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=68&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -487,20 +572,25 @@
     {
       "id": "esporte-competicao-18",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza oitavas de final?",
+      "situation": "A equipe passou da fase de grupos e vai jogar as oitavas de final.",
       "translation": "Oitavas de final",
       "librasStructure": "OITAVAS DE FINAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Passamos para as oitavas de final! → NÓS PASSAR OITAVAS DE FINAL!",
+        "O jogo das oitavas de final é sábado. → OITAVAS DE FINAL JOGO SÁBADO."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -514,20 +604,25 @@
     {
       "id": "esporte-competicao-19",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza quartas de final?",
+      "situation": "Depois de vencer, a equipe avançou para as quartas de final.",
       "translation": "Quartas de final",
       "librasStructure": "QUARTAS DE FINAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "O Brasil perdeu nas quartas de final. → BRASIL QUARTAS DE FINAL PERDER.",
+        "Estamos nas quartas de final! → NÓS QUARTAS DE FINAL!"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -541,20 +636,24 @@
     {
       "id": "esporte-competicao-20",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza semifinal?",
+      "situation": "Só restam quatro equipes, e você comenta quem jogará a semifinal.",
       "translation": "Semifinal",
       "librasStructure": "SEMIFINAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Quem joga a semifinal? → SEMIFINAL JOGAR QUEM?",
+        "Perdemos na semifinal. → SEMIFINAL NÓS PERDER."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples"
           ]
         }
       ],
@@ -568,20 +667,25 @@
     {
       "id": "esporte-competicao-21",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza final?",
+      "situation": "As duas melhores equipes chegaram à final do campeonato.",
       "translation": "Final",
       "librasStructure": "FINAL",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "A final é no domingo. → FINAL DOMINGO.",
+        "Vamos assistir à final juntos? → FINAL NÓS ASSISTIR JUNTO?"
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],
@@ -595,20 +699,25 @@
     {
       "id": "esporte-competicao-22",
       "section": "Competições e resultados",
-      "situation": "Como você sinaliza participantes?",
+      "situation": "Antes do evento, a organização confere a lista de participantes inscritos.",
       "translation": "Participantes",
       "librasStructure": "PARTICIPANTES",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de competições e resultados.",
-      "examples": [],
+      "examples": [
+        "Quantos participantes tem a maratona? → MARATONA PARTICIPANTES QUANTOS?",
+        "Todos os participantes ganham medalha. → PARTICIPANTES TODOS MEDALHA GANHAR."
+      ],
       "video": "https://www.youtube.com/embed/UWcx8Yb5M84?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UWcx8Yb5M84",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:20:00.000Z",
+          "at": "2026-10-11T00:14:41.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ],

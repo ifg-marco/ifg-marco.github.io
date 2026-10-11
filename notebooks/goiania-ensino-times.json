@@ -22,19 +22,24 @@
     {
       "id": "goiania-ensino-times-01",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Anhanguera”?",
+      "situation": "Uma colega pesquisa faculdades em Goiânia e pergunta onde fica a Faculdade Anhanguera.",
       "translation": "Faculdade Anhanguera",
       "librasStructure": "FACULDADE-ANHANGUERA",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Estudo na Faculdade Anhanguera. → EU ESTUDAR FACULDADE-ANHANGUERA.",
+        "A Faculdade Anhanguera tem curso à noite? → FACULDADE-ANHANGUERA CURSO NOITE TER?"
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=17&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,23 @@
     {
       "id": "goiania-ensino-times-02",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “PUC Goiás”?",
+      "situation": "No grupo de estudos, você comenta que uma pessoa da turma pretende fazer graduação na PUC Goiás.",
       "translation": "PUC Goiás",
       "librasStructure": "PUC-GOIÁS",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quero fazer Direito na PUC Goiás. → PUC-GOIÁS EU QUERER DIREITO ESTUDAR.",
+        "A PUC Goiás fica no Setor Universitário. → PUC-GOIÁS SETOR-UNIVERSITÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=20&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -62,19 +71,23 @@
     {
       "id": "goiania-ensino-times-03",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “UniAraguaia”?",
+      "situation": "Você compara opções de ensino superior e pergunta se sua colega conhece a UniAraguaia.",
       "translation": "UniAraguaia",
       "librasStructure": "UNIARAGUAIA",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você conhece a UniAraguaia? → VOCÊ CONHECER UNIARAGUAIA?",
+        "Minha prima estuda na UniAraguaia. → PRIMA MINHA ESTUDAR UNIARAGUAIA."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +95,24 @@
     {
       "id": "goiania-ensino-times-04",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “UFG (Universidade Federal de Goiás)”?",
+      "situation": "Numa pesquisa, você fala da UFG, a Universidade Federal de Goiás, em Goiânia.",
       "translation": "UFG (Universidade Federal de Goiás)",
       "librasStructure": "UFG",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A UFG tem curso de Letras-Libras. → UFG CURSO LETRAS-LIBRAS TER.",
+        "Passei no vestibular da UFG! → VESTIBULAR UFG EU PASSAR!"
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +120,24 @@
     {
       "id": "goiania-ensino-times-05",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “UEG (Universidade Estadual de Goiás)”?",
+      "situation": "Sua colega fala da UEG, a Universidade Estadual de Goiás, e pergunta se tem campus perto.",
       "translation": "UEG (Universidade Estadual de Goiás)",
       "librasStructure": "UEG",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A UEG tem campus em Anápolis. → UEG CAMPUS ANÁPOLIS TER.",
+        "Meu irmão estuda na UEG. → IRMÃO MEU ESTUDAR UEG."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=30&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +145,23 @@
     {
       "id": "goiania-ensino-times-06",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Padrão”?",
+      "situation": "Você organiza uma lista de faculdades particulares e inclui a Faculdade Padrão.",
       "translation": "Faculdade Padrão",
       "librasStructure": "FACULDADE-PADRÃO",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Faculdade Padrão é particular. → FACULDADE-PADRÃO PARTICULAR.",
+        "Fiz minha matrícula na Faculdade Padrão. → FACULDADE-PADRÃO EU MATRÍCULA FAZER."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -142,19 +169,23 @@
     {
       "id": "goiania-ensino-times-07",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Universo”?",
+      "situation": "Uma pessoa pergunta onde você encontrou informações sobre a Faculdade Universo.",
       "translation": "Faculdade Universo",
       "librasStructure": "FACULDADE-UNIVERSO",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Faculdade Universo tem curso de Enfermagem? → FACULDADE-UNIVERSO CURSO ENFERMAGEM TER?",
+        "Vi a Faculdade Universo na internet. → INTERNET EU VER FACULDADE-UNIVERSO."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=38&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -162,19 +193,23 @@
     {
       "id": "goiania-ensino-times-08",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Senac”?",
+      "situation": "Você procura um curso profissionalizante e conversa sobre a Faculdade Senac.",
       "translation": "Faculdade Senac",
       "librasStructure": "FACULDADE-SENAC",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Faço curso de Gastronomia na Faculdade Senac. → FACULDADE-SENAC EU CURSO GASTRONOMIA.",
+        "A Faculdade Senac tem curso técnico. → FACULDADE-SENAC CURSO TÉCNICO TER."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=41&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +217,24 @@
     {
       "id": "goiania-ensino-times-09",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “UniEVANGÉLICA”?",
+      "situation": "No formulário de inscrição, você confirma que escolheu a UniEVANGÉLICA, em Anápolis.",
       "translation": "UniEVANGÉLICA",
       "librasStructure": "UNIEVANGÉLICA",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A UniEVANGÉLICA fica em Anápolis. → UNIEVANGÉLICA ANÁPOLIS.",
+        "Quero fazer Medicina na UniEVANGÉLICA. → UNIEVANGÉLICA EU QUERER MEDICINA."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=44&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +242,23 @@
     {
       "id": "goiania-ensino-times-10",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Objetivo”?",
+      "situation": "Você compara cursos preparatórios e pergunta se a Faculdade Objetivo tem a formação que procura.",
       "translation": "Faculdade Objetivo",
       "librasStructure": "FACULDADE-OBJETIVO",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Faculdade Objetivo tem cursinho? → FACULDADE-OBJETIVO CURSINHO TER?",
+        "Meu amigo se formou na Faculdade Objetivo. → AMIGO MEU FORMAR FACULDADE-OBJETIVO."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=50&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +266,24 @@
     {
       "id": "goiania-ensino-times-11",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “UNIFASAM”?",
+      "situation": "Uma colega conta que escolheu a UNIFASAM e explica onde vai fazer a matrícula.",
       "translation": "UNIFASAM",
       "librasStructure": "UNIFASAM",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A UNIFASAM fica em Goiânia. → UNIFASAM GOIÂNIA.",
+        "Vou fazer matrícula na UNIFASAM. → UNIFASAM EU MATRÍCULA FAZER."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +291,24 @@
     {
       "id": "goiania-ensino-times-12",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “IFG (Instituto Federal de Goiás)”?",
+      "situation": "Você conta que estuda no IFG, o Instituto Federal de Goiás.",
       "translation": "IFG (Instituto Federal de Goiás)",
       "librasStructure": "IFG",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Estudo no IFG. → EU ESTUDAR IFG.",
+        "O IFG é gratuito. → IFG GRÁTIS."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=58&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +316,24 @@
     {
       "id": "goiania-ensino-times-13",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “IF Goiano”?",
+      "situation": "No planejamento de estudos, você pesquisa o IF Goiano, que tem cursos na área agrícola.",
       "translation": "IF Goiano",
       "librasStructure": "IF-GOIANO",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O IF Goiano tem curso de Agronomia. → IF-GOIANO CURSO AGRONOMIA TER.",
+        "O IF Goiano tem campus em Rio Verde. → IF-GOIANO CAMPUS RIO-VERDE."
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +341,23 @@
     {
       "id": "goiania-ensino-times-14",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Faculdade Senai”?",
+      "situation": "Você busca uma formação profissional e pergunta sobre os cursos da Faculdade Senai.",
       "translation": "Faculdade Senai",
       "librasStructure": "FACULDADE-SENAI",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiz curso de eletricista na Faculdade Senai. → FACULDADE-SENAI EU CURSO ELETRICISTA.",
+        "A Faculdade Senai tem curso para surdos? → FACULDADE-SENAI CURSO SURDO TER?"
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=65&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -302,19 +365,23 @@
     {
       "id": "goiania-ensino-times-15",
       "section": "Faculdades",
-      "situation": "Como você sinaliza “Unifan”?",
+      "situation": "Durante a pesquisa de faculdades, você encontra a Unifan e registra essa opção.",
       "translation": "Unifan",
       "librasStructure": "UNIFAN",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Unifan fica em Aparecida de Goiânia. → UNIFAN APARECIDA-DE-GOIÂNIA.",
+        "Você estuda na Unifan? → VOCÊ ESTUDAR UNIFAN?"
+      ],
       "video": "https://www.youtube.com/embed/nbepJdK1EGw?start=70&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbepJdK1EGw",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +389,24 @@
     {
       "id": "goiania-ensino-times-16",
       "section": "Times de futebol",
-      "situation": "Como você sinaliza “Atlético Goianiense (time)”?",
+      "situation": "No encontro com amigos, você conta que torce para o Atlético Goianiense.",
       "translation": "Atlético Goianiense (time)",
       "librasStructure": "ATLÉTICO-GOIANIENSE",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eu torço para o Atlético Goianiense. → EU TORCER ATLÉTICO-GOIANIENSE.",
+        "O Atlético Goianiense é o Dragão. → ATLÉTICO-GOIANIENSE APELIDO DRAGÃO."
+      ],
       "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=16&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +414,23 @@
     {
       "id": "goiania-ensino-times-17",
       "section": "Times de futebol",
-      "situation": "Como você sinaliza “Goiás Esporte Clube (time)”?",
+      "situation": "Você acompanha o campeonato e pergunta se sua colega torce para o Goiás Esporte Clube.",
       "translation": "Goiás Esporte Clube (time)",
       "librasStructure": "GOIÁS-ESPORTE-CLUBE",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você torce para o Goiás Esporte Clube? → VOCÊ TORCER GOIÁS-ESPORTE-CLUBE?",
+        "O Goiás Esporte Clube joga no Serra Dourada. → GOIÁS-ESPORTE-CLUBE JOGAR SERRA-DOURADA."
+      ],
       "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=19&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -362,19 +438,24 @@
     {
       "id": "goiania-ensino-times-18",
       "section": "Times de futebol",
-      "situation": "Como você sinaliza “Vila Nova Futebol Clube (time)”?",
+      "situation": "Antes da partida, você conversa sobre o Vila Nova Futebol Clube, time dos seus amigos.",
       "translation": "Vila Nova Futebol Clube (time)",
       "librasStructure": "VILA-NOVA-FUTEBOL-CLUBE",
       "notes": "Siglas e nomes de instituições costumam ter sinal próprio; se não souber, soletre. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meus amigos torcem para o Vila Nova Futebol Clube. → AMIGOS MEUS TORCER VILA-NOVA-FUTEBOL-CLUBE.",
+        "O Vila Nova Futebol Clube ganhou ontem. → ONTEM VILA-NOVA-FUTEBOL-CLUBE GANHAR."
+      ],
       "video": "https://www.youtube.com/embed/uFTgaDfXrqM?start=21&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uFTgaDfXrqM",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:17:10.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

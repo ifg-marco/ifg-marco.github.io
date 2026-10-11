@@ -23,19 +23,24 @@
     {
       "id": "saude-01",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza sangue?",
+      "situation": "No laboratório, a enfermeira vai tirar sangue para o seu exame.",
       "translation": "Sangue",
       "librasStructure": "SANGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Vou fazer exame de sangue. → EU EXAME SANGUE FAZER.",
+        "Tenho medo de ver sangue. → SANGUE VER EU MEDO."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=12&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -43,19 +48,24 @@
     {
       "id": "saude-02",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza dna?",
+      "situation": "Num programa de TV, você vê que um exame de DNA confirmou quem é o pai da criança.",
       "translation": "DNA",
       "librasStructure": "DNA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O exame de DNA confirmou o pai. → EXAME DNA PAI CONFIRMAR.",
+        "O DNA passa de pais para filhos. → DNA PASSAR PAIS FILHOS."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=20&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -63,19 +73,24 @@
     {
       "id": "saude-03",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza câncer?",
+      "situation": "Na aula sobre prevenção, a professora explica como o exame ajuda a descobrir o câncer cedo.",
       "translation": "Câncer",
       "librasStructure": "CÂNCER",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha tia venceu o câncer. → TIA MINHA CÂNCER VENCER.",
+        "Fumar causa câncer. → FUMAR CÂNCER CAUSAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=32&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -83,19 +98,24 @@
     {
       "id": "saude-04",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza menstruação?",
+      "situation": "Uma adolescente conversa com a mãe sobre a primeira menstruação.",
       "translation": "Menstruação",
       "librasStructure": "MENSTRUAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha menstruação atrasou. → MENSTRUAÇÃO MINHA ATRASADA.",
+        "A menstruação dura uns cinco dias. → MENSTRUAÇÃO 5 DIAS MAIS-OU-MENOS."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=44&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -103,19 +123,24 @@
     {
       "id": "saude-05",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza cólica?",
+      "situation": "Você conta à médica que sente cólica forte todo mês.",
       "translation": "Cólica",
       "librasStructure": "CÓLICA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com cólica. → EU CÓLICA.",
+        "O bebê chora por causa da cólica. → BEBÊ CHORAR PORQUE CÓLICA."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=57&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -123,19 +148,24 @@
     {
       "id": "saude-06",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza tpm?",
+      "situation": "Sua amiga está irritada e explica que está de TPM.",
       "translation": "TPM",
       "librasStructure": "TPM",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou de TPM hoje. → HOJE EU TPM.",
+        "A TPM me deixa irritada. → TPM DEIXAR-ME IRRITADA."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -143,19 +173,24 @@
     {
       "id": "saude-07",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza vômito?",
+      "situation": "Depois de comer algo estragado, a criança teve vômito, e você liga para o médico.",
       "translation": "Vômito",
       "librasStructure": "VÔMITO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Ele está com vômito e diarreia. → ELE VÔMITO DIARREIA.",
+        "O vômito parou? → VÔMITO PARAR?"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=70&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -163,19 +198,24 @@
     {
       "id": "saude-08",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza urinar?",
+      "situation": "A médica pergunta se você sente dor ao urinar.",
       "translation": "Urinar",
       "librasStructure": "URINAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Dói quando eu urino. → EU URINAR, DOER.",
+        "Preciso urinar, onde é o banheiro? → EU URINAR PRECISAR, BANHEIRO ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -183,19 +223,24 @@
     {
       "id": "saude-09",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza defecar?",
+      "situation": "Na consulta, o médico pergunta se você consegue defecar normalmente.",
       "translation": "Defecar",
       "librasStructure": "DEFECAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Não consigo defecar há três dias. → EU DEFECAR CONSEGUIR NÃO TRÊS-DIAS.",
+        "O bebê defecou, troca a fralda. → BEBÊ DEFECAR, FRALDA TROCAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -203,19 +248,24 @@
     {
       "id": "saude-11",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza músculo?",
+      "situation": "Depois da academia, você sente dor no músculo da perna.",
       "translation": "Músculo",
       "librasStructure": "MÚSCULO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estiquei o músculo no treino. → TREINO MÚSCULO ESTICAR.",
+        "O coração também é um músculo. → CORAÇÃO MÚSCULO TAMBÉM."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=103&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -223,19 +273,24 @@
     {
       "id": "saude-15",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hanseníase?",
+      "situation": "Na aula sobre prevenção, a professora explica que a hanseníase tem cura e tratamento gratuito.",
       "translation": "Hanseníase",
       "librasStructure": "HANSENÍASE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A hanseníase tem cura. → HANSENÍASE CURA TER.",
+        "Mancha dormente na pele pode ser hanseníase. → PELE MANCHA DORMENTE, HANSENÍASE PODER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=135&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -243,19 +298,24 @@
     {
       "id": "saude-16",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza caxumba?",
+      "situation": "Seu sobrinho está com o rosto inchado, e a família desconfia de caxumba.",
       "translation": "Caxumba",
       "librasStructure": "CAXUMBA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu sobrinho pegou caxumba. → SOBRINHO MEU CAXUMBA PEGAR.",
+        "Caxumba incha o rosto. → CAXUMBA ROSTO INCHAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=141&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -263,19 +323,24 @@
     {
       "id": "saude-18",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza adoecer; doente?",
+      "situation": "Na consulta, você conta que adoeceu depois da chuva e está doente há dois dias.",
       "translation": "Adoecer; doente",
       "librasStructure": "ADOECER; DOENTE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou doente, não vou à aula. → EU DOENTE, AULA IR NÃO.",
+        "Ele adoeceu depois da viagem. → VIAGEM DEPOIS, ELE ADOECER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=158&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -283,19 +348,24 @@
     {
       "id": "saude-19",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza verminose?",
+      "situation": "O pediatra explica que a criança está com verminose e precisa de remédio.",
       "translation": "Verminose",
       "librasStructure": "VERMINOSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Lave as frutas para evitar verminose. → FRUTA LAVAR, VERMINOSE EVITAR.",
+        "Criança que anda descalça pega verminose. → CRIANÇA DESCALÇA VERMINOSE PEGAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -303,19 +373,24 @@
     {
       "id": "saude-20",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza gripe?",
+      "situation": "Na aula sobre prevenção, a turma fala de como evitar a gripe no inverno.",
       "translation": "Gripe",
       "librasStructure": "GRIPE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com gripe, fico em casa. → EU GRIPE, CASA FICAR.",
+        "Tome a vacina contra gripe. → VACINA GRIPE TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=176&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -323,19 +398,24 @@
     {
       "id": "saude-22",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza fumar?",
+      "situation": "Você conversa com seu tio e pede para ele parar de fumar.",
       "translation": "Fumar",
       "librasStructure": "FUMAR",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Parei de fumar! → EU FUMAR PARAR!",
+        "Aqui não pode fumar. → AQUI FUMAR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=190&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -343,19 +423,24 @@
     {
       "id": "saude-23",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza tuberculose?",
+      "situation": "No posto de saúde, o médico explica que a tosse longa pode ser tuberculose.",
       "translation": "Tuberculose",
       "librasStructure": "TUBERCULOSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A tuberculose tem tratamento pelo SUS. → TUBERCULOSE TRATAMENTO SUS.",
+        "Tosse por três semanas pode ser tuberculose. → TOSSE TRÊS SEMANAS, TUBERCULOSE PODER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=197&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -363,19 +448,24 @@
     {
       "id": "saude-24",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza bronquite?",
+      "situation": "Você conta que seu filho tem bronquite e piora no tempo seco.",
       "translation": "Bronquite",
       "librasStructure": "BRONQUITE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Meu filho tem bronquite. → FILHO MEU BRONQUITE.",
+        "No tempo seco, a bronquite piora. → TEMPO SECO, BRONQUITE PIORAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=206&end=213&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -383,19 +473,24 @@
     {
       "id": "saude-27",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza febre?",
+      "situation": "A criança está quente, e você mede a febre com o termômetro.",
       "translation": "Febre",
       "librasStructure": "FEBRE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Ela está com febre alta. → ELA FEBRE ALTA.",
+        "A febre baixou? → FEBRE BAIXAR?"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=236&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -403,19 +498,24 @@
     {
       "id": "saude-29",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza avc?",
+      "situation": "Na conversa com a família, você conta que sua avó teve um AVC.",
       "translation": "AVC",
       "librasStructure": "AVC",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha avó teve um AVC. → AVÓ MINHA AVC.",
+        "Boca torta pode ser AVC: chame ajuda! → BOCA TORTA, AVC PODER: AJUDA CHAMAR!"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=252&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -423,19 +523,24 @@
     {
       "id": "saude-30",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza tomar remédio?",
+      "situation": "Na consulta, o médico explica de quantas em quantas horas você deve tomar o remédio.",
       "translation": "Tomar remédio",
       "librasStructure": "TOMAR REMÉDIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Tome o remédio de oito em oito horas. → REMÉDIO TOMAR 8 EM 8 HORAS.",
+        "Já tomou o remédio? → TOMAR REMÉDIO JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=257&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -443,19 +548,24 @@
     {
       "id": "saude-31",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza vacina?",
+      "situation": "Você leva o filho ao posto para tomar a vacina.",
       "translation": "Vacina",
       "librasStructure": "VACINA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Hoje é dia de vacina. → HOJE VACINA DIA.",
+        "A vacina dói um pouquinho. → VACINA DOER POUQUINHO."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=263&end=272&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -463,19 +573,24 @@
     {
       "id": "saude-33",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza febre amarela?",
+      "situation": "Antes de viajar para a mata, você toma a vacina contra febre amarela.",
       "translation": "Febre amarela",
       "librasStructure": "FEBRE AMARELA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Tomei a vacina de febre amarela. → VACINA FEBRE AMARELA EU TOMAR.",
+        "A febre amarela é transmitida por mosquito. → FEBRE AMARELA MOSQUITO TRANSMITIR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=281&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -483,19 +598,24 @@
     {
       "id": "saude-34",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza chikungunya?",
+      "situation": "Sua tia pegou chikungunya e sente muita dor nas juntas.",
       "translation": "Chikungunya",
       "librasStructure": "CHIKUNGUNYA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A chikungunya dá dor nas juntas. → CHIKUNGUNYA DOR JUNTAS.",
+        "Chikungunya é do mesmo mosquito da dengue. → CHIKUNGUNYA MOSQUITO MESMO DENGUE."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=288&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -503,19 +623,24 @@
     {
       "id": "saude-36",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza dengue?",
+      "situation": "Na consulta, o médico pede exame para ver se você está com dengue.",
       "translation": "Dengue",
       "librasStructure": "DENGUE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com dengue. → EU DENGUE.",
+        "Tire a água parada para evitar a dengue. → ÁGUA PARADA TIRAR, DENGUE EVITAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=304&end=309&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -523,19 +648,24 @@
     {
       "id": "saude-37",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza tireoide?",
+      "situation": "Na consulta, a médica pede um exame da tireoide.",
       "translation": "Tireoide",
       "librasStructure": "TIREOIDE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Tenho problema na tireoide. → EU TIREOIDE PROBLEMA.",
+        "O remédio da tireoide é tomado em jejum. → REMÉDIO TIREOIDE JEJUM TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=311&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -543,19 +673,24 @@
     {
       "id": "saude-38",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hipertensão?",
+      "situation": "Na aula sobre prevenção, você explica que a hipertensão é a pressão alta.",
       "translation": "Hipertensão",
       "librasStructure": "HIPERTENSÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Hipertensão é o mesmo que pressão alta. → HIPERTENSÃO IGUAL PRESSÃO ALTA.",
+        "Meu pai controla a hipertensão com remédio. → PAI MEU HIPERTENSÃO CONTROLAR REMÉDIO."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=317&end=326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -563,19 +698,24 @@
     {
       "id": "saude-41",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza anemia?",
+      "situation": "Sua mãe está pálida e cansada, e o exame mostra anemia.",
       "translation": "Anemia",
       "librasStructure": "ANEMIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com anemia. → EU ANEMIA.",
+        "Coma feijão e fígado contra a anemia. → ANEMIA, FEIJÃO FÍGADO COMER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=344&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -583,19 +723,24 @@
     {
       "id": "saude-42",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza trauma?",
+      "situation": "Na consulta, a psicóloga explica que o acidente causou um trauma.",
       "translation": "Trauma",
       "librasStructure": "TRAUMA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Depois do acidente, ele ficou com trauma. → ACIDENTE DEPOIS, ELE TRAUMA.",
+        "Tenho trauma de hospital. → EU TRAUMA HOSPITAL."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=354&end=359&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -603,19 +748,24 @@
     {
       "id": "saude-43",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza amnésia?",
+      "situation": "Depois de bater a cabeça, o paciente teve amnésia e não lembra do acidente.",
       "translation": "Amnésia",
       "librasStructure": "AMNÉSIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Ele teve amnésia e esqueceu tudo. → ELE AMNÉSIA, TUDO ESQUECER.",
+        "A amnésia passou depois de uma semana. → AMNÉSIA PASSAR UMA-SEMANA."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=361&end=369&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -623,19 +773,24 @@
     {
       "id": "saude-44",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza fraqueza?",
+      "situation": "Depois da gripe, você conta que ainda sente fraqueza.",
       "translation": "Fraqueza",
       "librasStructure": "FRAQUEZA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Sinto fraqueza nas pernas. → PERNA EU FRAQUEZA.",
+        "A fraqueza é por falta de comida. → FRAQUEZA PORQUE COMIDA FALTA."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=371&end=375&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -643,19 +798,24 @@
     {
       "id": "saude-45",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza falta de motivação?",
+      "situation": "Seu irmão está com falta de motivação para estudar, e a família conversa com ele.",
       "translation": "Falta de motivação",
       "librasStructure": "FALTA DE MOTIVAÇÃO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com falta de motivação. → EU FALTA DE MOTIVAÇÃO.",
+        "Falta de motivação pode ser sinal de depressão. → FALTA DE MOTIVAÇÃO DEPRESSÃO SINAL PODER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=377&end=384&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -663,19 +823,24 @@
     {
       "id": "saude-47",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza suicídio?",
+      "situation": "Na campanha do Setembro Amarelo, a escola conversa sobre prevenção do suicídio.",
       "translation": "Suicídio",
       "librasStructure": "SUICÍDIO",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Setembro Amarelo é o mês de prevenção ao suicídio. → SETEMBRO AMARELO PREVENIR SUICÍDIO.",
+        "Falar sobre suicídio ajuda a prevenir. → SUICÍDIO CONVERSAR, PREVENIR AJUDAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=406&end=415&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -683,19 +848,24 @@
     {
       "id": "saude-49",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza covid-19?",
+      "situation": "Você conta como foi a pandemia de COVID-19 na sua família.",
       "translation": "COVID-19",
       "librasStructure": "COVID-19",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Peguei COVID-19 em 2021. → 2021 EU COVID-19 PEGAR.",
+        "Na COVID-19, usávamos máscara. → COVID-19, NÓS MÁSCARA USAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=428&end=434&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -703,19 +873,24 @@
     {
       "id": "saude-52",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza herpes?",
+      "situation": "Na aula sobre prevenção, a professora explica que a herpes causa feridas na boca.",
       "translation": "Herpes",
       "librasStructure": "HERPES",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Apareceu uma herpes no meu lábio. → LÁBIO MEU HERPES APARECER.",
+        "Herpes passa pelo beijo. → HERPES BEIJAR PASSAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=451&end=465&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -723,19 +898,24 @@
     {
       "id": "saude-53",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hepatite a?",
+      "situation": "A família conversa sobre a vacina da hepatite A para as crianças.",
       "translation": "Hepatite A",
       "librasStructure": "HEPATITE A",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A hepatite A vem de água suja. → HEPATITE A ÁGUA SUJA VIR.",
+        "Meu filho tomou vacina de hepatite A. → FILHO MEU VACINA HEPATITE A TOMAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=467&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -743,19 +923,24 @@
     {
       "id": "saude-54",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hepatite b?",
+      "situation": "Na consulta, o médico pergunta se você tomou as três doses da vacina da hepatite B.",
       "translation": "Hepatite B",
       "librasStructure": "HEPATITE B",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A vacina da hepatite B tem três doses. → VACINA HEPATITE B DOSE 3.",
+        "A hepatite B pode passar pelo sangue. → HEPATITE B SANGUE PASSAR PODER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=472&end=476&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -763,19 +948,24 @@
     {
       "id": "saude-55",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza hepatite c?",
+      "situation": "No posto, você faz o teste rápido de hepatite C.",
       "translation": "Hepatite C",
       "librasStructure": "HEPATITE C",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Fiz o teste de hepatite C. → EU TESTE HEPATITE C FAZER.",
+        "Hepatite C tem cura. → HEPATITE C CURA TER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=478&end=482&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -783,19 +973,24 @@
     {
       "id": "saude-57",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza obesidade?",
+      "situation": "Na aula sobre prevenção, a turma fala de alimentação e exercício para evitar a obesidade.",
       "translation": "Obesidade",
       "librasStructure": "OBESIDADE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "A obesidade aumenta o risco de diabetes. → OBESIDADE DIABETES RISCO AUMENTAR.",
+        "Obesidade infantil é um problema sério. → CRIANÇA OBESIDADE PROBLEMA SÉRIO."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=491&end=497&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -803,19 +998,24 @@
     {
       "id": "saude-58",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza alergia?",
+      "situation": "Você avisa a família que tem alergia a camarão.",
       "translation": "Alergia",
       "librasStructure": "ALERGIA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Tenho alergia a camarão. → EU ALERGIA CAMARÃO.",
+        "Você tem alergia a algum remédio? → VOCÊ ALERGIA REMÉDIO ALGUM?"
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=499&end=507&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -823,19 +1023,24 @@
     {
       "id": "saude-59",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza afta?",
+      "situation": "Você está com uma afta na boca e reclama de dor ao comer.",
       "translation": "Afta",
       "librasStructure": "AFTA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Estou com afta, dói para comer. → EU AFTA, COMER DOER.",
+        "Comida ácida piora a afta. → COMIDA ÁCIDA AFTA PIORAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=509&end=515&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -843,19 +1048,24 @@
     {
       "id": "saude-60",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza doença?",
+      "situation": "Você pergunta ao médico se a mancha na pele é alguma doença.",
       "translation": "Doença",
       "librasStructure": "DOENÇA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Essa doença é contagiosa? → DOENÇA ESSA PASSAR-PESSOA?",
+        "Ele tem uma doença rara. → ELE DOENÇA RARA."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=517&end=521&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -863,19 +1073,24 @@
     {
       "id": "saude-61",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza pressão alta?",
+      "situation": "Na aula sobre prevenção, você mede a pressão e ela está alta: pressão alta.",
       "translation": "Pressão alta",
       "librasStructure": "PRESSÃO ALTA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Minha pressão está alta. → PRESSÃO MINHA ALTA.",
+        "Quem tem pressão alta deve comer pouco sal. → PRESSÃO ALTA, SAL POUCO COMER."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=523&end=529&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -883,19 +1098,24 @@
     {
       "id": "saude-62",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza pressão baixa?",
+      "situation": "Sua mãe ficou tonta no calor, e você desconfia de pressão baixa.",
       "translation": "Pressão baixa",
       "librasStructure": "PRESSÃO BAIXA",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Fiquei tonta, é pressão baixa. → EU TONTA, PRESSÃO BAIXA.",
+        "Com pressão baixa, deite e levante as pernas. → PRESSÃO BAIXA, DEITAR PERNA LEVANTAR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=531&end=537&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -903,19 +1123,24 @@
     {
       "id": "saude-63",
       "section": "Saúde e cuidados",
-      "situation": "Como você sinaliza estresse?",
+      "situation": "Na consulta, você conta que o estresse do trabalho está tirando seu sono.",
       "translation": "Estresse",
       "librasStructure": "ESTRESSE",
       "notes": "Cartão de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "O estresse não me deixa dormir. → ESTRESSE DORMIR DEIXAR-ME NÃO.",
+        "Fazer exercício diminui o estresse. → EXERCÍCIO FAZER, ESTRESSE DIMINUIR."
+      ],
       "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=539&end=541&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:13:19.604Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -923,19 +1148,24 @@
     {
       "id": "saude-higiene-01",
       "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza higiene?",
+      "situation": "Ao cuidar da rotina, você ensina ao filho os hábitos de higiene.",
       "translation": "Higiene",
       "librasStructure": "HIGIENE",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Higiene evita doenças. → HIGIENE DOENÇA EVITAR.",
+        "A higiene das mãos é muito importante. → MÃO HIGIENE IMPORTANTE."
+      ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=14&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:15:12.029Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -943,19 +1173,24 @@
     {
       "id": "saude-higiene-04",
       "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza creme dental?",
+      "situation": "Na aula sobre prevenção, a professora mostra quanto creme dental usar na escova.",
       "translation": "Creme dental",
       "librasStructure": "CREME DENTAL",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Use pouco creme dental. → CREME DENTAL POUCO USAR.",
+        "Criança precisa de creme dental com flúor. → CRIANÇA PRECISAR CREME DENTAL FLÚOR."
+      ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=25&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:15:12.029Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -963,19 +1198,24 @@
     {
       "id": "saude-higiene-07",
       "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza toalha?",
+      "situation": "Na família, cada um tem a sua toalha, e você explica por quê.",
       "translation": "Toalha",
       "librasStructure": "TOALHA",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Não divida a toalha com ninguém. → TOALHA DIVIDIR NINGUÉM NÃO.",
+        "Coloca a toalha no sol para secar. → TOALHA SOL SECAR."
+      ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=34&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:15:12.029Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -983,19 +1223,24 @@
     {
       "id": "saude-higiene-11",
       "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza cortador de unha?",
+      "situation": "Na consulta, o médico recomenda usar o cortador de unha com cuidado para não ferir o dedo.",
       "translation": "Cortador de unha",
       "librasStructure": "CORTADOR DE UNHA",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "Me empresta o cortador de unha? → CORTADOR DE UNHA EMPRESTAR-ME?",
+        "Lave o cortador de unha depois de usar. → CORTADOR DE UNHA LAVAR USAR DEPOIS."
+      ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=47&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:15:12.029Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1003,19 +1248,24 @@
     {
       "id": "saude-higiene-15",
       "section": "Higiene e cuidados",
-      "situation": "Como você sinaliza hidratante de pele?",
+      "situation": "Na rotina de cuidados, você passa hidratante de pele depois do banho.",
       "translation": "Hidratante de pele",
       "librasStructure": "HIDRATANTE DE PELE",
       "notes": "Variação de vocabulário; não substitui orientação profissional.",
-      "examples": [],
+      "examples": [
+        "No frio, uso hidratante de pele. → FRIO EU USAR HIDRATANTE DE PELE.",
+        "Esse hidratante de pele é para pele seca. → HIDRATANTE DE PELE ESSE PELE SECA."
+      ],
       "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:15:12.029Z",
+          "at": "2026-10-11T00:13:15.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

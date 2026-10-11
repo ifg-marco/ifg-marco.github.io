@@ -22,19 +22,23 @@
     {
       "id": "goiania-bairros-01",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Centro”?",
+      "situation": "No roteiro pela cidade, você orienta a colega e diz que a reunião será no Centro de Goiânia.",
       "translation": "Centro",
       "librasStructure": "CENTRO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A reunião é no Centro. → REUNIÃO CENTRO.",
+        "Você trabalha no Centro? → VOCÊ TRABALHAR CENTRO?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=16&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -42,19 +46,23 @@
     {
       "id": "goiania-bairros-02",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Campinas (bairro)”?",
+      "situation": "Ao marcar um encontro, você explica que o comércio fica em Campinas e combina o horário.",
       "translation": "Campinas (bairro)",
       "librasStructure": "CAMPINAS",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Em Campinas tem muita loja de roupa. → CAMPINAS LOJA ROUPA MUITO.",
+        "Vamos fazer compras em Campinas no sábado? → SÁBADO CAMPINAS NÓS COMPRAR?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -62,19 +70,23 @@
     {
       "id": "goiania-bairros-03",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Nova Esperança”?",
+      "situation": "No mapa de Goiânia, você localiza o Jardim Nova Esperança e mostra o caminho ao colega.",
       "translation": "Jardim Nova Esperança",
       "librasStructure": "JARDIM-NOVA-ESPERANÇA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha tia mora no Jardim Nova Esperança. → TIA MINHA MORAR JARDIM-NOVA-ESPERANÇA.",
+        "O Jardim Nova Esperança fica longe daqui? → JARDIM-NOVA-ESPERANÇA LONGE AQUI?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +94,23 @@
     {
       "id": "goiania-bairros-04",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Novo Mundo”?",
+      "situation": "Ao planejar a visita, você informa que a casa da amiga fica no Jardim Novo Mundo.",
       "translation": "Jardim Novo Mundo",
       "librasStructure": "JARDIM-NOVO-MUNDO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A casa da minha amiga é no Jardim Novo Mundo. → CASA AMIGA MINHA JARDIM-NOVO-MUNDO.",
+        "Que ônibus vai para o Jardim Novo Mundo? → ÔNIBUS QUAL IR JARDIM-NOVO-MUNDO?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -102,19 +118,23 @@
     {
       "id": "goiania-bairros-05",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Santa Helena”?",
+      "situation": "Durante a conversa sobre bairros, você aponta a Vila Santa Helena no mapa e descreve a localização.",
       "translation": "Vila Santa Helena",
       "librasStructure": "VILA-SANTA-HELENA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Morei na Vila Santa Helena quando era criança. → CRIANÇA, EU MORAR VILA-SANTA-HELENA.",
+        "A Vila Santa Helena é perto do Centro. → VILA-SANTA-HELENA PERTO CENTRO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -122,19 +142,23 @@
     {
       "id": "goiania-bairros-06",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Parque Atheneu”?",
+      "situation": "No fim de semana, você combina um passeio no Parque Atheneu e pergunta quem poderá ir.",
       "translation": "Parque Atheneu",
       "librasStructure": "PARQUE-ATHENEU",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos passear no Parque Atheneu? → PARQUE-ATHENEU NÓS PASSEAR?",
+        "Meu primo mora no Parque Atheneu. → PRIMO MEU MORAR PARQUE-ATHENEU."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=33&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -142,19 +166,23 @@
     {
       "id": "goiania-bairros-07",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Conjunto Vera Cruz”?",
+      "situation": "Ao procurar um endereço, você confirma que o Conjunto Vera Cruz fica depois da avenida principal.",
       "translation": "Conjunto Vera Cruz",
       "librasStructure": "CONJUNTO-VERA-CRUZ",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Conjunto Vera Cruz fica depois da avenida. → CONJUNTO-VERA-CRUZ DEPOIS A-V-E-N-I-D-A.",
+        "Tem escola de surdos no Conjunto Vera Cruz? → CONJUNTO-VERA-CRUZ ESCOLA SURDO TER?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=35&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -162,19 +190,23 @@
     {
       "id": "goiania-bairros-08",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Goiânia Viva”?",
+      "situation": "No planejamento do passeio, você localiza Goiânia Viva e envia o ponto de encontro à turma.",
       "translation": "Goiânia Viva",
       "librasStructure": "GOIÂNIA-VIVA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O encontro é no Goiânia Viva. → ENCONTRO GOIÂNIA-VIVA.",
+        "Você conhece o Goiânia Viva? → VOCÊ CONHECER GOIÂNIA-VIVA?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=38&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +214,23 @@
     {
       "id": "goiania-bairros-09",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Morada do Sol”?",
+      "situation": "Ao chamar um carro, você informa que o destino é o Setor Morada do Sol e confere a rota.",
       "translation": "Setor Morada do Sol",
       "librasStructure": "SETOR-MORADA-DO-SOL",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou para o Setor Morada do Sol. → EU IR SETOR-MORADA-DO-SOL.",
+        "O Uber até o Setor Morada do Sol está caro. → UBER SETOR-MORADA-DO-SOL CARO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=42&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -202,19 +238,23 @@
     {
       "id": "goiania-bairros-10",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Ipê”?",
+      "situation": "Na agenda, você anota que a consulta será no Jardim Ipê e envia o endereço para a família.",
       "translation": "Jardim Ipê",
       "librasStructure": "JARDIM-IPÊ",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A consulta é no Jardim Ipê. → CONSULTA JARDIM-IPÊ.",
+        "Meus avós moram no Jardim Ipê. → AVÓS MEUS MORAR JARDIM-IPÊ."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +262,23 @@
     {
       "id": "goiania-bairros-11",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Balneário Meia Ponte”?",
+      "situation": "No passeio pela região norte, você localiza o Jardim Balneário Meia Ponte e combina o ponto de encontro.",
       "translation": "Jardim Balneário Meia Ponte",
       "librasStructure": "JARDIM-BALNEÁRIO-MEIA-PONTE",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Jardim Balneário Meia Ponte fica na região norte. → JARDIM-BALNEÁRIO-MEIA-PONTE REGIÃO NORTE.",
+        "A gente se encontra no Jardim Balneário Meia Ponte? → NÓS ENCONTRAR JARDIM-BALNEÁRIO-MEIA-PONTE?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -242,19 +286,23 @@
     {
       "id": "goiania-bairros-12",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Negrão de Lima”?",
+      "situation": "Ao conferir o endereço, você informa que a clínica fica no Setor Negrão de Lima.",
       "translation": "Setor Negrão de Lima",
       "librasStructure": "SETOR-NEGRÃO-DE-LIMA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A clínica fica no Setor Negrão de Lima. → CLÍNICA SETOR-NEGRÃO-DE-LIMA.",
+        "O Setor Negrão de Lima é tranquilo. → SETOR-NEGRÃO-DE-LIMA TRANQUILO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=55&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -262,19 +310,23 @@
     {
       "id": "goiania-bairros-13",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor São Domingos”?",
+      "situation": "No aplicativo de mapas, você procura o Setor São Domingos para visitar uma amiga.",
       "translation": "Setor São Domingos",
       "librasStructure": "SETOR-SÃO-DOMINGOS",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha amiga mora no Setor São Domingos. → AMIGA MINHA MORAR SETOR-SÃO-DOMINGOS.",
+        "Onde fica o Setor São Domingos? → SETOR-SÃO-DOMINGOS ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -282,19 +334,23 @@
     {
       "id": "goiania-bairros-14",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Aeroporto”?",
+      "situation": "Antes da viagem, você explica que o hotel fica no Setor Aeroporto, perto do terminal.",
       "translation": "Setor Aeroporto",
       "librasStructure": "SETOR-AEROPORTO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O hotel fica no Setor Aeroporto. → HOTEL SETOR-AEROPORTO.",
+        "O Setor Aeroporto é perto do Centro. → SETOR-AEROPORTO PERTO CENTRO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=66&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -302,19 +358,23 @@
     {
       "id": "goiania-bairros-15",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Nova”?",
+      "situation": "No sábado, você convida a turma para assistir ao jogo e explica que será na Vila Nova.",
       "translation": "Vila Nova",
       "librasStructure": "VILA-NOVA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O jogo é na Vila Nova. → JOGO VILA-NOVA.",
+        "Você mora na Vila Nova? → VOCÊ MORAR VILA-NOVA?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +382,23 @@
     {
       "id": "goiania-bairros-16",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Bueno”?",
+      "situation": "Ao escolher um restaurante, você sugere o Setor Bueno e envia o endereço no grupo.",
       "translation": "Setor Bueno",
       "librasStructure": "SETOR-BUENO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem muitos restaurantes no Setor Bueno. → SETOR-BUENO RESTAURANTE MUITO.",
+        "Morar no Setor Bueno é caro. → SETOR-BUENO MORAR CARO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +406,23 @@
     {
       "id": "goiania-bairros-17",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Nova Suíça”?",
+      "situation": "Na agenda, você registra que a reunião será no Setor Nova Suíça e confirma o horário com a equipe.",
       "translation": "Setor Nova Suíça",
       "librasStructure": "SETOR-NOVA-SUÍÇA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A reunião é no Setor Nova Suíça. → REUNIÃO SETOR-NOVA-SUÍÇA.",
+        "O Setor Nova Suíça é perto do Bueno. → SETOR-NOVA-SUÍÇA PERTO SETOR-BUENO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=77&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -362,19 +430,23 @@
     {
       "id": "goiania-bairros-18",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Goiás”?",
+      "situation": "Durante o passeio, você aponta o Jardim Goiás no mapa e comenta que há um parque próximo.",
       "translation": "Jardim Goiás",
       "librasStructure": "JARDIM-GOIÁS",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Parque Flamboyant fica no Jardim Goiás. → PARQUE FLAMBOYANT JARDIM-GOIÁS.",
+        "O estádio Serra Dourada é no Jardim Goiás. → ESTÁDIO SERRA-DOURADA JARDIM-GOIÁS."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=80&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -382,19 +454,23 @@
     {
       "id": "goiania-bairros-19",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Guanabara”?",
+      "situation": "Ao chamar um transporte, você informa que o destino é o Jardim Guanabara e acompanha a rota.",
       "translation": "Jardim Guanabara",
       "librasStructure": "JARDIM-GUANABARA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou para o Jardim Guanabara. → EU IR JARDIM-GUANABARA.",
+        "O Jardim Guanabara fica longe do Centro. → JARDIM-GUANABARA LONGE CENTRO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=83&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -402,19 +478,23 @@
     {
       "id": "goiania-bairros-20",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Castelo Branco”?",
+      "situation": "No grupo da família, você envia o endereço da casa no Setor Castelo Branco para facilitar a visita.",
       "translation": "Setor Castelo Branco",
       "librasStructure": "SETOR-CASTELO-BRANCO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha casa é no Setor Castelo Branco. → CASA MINHA SETOR-CASTELO-BRANCO.",
+        "Mandei o endereço do Setor Castelo Branco no grupo. → ENDEREÇO SETOR-CASTELO-BRANCO EU MANDAR GRUPO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -422,19 +502,23 @@
     {
       "id": "goiania-bairros-21",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor dos Funcionários”?",
+      "situation": "Ao marcar um serviço, você explica que o endereço fica no Setor dos Funcionários e envia a localização.",
       "translation": "Setor dos Funcionários",
       "librasStructure": "SETOR-DOS-FUNCIONÁRIOS",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O endereço é no Setor dos Funcionários. → ENDEREÇO SETOR-DOS-FUNCIONÁRIOS.",
+        "O Setor dos Funcionários fica perto de Campinas. → SETOR-DOS-FUNCIONÁRIOS PERTO CAMPINAS."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -442,19 +526,23 @@
     {
       "id": "goiania-bairros-22",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Goiânia 2”?",
+      "situation": "No mapa da cidade, você localiza o Setor Goiânia 2 e explica qual ônibus passa perto.",
       "translation": "Setor Goiânia 2",
       "librasStructure": "SETOR-GOIÂNIA-2",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Que ônibus passa no Setor Goiânia 2? → ÔNIBUS QUAL PASSAR SETOR-GOIÂNIA-2?",
+        "Meu irmão mora no Setor Goiânia 2. → IRMÃO MEU MORAR SETOR-GOIÂNIA-2."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=95&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -462,19 +550,23 @@
     {
       "id": "goiania-bairros-23",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Bairro Feliz”?",
+      "situation": "Ao planejar uma visita, você confirma que a casa fica no Bairro Feliz e combina o horário de chegada.",
       "translation": "Bairro Feliz",
       "librasStructure": "BAIRRO-FELIZ",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A casa fica no Bairro Feliz. → CASA BAIRRO-FELIZ.",
+        "Chego ao Bairro Feliz às sete horas. → EU CHEGAR BAIRRO-FELIZ SETE HORAS."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=98&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -482,19 +574,23 @@
     {
       "id": "goiania-bairros-24",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim América”?",
+      "situation": "No fim da tarde, você sugere um café no Jardim América e pergunta se a amiga conhece o local.",
       "translation": "Jardim América",
       "librasStructure": "JARDIM-AMÉRICA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos tomar café no Jardim América? → JARDIM-AMÉRICA NÓS CAFÉ TOMAR?",
+        "O Jardim América tem muitas praças. → JARDIM-AMÉRICA PRAÇA MUITO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=101&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -502,19 +598,23 @@
     {
       "id": "goiania-bairros-25",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Bela Vista”?",
+      "situation": "Ao procurar uma escola, você identifica o Jardim Bela Vista no mapa e confere a distância.",
       "translation": "Jardim Bela Vista",
       "librasStructure": "JARDIM-BELA-VISTA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A escola fica no Jardim Bela Vista. → ESCOLA JARDIM-BELA-VISTA.",
+        "O Jardim Bela Vista é longe da minha casa? → JARDIM-BELA-VISTA LONGE CASA MINHA?"
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=104&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -522,19 +622,23 @@
     {
       "id": "goiania-bairros-26",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Vila Finsocial”?",
+      "situation": "Na visita à família, você informa que seguirá para a Vila Finsocial depois do trabalho.",
       "translation": "Vila Finsocial",
       "librasStructure": "VILA-FINSOCIAL",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Depois do trabalho, vou à Vila Finsocial. → TRABALHO DEPOIS, EU IR VILA-FINSOCIAL.",
+        "Minha família mora na Vila Finsocial. → FAMÍLIA MINHA MORAR VILA-FINSOCIAL."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=108&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -542,19 +646,23 @@
     {
       "id": "goiania-bairros-27",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Jardim Vitória”?",
+      "situation": "No roteiro de visitas, você inclui o Jardim Vitória e confirma o endereço com a moradora.",
       "translation": "Jardim Vitória",
       "librasStructure": "JARDIM-VITÓRIA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A moradora do Jardim Vitória confirmou o endereço. → MORADORA JARDIM-VITÓRIA ENDEREÇO CONFIRMAR.",
+        "Vamos visitar o Jardim Vitória amanhã. → AMANHÃ NÓS VISITAR JARDIM-VITÓRIA."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=112&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -562,19 +670,23 @@
     {
       "id": "goiania-bairros-28",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Sul”?",
+      "situation": "Ao escolher um parque, você sugere o Setor Sul e combina de encontrar a turma no local.",
       "translation": "Setor Sul",
       "librasStructure": "SETOR-SUL",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Setor Sul tem muitas árvores. → SETOR-SUL ÁRVORE MUITO.",
+        "Encontro vocês no Setor Sul. → SETOR-SUL EU ENCONTRAR-VOCÊS."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -582,19 +694,23 @@
     {
       "id": "goiania-bairros-29",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Setor Universitário”?",
+      "situation": "Antes da prova, você explica que a faculdade fica no Setor Universitário e envia o caminho.",
       "translation": "Setor Universitário",
       "librasStructure": "SETOR-UNIVERSITÁRIO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A faculdade fica no Setor Universitário. → FACULDADE SETOR-UNIVERSITÁRIO.",
+        "No Setor Universitário moram muitos estudantes. → SETOR-UNIVERSITÁRIO ESTUDANTE MUITO MORAR."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=117&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -602,19 +718,23 @@
     {
       "id": "goiania-bairros-30",
       "section": "Bairros",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Cidade Jardim”?",
+      "situation": "Ao visitar um amigo, você confirma que a casa fica na Cidade Jardim e combina o ponto de referência.",
       "translation": "Cidade Jardim",
       "librasStructure": "CIDADE-JARDIM",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu amigo mora na Cidade Jardim. → AMIGO MEU MORAR CIDADE-JARDIM.",
+        "A Cidade Jardim fica perto do Terminal Padre Pelágio. → CIDADE-JARDIM PERTO TERMINAL-PADRE-PELÁGIO."
+      ],
       "video": "https://www.youtube.com/embed/tEf5K685umY?start=120&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tEf5K685umY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -622,19 +742,23 @@
     {
       "id": "goiania-bairros-31",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Novo Mundo”?",
+      "situation": "No trajeto para a aula, você orienta a colega a pegar o ônibus no Terminal Novo Mundo.",
       "translation": "Terminal Novo Mundo",
       "librasStructure": "TERMINAL-NOVO-MUNDO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Pega o ônibus no Terminal Novo Mundo. → TERMINAL-NOVO-MUNDO ÔNIBUS PEGAR.",
+        "O Terminal Novo Mundo está cheio. → TERMINAL-NOVO-MUNDO CHEIO."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -642,19 +766,23 @@
     {
       "id": "goiania-bairros-32",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Bíblia”?",
+      "situation": "Ao planejar o deslocamento, você explica que fará a integração no Terminal Bíblia.",
       "translation": "Terminal Bíblia",
       "librasStructure": "TERMINAL-BÍBLIA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Faço integração no Terminal Bíblia. → EU INTEGRAÇÃO TERMINAL-BÍBLIA.",
+        "O Terminal Bíblia fica no Setor Universitário? → TERMINAL-BÍBLIA SETOR-UNIVERSITÁRIO?"
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=17&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -662,19 +790,23 @@
     {
       "id": "goiania-bairros-33",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Praça A”?",
+      "situation": "No centro da cidade, você combina de encontrar a turma no Terminal Praça A antes do passeio.",
       "translation": "Terminal Praça A",
       "librasStructure": "TERMINAL-PRAÇA-A",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Encontro a turma no Terminal Praça A. → TURMA EU ENCONTRAR TERMINAL-PRAÇA-A.",
+        "O Terminal Praça A fica em Campinas. → TERMINAL-PRAÇA-A CAMPINAS."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -682,19 +814,23 @@
     {
       "id": "goiania-bairros-34",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal do Dergo”?",
+      "situation": "Ao consultar o mapa do transporte, você identifica o Terminal do Dergo e escolhe a linha correta.",
       "translation": "Terminal do Dergo",
       "librasStructure": "TERMINAL-DO-DERGO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual linha sai do Terminal do Dergo? → TERMINAL-DO-DERGO LINHA QUAL SAIR?",
+        "Desço no Terminal do Dergo. → EU DESCER TERMINAL-DO-DERGO."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -702,19 +838,23 @@
     {
       "id": "goiania-bairros-35",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Padre Pelágio”?",
+      "situation": "Na viagem pela região, você informa que vai fazer a troca de ônibus no Terminal Padre Pelágio.",
       "translation": "Terminal Padre Pelágio",
       "librasStructure": "TERMINAL-PADRE-PELÁGIO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Troco de ônibus no Terminal Padre Pelágio. → TERMINAL-PADRE-PELÁGIO EU ÔNIBUS TROCAR.",
+        "O Terminal Padre Pelágio é grande. → TERMINAL-PADRE-PELÁGIO GRANDE."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -722,19 +862,23 @@
     {
       "id": "goiania-bairros-36",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Isidória”?",
+      "situation": "Ao sair do trabalho, você pergunta qual ônibus chega ao Terminal Isidória e confere a rota.",
       "translation": "Terminal Isidória",
       "librasStructure": "TERMINAL-ISIDÓRIA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Que ônibus chega ao Terminal Isidória? → ÔNIBUS QUAL CHEGAR TERMINAL-ISIDÓRIA?",
+        "O Terminal Isidória fica no Setor Pedro Ludovico. → TERMINAL-ISIDÓRIA SETOR PEDRO-LUDOVICO."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=33&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -742,19 +886,23 @@
     {
       "id": "goiania-bairros-37",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Vera Cruz”?",
+      "situation": "No grupo do bairro, você informa que o ônibus para no Terminal Vera Cruz antes das oito.",
       "translation": "Terminal Vera Cruz",
       "librasStructure": "TERMINAL-VERA-CRUZ",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ônibus para no Terminal Vera Cruz. → ÔNIBUS PARAR TERMINAL-VERA-CRUZ.",
+        "O Terminal Vera Cruz abre cedo? → TERMINAL-VERA-CRUZ ABRIR CEDO?"
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -762,19 +910,23 @@
     {
       "id": "goiania-bairros-38",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal do Cruzeiro”?",
+      "situation": "Para visitar a família, você explica que precisa descer no Terminal do Cruzeiro.",
       "translation": "Terminal do Cruzeiro",
       "librasStructure": "TERMINAL-DO-CRUZEIRO",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso descer no Terminal do Cruzeiro. → EU DESCER TERMINAL-DO-CRUZEIRO PRECISAR.",
+        "O Terminal do Cruzeiro fica em Aparecida? → TERMINAL-DO-CRUZEIRO APARECIDA?"
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=39&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -782,19 +934,23 @@
     {
       "id": "goiania-bairros-39",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Bandeiras”?",
+      "situation": "No planejamento do trajeto, você localiza o Terminal Bandeiras e calcula o tempo da viagem.",
       "translation": "Terminal Bandeiras",
       "librasStructure": "TERMINAL-BANDEIRAS",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Do Terminal Bandeiras até o Centro demora meia hora. → TERMINAL-BANDEIRAS ATÉ CENTRO MEIA HORA.",
+        "Encontro você no Terminal Bandeiras. → TERMINAL-BANDEIRAS EU ENCONTRAR-VOCÊ."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -802,19 +958,23 @@
     {
       "id": "goiania-bairros-40",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Maranata”?",
+      "situation": "Ao acompanhar uma visita, você combina de encontrar o amigo no Terminal Maranata.",
       "translation": "Terminal Maranata",
       "librasStructure": "TERMINAL-MARANATA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Te espero no Terminal Maranata. → TERMINAL-MARANATA EU ESPERAR-VOCÊ.",
+        "O Terminal Maranata fica em Aparecida de Goiânia. → TERMINAL-MARANATA APARECIDA-DE-GOIÂNIA."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -822,19 +982,23 @@
     {
       "id": "goiania-bairros-41",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Vila Brasília”?",
+      "situation": "Na rota metropolitana, você explica que o ônibus passa pelo Terminal Vila Brasília.",
       "translation": "Terminal Vila Brasília",
       "librasStructure": "TERMINAL-VILA-BRASÍLIA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ônibus passa pelo Terminal Vila Brasília. → ÔNIBUS PASSAR TERMINAL-VILA-BRASÍLIA.",
+        "Moro perto do Terminal Vila Brasília. → EU MORAR PERTO TERMINAL-VILA-BRASÍLIA."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -842,19 +1006,23 @@
     {
       "id": "goiania-bairros-42",
       "section": "Terminais de ônibus",
-      "situation": "Ao explicar onde fica um lugar em Goiânia, como você sinaliza “Terminal Cidade Viva”?",
+      "situation": "Ao encerrar o roteiro, você informa que a última parada será o Terminal Cidade Viva.",
       "translation": "Terminal Cidade Viva",
       "librasStructure": "TERMINAL-CIDADE-VIVA",
       "notes": "Nomes de lugares têm sinais próprios na comunidade surda local; se não souber o sinal, soletre o nome. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A última parada é o Terminal Cidade Viva. → PARADA ÚLTIMA TERMINAL-CIDADE-VIVA.",
+        "Do Terminal Cidade Viva eu vou a pé. → TERMINAL-CIDADE-VIVA, EU IR A-PÉ."
+      ],
       "video": "https://www.youtube.com/embed/-5Wl9IuW3MY?start=54&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-5Wl9IuW3MY",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:15:39.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

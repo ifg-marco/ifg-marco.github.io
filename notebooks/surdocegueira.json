@@ -28,19 +28,24 @@
     {
       "id": "surdocegueira-01",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda auditiva”?",
+      "situation": "Na avaliação, a fonoaudióloga explica o grau de perda auditiva de uma pessoa surdocega.",
       "translation": "Perda auditiva",
       "librasStructure": "PERDA-AUDITIVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela tem perda auditiva profunda. → ELA PERDA-AUDITIVA PROFUNDA.",
+        "A perda auditiva começou na infância. → PERDA-AUDITIVA COMEÇAR CRIANÇA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=5&end=9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -48,19 +53,24 @@
     {
       "id": "surdocegueira-02",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda visual”?",
+      "situation": "Ao combinar a forma de comunicação, você pergunta sobre a perda visual da pessoa surdocega.",
       "translation": "Perda visual",
       "librasStructure": "PERDA-VISUAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A perda visual dele é progressiva. → PERDA-VISUAL DELE AUMENTAR DEVAGAR.",
+        "Com perda visual, a Libras precisa ser tátil. → PERDA-VISUAL, LIBRAS TÁTIL PRECISAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=9&end=13&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -68,19 +78,24 @@
     {
       "id": "surdocegueira-03",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome de CHARGE”?",
+      "situation": "Na conversa com a equipe, vocês falam da síndrome de CHARGE, que pode causar surdocegueira.",
       "translation": "Síndrome de CHARGE",
       "librasStructure": "SÍNDROME-DE-CHARGE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A síndrome de CHARGE afeta visão e audição. → SÍNDROME-DE-CHARGE VISÃO AUDIÇÃO AFETAR.",
+        "Meu aluno tem síndrome de CHARGE. → ALUNO MEU SÍNDROME-DE-CHARGE."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=18&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +103,24 @@
     {
       "id": "surdocegueira-04",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome de Usher”?",
+      "situation": "Na orientação, você explica a síndrome de Usher: surdez com perda visual progressiva.",
       "translation": "Síndrome de Usher",
       "librasStructure": "SÍNDROME-DE-USHER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A síndrome de Usher é a principal causa de surdocegueira. → SÍNDROME-DE-USHER SURDOCEGUEIRA CAUSA PRINCIPAL.",
+        "Com síndrome de Usher, a visão diminui aos poucos. → SÍNDROME-DE-USHER, VISÃO DIMINUIR DEVAGAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=27&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -108,19 +128,24 @@
     {
       "id": "surdocegueira-05",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “síndrome”?",
+      "situation": "Numa atividade de acessibilidade, a turma pergunta o que é uma síndrome.",
       "translation": "Síndrome",
       "librasStructure": "SÍNDROME",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Síndrome é um conjunto de sintomas. → SÍNDROME SINTOMAS CONJUNTO.",
+        "A síndrome foi descoberta no exame. → SÍNDROME EXAME DESCOBRIR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -128,19 +153,24 @@
     {
       "id": "surdocegueira-06",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “libras tátil”?",
+      "situation": "Ao combinar a comunicação, a pessoa surdocega pede para usar Libras tátil, com as mãos sobre as suas.",
       "translation": "Libras tátil",
       "librasStructure": "LIBRAS-TÁTIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela conversa em Libras tátil. → ELA CONVERSAR LIBRAS-TÁTIL.",
+        "Na Libras tátil, a pessoa sente os sinais com as mãos. → LIBRAS-TÁTIL PESSOA SINAL SENTIR MÃO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -148,19 +178,24 @@
     {
       "id": "surdocegueira-07",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “pró-tátil”?",
+      "situation": "Na conversa com a equipe, vocês falam do Pró-tátil, movimento de comunicação e autonomia pelo toque.",
       "translation": "Pró-tátil",
       "librasStructure": "PRÓ-TÁTIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Pró-tátil valoriza o toque. → PRÓ-TÁTIL TOQUE VALORIZAR.",
+        "Fiz um curso sobre Pró-tátil. → EU CURSO PRÓ-TÁTIL FAZER."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=44&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -168,19 +203,24 @@
     {
       "id": "surdocegueira-08",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “braile”?",
+      "situation": "Na orientação, você mostra um livro em braile.",
       "translation": "Braile",
       "librasStructure": "BRAILE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela lê em braile. → ELA LER BRAILE.",
+        "O elevador tem números em braile. → ELEVADOR NÚMERO BRAILE TER."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -188,19 +228,24 @@
     {
       "id": "surdocegueira-09",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “tadoma”?",
+      "situation": "Numa atividade de acessibilidade, você explica o Tadoma: sentir a fala com a mão no rosto de quem fala.",
       "translation": "Tadoma",
       "librasStructure": "TADOMA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No Tadoma, a mão fica no rosto de quem fala. → TADOMA MÃO ROSTO PESSOA FALAR.",
+        "Helen Keller usava o Tadoma. → HELEN-KELLER TADOMA USAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -208,19 +253,24 @@
     {
       "id": "surdocegueira-10",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação háptica”?",
+      "situation": "Ao combinar a comunicação, você usa a comunicação háptica: sinais no corpo para descrever o ambiente.",
       "translation": "Comunicação háptica",
       "librasStructure": "COMUNICAÇÃO-HÁPTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A comunicação háptica usa toques nas costas. → COMUNICAÇÃO-HÁPTICA COSTAS TOCAR.",
+        "Com comunicação háptica, ela sabe que todos riram. → COMUNICAÇÃO-HÁPTICA, ELA SABER TODOS RIR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=62&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -228,19 +278,24 @@
     {
       "id": "surdocegueira-11",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cela braile”?",
+      "situation": "Na conversa com a equipe, você explica a cela braile, com seis pontos.",
       "translation": "Cela braile",
       "librasStructure": "CELA-BRAILE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A cela braile tem seis pontos. → CELA-BRAILE PONTO 6.",
+        "Cada letra é uma cela braile. → LETRA CADA CELA-BRAILE."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -248,19 +303,24 @@
     {
       "id": "surdocegueira-12",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “alfabeto tátil”?",
+      "situation": "Na orientação, você aprende o alfabeto tátil para soletrar na mão da pessoa surdocega.",
       "translation": "Alfabeto tátil",
       "librasStructure": "ALFABETO-TÁTIL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Soletro o nome com o alfabeto tátil. → NOME EU SOLETRAR ALFABETO-TÁTIL.",
+        "O alfabeto tátil é feito na palma da mão. → ALFABETO-TÁTIL PALMA MÃO FAZER."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -268,19 +328,24 @@
     {
       "id": "surdocegueira-13",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “orientação e mobilidade”?",
+      "situation": "Numa atividade de acessibilidade, a equipe ensina orientação e mobilidade para andar com segurança.",
       "translation": "Orientação e mobilidade",
       "librasStructure": "ORIENTAÇÃO-E-MOBILIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela faz aula de orientação e mobilidade. → ELA AULA ORIENTAÇÃO-E-MOBILIDADE.",
+        "Orientação e mobilidade dá autonomia. → ORIENTAÇÃO-E-MOBILIDADE AUTONOMIA DAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -288,19 +353,24 @@
     {
       "id": "surdocegueira-14",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “bengala”?",
+      "situation": "Ao combinar a comunicação, você vê que a pessoa usa bengala para andar.",
       "translation": "Bengala",
       "librasStructure": "BENGALA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele anda com a bengala. → ELE ANDAR BENGALA.",
+        "A bengala branca e vermelha indica surdocegueira. → BENGALA BRANCO VERMELHO SURDOCEGUEIRA INDICAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -308,19 +378,24 @@
     {
       "id": "surdocegueira-15",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “baixa visão”?",
+      "situation": "Na conversa com a equipe, você explica que a pessoa tem baixa visão e enxerga só de perto.",
       "translation": "Baixa visão",
       "librasStructure": "BAIXA-VISÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Com baixa visão, use letra grande. → BAIXA-VISÃO, LETRA GRANDE USAR.",
+        "Minha avó tem baixa visão. → AVÓ MINHA BAIXA-VISÃO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=97&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -328,19 +403,24 @@
     {
       "id": "surdocegueira-16",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “deficiência auditiva”?",
+      "situation": "Na orientação, vocês diferenciam deficiência auditiva de identidade surda.",
       "translation": "Deficiência auditiva",
       "librasStructure": "DEFICIÊNCIA-AUDITIVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O laudo diz deficiência auditiva. → LAUDO DEFICIÊNCIA-AUDITIVA.",
+        "Deficiência auditiva é termo médico. → DEFICIÊNCIA-AUDITIVA TERMO MÉDICO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=103&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -348,19 +428,24 @@
     {
       "id": "surdocegueira-17",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “CID”?",
+      "situation": "Numa atividade de acessibilidade, você explica que o CID é o código da doença no laudo.",
       "translation": "CID",
       "librasStructure": "CID",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual é o CID do laudo? → LAUDO CID QUAL?",
+        "O CID da surdez é H90. → SURDEZ CID H-90."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=107&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -368,19 +453,24 @@
     {
       "id": "surdocegueira-18",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “laudo”?",
+      "situation": "Ao combinar a comunicação, a família mostra o laudo médico da pessoa surdocega.",
       "translation": "Laudo",
       "librasStructure": "LAUDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso do laudo para o benefício. → BENEFÍCIO LAUDO EU PRECISAR.",
+        "O médico assinou o laudo. → MÉDICO LAUDO ASSINAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=112&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -388,19 +478,24 @@
     {
       "id": "surdocegueira-19",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “diagnóstico”?",
+      "situation": "Na conversa com a equipe, vocês falam do diagnóstico de surdocegueira.",
       "translation": "Diagnóstico",
       "librasStructure": "DIAGNÓSTICO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O diagnóstico saiu ontem. → ONTEM DIAGNÓSTICO SAIR.",
+        "O diagnóstico precoce ajuda muito. → DIAGNÓSTICO CEDO AJUDAR MUITO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -408,19 +503,24 @@
     {
       "id": "surdocegueira-20",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “congênita”?",
+      "situation": "Na orientação, você explica que a surdocegueira pode ser congênita, desde o nascimento.",
       "translation": "Congênita",
       "librasStructure": "CONGÊNITA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A surdocegueira dele é congênita. → SURDOCEGUEIRA DELE CONGÊNITA.",
+        "A rubéola na gravidez causa surdez congênita. → GRAVIDEZ RUBÉOLA SURDEZ CONGÊNITA CAUSAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=132&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -428,19 +528,24 @@
     {
       "id": "surdocegueira-21",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “adquirida”?",
+      "situation": "Numa atividade de acessibilidade, você explica que a surdocegueira também pode ser adquirida ao longo da vida.",
       "translation": "Adquirida",
       "librasStructure": "ADQUIRIDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela tem surdocegueira adquirida. → ELA SURDOCEGUEIRA ADQUIRIDA.",
+        "A perda adquirida veio depois de uma doença. → PERDA ADQUIRIDA DOENÇA DEPOIS."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=136&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -448,19 +553,24 @@
     {
       "id": "surdocegueira-22",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “acessibilidade”?",
+      "situation": "Ao combinar a comunicação, vocês discutem acessibilidade para a pessoa surdocega no evento.",
       "translation": "Acessibilidade",
       "librasStructure": "ACESSIBILIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Acessibilidade é direito. → ACESSIBILIDADE DIREITO.",
+        "O evento tem acessibilidade para surdocegos? → EVENTO ACESSIBILIDADE SURDOCEGO TER?"
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=144&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -468,19 +578,24 @@
     {
       "id": "surdocegueira-23",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “choques anafiláticos”?",
+      "situation": "Na conversa com a equipe, vocês aprendem a reconhecer choques anafiláticos, reações alérgicas graves.",
       "translation": "Choques anafiláticos",
       "librasStructure": "CHOQUES-ANAFILÁTICOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Choques anafiláticos são emergência. → CHOQUES-ANAFILÁTICOS EMERGÊNCIA.",
+        "Ele já teve choques anafiláticos com camarão. → ELE CHOQUES-ANAFILÁTICOS CAMARÃO TER JÁ."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=151&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -488,19 +603,24 @@
     {
       "id": "surdocegueira-24",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “instrutor mediador”?",
+      "situation": "Na orientação, você conhece o instrutor mediador, que acompanha a criança surdocega na escola.",
       "translation": "Instrutor mediador",
       "librasStructure": "INSTRUTOR-MEDIADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O instrutor mediador acompanha o aluno. → INSTRUTOR-MEDIADOR ALUNO ACOMPANHAR.",
+        "A escola contratou um instrutor mediador. → ESCOLA CONTRATAR INSTRUTOR-MEDIADOR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=158&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -508,19 +628,24 @@
     {
       "id": "surdocegueira-25",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “audiodescrição”?",
+      "situation": "Numa atividade de acessibilidade, o filme tem audiodescrição para pessoas cegas.",
       "translation": "Audiodescrição",
       "librasStructure": "AUDIODESCRIÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O filme tem audiodescrição. → FILME AUDIODESCRIÇÃO TER.",
+        "A audiodescrição descreve as imagens. → AUDIODESCRIÇÃO IMAGEM DESCREVER."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=178&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -528,19 +653,24 @@
     {
       "id": "surdocegueira-26",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “retinose pigmentar”?",
+      "situation": "Ao combinar a comunicação, você descobre que a pessoa tem retinose pigmentar.",
       "translation": "Retinose pigmentar",
       "librasStructure": "RETINOSE-PIGMENTAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A retinose pigmentar reduz a visão aos poucos. → RETINOSE-PIGMENTAR VISÃO DIMINUIR DEVAGAR.",
+        "A retinose pigmentar aparece na síndrome de Usher. → SÍNDROME-DE-USHER RETINOSE-PIGMENTAR TER."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=185&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -548,19 +678,24 @@
     {
       "id": "surdocegueira-27",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cegueira noturna”?",
+      "situation": "Na conversa com a equipe, você explica a cegueira noturna: dificuldade de enxergar no escuro.",
       "translation": "Cegueira noturna",
       "librasStructure": "CEGUEIRA-NOTURNA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Com cegueira noturna, ela não sai à noite. → CEGUEIRA-NOTURNA, ELA NOITE SAIR NÃO.",
+        "A cegueira noturna é um dos primeiros sinais. → CEGUEIRA-NOTURNA SINAL PRIMEIRO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=189&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -568,19 +703,24 @@
     {
       "id": "surdocegueira-28",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda da visão periférica”?",
+      "situation": "Na orientação, você explica a perda da visão periférica: a pessoa só vê o centro.",
       "translation": "Perda da visão periférica",
       "librasStructure": "PERDA-DA-VISÃO-PERIFÉRICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Com perda da visão periférica, sinalize perto do rosto. → PERDA-DA-VISÃO-PERIFÉRICA, SINALIZAR PERTO ROSTO.",
+        "Ele tem perda da visão periférica, cuidado com os lados. → ELE PERDA-DA-VISÃO-PERIFÉRICA, LADO CUIDADO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=196&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -588,19 +728,24 @@
     {
       "id": "surdocegueira-29",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “perda da visão central”?",
+      "situation": "Numa atividade de acessibilidade, você explica a perda da visão central: a pessoa vê só pelos lados.",
       "translation": "Perda da visão central",
       "librasStructure": "PERDA-DA-VISÃO-CENTRAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Com perda da visão central, é difícil ler. → PERDA-DA-VISÃO-CENTRAL, LER DIFÍCIL.",
+        "Minha avó tem perda da visão central. → AVÓ MINHA PERDA-DA-VISÃO-CENTRAL."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=203&end=207&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -608,19 +753,24 @@
     {
       "id": "surdocegueira-30",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “helen Keller”?",
+      "situation": "Ao combinar a comunicação, você conta a história de Helen Keller, escritora surdocega.",
       "translation": "Helen Keller",
       "librasStructure": "HELEN-KELLER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Helen Keller era surdocega. → HELEN-KELLER SURDOCEGA.",
+        "Helen Keller aprendeu com a professora Anne Sullivan. → HELEN-KELLER APRENDER PROFESSORA A-N-N-E."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=209&end=213&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -628,19 +778,24 @@
     {
       "id": "surdocegueira-31",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “guia-vidente”?",
+      "situation": "Na conversa com a equipe, você atua como guia-vidente, conduzindo a pessoa com segurança.",
       "translation": "Guia-vidente",
       "librasStructure": "GUIA-VIDENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O guia-vidente conduz a pessoa cega. → GUIA-VIDENTE PESSOA CEGA CONDUZIR.",
+        "Segure no meu braço, sou seu guia-vidente. → BRAÇO MEU SEGURAR, EU GUIA-VIDENTE."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=218&end=222&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -648,19 +803,24 @@
     {
       "id": "surdocegueira-32",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação receptiva”?",
+      "situation": "Na orientação, você explica a comunicação receptiva: como a pessoa recebe a mensagem.",
       "translation": "Comunicação receptiva",
       "librasStructure": "COMUNICAÇÃO-RECEPTIVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A comunicação receptiva dele é pelo tato. → COMUNICAÇÃO-RECEPTIVA DELE TATO.",
+        "Vamos avaliar a comunicação receptiva. → COMUNICAÇÃO-RECEPTIVA NÓS AVALIAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=226&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -668,19 +828,24 @@
     {
       "id": "surdocegueira-33",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação expressiva”?",
+      "situation": "Numa atividade de acessibilidade, você explica a comunicação expressiva: como a pessoa se expressa.",
       "translation": "Comunicação expressiva",
       "librasStructure": "COMUNICAÇÃO-EXPRESSIVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A comunicação expressiva dela é em Libras. → COMUNICAÇÃO-EXPRESSIVA DELA LIBRAS.",
+        "Ele tem boa comunicação expressiva. → ELE COMUNICAÇÃO-EXPRESSIVA BOA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=233&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -688,19 +853,24 @@
     {
       "id": "surdocegueira-34",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação simbólica”?",
+      "situation": "Ao combinar a comunicação, você usa comunicação simbólica: sinais, palavras e símbolos.",
       "translation": "Comunicação simbólica",
       "librasStructure": "COMUNICAÇÃO-SIMBÓLICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Libras é comunicação simbólica. → LIBRAS COMUNICAÇÃO-SIMBÓLICA.",
+        "A criança começou a usar comunicação simbólica. → CRIANÇA COMEÇAR COMUNICAÇÃO-SIMBÓLICA USAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=241&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -708,19 +878,24 @@
     {
       "id": "surdocegueira-35",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “fala ampliada”?",
+      "situation": "Na conversa com a equipe, você usa a fala ampliada, falando perto do ouvido da pessoa.",
       "translation": "Fala ampliada",
       "librasStructure": "FALA-AMPLIADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela entende pela fala ampliada. → ELA ENTENDER FALA-AMPLIADA.",
+        "Na fala ampliada, fale perto do ouvido. → FALA-AMPLIADA, PERTO OUVIDO FALAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=251&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -728,19 +903,24 @@
     {
       "id": "surdocegueira-36",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “libras em campo reduzido”?",
+      "situation": "Na orientação, você aprende a sinalizar Libras em campo reduzido, perto do rosto da pessoa.",
       "translation": "Libras em campo reduzido",
       "librasStructure": "LIBRAS-EM-CAMPO-REDUZIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele precisa de Libras em campo reduzido. → ELE LIBRAS-EM-CAMPO-REDUZIDO PRECISAR.",
+        "Em campo reduzido, os sinais ficam pequenos. → LIBRAS-EM-CAMPO-REDUZIDO SINAL PEQUENO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=260&end=263&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -748,19 +928,24 @@
     {
       "id": "surdocegueira-37",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “braile nos dedos”?",
+      "situation": "Numa atividade de acessibilidade, você usa o braile nos dedos para transmitir letras.",
       "translation": "Braile nos dedos",
       "librasStructure": "BRAILE-NOS-DEDOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No braile nos dedos, toco os dedos da pessoa. → BRAILE-NOS-DEDOS EU TOCAR DEDO PESSOA.",
+        "Ela prefere braile nos dedos. → ELA PREFERIR BRAILE-NOS-DEDOS."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=267&end=271&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -768,19 +953,24 @@
     {
       "id": "surdocegueira-38",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “fala”?",
+      "situation": "Ao combinar a comunicação, você descobre que a pessoa usa a fala para se expressar.",
       "translation": "Fala",
       "librasStructure": "FALA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela se comunica pela fala. → ELA COMUNICAR FALA.",
+        "A fala dele é clara. → FALA DELE CLARA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=277&end=281&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -788,19 +978,24 @@
     {
       "id": "surdocegueira-39",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “alfabeto manual com duas mãos”?",
+      "situation": "Na conversa com a equipe, você aprende o alfabeto manual com duas mãos.",
       "translation": "Alfabeto manual com duas mãos",
       "librasStructure": "ALFABETO-MANUAL-COM-DUAS-MÃOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O alfabeto manual com duas mãos é usado na Inglaterra. → INGLATERRA ALFABETO-MANUAL-COM-DUAS-MÃOS USAR.",
+        "Vamos treinar o alfabeto manual com duas mãos. → ALFABETO-MANUAL-COM-DUAS-MÃOS NÓS TREINAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=282&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -808,19 +1003,24 @@
     {
       "id": "surdocegueira-40",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “pranchas alfabéticas”?",
+      "situation": "Na orientação, você usa pranchas alfabéticas para a pessoa apontar as letras.",
       "translation": "Pranchas alfabéticas",
       "librasStructure": "PRANCHAS-ALFABÉTICAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela aponta as letras nas pranchas alfabéticas. → ELA LETRA APONTAR PRANCHAS-ALFABÉTICAS.",
+        "Trouxe as pranchas alfabéticas? → PRANCHAS-ALFABÉTICAS VOCÊ TRAZER?"
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=291&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -828,19 +1028,24 @@
     {
       "id": "surdocegueira-41",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “sistema Malossi”?",
+      "situation": "Numa atividade de acessibilidade, você aprende o sistema Malossi, que marca letras em pontos da mão.",
       "translation": "Sistema Malossi",
       "librasStructure": "SISTEMA-MALOSSI",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No sistema Malossi, cada parte da mão é uma letra. → SISTEMA-MALOSSI MÃO PARTE CADA LETRA.",
+        "O sistema Malossi veio da Itália. → SISTEMA-MALOSSI VIR ITÁLIA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=300&end=304&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -848,19 +1053,24 @@
     {
       "id": "surdocegueira-42",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “sistema Lorm”?",
+      "situation": "Ao combinar a comunicação, você aprende o sistema Lorm, de toques na palma.",
       "translation": "Sistema Lorm",
       "librasStructure": "SISTEMA-LORM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sistema Lorm é usado na Alemanha. → ALEMANHA SISTEMA-LORM USAR.",
+        "No sistema Lorm, toco a palma da mão. → SISTEMA-LORM PALMA MÃO TOCAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=309&end=313&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -868,19 +1078,24 @@
     {
       "id": "surdocegueira-43",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “máquina Perkins”?",
+      "situation": "Na conversa com a equipe, você mostra a máquina Perkins, que escreve em braile.",
       "translation": "Máquina Perkins",
       "librasStructure": "MÁQUINA-PERKINS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A máquina Perkins escreve em braile. → MÁQUINA-PERKINS BRAILE ESCREVER.",
+        "A máquina Perkins é pesada. → MÁQUINA-PERKINS PESADA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=318&end=322&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -888,19 +1103,24 @@
     {
       "id": "surdocegueira-44",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “uso do dedo como lápis”?",
+      "situation": "Na orientação, você usa o dedo como lápis para escrever letras na mão da pessoa.",
       "translation": "Uso do dedo como lápis",
       "librasStructure": "USO-DO-DEDO-COMO-LÁPIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Usei o dedo como lápis na palma dela. → EU USO-DO-DEDO-COMO-LÁPIS PALMA DELA.",
+        "O uso do dedo como lápis é simples. → USO-DO-DEDO-COMO-LÁPIS SIMPLES."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=326&end=330&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -908,19 +1128,24 @@
     {
       "id": "surdocegueira-45",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “escrita na palma da mão”?",
+      "situation": "Numa atividade de acessibilidade, você faz escrita na palma da mão com letras maiúsculas.",
       "translation": "Escrita na palma da mão",
       "librasStructure": "ESCRITA-NA-PALMA-DA-MÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Faça a escrita na palma da mão devagar. → ESCRITA-NA-PALMA-DA-MÃO DEVAGAR FAZER.",
+        "Ela entende a escrita na palma da mão. → ELA ENTENDER ESCRITA-NA-PALMA-DA-MÃO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=335&end=338&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -928,19 +1153,24 @@
     {
       "id": "surdocegueira-46",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “placas alfabéticas com letras”?",
+      "situation": "Ao combinar a comunicação, você usa placas alfabéticas com letras em relevo.",
       "translation": "Placas alfabéticas com letras",
       "librasStructure": "PLACAS-ALFABÉTICAS-COM-LETRAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "As placas alfabéticas com letras ajudam na conversa. → PLACAS-ALFABÉTICAS-COM-LETRAS CONVERSAR AJUDAR.",
+        "Ele toca as placas alfabéticas com letras. → ELE TOCAR PLACAS-ALFABÉTICAS-COM-LETRAS."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=343&end=347&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -948,19 +1178,24 @@
     {
       "id": "surdocegueira-47",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “código Morse”?",
+      "situation": "Na conversa com a equipe, você explica o código Morse, com toques curtos e longos.",
       "translation": "Código Morse",
       "librasStructure": "CÓDIGO-MORSE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O código Morse usa toques curtos e longos. → CÓDIGO-MORSE TOQUE CURTO LONGO.",
+        "Você sabe código Morse? → VOCÊ SABER CÓDIGO-MORSE?"
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=354&end=357&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -968,19 +1203,24 @@
     {
       "id": "surdocegueira-48",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “escrita ampliada”?",
+      "situation": "Na orientação, você prepara material com escrita ampliada para quem tem baixa visão.",
       "translation": "Escrita ampliada",
       "librasStructure": "ESCRITA-AMPLIADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Prepare a prova com escrita ampliada. → PROVA ESCRITA-AMPLIADA PREPARAR.",
+        "Com escrita ampliada, ela consegue ler. → ESCRITA-AMPLIADA, ELA LER CONSEGUIR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=362&end=366&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -988,19 +1228,24 @@
     {
       "id": "surdocegueira-49",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “cartões de comunicação”?",
+      "situation": "Numa atividade de acessibilidade, você usa cartões de comunicação com figuras.",
       "translation": "Cartões de comunicação",
       "librasStructure": "CARTÕES-DE-COMUNICAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Os cartões de comunicação mostram água e banheiro. → CARTÕES-DE-COMUNICAÇÃO ÁGUA BANHEIRO MOSTRAR.",
+        "A criança escolhe nos cartões de comunicação. → CRIANÇA ESCOLHER CARTÕES-DE-COMUNICAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=370&end=374&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1008,19 +1253,24 @@
     {
       "id": "surdocegueira-50",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “comunicação não simbólica”?",
+      "situation": "Ao combinar a comunicação, você observa a comunicação não simbólica: choro, sorriso, gestos.",
       "translation": "Comunicação não simbólica",
       "librasStructure": "COMUNICAÇÃO-NÃO-SIMBÓLICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O bebê usa comunicação não simbólica. → BEBÊ COMUNICAÇÃO-NÃO-SIMBÓLICA USAR.",
+        "O sorriso é comunicação não simbólica. → SORRISO COMUNICAÇÃO-NÃO-SIMBÓLICA."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=382&end=386&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1028,19 +1278,24 @@
     {
       "id": "surdocegueira-51",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “expressões faciais”?",
+      "situation": "Na conversa com a equipe, você lembra que as expressões faciais fazem parte da Libras.",
       "translation": "Expressões faciais",
       "librasStructure": "EXPRESSÕES-FACIAIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Expressões faciais mudam o sentido do sinal. → EXPRESSÕES-FACIAIS SINAL SENTIDO MUDAR.",
+        "Use expressões faciais na pergunta. → PERGUNTA EXPRESSÕES-FACIAIS USAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=394&end=397&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1048,19 +1303,24 @@
     {
       "id": "surdocegueira-52",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “movimentos dos olhos”?",
+      "situation": "Na orientação, você observa os movimentos dos olhos da criança para entender o que ela quer.",
       "translation": "Movimentos dos olhos",
       "librasStructure": "MOVIMENTOS-DOS-OLHOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Os movimentos dos olhos mostram o que ela quer. → MOVIMENTOS-DOS-OLHOS ELA QUERER MOSTRAR.",
+        "Observe os movimentos dos olhos. → MOVIMENTOS-DOS-OLHOS OBSERVAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=400&end=404&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1068,19 +1328,24 @@
     {
       "id": "surdocegueira-53",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “toque”?",
+      "situation": "Numa atividade de acessibilidade, você usa o toque no ombro para chamar a pessoa surdocega.",
       "translation": "Toque",
       "librasStructure": "TOQUE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Avise com um toque antes de falar. → FALAR ANTES, TOQUE AVISAR.",
+        "O toque no ombro significa “estou aqui”. → OMBRO TOQUE SIGNIFICAR EU AQUI."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=407&end=411&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1088,19 +1353,24 @@
     {
       "id": "surdocegueira-54",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “movimentos com objeto”?",
+      "situation": "Ao combinar a comunicação, você usa movimentos com objeto: entrega a colher para dizer que é hora de comer.",
       "translation": "Movimentos com objeto",
       "librasStructure": "MOVIMENTOS-COM-OBJETO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Entrego a colher: é hora de comer. → COLHER ENTREGAR: COMER HORA. (MOVIMENTOS-COM-OBJETO)",
+        "Os movimentos com objeto ajudam a criança a entender a rotina. → MOVIMENTOS-COM-OBJETO CRIANÇA ROTINA ENTENDER AJUDAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=416&end=420&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1108,19 +1378,24 @@
     {
       "id": "surdocegueira-55",
       "section": "Surdocegueira",
-      "situation": "No atendimento a uma pessoa surdocega, como você sinaliza “ações descritivas”?",
+      "situation": "Na conversa com a equipe, você usa ações descritivas para mostrar o que está acontecendo ao redor.",
       "translation": "Ações descritivas",
       "librasStructure": "AÇÕES-DESCRITIVAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Com ações descritivas, ela entende o ambiente. → AÇÕES-DESCRITIVAS, ELA AMBIENTE ENTENDER.",
+        "O guia-intérprete usa ações descritivas. → GUIA-INTÉRPRETE AÇÕES-DESCRITIVAS USAR."
+      ],
       "video": "https://www.youtube.com/embed/NALY0ydCsLs?start=424&end=428&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=NALY0ydCsLs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:21:28.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

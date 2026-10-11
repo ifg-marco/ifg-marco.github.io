@@ -28,19 +28,24 @@
     {
       "id": "soletracao-ritmica-01",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “N-U-N-C-A”?",
+      "situation": "Um amigo pergunta se você já faltou à aula de Libras. Responda “nunca”, soletrando N-U-N-C-A com ritmo.",
       "translation": "N-U-N-C-A",
       "librasStructure": "N-U-N-C-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Eu nunca faltei. → EU FALTAR N-U-N-C-A.",
+        "Você nunca comeu pequi? → VOCÊ COMER PEQUI N-U-N-C-A?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=22&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -48,19 +53,24 @@
     {
       "id": "soletracao-ritmica-02",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-A-L”?",
+      "situation": "No almoço, a comida está sem gosto e você pede o sal, soletrando S-A-L.",
       "translation": "S-A-L",
       "librasStructure": "S-A-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Me passa o sal? → S-A-L PASSAR-ME?",
+        "Falta sal no feijão. → FEIJÃO S-A-L FALTAR."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=25&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -68,19 +78,24 @@
     {
       "id": "soletracao-ritmica-03",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-O-U”?",
+      "situation": "Seu amigo pergunta se você vai à festa. Responda “vou”, soletrando V-O-U com ritmo.",
       "translation": "V-O-U",
       "librasStructure": "V-O-U",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Você vai à festa? — Vou! → VOCÊ IR FESTA? — V-O-U!",
+        "Amanhã eu vou cedo. → AMANHÃ EU V-O-U CEDO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +103,24 @@
     {
       "id": "soletracao-ritmica-04",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-I”?",
+      "situation": "Você encontra um colega na rua e cumprimenta com “oi”, soletrado O-I.",
       "translation": "O-I",
       "librasStructure": "O-I",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Oi! Tudo bem? → O-I! TUDO-BEM?",
+        "Oi, professora! → O-I PROFESSORA!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=32&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -108,19 +128,24 @@
     {
       "id": "soletracao-ritmica-05",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “D-O-U-T-O-R”?",
+      "situation": "Seu filho está doente e você diz que vai levá-lo ao doutor, soletrando D-O-U-T-O-R.",
       "translation": "D-O-U-T-O-R",
       "librasStructure": "D-O-U-T-O-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos ao doutor amanhã. → AMANHÃ NÓS IR D-O-U-T-O-R.",
+        "O doutor é surdo? → D-O-U-T-O-R SURDO?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=35&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -128,19 +153,24 @@
     {
       "id": "soletracao-ritmica-06",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “P-A-Z”?",
+      "situation": "No fim de uma discussão entre amigos, você pede paz, soletrando P-A-Z.",
       "translation": "P-A-Z",
       "librasStructure": "P-A-Z",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos fazer as pazes? → NÓS P-A-Z?",
+        "Eu quero paz. → EU QUERER P-A-Z."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -148,19 +178,24 @@
     {
       "id": "soletracao-ritmica-07",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “F-É”?",
+      "situation": "Na conversa sobre religião, sua avó fala da fé dela, e você soletra F-É.",
       "translation": "F-É",
       "librasStructure": "F-É",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Minha avó tem muita fé. → AVÓ MINHA F-É MUITO.",
+        "Tenha fé, vai dar certo. → F-É TER, CERTO VAI."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=43&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -168,19 +203,24 @@
     {
       "id": "soletracao-ritmica-08",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “M-A-R”?",
+      "situation": "Nas férias, você conta que vai ver o mar pela primeira vez, soletrando M-A-R.",
       "translation": "M-A-R",
       "librasStructure": "M-A-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Eu nunca vi o mar. → EU VER M-A-R N-U-N-C-A.",
+        "O mar está calmo hoje. → HOJE M-A-R CALMO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -188,19 +228,24 @@
     {
       "id": "soletracao-ritmica-09",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-K”?",
+      "situation": "Seu colega pergunta se pode mudar o horário do estudo. Responda “ok”, soletrando O-K.",
       "translation": "O-K",
       "librasStructure": "O-K",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Às três horas, ok? — Ok! → TRÊS HORAS, O-K? — O-K!",
+        "Está tudo ok com você? → VOCÊ TUDO O-K?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=51&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -208,19 +253,24 @@
     {
       "id": "soletracao-ritmica-10",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-A-L-O-R”?",
+      "situation": "Na loja, você pergunta o valor de uma blusa, soletrando V-A-L-O-R.",
       "translation": "V-A-L-O-R",
       "librasStructure": "V-A-L-O-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Qual é o valor? → V-A-L-O-R QUAL?",
+        "O valor da conta é alto. → CONTA V-A-L-O-R ALTO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -228,19 +278,24 @@
     {
       "id": "soletracao-ritmica-11",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “M-A-U”?",
+      "situation": "Seu sobrinho assiste a um desenho e pergunta quem é o personagem mau, e você soletra M-A-U.",
       "translation": "M-A-U",
       "librasStructure": "M-A-U",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Ele é o lobo mau. → ELE LOBO M-A-U.",
+        "Esse cachorro não é mau. → CACHORRO ESSE M-A-U NÃO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=62&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -248,19 +303,24 @@
     {
       "id": "soletracao-ritmica-12",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “R-U-A”?",
+      "situation": "Um visitante pergunta o nome da rua da sua casa. Você soletra R-U-A antes do nome.",
       "translation": "R-U-A",
       "librasStructure": "R-U-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Moro na Rua 10. → EU MORAR R-U-A 10.",
+        "Qual é o nome da rua? → R-U-A NOME QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=69&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -268,19 +328,24 @@
     {
       "id": "soletracao-ritmica-13",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “B-O-M”?",
+      "situation": "Uma colega pergunta se o filme foi bom. Responda soletrando B-O-M com ritmo.",
       "translation": "B-O-M",
       "librasStructure": "B-O-M",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "O filme foi bom! → FILME B-O-M!",
+        "Bom dia! → B-O-M DIA!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -288,19 +353,24 @@
     {
       "id": "soletracao-ritmica-14",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-O-M-O”?",
+      "situation": "Você quer saber como se faz um bolo e pergunta “como”, soletrando C-O-M-O.",
       "translation": "C-O-M-O",
       "librasStructure": "C-O-M-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Como se faz? → FAZER C-O-M-O?",
+        "Como você chegou aqui? → VOCÊ CHEGAR AQUI C-O-M-O?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -308,19 +378,24 @@
     {
       "id": "soletracao-ritmica-15",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-B-A”?",
+      "situation": "Seu amigo conta que vocês ganharam o jogo, e você comemora com “oba”, soletrando O-B-A.",
       "translation": "O-B-A",
       "librasStructure": "O-B-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Oba! Hoje tem pizza! → O-B-A! HOJE PIZZA!",
+        "Oba, férias! → O-B-A, FÉRIAS!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -328,19 +403,24 @@
     {
       "id": "soletracao-ritmica-16",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-U-R-O”?",
+      "situation": "Na loja de joias, você pergunta se o colar é de ouro, soletrando O-U-R-O.",
       "translation": "O-U-R-O",
       "librasStructure": "O-U-R-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Esse colar é de ouro? → COLAR ESSE O-U-R-O?",
+        "Minha avó tem um anel de ouro. → AVÓ MINHA TER ANEL O-U-R-O."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=87&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -348,19 +428,24 @@
     {
       "id": "soletracao-ritmica-17",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “B-A-R”?",
+      "situation": "Na sexta-feira à noite, os amigos convidam você para ir ao bar, e você soletra B-A-R.",
       "translation": "B-A-R",
       "librasStructure": "B-A-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos ao bar? → NÓS IR B-A-R?",
+        "O bar está cheio. → B-A-R CHEIO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=90&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -368,19 +453,24 @@
     {
       "id": "soletracao-ritmica-18",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-O-L”?",
+      "situation": "No passeio, o sol está forte e você soletra S-O-L para avisar a turma.",
       "translation": "S-O-L",
       "librasStructure": "S-O-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "O sol está muito forte. → S-O-L FORTE MUITO.",
+        "Use chapéu no sol. → S-O-L CHAPÉU USAR."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=93&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -388,19 +478,24 @@
     {
       "id": "soletracao-ritmica-19",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-I-U”?",
+      "situation": "Você perdeu a chave e pergunta ao colega se ele viu, soletrando V-I-U.",
       "translation": "V-I-U",
       "librasStructure": "V-I-U",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Você viu minha chave? → VOCÊ V-I-U CHAVE MINHA?",
+        "Ninguém viu. → NINGUÉM V-I-U."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=96&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -408,19 +503,24 @@
     {
       "id": "soletracao-ritmica-20",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “L-U-Z”?",
+      "situation": "Na sala escura, você pede para acender a luz, soletrando L-U-Z.",
       "translation": "L-U-Z",
       "librasStructure": "L-U-Z",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Acende a luz, por favor. → L-U-Z ACENDER, POR-FAVOR.",
+        "Acabou a luz! → L-U-Z ACABAR!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=99&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -428,19 +528,24 @@
     {
       "id": "soletracao-ritmica-21",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “D-I-A”?",
+      "situation": "Uma colega pergunta que dia é a prova, e você soletra D-I-A.",
       "translation": "D-I-A",
       "librasStructure": "D-I-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Que dia é hoje? → HOJE D-I-A QUAL?",
+        "Tenha um bom dia! → B-O-M D-I-A!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -448,19 +553,24 @@
     {
       "id": "soletracao-ritmica-22",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-O-M-A-R”?",
+      "situation": "Na aula de matemática, a professora pede para somar os números, e você soletra S-O-M-A-R.",
       "translation": "S-O-M-A-R",
       "librasStructure": "S-O-M-A-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos somar dois mais três. → NÓS S-O-M-A-R 2 MAIS 3.",
+        "Soma o total da compra? → COMPRA TOTAL S-O-M-A-R?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=113&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -468,19 +578,24 @@
     {
       "id": "soletracao-ritmica-23",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “N-Ã-O”?",
+      "situation": "Seu amigo oferece cerveja e você responde “não”, soletrando N-Ã-O.",
       "translation": "N-Ã-O",
       "librasStructure": "N-Ã-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Não, obrigado. → N-Ã-O, OBRIGADO.",
+        "Eu não sei. → EU SABER N-Ã-O."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=118&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -488,19 +603,24 @@
     {
       "id": "soletracao-ritmica-24",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-L-A-R-O”?",
+      "situation": "Seu colega pergunta se pode emprestar o caderno. Responda “claro”, soletrando C-L-A-R-O.",
       "translation": "C-L-A-R-O",
       "librasStructure": "C-L-A-R-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Claro, pode pegar! → C-L-A-R-O, PEGAR PODER!",
+        "Ficou claro? → C-L-A-R-O?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -508,19 +628,24 @@
     {
       "id": "soletracao-ritmica-25",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-E”?",
+      "situation": "Você combina um passeio e diz: “se chover, não vamos”, soletrando S-E.",
       "translation": "S-E",
       "librasStructure": "S-E",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Se chover, eu fico em casa. → S-E CHUVA, EU FICAR CASA.",
+        "Se você quiser, eu ajudo. → S-E VOCÊ QUERER, EU AJUDAR."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -528,19 +653,24 @@
     {
       "id": "soletracao-ritmica-26",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “A-R”?",
+      "situation": "No calor, você pede para ligar o ar-condicionado, soletrando A-R.",
       "translation": "A-R",
       "librasStructure": "A-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Liga o ar, por favor. → A-R LIGAR, POR-FAVOR.",
+        "O ar está frio demais. → A-R FRIO DEMAIS."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=133&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -548,19 +678,24 @@
     {
       "id": "soletracao-ritmica-27",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “L-I-X-O”?",
+      "situation": "Depois do lanche, você pergunta onde jogar o lixo, soletrando L-I-X-O.",
       "translation": "L-I-X-O",
       "librasStructure": "L-I-X-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Onde fica o lixo? → L-I-X-O ONDE?",
+        "Joga o papel no lixo. → PAPEL JOGAR L-I-X-O."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -568,19 +703,24 @@
     {
       "id": "soletracao-ritmica-28",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “G-Á-S”?",
+      "situation": "Na cozinha, o fogão não acende. Você avisa que acabou o gás, soletrando G-Á-S.",
       "translation": "G-Á-S",
       "librasStructure": "G-Á-S",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Acabou o gás! → G-Á-S ACABAR!",
+        "Sente cheiro de gás? → CHEIRO G-Á-S VOCÊ SENTIR?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=140&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -588,19 +728,24 @@
     {
       "id": "soletracao-ritmica-29",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “B-E-B-Ê”?",
+      "situation": "Na visita à família, você soletra B-E-B-Ê para perguntar a idade do recém-nascido.",
       "translation": "B-E-B-Ê",
       "librasStructure": "B-E-B-Ê",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "O bebê está dormindo. → B-E-B-Ê DORMIR.",
+        "Que bebê lindo! → B-E-B-Ê LINDO!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=143&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -608,19 +753,24 @@
     {
       "id": "soletracao-ritmica-30",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “A-Z-A-R”?",
+      "situation": "Você perdeu o ônibus de novo e reclama do azar, soletrando A-Z-A-R.",
       "translation": "A-Z-A-R",
       "librasStructure": "A-Z-A-R",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Que azar! → A-Z-A-R!",
+        "Hoje é meu dia de azar. → HOJE D-I-A A-Z-A-R MEU."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=145&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -628,19 +778,24 @@
     {
       "id": "soletracao-ritmica-31",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “Q-U-E-M”?",
+      "situation": "Alguém bate à porta e você pergunta “quem é?”, soletrando Q-U-E-M.",
       "translation": "Q-U-E-M",
       "librasStructure": "Q-U-E-M",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Quem é? → Q-U-E-M?",
+        "Quem é seu professor? → PROFESSOR SEU Q-U-E-M?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=149&end=155&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -648,19 +803,24 @@
     {
       "id": "soletracao-ritmica-32",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “P-A-I”?",
+      "situation": "Na apresentação da família, você soletra P-A-I para falar do seu pai.",
       "translation": "P-A-I",
       "librasStructure": "P-A-I",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Meu pai é surdo. → P-A-I MEU SURDO.",
+        "Seu pai trabalha onde? → P-A-I SEU TRABALHAR ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=153&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -668,19 +828,24 @@
     {
       "id": "soletracao-ritmica-33",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-O-V-Ó”?",
+      "situation": "No domingo, você conta que vai visitar a vovó, soletrando V-O-V-Ó.",
       "translation": "V-O-V-Ó",
       "librasStructure": "V-O-V-Ó",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vou almoçar na casa da vovó. → EU ALMOÇAR CASA V-O-V-Ó.",
+        "A vovó fez bolo! → V-O-V-Ó FAZER BOLO!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=156&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -688,19 +853,24 @@
     {
       "id": "soletracao-ritmica-34",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-U-C-O”?",
+      "situation": "Na lanchonete, você pede um suco de laranja, soletrando S-U-C-O.",
       "translation": "S-U-C-O",
       "librasStructure": "S-U-C-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Um suco de laranja, por favor. → S-U-C-O LARANJA, POR-FAVOR.",
+        "O suco está sem açúcar. → S-U-C-O AÇÚCAR NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=160&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -708,19 +878,24 @@
     {
       "id": "soletracao-ritmica-35",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “A-V-E-N-I-D-A”?",
+      "situation": "Você explica o endereço e soletra A-V-E-N-I-D-A antes do nome da rua principal.",
       "translation": "A-V-E-N-I-D-A",
       "librasStructure": "A-V-E-N-I-D-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "A loja fica na avenida principal. → LOJA A-V-E-N-I-D-A PRINCIPAL.",
+        "Atravesse a avenida com cuidado. → A-V-E-N-I-D-A ATRAVESSAR CUIDADO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=162&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -728,19 +903,24 @@
     {
       "id": "soletracao-ritmica-36",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “F-I-M”?",
+      "situation": "O filme acabou e você avisa que chegou ao fim, soletrando F-I-M.",
       "translation": "F-I-M",
       "librasStructure": "F-I-M",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Fim do filme! → FILME F-I-M!",
+        "No fim do mês, recebo o salário. → MÊS F-I-M, EU RECEBER SALÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=172&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -748,19 +928,24 @@
     {
       "id": "soletracao-ritmica-37",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “G-I-Z”?",
+      "situation": "Na sala de aula, a professora pede o giz para escrever no quadro, e você soletra G-I-Z.",
       "translation": "G-I-Z",
       "librasStructure": "G-I-Z",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Acabou o giz. → G-I-Z ACABAR.",
+        "Me passa o giz, por favor? → G-I-Z PASSAR-ME, POR-FAVOR?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=175&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -768,19 +953,24 @@
     {
       "id": "soletracao-ritmica-38",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “M-E-L”?",
+      "situation": "No café da manhã, você pede mel para o pão, soletrando M-E-L.",
       "translation": "M-E-L",
       "librasStructure": "M-E-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Pão com mel, por favor. → PÃO M-E-L, POR-FAVOR.",
+        "Tem mel no chá? → CHÁ M-E-L TER?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=179&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -788,19 +978,24 @@
     {
       "id": "soletracao-ritmica-39",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “M-I-L”?",
+      "situation": "Na loja, o vendedor diz que a geladeira custa mil reais, e você soletra M-I-L.",
       "translation": "M-I-L",
       "librasStructure": "M-I-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Custa mil reais? → PREÇO M-I-L REAIS?",
+        "O show teve mil pessoas. → SHOW M-I-L PESSOA."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -808,19 +1003,24 @@
     {
       "id": "soletracao-ritmica-40",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-I-V-O”?",
+      "situation": "Seu amigo pergunta se o peixe do aquário ainda está vivo, e você soletra V-I-V-O.",
       "translation": "V-I-V-O",
       "librasStructure": "V-I-V-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "O peixe ainda está vivo. → PEIXE V-I-V-O AINDA.",
+        "Meu bisavô está vivo? Não. → BISAVÔ MEU V-I-V-O? N-Ã-O."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=185&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -828,19 +1028,24 @@
     {
       "id": "soletracao-ritmica-41",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-H-Á”?",
+      "situation": "Numa tarde fria, você oferece chá à visita, soletrando C-H-Á.",
       "translation": "C-H-Á",
       "librasStructure": "C-H-Á",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Aceita um chá? → C-H-Á ACEITAR?",
+        "Chá de camomila, por favor. → C-H-Á CAMOMILA, POR-FAVOR."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=188&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -848,19 +1053,24 @@
     {
       "id": "soletracao-ritmica-42",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “R-G”?",
+      "situation": "Na secretaria, pedem seu documento de identidade e você soletra R-G.",
       "translation": "R-G",
       "librasStructure": "R-G",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Trouxe seu RG? → R-G VOCÊ TRAZER?",
+        "Qual é o número do seu RG? → R-G SEU NÚMERO QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=191&end=196&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -868,19 +1078,24 @@
     {
       "id": "soletracao-ritmica-43",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-E-D-O”?",
+      "situation": "Seu amigo pergunta a que horas você acorda. Responda “cedo”, soletrando C-E-D-O.",
       "translation": "C-E-D-O",
       "librasStructure": "C-E-D-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Eu acordo cedo. → EU ACORDAR C-E-D-O.",
+        "Ainda é cedo. → C-E-D-O AINDA."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=195&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -888,19 +1103,24 @@
     {
       "id": "soletracao-ritmica-44",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “D-V-D”?",
+      "situation": "Arrumando a estante, você encontra um DVD antigo e soletra D-V-D.",
       "translation": "D-V-D",
       "librasStructure": "D-V-D",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Esse DVD é de um filme antigo. → D-V-D ESSE FILME ANTIGO.",
+        "Você ainda assiste DVD? → VOCÊ ASSISTIR D-V-D AINDA?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=199&end=203&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -908,19 +1128,24 @@
     {
       "id": "soletracao-ritmica-45",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “G-O-L”?",
+      "situation": "No jogo de futebol, seu time marca e você comemora o gol, soletrando G-O-L.",
       "translation": "G-O-L",
       "librasStructure": "G-O-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Gol do Goiás! → G-O-L GOIÁS!",
+        "Quem fez o gol? → G-O-L Q-U-E-M FAZER?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=205&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -928,19 +1153,24 @@
     {
       "id": "soletracao-ritmica-46",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-I-X-I”?",
+      "situation": "Seu colega derruba o suco na mesa e você reage com “vixi”, soletrando V-I-X-I.",
       "translation": "V-I-X-I",
       "librasStructure": "V-I-X-I",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vixi, esqueci a prova! → V-I-X-I, PROVA EU ESQUECER!",
+        "Vixi, começou a chover! → V-I-X-I, CHUVA COMEÇAR!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=209&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -948,19 +1178,24 @@
     {
       "id": "soletracao-ritmica-47",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “A-Z-U-L”?",
+      "situation": "Na loja, você escolhe uma blusa azul, soletrando A-Z-U-L.",
       "translation": "A-Z-U-L",
       "librasStructure": "A-Z-U-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Quero a blusa azul. → EU QUERER BLUSA A-Z-U-L.",
+        "O céu está azul hoje. → HOJE CÉU A-Z-U-L."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=217&end=221&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -968,19 +1203,24 @@
     {
       "id": "soletracao-ritmica-48",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-A-I”?",
+      "situation": "Você pergunta se sua irmã vai ao cinema, soletrando V-A-I.",
       "translation": "V-A-I",
       "librasStructure": "V-A-I",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Você vai ao cinema? → VOCÊ V-A-I CINEMA?",
+        "Ela vai amanhã. → ELA V-A-I AMANHÃ."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=220&end=225&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -988,19 +1228,24 @@
     {
       "id": "soletracao-ritmica-49",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “R-I-O”?",
+      "situation": "No passeio pela fazenda, vocês tomam banho no rio, e você soletra R-I-O.",
       "translation": "R-I-O",
       "librasStructure": "R-I-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos nadar no rio? → NÓS NADAR R-I-O?",
+        "O rio está cheio depois da chuva. → CHUVA DEPOIS, R-I-O CHEIO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=229&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1008,19 +1253,24 @@
     {
       "id": "soletracao-ritmica-50",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “P-I-Z-Z-A”?",
+      "situation": "Na sexta à noite, você convida a família para comer pizza, soletrando P-I-Z-Z-A.",
       "translation": "P-I-Z-Z-A",
       "librasStructure": "P-I-Z-Z-A",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Vamos pedir pizza? → NÓS PEDIR P-I-Z-Z-A?",
+        "Pizza de queijo ou de calabresa? → P-I-Z-Z-A QUEIJO OU CALABRESA?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=232&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1028,19 +1278,24 @@
     {
       "id": "soletracao-ritmica-51",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “P-É”?",
+      "situation": "Depois do jogo, você reclama que o pé está doendo, soletrando P-É.",
       "translation": "P-É",
       "librasStructure": "P-É",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Meu pé está doendo. → P-É MEU DOER.",
+        "Ele chutou com o pé esquerdo. → ELE CHUTAR P-É ESQUERDO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=236&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1048,19 +1303,24 @@
     {
       "id": "soletracao-ritmica-52",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-U”?",
+      "situation": "No restaurante, o garçom pergunta se você quer suco ou refrigerante, e você soletra O-U.",
       "translation": "O-U",
       "librasStructure": "O-U",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Suco ou refrigerante? → S-U-C-O O-U REFRIGERANTE?",
+        "Hoje ou amanhã? → HOJE O-U AMANHÃ?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=239&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1068,19 +1328,24 @@
     {
       "id": "soletracao-ritmica-53",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “V-A-R-A-L”?",
+      "situation": "Depois de lavar, você pendura a roupa no varal, soletrando V-A-R-A-L.",
       "translation": "V-A-R-A-L",
       "librasStructure": "V-A-R-A-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Estende a roupa no varal. → ROUPA V-A-R-A-L ESTENDER.",
+        "Vai chover, tira a roupa do varal! → CHUVA VIR, ROUPA V-A-R-A-L TIRAR!"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=241&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1088,19 +1353,24 @@
     {
       "id": "soletracao-ritmica-54",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “S-I-M”?",
+      "situation": "Sua amiga pergunta se você quer ir à festa. Responda “sim”, soletrando S-I-M.",
       "translation": "S-I-M",
       "librasStructure": "S-I-M",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Sim, eu quero! → S-I-M, EU QUERER!",
+        "Você é surdo? — Sim. → VOCÊ SURDO? — S-I-M."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=246&end=251&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1108,19 +1378,24 @@
     {
       "id": "soletracao-ritmica-55",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “B-E-M”?",
+      "situation": "Seu colega pergunta como você está, e você responde “bem”, soletrando B-E-M.",
       "translation": "B-E-M",
       "librasStructure": "B-E-M",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Estou bem, obrigado. → EU B-E-M, OBRIGADO.",
+        "Você dormiu bem? → VOCÊ DORMIR B-E-M?"
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=252&end=258&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1128,19 +1403,24 @@
     {
       "id": "soletracao-ritmica-56",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-P-F”?",
+      "situation": "No banco, o atendente pede o número do seu CPF, e você soletra C-P-F.",
       "translation": "C-P-F",
       "librasStructure": "C-P-F",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Qual é o seu CPF? → C-P-F SEU NÚMERO QUAL?",
+        "Esqueci o CPF em casa. → EU ESQUECER C-P-F CASA."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=256&end=259&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1148,19 +1428,24 @@
     {
       "id": "soletracao-ritmica-57",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “M-A-L”?",
+      "situation": "Seu colega faltou e você pergunta se ele está mal, soletrando M-A-L.",
       "translation": "M-A-L",
       "librasStructure": "M-A-L",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Você está mal? → VOCÊ M-A-L?",
+        "Dormi mal ontem. → ONTEM EU DORMIR M-A-L."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=259&end=264&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1168,19 +1453,24 @@
     {
       "id": "soletracao-ritmica-58",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “C-D”?",
+      "situation": "Arrumando a casa, você encontra um CD antigo de música e soletra C-D.",
       "translation": "C-D",
       "librasStructure": "C-D",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Esse CD é do meu pai. → C-D ESSE P-A-I MEU.",
+        "Ninguém mais compra CD. → C-D COMPRAR NINGUÉM MAIS."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=262&end=265&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1188,19 +1478,24 @@
     {
       "id": "soletracao-ritmica-59",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “O-V-O”?",
+      "situation": "No café da manhã, sua mãe pergunta se você quer ovo, e você soletra O-V-O.",
       "translation": "O-V-O",
       "librasStructure": "O-V-O",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Quer ovo frito? → O-V-O FRITO VOCÊ QUERER?",
+        "O bolo leva três ovos. → BOLO TER O-V-O 3."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=265&end=269&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1208,19 +1503,24 @@
     {
       "id": "soletracao-ritmica-60",
       "section": "Soletração rítmica",
-      "situation": "Como fica a soletração rítmica de “A-F-F”?",
+      "situation": "Seu amigo conta uma piada sem graça e você reage com “aff”, soletrando A-F-F.",
       "translation": "A-F-F",
       "librasStructure": "A-F-F",
       "notes": "Na soletração rítmica as letras se ligam num movimento contínuo; algumas palavras se tornam quase um sinal próprio.",
-      "examples": [],
+      "examples": [
+        "Aff, que chato! → A-F-F, CHATO!",
+        "Aff, o ônibus atrasou de novo. → A-F-F, ÔNIBUS ATRASAR DE-NOVO."
+      ],
       "video": "https://www.youtube.com/embed/1oTR4ZVOvro?start=271&end=277&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1oTR4ZVOvro",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:59.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

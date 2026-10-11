@@ -22,19 +22,24 @@
     {
       "id": "escola-rotina-01",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “avaliação”?",
+      "situation": "No início do bimestre, a professora explica como será a avaliação da disciplina.",
       "translation": "Avaliação",
       "librasStructure": "AVALIAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A avaliação é na sexta-feira. → AVALIAÇÃO SEXTA-FEIRA.",
+        "Como vai ser a avaliação? → AVALIAÇÃO COMO?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=20&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,24 @@
     {
       "id": "escola-rotina-02",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “atividades”?",
+      "situation": "No fim da aula, a professora passa as atividades para fazer em casa.",
       "translation": "Atividades",
       "librasStructure": "ATIVIDADES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você fez as atividades? → ATIVIDADES VOCÊ FAZER?",
+        "Hoje tem muitas atividades. → HOJE ATIVIDADES MUITO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +72,24 @@
     {
       "id": "escola-rotina-03",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “aprovar”?",
+      "situation": "A professora conta que vai aprovar todos que entregaram o trabalho.",
       "translation": "Aprovar",
       "librasStructure": "APROVAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fui aprovado! → EU APROVAR!",
+        "A professora aprovou o nosso projeto. → PROFESSORA APROVAR PROJETO NOSSO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +97,24 @@
     {
       "id": "escola-rotina-04",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “prova”?",
+      "situation": "Uma colega pergunta quando é a prova de Libras.",
       "translation": "Prova",
       "librasStructure": "PROVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A prova é amanhã? → PROVA AMANHÃ?",
+        "A prova foi difícil. → PROVA DIFÍCIL."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +122,24 @@
     {
       "id": "escola-rotina-05",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “treinar / praticar”?",
+      "situation": "Antes da apresentação, a turma decide treinar e praticar os sinais juntos.",
       "translation": "Treinar / praticar",
       "librasStructure": "TREINAR/PRATICAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos treinar os sinais? → SINAL NÓS TREINAR?",
+        "Pratico Libras todo dia. → EU PRATICAR LIBRAS TODO-DIA."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +147,24 @@
     {
       "id": "escola-rotina-06",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “reprovar”?",
+      "situation": "Um colega está preocupado porque pode reprovar em matemática.",
       "translation": "Reprovar",
       "librasStructure": "REPROVAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tenho medo de reprovar. → EU MEDO REPROVAR.",
+        "Ele reprovou no ano passado. → ANO-PASSADO ELE REPROVAR."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=43&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +172,24 @@
     {
       "id": "escola-rotina-07",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “recuperação”?",
+      "situation": "Seu colega tirou nota baixa e vai fazer a recuperação.",
       "translation": "Recuperação",
       "librasStructure": "RECUPERAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fiquei de recuperação em matemática. → MATEMÁTICA EU RECUPERAÇÃO.",
+        "Quando é a recuperação? → RECUPERAÇÃO QUANDO?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=51&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +197,24 @@
     {
       "id": "escola-rotina-08",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “nota”?",
+      "situation": "Depois da prova, você pergunta à professora qual foi a sua nota.",
       "translation": "Nota",
       "librasStructure": "NOTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual foi a sua nota? → NOTA SUA QUAL?",
+        "Tirei nota dez! → EU NOTA 10!"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=54&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +222,24 @@
     {
       "id": "escola-rotina-09",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “frequência (escolar)”?",
+      "situation": "A coordenação avisa que a frequência escolar mínima é de 75%.",
       "translation": "Frequência (escolar)",
       "librasStructure": "FREQUÊNCIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha frequência está baixa. → FREQUÊNCIA MINHA BAIXA.",
+        "Sem frequência, você reprova. → FREQUÊNCIA NÃO-TER, VOCÊ REPROVAR."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +247,24 @@
     {
       "id": "escola-rotina-10",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “diário de classe”?",
+      "situation": "A professora anota as presenças no diário de classe.",
       "translation": "Diário de classe",
       "librasStructure": "DIÁRIO-DE-CLASSE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A professora anotou no diário de classe. → PROFESSORA ANOTAR DIÁRIO-DE-CLASSE.",
+        "Minha falta está no diário de classe? → FALTA MINHA DIÁRIO-DE-CLASSE?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +272,24 @@
     {
       "id": "escola-rotina-11",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “teatro”?",
+      "situation": "A turma vai apresentar uma peça de teatro em Libras.",
       "translation": "Teatro",
       "librasStructure": "TEATRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos fazer teatro em Libras! → NÓS FAZER TEATRO LIBRAS!",
+        "Você gosta de teatro? → VOCÊ GOSTAR TEATRO?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +297,24 @@
     {
       "id": "escola-rotina-12",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “suspensão”?",
+      "situation": "Depois de uma briga, o diretor dá suspensão a um aluno.",
       "translation": "Suspensão",
       "librasStructure": "SUSPENSÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele levou suspensão por brigar. → ELE BRIGAR, SUSPENSÃO.",
+        "A suspensão é de três dias. → SUSPENSÃO TRÊS-DIAS."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=69&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +322,24 @@
     {
       "id": "escola-rotina-13",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “revisão”?",
+      "situation": "Antes da prova, a professora faz uma revisão do conteúdo.",
       "translation": "Revisão",
       "librasStructure": "REVISÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Amanhã tem revisão. → AMANHÃ REVISÃO.",
+        "A revisão me ajudou muito. → REVISÃO AJUDAR-ME MUITO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +347,24 @@
     {
       "id": "escola-rotina-14",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “intervalo”?",
+      "situation": "Você combina com um colega de conversar no intervalo.",
       "translation": "Intervalo",
       "librasStructure": "INTERVALO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Te encontro no intervalo. → INTERVALO EU ENCONTRAR-VOCÊ.",
+        "O intervalo dura vinte minutos. → INTERVALO 20 MINUTOS."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=76&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +372,24 @@
     {
       "id": "escola-rotina-15",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “curso”?",
+      "situation": "No intervalo, uma colega pergunta que curso você faz.",
       "translation": "Curso",
       "librasStructure": "CURSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Faço curso de Libras. → EU FAZER CURSO LIBRAS.",
+        "O curso dura um ano. → CURSO UM-ANO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=79&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +397,24 @@
     {
       "id": "escola-rotina-16",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “lanche”?",
+      "situation": "No intervalo, você divide o lanche com um colega.",
       "translation": "Lanche",
       "librasStructure": "LANCHE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O que tem de lanche hoje? → HOJE LANCHE O-QUÊ?",
+        "Quer metade do meu lanche? → LANCHE MEU METADE VOCÊ QUERER?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=82&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +422,24 @@
     {
       "id": "escola-rotina-17",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “banheiro”?",
+      "situation": "Você chega à escola e pergunta onde fica o banheiro.",
       "translation": "Banheiro",
       "librasStructure": "BANHEIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Onde fica o banheiro? → BANHEIRO ONDE?",
+        "Posso ir ao banheiro? → BANHEIRO EU IR PODER?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +447,24 @@
     {
       "id": "escola-rotina-18",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “professor”?",
+      "situation": "Durante a aula, você fala sobre o professor de matemática.",
       "translation": "Professor",
       "librasStructure": "PROFESSOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O professor é surdo. → PROFESSOR SURDO.",
+        "Quem é seu professor de história? → PROFESSOR HISTÓRIA SEU QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=89&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +472,24 @@
     {
       "id": "escola-rotina-19",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “instrutor”?",
+      "situation": "No intervalo, você conta que o instrutor surdo ensina Libras no curso.",
       "translation": "Instrutor",
       "librasStructure": "INSTRUTOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O instrutor de Libras é surdo. → INSTRUTOR LIBRAS SURDO.",
+        "O instrutor corrigiu meu sinal. → INSTRUTOR CORRIGIR SINAL MEU."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=93&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +497,24 @@
     {
       "id": "escola-rotina-20",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “aluno”?",
+      "situation": "Ao organizar a atividade, a professora conta quantos alunos há na turma.",
       "translation": "Aluno",
       "librasStructure": "ALUNO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A turma tem trinta alunos. → TURMA ALUNO 30.",
+        "Ele é aluno novo. → ELE ALUNO NOVO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +522,24 @@
     {
       "id": "escola-rotina-21",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “intérprete”?",
+      "situation": "Na chegada à escola, você procura o intérprete de Libras da sua turma.",
       "translation": "Intérprete",
       "librasStructure": "INTÉRPRETE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O intérprete faltou hoje. → HOJE INTÉRPRETE FALTAR.",
+        "A escola precisa de mais intérpretes. → ESCOLA PRECISAR INTÉRPRETE MAIS."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -442,19 +547,24 @@
     {
       "id": "escola-rotina-22",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “entender”?",
+      "situation": "Durante a aula, a professora pergunta se a turma conseguiu entender.",
       "translation": "Entender",
       "librasStructure": "ENTENDER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você entendeu? → VOCÊ ENTENDER?",
+        "Entendi tudo, obrigado! → EU ENTENDER TUDO, OBRIGADO!"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -462,19 +572,24 @@
     {
       "id": "escola-rotina-23",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “não entendi”?",
+      "situation": "A professora explicou rápido e você avisa: “não entendi”.",
       "translation": "Não entendi",
       "librasStructure": "NÃO-ENTENDI",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não entendi, repete, por favor. → NÃO-ENTENDI, REPETIR, POR-FAVOR.",
+        "Não entendi a pergunta. → PERGUNTA NÃO-ENTENDI."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=107&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -482,19 +597,24 @@
     {
       "id": "escola-rotina-24",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “falta (de pessoa)”?",
+      "situation": "Na chamada, a professora marca falta para quem não veio.",
       "translation": "Falta (de pessoa)",
       "librasStructure": "FALTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Hoje tenho falta. → HOJE EU FALTA.",
+        "Quantas faltas eu tenho? → FALTA MINHA QUANTAS?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=111&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -502,19 +622,24 @@
     {
       "id": "escola-rotina-25",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “falta (de coisa)”?",
+      "situation": "Ao preparar o cartaz, você percebe a falta de cola e de papel.",
       "translation": "Falta (de coisa)",
       "librasStructure": "FALTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Falta cola para o cartaz. → CARTAZ COLA FALTA.",
+        "Falta água na garrafa. → GARRAFA ÁGUA FALTA."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -522,19 +647,24 @@
     {
       "id": "escola-rotina-26",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “presente (na chamada)”?",
+      "situation": "Na chamada, a professora diz seu nome e você responde “presente”.",
       "translation": "Presente (na chamada)",
       "librasStructure": "PRESENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ana? — Presente! → A-N-A? — PRESENTE!",
+        "Todos estão presentes hoje. → HOJE TODOS PRESENTE."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=118&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -542,19 +672,24 @@
     {
       "id": "escola-rotina-27",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “dúvida”?",
+      "situation": "No intervalo, você conta à colega que ficou com uma dúvida da aula.",
       "translation": "Dúvida",
       "librasStructure": "DÚVIDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tenho uma dúvida. → EU DÚVIDA TER.",
+        "Alguém tem dúvida? → DÚVIDA ALGUÉM TER?"
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=121&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -562,19 +697,24 @@
     {
       "id": "escola-rotina-28",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “silêncio”?",
+      "situation": "Antes da prova, a professora pede silêncio à turma.",
       "translation": "Silêncio",
       "librasStructure": "SILÊNCIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Silêncio, por favor! → SILÊNCIO, POR-FAVOR!",
+        "A biblioteca é lugar de silêncio. → BIBLIOTECA LUGAR SILÊNCIO."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=125&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -582,19 +722,24 @@
     {
       "id": "escola-rotina-29",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “não gostar”?",
+      "situation": "Na chegada à escola, um colega diz que não gosta de acordar cedo.",
       "translation": "Não gostar",
       "librasStructure": "NÃO-GOSTAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não gosto de matemática. → MATEMÁTICA NÃO-GOSTAR.",
+        "Ela não gosta de barulho. → ELA BARULHO NÃO-GOSTAR."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=139&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -602,19 +747,24 @@
     {
       "id": "escola-rotina-30",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “não querer”?",
+      "situation": "Durante a aula, a criança diz que não quer fazer a atividade.",
       "translation": "Não querer",
       "librasStructure": "NÃO-QUERER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não quero ir à aula hoje. → HOJE AULA IR NÃO-QUERER.",
+        "Ele não quer apresentar. → ELE APRESENTAR NÃO-QUERER."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=146&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -622,19 +772,24 @@
     {
       "id": "escola-rotina-31",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “aula”?",
+      "situation": "No intervalo, os colegas comentam a aula de hoje.",
       "translation": "Aula",
       "librasStructure": "AULA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A aula de hoje foi legal. → HOJE AULA LEGAL.",
+        "A aula começa às sete horas. → AULA COMEÇAR SETE HORAS."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=149&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -642,19 +797,24 @@
     {
       "id": "escola-rotina-32",
       "section": "Rotina e avaliação",
-      "situation": "Na escola, como você sinaliza “sala de aula”?",
+      "situation": "Ao combinar a atividade, a professora diz em qual sala de aula vai ser.",
       "translation": "Sala de aula",
       "librasStructure": "SALA-DE-AULA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A sala de aula está fechada. → SALA-DE-AULA FECHADA.",
+        "Nossa sala de aula fica no segundo andar. → SALA-DE-AULA NOSSA 2º ANDAR."
+      ],
       "video": "https://www.youtube.com/embed/sSg_80qMbMU?start=157&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sSg_80qMbMU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -662,19 +822,24 @@
     {
       "id": "escola-rotina-33",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “profissão”?",
+      "situation": "Na chegada à escola, os colegas conversam sobre a profissão que querem ter.",
       "translation": "Profissão",
       "librasStructure": "PROFISSÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual é a sua profissão? → PROFISSÃO SUA QUAL?",
+        "Intérprete é uma profissão importante. → INTÉRPRETE PROFISSÃO IMPORTANTE."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=13&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -682,19 +847,24 @@
     {
       "id": "escola-rotina-34",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “servente”?",
+      "situation": "Durante a aula, o servente entra para limpar a sala.",
       "translation": "Servente",
       "librasStructure": "SERVENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O servente limpa a escola de manhã. → SERVENTE LIMPAR ESCOLA MANHÃ.",
+        "Obrigado, servente! → OBRIGADO SERVENTE!"
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=16&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -702,19 +872,24 @@
     {
       "id": "escola-rotina-35",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “coordenador”?",
+      "situation": "No intervalo, você precisa falar com o coordenador sobre o horário.",
       "translation": "Coordenador",
       "librasStructure": "COORDENADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou falar com o coordenador. → COORDENADOR EU FALAR.",
+        "O coordenador mudou o horário. → COORDENADOR MUDAR HORÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=23&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -722,19 +897,24 @@
     {
       "id": "escola-rotina-36",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “diretor (de escola)”?",
+      "situation": "O diretor da escola chama os pais para uma reunião.",
       "translation": "Diretor (de escola)",
       "librasStructure": "DIRETOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O diretor quer falar com você. → DIRETOR QUERER FALAR-VOCÊ.",
+        "Quem é o diretor da escola? → ESCOLA DIRETOR QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -742,19 +922,24 @@
     {
       "id": "escola-rotina-37",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “professor do AEE”?",
+      "situation": "Na chegada à escola, você procura o professor do AEE, do atendimento educacional especializado.",
       "translation": "Professor do AEE",
       "librasStructure": "PROFESSOR-DO-AEE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tenho aula com o professor do AEE à tarde. → TARDE EU AULA PROFESSOR-DO-AEE.",
+        "O professor do AEE ensina Libras para mim. → PROFESSOR-DO-AEE ENSINAR-ME LIBRAS."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=30&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -762,19 +947,24 @@
     {
       "id": "escola-rotina-38",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “professor de apoio”?",
+      "situation": "Durante a aula, o professor de apoio ajuda um aluno com a atividade.",
       "translation": "Professor de apoio",
       "librasStructure": "PROFESSOR-DE-APOIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O professor de apoio fica comigo na sala. → PROFESSOR-DE-APOIO FICAR JUNTO EU SALA.",
+        "Meu filho precisa de professor de apoio. → FILHO MEU PRECISAR PROFESSOR-DE-APOIO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -782,19 +972,24 @@
     {
       "id": "escola-rotina-39",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “vice-diretor”?",
+      "situation": "O diretor viajou, e o vice-diretor resolve os problemas da escola.",
       "translation": "Vice-diretor",
       "librasStructure": "VICE-DIRETOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fala com o vice-diretor. → VICE-DIRETOR FALAR.",
+        "O vice-diretor é surdo. → VICE-DIRETOR SURDO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=37&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -802,19 +997,24 @@
     {
       "id": "escola-rotina-40",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “professor de Libras”?",
+      "situation": "Ao combinar a atividade, você conta que o professor de Libras vai ajudar.",
       "translation": "Professor de Libras",
       "librasStructure": "PROFESSOR-DE-LIBRAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu professor de Libras é surdo. → PROFESSOR-DE-LIBRAS MEU SURDO.",
+        "Quero ser professor de Libras. → EU QUERER PROFESSOR-DE-LIBRAS."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -822,19 +1022,24 @@
     {
       "id": "escola-rotina-41",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “secretário”?",
+      "situation": "Na chegada à escola, você pede uma declaração ao secretário.",
       "translation": "Secretário",
       "librasStructure": "SECRETÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O secretário faz a matrícula. → SECRETÁRIO FAZER MATRÍCULA.",
+        "Pergunta para o secretário. → SECRETÁRIO PERGUNTAR."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=51&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -842,19 +1047,24 @@
     {
       "id": "escola-rotina-42",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “porteiro”?",
+      "situation": "O porteiro abre o portão para os alunos entrarem.",
       "translation": "Porteiro",
       "librasStructure": "PORTEIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O porteiro abre o portão às sete horas. → PORTEIRO ABRIR PORTÃO SETE HORAS.",
+        "Deixei a chave com o porteiro. → CHAVE EU DEIXAR PORTEIRO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -862,19 +1072,24 @@
     {
       "id": "escola-rotina-43",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “merendeira”?",
+      "situation": "No intervalo, a merendeira serve o lanche aos alunos.",
       "translation": "Merendeira",
       "librasStructure": "MERENDEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A merendeira fez sopa hoje. → HOJE MERENDEIRA FAZER SOPA.",
+        "A comida da merendeira é gostosa! → MERENDEIRA COMIDA GOSTOSA!"
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=58&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -882,19 +1097,24 @@
     {
       "id": "escola-rotina-44",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “bibliotecário”?",
+      "situation": "Na biblioteca, o bibliotecário ajuda você a encontrar um livro.",
       "translation": "Bibliotecário",
       "librasStructure": "BIBLIOTECÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O bibliotecário me ajudou a achar o livro. → BIBLIOTECÁRIO AJUDAR-ME ACHAR LIVRO.",
+        "Devolve o livro ao bibliotecário. → LIVRO DEVOLVER BIBLIOTECÁRIO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -902,19 +1122,24 @@
     {
       "id": "escola-rotina-45",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “fiscal”?",
+      "situation": "No dia do vestibular, o fiscal confere os documentos na entrada da sala.",
       "translation": "Fiscal",
       "librasStructure": "FISCAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O fiscal pediu meu RG. → FISCAL PEDIR RG MEU.",
+        "O fiscal é intérprete de Libras. → FISCAL INTÉRPRETE LIBRAS."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=64&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -922,19 +1147,24 @@
     {
       "id": "escola-rotina-46",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “tutor”?",
+      "situation": "No curso a distância, o tutor responde às suas dúvidas pela internet.",
       "translation": "Tutor",
       "librasStructure": "TUTOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Mandei uma mensagem para o tutor. → TUTOR EU MANDAR MENSAGEM.",
+        "O tutor corrige as atividades. → TUTOR CORRIGIR ATIVIDADES."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -942,19 +1172,24 @@
     {
       "id": "escola-rotina-47",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “monitor”?",
+      "situation": "No intervalo, o monitor de matemática tira dúvidas dos colegas.",
       "translation": "Monitor",
       "librasStructure": "MONITOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Sou monitor de Libras. → EU MONITOR LIBRAS.",
+        "O monitor ajuda depois da aula. → MONITOR AJUDAR AULA DEPOIS."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -962,19 +1197,24 @@
     {
       "id": "escola-rotina-48",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “professor de recurso”?",
+      "situation": "Ao combinar a atividade, a coordenação chama o professor de recurso para adaptar o material.",
       "translation": "Professor de recurso",
       "librasStructure": "PROFESSOR-DE-RECURSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O professor de recurso adapta a prova. → PROFESSOR-DE-RECURSO PROVA ADAPTAR.",
+        "Tenho aula com o professor de recurso na sala de recursos. → EU AULA PROFESSOR-DE-RECURSO SALA-RECURSO."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=74&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -982,19 +1222,24 @@
     {
       "id": "escola-rotina-49",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “assistente administrativo”?",
+      "situation": "Na chegada à escola, o assistente administrativo entrega seu histórico.",
       "translation": "Assistente administrativo",
       "librasStructure": "ASSISTENTE-ADMINISTRATIVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O assistente administrativo cuida dos documentos. → ASSISTENTE-ADMINISTRATIVO CUIDAR DOCUMENTOS.",
+        "Fala com o assistente administrativo na secretaria. → SECRETARIA ASSISTENTE-ADMINISTRATIVO FALAR."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1002,19 +1247,24 @@
     {
       "id": "escola-rotina-50",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “cuidador”?",
+      "situation": "Durante a aula, o cuidador acompanha um aluno com deficiência.",
       "translation": "Cuidador",
       "librasStructure": "CUIDADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cuidador ajuda o aluno a comer. → CUIDADOR AJUDAR ALUNO COMER.",
+        "Meu irmão tem um cuidador na escola. → IRMÃO MEU ESCOLA CUIDADOR TER."
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=83&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1022,19 +1272,24 @@
     {
       "id": "escola-rotina-51",
       "section": "Profissionais da escola",
-      "situation": "Na escola, como você sinaliza “higienizador”?",
+      "situation": "No intervalo, o higienizador limpa as mesas do refeitório.",
       "translation": "Higienizador",
       "librasStructure": "HIGIENIZADOR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O higienizador limpa o banheiro. → HIGIENIZADOR LIMPAR BANHEIRO.",
+        "Obrigado pelo trabalho, higienizador! → OBRIGADO TRABALHO, HIGIENIZADOR!"
+      ],
       "video": "https://www.youtube.com/embed/RoEw4GyOEFE?start=86&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RoEw4GyOEFE",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:09:00.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

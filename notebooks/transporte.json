@@ -22,19 +22,23 @@
     {
       "id": "transporte-01",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “carro”?",
+      "situation": "Você combina com uma colega como chegará à aula e explica que irá de carro.",
       "translation": "Carro",
       "librasStructure": "CARRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Amanhã vou de carro para a aula. → AMANHÃ EU IR CARRO AULA.",
+        "Você me dá uma carona de carro? → VOCÊ CARRO CARONA DAR-ME?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=17&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -42,19 +46,24 @@
     {
       "id": "transporte-02",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “caminhão”?",
+      "situation": "Na estrada, você vê um caminhão grande transportando caixas e comenta com a família.",
       "translation": "Caminhão",
       "librasStructure": "CAMINHÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Olha o caminhão cheio de caixas! → OLHAR CAMINHÃO CAIXA CHEIO!",
+        "Meu tio dirige caminhão. → TIO MEU DIRIGIR CAMINHÃO."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=21&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +71,24 @@
     {
       "id": "transporte-03",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “trem”?",
+      "situation": "Na viagem, você pergunta se dá para ir de trem, pelos trilhos, até a próxima cidade.",
       "translation": "Trem",
       "librasStructure": "TREM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos de trem? → NÓS IR TREM?",
+        "O trem sai às cinco horas. → TREM SAIR CINCO HORAS."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=28&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +96,24 @@
     {
       "id": "transporte-04",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “helicóptero”?",
+      "situation": "Durante o passeio, você ouve um helicóptero no céu e aponta para ele.",
       "translation": "Helicóptero",
       "librasStructure": "HELICÓPTERO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Olha o helicóptero! → OLHAR HELICÓPTERO!",
+        "O helicóptero levou o doente para o hospital. → HELICÓPTERO LEVAR DOENTE HOSPITAL."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +121,24 @@
     {
       "id": "transporte-05",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “navio”?",
+      "situation": "No porto, você observa um navio grande preparado para viajar pelo mar.",
       "translation": "Navio",
       "librasStructure": "NAVIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse navio vai para a Europa. → NAVIO ESSE IR EUROPA.",
+        "Você já viajou de navio? → VOCÊ VIAJAR NAVIO JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=35&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +146,24 @@
     {
       "id": "transporte-06",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “submarino”?",
+      "situation": "No documentário, você vê um submarino que viaja debaixo da água.",
       "translation": "Submarino",
       "librasStructure": "SUBMARINO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O submarino fica debaixo da água. → SUBMARINO EMBAIXO ÁGUA.",
+        "Você entraria num submarino? → VOCÊ ENTRAR SUBMARINO QUERER?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=39&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +171,24 @@
     {
       "id": "transporte-07",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “carroça”?",
+      "situation": "Na fazenda do seu avô, você vê uma carroça puxada por um cavalo.",
       "translation": "Carroça",
       "librasStructure": "CARROÇA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu avô ainda usa carroça. → AVÔ MEU USAR CARROÇA AINDA.",
+        "A carroça leva o milho para a casa. → CARROÇA LEVAR MILHO CASA."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +196,24 @@
     {
       "id": "transporte-08",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “moto”?",
+      "situation": "Uma colega pergunta como você chega rápido ao trabalho. Responda que vai de moto.",
       "translation": "Moto",
       "librasStructure": "MOTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou de moto para o trabalho. → EU IR MOTO TRABALHO.",
+        "Use capacete na moto! → MOTO CAPACETE USAR!"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +221,24 @@
     {
       "id": "transporte-09",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “paraquedas”?",
+      "situation": "Assistindo a um esporte radical, você vê o paraquedas abrir para a pessoa descer com segurança.",
       "translation": "Paraquedas",
       "librasStructure": "PARAQUEDAS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O paraquedas abriu! → PARAQUEDAS ABRIR!",
+        "Você teria coragem de saltar de paraquedas? → VOCÊ CORAGEM PULAR PARAQUEDAS?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=49&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +246,25 @@
     {
       "id": "transporte-10",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “avião”?",
+      "situation": "No aeroporto, você confere o horário do avião para visitar sua família.",
       "translation": "Avião",
       "librasStructure": "AVIÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O avião sai às duas horas. → AVIÃO SAIR DUAS HORAS.",
+        "Tenho medo de andar de avião. → EU MEDO AVIÃO.",
+        "De avião é mais rápido que de ônibus. → AVIÃO RÁPIDO MAIS ÔNIBUS."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +272,24 @@
     {
       "id": "transporte-11",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “trem-bala”?",
+      "situation": "Você vê uma reportagem sobre o trem-bala, muito rápido, usado no Japão.",
       "translation": "Trem-bala",
       "librasStructure": "TREM-BALA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O trem-bala é muito rápido. → TREM-BALA RÁPIDO MUITO.",
+        "No Brasil não tem trem-bala. → BRASIL TREM-BALA NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +297,24 @@
     {
       "id": "transporte-12",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “lancha”?",
+      "situation": "No passeio pelo lago, o grupo aluga uma lancha pequena e rápida.",
       "translation": "Lancha",
       "librasStructure": "LANCHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos andar de lancha? → NÓS ANDAR LANCHA?",
+        "A lancha do meu tio é nova. → LANCHA TIO MEU NOVA."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=59&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +322,24 @@
     {
       "id": "transporte-13",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “canoa”?",
+      "situation": "No rio, você usa uma canoa para atravessar até a outra margem.",
       "translation": "Canoa",
       "librasStructure": "CANOA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Atravessamos o rio de canoa. → NÓS ATRAVESSAR RIO CANOA.",
+        "Na canoa, use colete. → CANOA COLETE USAR."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +347,24 @@
     {
       "id": "transporte-14",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “táxi”?",
+      "situation": "Você está atrasado para a aula e decide pegar um táxi na rua.",
       "translation": "Táxi",
       "librasStructure": "TÁXI",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Estou atrasado, vou de táxi. → EU ATRASADO, IR TÁXI.",
+        "O táxi é caro. → TÁXI CARO."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +372,24 @@
     {
       "id": "transporte-15",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “foguete”?",
+      "situation": "Na aula de ciências, a professora mostra o foguete que leva astronautas ao espaço.",
       "translation": "Foguete",
       "librasStructure": "FOGUETE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O foguete vai para o espaço. → FOGUETE IR ESPAÇO.",
+        "Meu filho quer ver o foguete subir. → FILHO MEU QUERER VER FOGUETE SUBIR."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +397,24 @@
     {
       "id": "transporte-16",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “van”?",
+      "situation": "O grupo vai para um evento da comunidade surda e combina viajar junto de van.",
       "translation": "Van",
       "librasStructure": "VAN",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos todos juntos de van. → NÓS TODOS IR VAN.",
+        "A van da escola chega às sete horas. → ESCOLA VAN CHEGAR SETE HORAS."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=75&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +422,24 @@
     {
       "id": "transporte-17",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “uber”?",
+      "situation": "Depois da aula, você chama um Uber pelo aplicativo do celular.",
       "translation": "Uber",
       "librasStructure": "UBER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou chamar um Uber. → EU CHAMAR UBER.",
+        "O Uber já chegou? → UBER CHEGAR JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +447,24 @@
     {
       "id": "transporte-18",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “bicicleta”?",
+      "situation": "Para fazer exercício, você decide ir de bicicleta até o parque.",
       "translation": "Bicicleta",
       "librasStructure": "BICICLETA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou de bicicleta ao parque. → EU IR BICICLETA PARQUE.",
+        "Você sabe andar de bicicleta? → VOCÊ SABER ANDAR BICICLETA?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=85&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +472,24 @@
     {
       "id": "transporte-19",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “metrô (transporte)”?",
+      "situation": "Em São Paulo, você pergunta onde fica a estação do metrô, que passa por baixo da terra.",
       "translation": "Metrô (transporte)",
       "librasStructure": "METRÔ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Onde fica o metrô? → METRÔ ONDE?",
+        "De metrô é mais rápido. → METRÔ RÁPIDO MAIS."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=88&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +497,24 @@
     {
       "id": "transporte-20",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “barco”?",
+      "situation": "Durante o passeio, você vê um barco no rio e pergunta para onde ele vai.",
       "translation": "Barco",
       "librasStructure": "BARCO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Para onde vai aquele barco? → BARCO AQUELE IR ONDE?",
+        "Vamos pescar de barco no domingo? → DOMINGO NÓS PESCAR BARCO?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +522,24 @@
     {
       "id": "transporte-21",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “veleiro”?",
+      "situation": "Na praia, você vê um veleiro movido pelo vento e comenta a cena.",
       "translation": "Veleiro",
       "librasStructure": "VELEIRO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O veleiro anda com o vento. → VELEIRO ANDAR VENTO.",
+        "Que veleiro bonito! → VELEIRO BONITO!"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=95&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -442,19 +547,23 @@
     {
       "id": "transporte-22",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “balão”?",
+      "situation": "Em uma festa, você vê um balão subindo e aponta para ele.",
       "translation": "Balão",
       "librasStructure": "BALÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Olha o balão subindo! → OLHAR BALÃO SUBIR!",
+        "Eu quero voar de balão um dia. → EU QUERER VOAR BALÃO UM-DIA."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=100&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -462,19 +571,24 @@
     {
       "id": "transporte-23",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “jet ski”?",
+      "situation": "No passeio aquático, você vê uma pessoa passar rápido de jet ski.",
       "translation": "Jet ski",
       "librasStructure": "JET-SKI",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos andar de jet ski? → NÓS ANDAR JET-SKI?",
+        "Jet ski é perigoso perto das pessoas. → JET-SKI PERTO PESSOA PERIGOSO."
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -482,19 +596,23 @@
     {
       "id": "transporte-24",
       "section": "Transporte",
-      "situation": "Ao contar como você se desloca, como sinaliza “ônibus”?",
+      "situation": "Você consulta o horário e espera o ônibus para ir à escola.",
       "translation": "Ônibus",
       "librasStructure": "ÔNIBUS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ônibus está atrasado. → ÔNIBUS ATRASADO.",
+        "Que ônibus vai para o centro? → ÔNIBUS QUAL IR CENTRO?"
+      ],
       "video": "https://www.youtube.com/embed/sLPLnYUpSbA?start=108&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sLPLnYUpSbA",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:59:01.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

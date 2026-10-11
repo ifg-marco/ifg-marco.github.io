@@ -22,19 +22,23 @@
     {
       "id": "quimica-01",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “átomo”?",
+      "situation": "No laboratório, você observa um modelo e explica que toda matéria é formada por átomos.",
       "translation": "Átomo",
       "librasStructure": "ÁTOMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tudo é feito de átomos. → TUDO ÁTOMO FEITO.",
+        "O átomo tem prótons e elétrons. → ÁTOMO PRÓTON ELÉTRON TER."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=5&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -42,19 +46,23 @@
     {
       "id": "quimica-02",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “ligação covalente”?",
+      "situation": "Ao montar o esquema molecular, você mostra como uma ligação covalente compartilha elétrons.",
       "translation": "Ligação covalente",
       "librasStructure": "LIGAÇÃO-COVALENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A água tem ligação covalente. → ÁGUA LIGAÇÃO-COVALENTE TER.",
+        "Na ligação covalente, os átomos dividem elétrons. → LIGAÇÃO-COVALENTE ÁTOMO ELÉTRON DIVIDIR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=11&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -62,19 +70,23 @@
     {
       "id": "quimica-03",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “ligação iônica”?",
+      "situation": "Na comparação entre compostos, você explica que a ligação iônica envolve transferência de elétrons.",
       "translation": "Ligação iônica",
       "librasStructure": "LIGAÇÃO-IÔNICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sal de cozinha tem ligação iônica. → SAL LIGAÇÃO-IÔNICA TER.",
+        "Na ligação iônica, um átomo doa elétron. → LIGAÇÃO-IÔNICA ÁTOMO ELÉTRON DOAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +94,23 @@
     {
       "id": "quimica-04",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “ligação metálica”?",
+      "situation": "Ao analisar um metal, você relaciona a ligação metálica à condução de eletricidade.",
       "translation": "Ligação metálica",
       "librasStructure": "LIGAÇÃO-METÁLICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cobre tem ligação metálica. → COBRE LIGAÇÃO-METÁLICA TER.",
+        "A ligação metálica conduz eletricidade. → LIGAÇÃO-METÁLICA ELETRICIDADE CONDUZIR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=23&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -102,19 +118,23 @@
     {
       "id": "quimica-05",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “reação química”?",
+      "situation": "No experimento, você observa a mudança de cor e explica que ocorreu uma reação química.",
       "translation": "Reação química",
       "librasStructure": "REAÇÃO-QUÍMICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Mudou de cor: houve reação química. → COR MUDAR: REAÇÃO-QUÍMICA.",
+        "Queimar papel é uma reação química. → PAPEL QUEIMAR REAÇÃO-QUÍMICA."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=31&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -122,19 +142,24 @@
     {
       "id": "quimica-06",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “base (química)”?",
+      "situation": "Ao testar uma substância, você compara a base com o ácido usando o indicador.",
       "translation": "Base (química)",
       "librasStructure": "BASE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sabão é uma base. → SABÃO BASE.",
+        "A base deixa o indicador azul. → BASE INDICADOR AZUL DEIXAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +167,24 @@
     {
       "id": "quimica-07",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “ácido”?",
+      "situation": "No experimento, você usa o indicador para ver se a solução é ácido ou base.",
       "translation": "Ácido",
       "librasStructure": "ÁCIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O limão é ácido. → LIMÃO ÁCIDO.",
+        "Cuidado, o ácido queima a pele! → ÁCIDO PELE QUEIMAR, CUIDADO!"
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=45&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +192,23 @@
     {
       "id": "quimica-08",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “solubilidade”?",
+      "situation": "Ao misturar água e sal, você observa a solubilidade e compara com um material que não se dissolve.",
       "translation": "Solubilidade",
       "librasStructure": "SOLUBILIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O açúcar tem alta solubilidade na água. → AÇÚCAR ÁGUA SOLUBILIDADE ALTA.",
+        "A solubilidade aumenta com o calor. → CALOR, SOLUBILIDADE AUMENTAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=51&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +216,23 @@
     {
       "id": "quimica-09",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “oxidação”?",
+      "situation": "Ao observar um objeto enferrujado, você relaciona a mudança à oxidação e registra a hipótese.",
       "translation": "Oxidação",
       "librasStructure": "OXIDAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A ferrugem é uma oxidação. → FERRUGEM OXIDAÇÃO.",
+        "A maçã escurece por oxidação. → MAÇÃ ESCURECER OXIDAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=59&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -202,19 +240,23 @@
     {
       "id": "quimica-10",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “solidificação”?",
+      "situation": "No experimento com gelo, você observa a solidificação e explica a mudança do líquido para o sólido.",
       "translation": "Solidificação",
       "librasStructure": "SOLIDIFICAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A água vira gelo na solidificação. → ÁGUA GELO VIRAR SOLIDIFICAÇÃO.",
+        "A solidificação acontece a zero grau. → SOLIDIFICAÇÃO ZERO GRAUS ACONTECER."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=69&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +264,23 @@
     {
       "id": "quimica-11",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “líquido”?",
+      "situation": "Ao comparar os estados da matéria, você identifica a água como líquido e descreve seu comportamento.",
       "translation": "Líquido",
       "librasStructure": "LÍQUIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O leite é líquido. → LEITE LÍQUIDO.",
+        "O líquido toma a forma do copo. → LÍQUIDO COPO FORMA PEGAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=76&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -242,19 +288,23 @@
     {
       "id": "quimica-12",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “gasoso”?",
+      "situation": "No experimento, você observa o vapor e explica que a água passou para o estado gasoso.",
       "translation": "Gasoso",
       "librasStructure": "GASOSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O vapor é água no estado gasoso. → VAPOR ÁGUA GASOSO.",
+        "O oxigênio é gasoso. → OXIGÊNIO GASOSO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=83&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -262,19 +312,23 @@
     {
       "id": "quimica-13",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “mistura”?",
+      "situation": "Ao preparar a atividade, você mistura água e sal e observa o resultado no recipiente.",
       "translation": "Mistura",
       "librasStructure": "MISTURA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Areia com água é uma mistura. → AREIA ÁGUA MISTURA.",
+        "O café com leite é uma mistura. → CAFÉ LEITE MISTURA."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=90&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -282,19 +336,24 @@
     {
       "id": "quimica-14",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “modificar”?",
+      "situation": "Durante o experimento, você vai modificar a quantidade de água para comparar os resultados.",
       "translation": "Modificar",
       "librasStructure": "MODIFICAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vamos modificar a temperatura e ver o resultado. → TEMPERATURA NÓS MODIFICAR, RESULTADO VER.",
+        "Não modifique a receita. → RECEITA MODIFICAR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=99&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +361,23 @@
     {
       "id": "quimica-15",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “tabela periódica”?",
+      "situation": "Ao identificar um elemento, você consulta a tabela periódica e localiza seu símbolo.",
       "translation": "Tabela periódica",
       "librasStructure": "TABELA-PERIÓDICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O ouro está na tabela periódica: símbolo Au. → TABELA-PERIÓDICA OURO SÍMBOLO A-U.",
+        "Decorei a tabela periódica. → TABELA-PERIÓDICA EU DECORAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=105&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +385,23 @@
     {
       "id": "quimica-16",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “pressão”?",
+      "situation": "No experimento com gás, você observa como a pressão muda quando o volume do recipiente é alterado.",
       "translation": "Pressão",
       "librasStructure": "PRESSÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A pressão do pneu está baixa. → PNEU PRESSÃO BAIXA.",
+        "A panela de pressão cozinha rápido. → PANELA PRESSÃO COZINHAR RÁPIDO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=114&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +409,24 @@
     {
       "id": "quimica-17",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “termômetro e temperatura”?",
+      "situation": "Ao aquecer a água, você usa o termômetro e anota a temperatura em diferentes momentos.",
       "translation": "Termômetro e temperatura",
       "librasStructure": "TERMÔMETRO-E-TEMPERATURA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O termômetro marca a temperatura. → TERMÔMETRO TEMPERATURA MARCAR.",
+        "A temperatura da água chegou a 100 graus. → ÁGUA TEMPERATURA 100 GRAUS CHEGAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=123&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +434,24 @@
     {
       "id": "quimica-18",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “volume (de gás)”?",
+      "situation": "No recipiente fechado, você compara o volume do gás antes e depois de aquecer.",
       "translation": "Volume (de gás)",
       "librasStructure": "VOLUME",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O gás aquecido aumenta de volume. → GÁS ESQUENTAR VOLUME AUMENTAR.",
+        "O balão tem volume maior no calor. → BALÃO CALOR VOLUME MAIOR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=132&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +459,24 @@
     {
       "id": "quimica-19",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “volume (de líquido)”?",
+      "situation": "Com a proveta, você mede o volume do líquido e compara com a previsão.",
       "translation": "Volume (de líquido)",
       "librasStructure": "VOLUME",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meça o volume do líquido na proveta. → LÍQUIDO VOLUME MEDIR PROVETA.",
+        "O volume da garrafa é de um litro. → GARRAFA VOLUME UM LITRO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=137&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +484,23 @@
     {
       "id": "quimica-20",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “hidroxila”?",
+      "situation": "Ao analisar a fórmula de uma base, você identifica o grupo hidroxila e aponta sua posição.",
       "translation": "Hidroxila",
       "librasStructure": "HIDROXILA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "As bases têm hidroxila. → BASE HIDROXILA TER.",
+        "A hidroxila é OH. → HIDROXILA O-H."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=142&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -422,19 +508,23 @@
     {
       "id": "quimica-21",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “mistura heterogênea”?",
+      "situation": "Ao misturar água e óleo, você observa duas fases e classifica o resultado como mistura heterogênea.",
       "translation": "Mistura heterogênea",
       "librasStructure": "MISTURA-HETEROGÊNEA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Água e óleo formam mistura heterogênea. → ÁGUA ÓLEO MISTURA-HETEROGÊNEA.",
+        "Na mistura heterogênea dá para ver as partes. → MISTURA-HETEROGÊNEA PARTE VER PODER."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=147&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -442,19 +532,23 @@
     {
       "id": "quimica-22",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “mistura homogênea”?",
+      "situation": "Ao dissolver sal na água, você observa uma única fase e identifica uma mistura homogênea.",
       "translation": "Mistura homogênea",
       "librasStructure": "MISTURA-HOMOGÊNEA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Água com açúcar é mistura homogênea. → ÁGUA AÇÚCAR MISTURA-HOMOGÊNEA.",
+        "Na mistura homogênea, não dá para ver as partes. → MISTURA-HOMOGÊNEA PARTE VER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=153&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -462,19 +556,23 @@
     {
       "id": "quimica-23",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “sólido”?",
+      "situation": "Ao comparar os estados da matéria, você pega um cubo de gelo e explica por que ele é sólido.",
       "translation": "Sólido",
       "librasStructure": "SÓLIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O gelo é sólido. → GELO SÓLIDO.",
+        "O sólido tem forma própria. → SÓLIDO FORMA PRÓPRIA TER."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=168&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -482,19 +580,23 @@
     {
       "id": "quimica-24",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “condensação”?",
+      "situation": "No experimento com vapor, você observa gotas no recipiente e explica que ocorreu condensação.",
       "translation": "Condensação",
       "librasStructure": "CONDENSAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O vidro embaçado é condensação. → VIDRO EMBAÇAR CONDENSAÇÃO.",
+        "A chuva vem da condensação do vapor. → CHUVA VIR VAPOR CONDENSAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=178&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -502,19 +604,23 @@
     {
       "id": "quimica-25",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “solução sólido-líquido”?",
+      "situation": "Ao preparar água com sal, você identifica uma solução sólido-líquido e registra os componentes.",
       "translation": "Solução sólido-líquido",
       "librasStructure": "SOLUÇÃO-SÓLIDO-LÍQUIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Água com sal é uma solução sólido-líquido. → ÁGUA SAL SOLUÇÃO-SÓLIDO-LÍQUIDO.",
+        "O suco em pó forma uma solução sólido-líquido. → SUCO PÓ SOLUÇÃO-SÓLIDO-LÍQUIDO FORMAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=186&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -522,19 +628,23 @@
     {
       "id": "quimica-26",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “soluto”?",
+      "situation": "Na solução de água com açúcar, você aponta para o soluto e explica qual componente foi dissolvido.",
       "translation": "Soluto",
       "librasStructure": "SOLUTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O açúcar é o soluto. → AÇÚCAR SOLUTO.",
+        "Coloque mais soluto e veja o que acontece. → SOLUTO MAIS COLOCAR, ACONTECER VER."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=196&end=203&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -542,19 +652,23 @@
     {
       "id": "quimica-27",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “solvente”?",
+      "situation": "Ao analisar a mesma solução, você mostra que a água é o solvente e dissolve o açúcar.",
       "translation": "Solvente",
       "librasStructure": "SOLVENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A água é o solvente universal. → ÁGUA SOLVENTE UNIVERSAL.",
+        "A acetona é um solvente. → ACETONA SOLVENTE."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=204&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -562,19 +676,23 @@
     {
       "id": "quimica-28",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “molécula”?",
+      "situation": "No modelo molecular, você observa como os átomos se organizam para formar uma molécula.",
       "translation": "Molécula",
       "librasStructure": "MOLÉCULA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A molécula de água tem três átomos. → ÁGUA MOLÉCULA ÁTOMO 3.",
+        "Desenhe a molécula no quadro. → MOLÉCULA QUADRO DESENHAR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=213&end=221&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -582,19 +700,23 @@
     {
       "id": "quimica-29",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “pipeta”?",
+      "situation": "No laboratório, você usa a pipeta para transferir uma pequena quantidade de líquido com precisão.",
       "translation": "Pipeta",
       "librasStructure": "PIPETA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Use a pipeta para pingar duas gotas. → PIPETA USAR, GOTA 2 PINGAR.",
+        "A pipeta mede pouco líquido. → PIPETA LÍQUIDO POUCO MEDIR."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=221&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -602,19 +724,23 @@
     {
       "id": "quimica-30",
       "section": "Química",
-      "situation": "Numa aula de química, como você sinaliza “bureta”?",
+      "situation": "Durante a titulação, você abre a bureta lentamente e observa o volume que cai no recipiente.",
       "translation": "Bureta",
       "librasStructure": "BURETA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Abra a bureta devagar. → BURETA ABRIR DEVAGAR.",
+        "A bureta fica presa no suporte. → BURETA SUPORTE PRESA."
+      ],
       "video": "https://www.youtube.com/embed/H4Xik98rB5M?start=229&end=239&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=H4Xik98rB5M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

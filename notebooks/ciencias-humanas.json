@@ -22,19 +22,23 @@
     {
       "id": "ciencias-humanas-01",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “discurso”?",
+      "situation": "No seminário, você analisa o discurso de uma autoridade e pergunta quais ideias ele apresenta.",
       "translation": "Discurso",
       "librasStructure": "DISCURSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O discurso do presidente foi longo. → PRESIDENTE DISCURSO LONGO.",
+        "Esse discurso tem preconceito. → DISCURSO ESSE PRECONCEITO TER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -42,19 +46,23 @@
     {
       "id": "ciencias-humanas-02",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “autonomia”?",
+      "situation": "Durante o projeto, você explica que autonomia ajuda o estudante a tomar decisões sobre seu próprio trabalho.",
       "translation": "Autonomia",
       "librasStructure": "AUTONOMIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O surdo tem autonomia para decidir. → SURDO AUTONOMIA DECIDIR TER.",
+        "A escola dá autonomia aos alunos. → ESCOLA ALUNO AUTONOMIA DAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -62,19 +70,23 @@
     {
       "id": "ciencias-humanas-03",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “identidade cultural”?",
+      "situation": "Na roda de conversa, você relaciona sua identidade cultural à língua, à família e à comunidade surda.",
       "translation": "Identidade cultural",
       "librasStructure": "IDENTIDADE-CULTURAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Libras faz parte da minha identidade cultural. → LIBRAS IDENTIDADE-CULTURAL MINHA PARTE.",
+        "Cada povo tem sua identidade cultural. → POVO CADA IDENTIDADE-CULTURAL TER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=36&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +94,23 @@
     {
       "id": "ciencias-humanas-04",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “cidadão”?",
+      "situation": "Ao discutir a cidade, você explica que todo cidadão tem direitos e também responsabilidades.",
       "translation": "Cidadão",
       "librasStructure": "CIDADÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Todo cidadão tem direito de votar. → CIDADÃO TODO VOTAR DIREITO.",
+        "O surdo é cidadão como qualquer pessoa. → SURDO CIDADÃO PESSOA IGUAL."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=41&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -102,19 +118,23 @@
     {
       "id": "ciencias-humanas-05",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “justiça social”?",
+      "situation": "No debate da turma, você relaciona justiça social ao acesso igualitário à educação e à saúde.",
       "translation": "Justiça social",
       "librasStructure": "JUSTIÇA-SOCIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Justiça social é educação para todos. → JUSTIÇA-SOCIAL EDUCAÇÃO TODOS.",
+        "Lutamos por justiça social. → NÓS LUTAR JUSTIÇA-SOCIAL."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=51&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -122,19 +142,23 @@
     {
       "id": "ciencias-humanas-06",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “liberalismo”?",
+      "situation": "Na apresentação de teorias políticas, você compara o liberalismo com outras formas de organizar a sociedade.",
       "translation": "Liberalismo",
       "librasStructure": "LIBERALISMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O liberalismo defende a liberdade do mercado. → LIBERALISMO MERCADO LIBERDADE DEFENDER.",
+        "O liberalismo surgiu na Europa. → LIBERALISMO SURGIR EUROPA."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=58&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -142,19 +166,24 @@
     {
       "id": "ciencias-humanas-07",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “alienado”?",
+      "situation": "Ao analisar uma notícia, você questiona se a pessoa está alienada ou participa conscientemente do debate.",
       "translation": "Alienado",
       "librasStructure": "ALIENADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele está alienado, não se informa. → ELE ALIENADO, INFORMAR NÃO.",
+        "Quem não participa fica alienado. → PARTICIPAR NÃO, ALIENADO FICAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=66&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +191,23 @@
     {
       "id": "ciencias-humanas-08",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “norma social”?",
+      "situation": "Na discussão sobre convivência, você identifica uma norma social presente na escola e pergunta quem a construiu.",
       "translation": "Norma social",
       "librasStructure": "NORMA-SOCIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Fazer fila é uma norma social. → FILA NORMA-SOCIAL.",
+        "A norma social muda com o tempo. → NORMA-SOCIAL TEMPO MUDAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=77&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +215,23 @@
     {
       "id": "ciencias-humanas-09",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “iluminismo”?",
+      "situation": "Durante a linha do tempo, você apresenta o Iluminismo e relaciona suas ideias às mudanças políticas.",
       "translation": "Iluminismo",
       "librasStructure": "ILUMINISMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Iluminismo valorizou a razão. → ILUMINISMO RAZÃO VALORIZAR.",
+        "O Iluminismo influenciou a Revolução Francesa. → ILUMINISMO REVOLUÇÃO FRANÇA INFLUENCIAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=83&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -202,19 +239,23 @@
     {
       "id": "ciencias-humanas-10",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “revolução Industrial”?",
+      "situation": "Ao estudar a história do trabalho, você explica como a Revolução Industrial transformou as cidades e as fábricas.",
       "translation": "Revolução Industrial",
       "librasStructure": "REVOLUÇÃO-INDUSTRIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A Revolução Industrial começou na Inglaterra. → REVOLUÇÃO-INDUSTRIAL COMEÇAR INGLATERRA.",
+        "Com a Revolução Industrial surgiram as fábricas. → REVOLUÇÃO-INDUSTRIAL, FÁBRICA SURGIR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=91&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +263,23 @@
     {
       "id": "ciencias-humanas-11",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “simbologia / símbolo”?",
+      "situation": "Ao interpretar uma bandeira, você identifica a simbologia e pergunta o que cada símbolo representa.",
       "translation": "Simbologia / símbolo",
       "librasStructure": "SIMBOLOGIA/SÍMBOLO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A pomba é símbolo da paz. → POMBA SÍMBOLO PAZ.",
+        "Qual a simbologia da bandeira do Brasil? → BANDEIRA BRASIL SIMBOLOGIA QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=97&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -242,19 +287,23 @@
     {
       "id": "ciencias-humanas-12",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “colônia”?",
+      "situation": "Na linha do tempo, você explica como a colônia era administrada e relaciona o tema à história do Brasil.",
       "translation": "Colônia",
       "librasStructure": "COLÔNIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Brasil foi colônia de Portugal. → BRASIL COLÔNIA PORTUGAL.",
+        "A colônia enviava ouro para Portugal. → COLÔNIA OURO MANDAR PORTUGAL."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=102&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -262,19 +311,23 @@
     {
       "id": "ciencias-humanas-13",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “teoria crítica”?",
+      "situation": "Durante o debate, você usa a teoria crítica para questionar relações de poder presentes na sociedade.",
       "translation": "Teoria crítica",
       "librasStructure": "TEORIA-CRÍTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A teoria crítica questiona o poder. → TEORIA-CRÍTICA PODER QUESTIONAR.",
+        "Estudei a teoria crítica da Escola de Frankfurt. → EU ESTUDAR TEORIA-CRÍTICA FRANKFURT."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=110&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -282,19 +335,23 @@
     {
       "id": "ciencias-humanas-14",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “utopia”?",
+      "situation": "Ao imaginar uma sociedade mais justa, você apresenta uma utopia e conversa sobre seus limites.",
       "translation": "Utopia",
       "librasStructure": "UTOPIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Um mundo sem preconceito é uma utopia? → MUNDO PRECONCEITO NÃO-TER, UTOPIA?",
+        "A utopia nos faz sonhar. → UTOPIA NÓS SONHAR FAZER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=115&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -302,19 +359,23 @@
     {
       "id": "ciencias-humanas-15",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “burguesia”?",
+      "situation": "Na análise da Revolução Industrial, você explica o papel da burguesia nas mudanças econômicas.",
       "translation": "Burguesia",
       "librasStructure": "BURGUESIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A burguesia era dona das fábricas. → BURGUESIA FÁBRICA DONO.",
+        "A burguesia cresceu com o comércio. → BURGUESIA CRESCER COMÉRCIO."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=120&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +383,23 @@
     {
       "id": "ciencias-humanas-16",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “perspectiva”?",
+      "situation": "Em um debate, você apresenta sua perspectiva e pede que a colega explique outro ponto de vista.",
       "translation": "Perspectiva",
       "librasStructure": "PERSPECTIVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Da minha perspectiva, a lei é justa. → PERSPECTIVA MINHA, LEI JUSTA.",
+        "Tente ver da perspectiva do surdo. → SURDO PERSPECTIVA VER TENTAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=128&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +407,24 @@
     {
       "id": "ciencias-humanas-17",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “escravo”?",
+      "situation": "Ao estudar a escravidão, você explica por que hoje se prefere “pessoa escravizada” a “escravo”.",
       "translation": "Escravo",
       "librasStructure": "ESCRAVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Use “pessoa escravizada” em vez de escravo. → ESCRAVO NÃO, PESSOA ESCRAVIZADA.",
+        "No Brasil, a escravidão acabou em 1888. → BRASIL ESCRAVO ACABAR 1888."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=132&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +432,23 @@
     {
       "id": "ciencias-humanas-18",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “partido político”?",
+      "situation": "Na eleição da escola, você compara as propostas de cada partido político antes de escolher.",
       "translation": "Partido político",
       "librasStructure": "PARTIDO-POLÍTICO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual partido político você apoia? → PARTIDO-POLÍTICO VOCÊ APOIAR QUAL?",
+        "Cada partido político tem uma proposta. → PARTIDO-POLÍTICO CADA PROPOSTA TER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=137&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -382,19 +456,23 @@
     {
       "id": "ciencias-humanas-19",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “feminismo”?",
+      "situation": "No debate sobre igualdade, você relaciona o feminismo à luta das mulheres por direitos e participação.",
       "translation": "Feminismo",
       "librasStructure": "FEMINISMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O feminismo luta pela igualdade. → FEMINISMO IGUALDADE LUTAR.",
+        "Graças ao feminismo, a mulher pode votar. → FEMINISMO, MULHER VOTAR PODER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=141&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -402,19 +480,24 @@
     {
       "id": "ciencias-humanas-20",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “subjetivo / subjetividade”?",
+      "situation": "Ao analisar um relato, você explica que é subjetivo: a subjetividade influencia a interpretação.",
       "translation": "Subjetivo / subjetividade",
       "librasStructure": "SUBJETIVO/SUBJETIVIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa opinião é subjetiva. → OPINIÃO ESSA SUBJETIVO.",
+        "A subjetividade influencia o relato. → SUBJETIVIDADE RELATO INFLUENCIAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=145&end=150&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +505,23 @@
     {
       "id": "ciencias-humanas-21",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “diversidade racial”?",
+      "situation": "Na atividade sobre convivência, você valoriza a diversidade racial e pede exemplos da turma.",
       "translation": "Diversidade racial",
       "librasStructure": "DIVERSIDADE-RACIAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Brasil tem muita diversidade racial. → BRASIL DIVERSIDADE-RACIAL MUITO.",
+        "A escola valoriza a diversidade racial. → ESCOLA DIVERSIDADE-RACIAL VALORIZAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=150&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -442,19 +529,24 @@
     {
       "id": "ciencias-humanas-22",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “refugiado”?",
+      "situation": "Numa notícia, você explica por que uma família precisou sair do país como refugiada e hoje é refugiado aqui.",
       "translation": "Refugiado",
       "librasStructure": "REFUGIADO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ele é refugiado da Venezuela. → ELE REFUGIADO VENEZUELA.",
+        "O refugiado fugiu da guerra. → REFUGIADO GUERRA FUGIR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=159&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -462,19 +554,23 @@
     {
       "id": "ciencias-humanas-23",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “burocracia”?",
+      "situation": "Ao solicitar um documento, você encontra muita burocracia e pede orientação para concluir o processo.",
       "translation": "Burocracia",
       "librasStructure": "BUROCRACIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem muita burocracia para tirar o documento. → DOCUMENTO TIRAR BUROCRACIA MUITO.",
+        "A burocracia atrasa tudo. → BUROCRACIA TUDO ATRASAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=166&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -482,19 +578,23 @@
     {
       "id": "ciencias-humanas-24",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “censura”?",
+      "situation": "Na análise de um jornal, você discute como a censura pode impedir a circulação de informações.",
       "translation": "Censura",
       "librasStructure": "CENSURA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na ditadura havia censura. → DITADURA CENSURA TER.",
+        "Censura é contra a liberdade. → CENSURA CONTRA LIBERDADE."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=172&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -502,19 +602,23 @@
     {
       "id": "ciencias-humanas-25",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “estatuto”?",
+      "situation": "Na reunião da associação, você consulta o estatuto antes de propor uma mudança nas regras.",
       "translation": "Estatuto",
       "librasStructure": "ESTATUTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O estatuto da associação foi aprovado. → ASSOCIAÇÃO ESTATUTO APROVAR.",
+        "O Estatuto da Pessoa com Deficiência garante direitos. → ESTATUTO PESSOA-COM-DEFICIÊNCIA DIREITOS GARANTIR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=185&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -522,19 +626,23 @@
     {
       "id": "ciencias-humanas-26",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “presidente”?",
+      "situation": "Ao estudar formas de governo, você identifica o presidente e conversa sobre suas responsabilidades.",
       "translation": "Presidente",
       "librasStructure": "PRESIDENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O presidente é eleito a cada quatro anos. → PRESIDENTE ELEGER 4 ANOS CADA.",
+        "Quem é o presidente do Brasil? → BRASIL PRESIDENTE QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=189&end=192&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -542,19 +650,23 @@
     {
       "id": "ciencias-humanas-27",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “poder Legislativo”?",
+      "situation": "Na aula de política, você explica que o Poder Legislativo debate e aprova leis.",
       "translation": "Poder Legislativo",
       "librasStructure": "PODER-LEGISLATIVO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Poder Legislativo faz as leis. → PODER-LEGISLATIVO LEI FAZER.",
+        "Deputados fazem parte do Poder Legislativo. → DEPUTADO PODER-LEGISLATIVO PARTE."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=203&end=208&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -562,19 +674,23 @@
     {
       "id": "ciencias-humanas-28",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “poder Judiciário”?",
+      "situation": "Ao analisar uma notícia, você relaciona o Poder Judiciário às decisões dos tribunais.",
       "translation": "Poder Judiciário",
       "librasStructure": "PODER-JUDICIÁRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Poder Judiciário julga os processos. → PODER-JUDICIÁRIO PROCESSO JULGAR.",
+        "O juiz faz parte do Poder Judiciário. → JUIZ PODER-JUDICIÁRIO PARTE."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=208&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -582,19 +698,23 @@
     {
       "id": "ciencias-humanas-29",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “hierarquia”?",
+      "situation": "Na organização da escola, você observa a hierarquia e pergunta como as decisões são distribuídas.",
       "translation": "Hierarquia",
       "librasStructure": "HIERARQUIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No exército, a hierarquia é rígida. → EXÉRCITO HIERARQUIA RÍGIDA.",
+        "Na escola, o diretor está no topo da hierarquia. → ESCOLA HIERARQUIA TOPO DIRETOR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=221&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -602,19 +722,24 @@
     {
       "id": "ciencias-humanas-30",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “artigo (de lei)”?",
+      "situation": "Ao consultar uma lei, você aponta um artigo específico para sustentar sua resposta.",
       "translation": "Artigo (de lei)",
       "librasStructure": "ARTIGO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O artigo 5º da Constituição fala de igualdade. → CONSTITUIÇÃO ARTIGO 5º IGUALDADE.",
+        "Qual artigo da lei fala de Libras? → LEI ARTIGO QUAL LIBRAS?"
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=228&end=233&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -622,19 +747,23 @@
     {
       "id": "ciencias-humanas-31",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “soberania”?",
+      "situation": "No debate sobre relações internacionais, você explica que soberania envolve a autonomia de um país.",
       "translation": "Soberania",
       "librasStructure": "SOBERANIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cada país tem soberania sobre seu território. → PAÍS CADA SOBERANIA TERRITÓRIO TER.",
+        "A soberania nacional deve ser respeitada. → SOBERANIA NACIONAL RESPEITAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=233&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -642,19 +771,23 @@
     {
       "id": "ciencias-humanas-32",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “direitos humanos”?",
+      "situation": "Ao analisar uma situação de violência, você relaciona direitos humanos à dignidade e à proteção de todas as pessoas.",
       "translation": "Direitos humanos",
       "librasStructure": "DIREITOS-HUMANOS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Os direitos humanos valem para todos. → DIREITOS-HUMANOS TODOS VALER.",
+        "A tortura viola os direitos humanos. → TORTURA DIREITOS-HUMANOS VIOLAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=243&end=248&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -662,19 +795,23 @@
     {
       "id": "ciencias-humanas-33",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “sustentabilidade”?",
+      "situation": "Na escola, você propõe uma ação de sustentabilidade para reduzir o desperdício de água e materiais.",
       "translation": "Sustentabilidade",
       "librasStructure": "SUSTENTABILIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Economizar água é sustentabilidade. → ÁGUA ECONOMIZAR SUSTENTABILIDADE.",
+        "A empresa tem projeto de sustentabilidade. → EMPRESA PROJETO SUSTENTABILIDADE TER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=249&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -682,19 +819,23 @@
     {
       "id": "ciencias-humanas-34",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “empatia”?",
+      "situation": "Em uma conversa difícil, você demonstra empatia e tenta compreender o sentimento da colega antes de responder.",
       "translation": "Empatia",
       "librasStructure": "EMPATIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tenha empatia com os colegas. → COLEGA EMPATIA TER.",
+        "Aprender Libras é um ato de empatia. → LIBRAS APRENDER EMPATIA."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=258&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -702,19 +843,23 @@
     {
       "id": "ciencias-humanas-35",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “preconceito”?",
+      "situation": "Ao observar uma fala ofensiva, você identifica o preconceito e explica por que ele deve ser combatido.",
       "translation": "Preconceito",
       "librasStructure": "PRECONCEITO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preconceito contra surdos é crime. → SURDO PRECONCEITO CRIME.",
+        "Vamos combater o preconceito. → PRECONCEITO NÓS COMBATER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=262&end=265&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -722,19 +867,23 @@
     {
       "id": "ciencias-humanas-36",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “tradição”?",
+      "situation": "Na apresentação da família, você conta uma tradição e pergunta como ela mudou ao longo do tempo.",
       "translation": "Tradição",
       "librasStructure": "TRADIÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A festa junina é uma tradição brasileira. → FESTA-JUNINA TRADIÇÃO BRASIL.",
+        "Na minha família, almoçar junto no domingo é tradição. → FAMÍLIA MINHA DOMINGO ALMOÇAR JUNTO TRADIÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=269&end=272&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -742,19 +891,23 @@
     {
       "id": "ciencias-humanas-37",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “comunista”?",
+      "situation": "Ao comparar ideologias políticas, você explica como o termo comunista aparece em diferentes contextos históricos.",
       "translation": "Comunista",
       "librasStructure": "COMUNISTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Marx era comunista. → MARX COMUNISTA.",
+        "O partido comunista foi proibido na ditadura. → DITADURA PARTIDO COMUNISTA PROIBIR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=282&end=289&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -762,19 +915,23 @@
     {
       "id": "ciencias-humanas-38",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “socialista”?",
+      "situation": "Na discussão sobre sistemas políticos, você compara uma proposta socialista com outras formas de organização econômica.",
       "translation": "Socialista",
       "librasStructure": "SOCIALISTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O governo socialista investiu em saúde pública. → GOVERNO SOCIALISTA SAÚDE PÚBLICA INVESTIR.",
+        "Ele tem ideias socialistas. → ELE IDEIA SOCIALISTA TER."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=290&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -782,19 +939,23 @@
     {
       "id": "ciencias-humanas-39",
       "section": "Ciências humanas",
-      "situation": "Numa aula de ciências humanas, como você sinaliza “historiografia”?",
+      "situation": "Ao comparar livros de história, você percebe como a historiografia muda a forma de interpretar o passado.",
       "translation": "Historiografia",
       "librasStructure": "HISTORIOGRAFIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A historiografia mudou a visão sobre a escravidão. → HISTORIOGRAFIA VISÃO ESCRAVIDÃO MUDAR.",
+        "A historiografia surda conta a nossa história. → HISTORIOGRAFIA SURDA HISTÓRIA NOSSA CONTAR."
+      ],
       "video": "https://www.youtube.com/embed/lS4wO0MLOMQ?start=294&end=301&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lS4wO0MLOMQ",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:23:05.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

@@ -22,19 +22,24 @@
     {
       "id": "vestuario-01",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “avental”?",
+      "situation": "Antes de começar a receita na cozinha, você pede um avental para não sujar a roupa.",
       "translation": "Avental",
       "librasStructure": "AVENTAL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me empresta um avental? → AVENTAL EMPRESTAR-ME?",
+        "Sem avental, vou sujar a blusa de óleo. → AVENTAL NÃO-TER, BLUSA SUJAR ÓLEO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -42,19 +47,24 @@
     {
       "id": "vestuario-02",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bermuda”?",
+      "situation": "Num sábado de calor, seu amigo convida você para o churrasco e você decide ir de bermuda.",
       "translation": "Bermuda",
       "librasStructure": "BERMUDA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Hoje está calor, vou de bermuda. → HOJE CALOR, EU IR BERMUDA.",
+        "Pode entrar na escola de bermuda? → ESCOLA BERMUDA ENTRAR PODER?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -62,19 +72,24 @@
     {
       "id": "vestuario-03",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “biquíni”?",
+      "situation": "Arrumando a mala para a praia nas férias, você confere se colocou o biquíni.",
       "translation": "Biquíni",
       "librasStructure": "BIQUÍNI",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você levou o biquíni? → BIQUÍNI VOCÊ LEVAR?",
+        "Comprei um biquíni novo para as férias. → FÉRIAS EU COMPRAR BIQUÍNI NOVO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=26&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -82,19 +97,24 @@
     {
       "id": "vestuario-04",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa”?",
+      "situation": "Antes de sair de casa, sua irmã pergunta qual blusa você vai usar.",
       "translation": "Blusa",
       "librasStructure": "BLUSA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Gostei da sua blusa! → BLUSA SUA EU GOSTAR!",
+        "Essa blusa combina com a calça? → BLUSA ESSA COMBINAR CALÇA?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -102,19 +122,24 @@
     {
       "id": "vestuario-05",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bolso”?",
+      "situation": "Procurando a chave, você pergunta se ela não está no bolso da calça.",
       "translation": "Bolso",
       "librasStructure": "BOLSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A chave está no seu bolso? → CHAVE BOLSO SEU?",
+        "Essa calça não tem bolso. → CALÇA ESSA BOLSO NÃO-TER."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=35&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -122,19 +147,24 @@
     {
       "id": "vestuario-06",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calça jeans”?",
+      "situation": "Na loja com um amigo, você experimenta uma calça jeans e pergunta se ficou boa.",
       "translation": "Calça jeans",
       "librasStructure": "CALÇA-JEANS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa calça jeans ficou apertada. → CALÇA-JEANS ESSA APERTADA.",
+        "Calça jeans combina com tudo. → CALÇA-JEANS COMBINAR TUDO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=38&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -142,19 +172,24 @@
     {
       "id": "vestuario-07",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calcinha”?",
+      "situation": "Na loja de roupas íntimas, você pergunta à vendedora o tamanho da calcinha.",
       "translation": "Calcinha",
       "librasStructure": "CALCINHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Qual é o tamanho da calcinha? → CALCINHA TAMANHO QUAL?",
+        "Comprei um pacote de calcinhas. → EU COMPRAR CALCINHA PACOTE."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=42&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -162,19 +197,24 @@
     {
       "id": "vestuario-08",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisa de manga curta”?",
+      "situation": "No dia quente, você escolhe uma camisa de manga curta para ir trabalhar.",
       "translation": "Camisa de manga curta",
       "librasStructure": "CAMISA-DE-MANGA-CURTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "No calor eu uso camisa de manga curta. → CALOR EU USAR CAMISA-DE-MANGA-CURTA.",
+        "Essa camisa de manga curta é nova? → CAMISA-DE-MANGA-CURTA ESSA NOVA?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -182,19 +222,24 @@
     {
       "id": "vestuario-09",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisa de manga longa”?",
+      "situation": "Para a entrevista de emprego, você escolhe uma camisa de manga longa.",
       "translation": "Camisa de manga longa",
       "librasStructure": "CAMISA-DE-MANGA-LONGA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou de camisa de manga longa na entrevista. → ENTREVISTA EU USAR CAMISA-DE-MANGA-LONGA.",
+        "Camisa de manga longa no calor? Não! → CALOR CAMISA-DE-MANGA-LONGA? NÃO!"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=52&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -202,19 +247,24 @@
     {
       "id": "vestuario-10",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa de frio”?",
+      "situation": "Em julho, a noite está fria e sua mãe pede para você levar uma blusa de frio.",
       "translation": "Blusa de frio",
       "librasStructure": "BLUSA-DE-FRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Leva uma blusa de frio! → BLUSA-DE-FRIO LEVAR!",
+        "Esqueci a blusa de frio em casa. → EU ESQUECER BLUSA-DE-FRIO CASA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=58&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -222,19 +272,24 @@
     {
       "id": "vestuario-11",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “blusa de manga curta”?",
+      "situation": "Na loja, você procura uma blusa de manga curta para o verão.",
       "translation": "Blusa de manga curta",
       "librasStructure": "BLUSA-DE-MANGA-CURTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem blusa de manga curta azul? → BLUSA-DE-MANGA-CURTA AZUL TER?",
+        "Prefiro blusa de manga curta. → EU PREFERIR BLUSA-DE-MANGA-CURTA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=63&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -242,19 +297,24 @@
     {
       "id": "vestuario-12",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calça de couro”?",
+      "situation": "Para a festa de rock, sua amiga escolhe uma calça de couro preta.",
       "translation": "Calça de couro",
       "librasStructure": "CALÇA-DE-COURO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa calça de couro é cara! → CALÇA-DE-COURO ESSA CARA!",
+        "Calça de couro no calor esquenta muito. → CALOR CALÇA-DE-COURO QUENTE MUITO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=68&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -262,19 +322,24 @@
     {
       "id": "vestuario-13",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “camisola”?",
+      "situation": "Antes de dormir, sua avó veste a camisola e dá boa noite.",
       "translation": "Camisola",
       "librasStructure": "CAMISOLA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A vovó já está de camisola. → AVÓ CAMISOLA JÁ.",
+        "Comprei uma camisola para minha mãe. → EU COMPRAR CAMISOLA MÃE MINHA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=73&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -282,19 +347,24 @@
     {
       "id": "vestuario-14",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “casaco”?",
+      "situation": "Você vai viajar para o Sul no inverno e procura um casaco grosso na loja.",
       "translation": "Casaco",
       "librasStructure": "CASACO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Preciso de um casaco para o frio. → FRIO EU PRECISAR CASACO.",
+        "Esse casaco está barato. → CASACO ESSE BARATO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=78&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -302,19 +372,24 @@
     {
       "id": "vestuario-15",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “cueca”?",
+      "situation": "Arrumando a mala, você confere quantas cuecas vai levar para a semana.",
       "translation": "Cueca",
       "librasStructure": "CUECA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Leva sete cuecas. → CUECA 7 LEVAR.",
+        "As cuecas estão na gaveta. → CUECA GAVETA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -322,19 +397,24 @@
     {
       "id": "vestuario-16",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “calcinha (variação)”?",
+      "situation": "Na conversa com a vendedora, você usa a variação do sinal de calcinha.",
       "translation": "Calcinha (variação)",
       "librasStructure": "CALCINHA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A calcinha está na gaveta. → CALCINHA GAVETA.",
+        "Essa calcinha é de algodão? → CALCINHA ESSA ALGODÃO?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=87&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -342,19 +422,24 @@
     {
       "id": "vestuario-17",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “jaqueta jeans”?",
+      "situation": "Antes de sair à noite, você escolhe a jaqueta jeans para usar por cima da blusa.",
       "translation": "Jaqueta jeans",
       "librasStructure": "JAQUETA-JEANS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A jaqueta jeans combina com essa saia. → JAQUETA-JEANS COMBINAR SAIA ESSA.",
+        "Me empresta sua jaqueta jeans? → JAQUETA-JEANS SUA EMPRESTAR-ME?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=91&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -362,19 +447,24 @@
     {
       "id": "vestuario-18",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “jaqueta de couro”?",
+      "situation": "Na loja, seu amigo motoqueiro experimenta uma jaqueta de couro.",
       "translation": "Jaqueta de couro",
       "librasStructure": "JAQUETA-DE-COURO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Para andar de moto, use jaqueta de couro. → MOTO ANDAR, JAQUETA-DE-COURO USAR.",
+        "Essa jaqueta de couro custa quanto? → JAQUETA-DE-COURO ESSA PREÇO QUANTO?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=97&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -382,19 +472,24 @@
     {
       "id": "vestuario-19",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “luva”?",
+      "situation": "Lavando a louça, você coloca a luva para proteger as mãos.",
       "translation": "Luva",
       "librasStructure": "LUVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Coloca luva para lavar a louça. → LOUÇA LAVAR, LUVA COLOCAR.",
+        "No frio do Sul, uso luva. → SUL FRIO, EU USAR LUVA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=103&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -402,19 +497,24 @@
     {
       "id": "vestuario-20",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “macacão”?",
+      "situation": "O bebê vai sair de casa e sua irmã veste nele um macacão quentinho.",
       "translation": "Macacão",
       "librasStructure": "MACACÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O bebê está de macacão. → BEBÊ MACACÃO.",
+        "O mecânico trabalha de macacão. → MECÂNICO TRABALHAR MACACÃO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=108&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -422,19 +522,24 @@
     {
       "id": "vestuario-21",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “maiô”?",
+      "situation": "Antes da aula de natação, sua filha pergunta onde está o maiô.",
       "translation": "Maiô",
       "librasStructure": "MAIÔ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cadê meu maiô? → MAIÔ MEU ONDE?",
+        "Na natação, uso maiô e touca. → NATAÇÃO EU USAR MAIÔ TOUCA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=111&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -442,19 +547,24 @@
     {
       "id": "vestuario-22",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “meia”?",
+      "situation": "Na loja, você compra um pacote de meias para usar com o tênis.",
       "translation": "Meia",
       "librasStructure": "MEIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa meia está furada. → MEIA ESSA FURADA.",
+        "Meia branca com tênis branco. → TÊNIS BRANCO MEIA BRANCA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=115&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -462,19 +572,24 @@
     {
       "id": "vestuario-23",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “meia-calça”?",
+      "situation": "No dia frio, sua irmã veste meia-calça por baixo do vestido.",
       "translation": "Meia-calça",
       "librasStructure": "MEIA-CALÇA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A meia-calça rasgou! → MEIA-CALÇA RASGAR!",
+        "Use meia-calça com essa saia. → SAIA ESSA MEIA-CALÇA USAR."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=119&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -482,19 +597,24 @@
     {
       "id": "vestuario-24",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “pijama”?",
+      "situation": "À noite, seu filho ainda está acordado e você pede para ele colocar o pijama.",
       "translation": "Pijama",
       "librasStructure": "PIJAMA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Coloca o pijama e vai para a cama. → PIJAMA COLOCAR, CAMA IR.",
+        "Domingo fico o dia inteiro de pijama. → DOMINGO EU PIJAMA DIA INTEIRO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=127&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -502,19 +622,24 @@
     {
       "id": "vestuario-25",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “saia rodada”?",
+      "situation": "Para a festa junina, sua sobrinha escolhe uma saia rodada colorida.",
       "translation": "Saia rodada",
       "librasStructure": "SAIA-RODADA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na festa junina, uso saia rodada. → FESTA-JUNINA EU USAR SAIA-RODADA.",
+        "Sua saia rodada é linda! → SAIA-RODADA SUA LINDA!"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=130&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -522,19 +647,24 @@
     {
       "id": "vestuario-26",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sunga”?",
+      "situation": "No clube, seu primo pergunta se você trouxe sunga para nadar.",
       "translation": "Sunga",
       "librasStructure": "SUNGA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Trouxe a sunga? → SUNGA VOCÊ TRAZER?",
+        "Sem sunga não pode entrar na piscina. → SUNGA NÃO-TER, PISCINA ENTRAR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=134&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -542,19 +672,24 @@
     {
       "id": "vestuario-27",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sutiã”?",
+      "situation": "Na loja de roupas íntimas, você pergunta à vendedora se tem sutiã do seu tamanho.",
       "translation": "Sutiã",
       "librasStructure": "SUTIÃ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem sutiã tamanho médio? → SUTIÃ TAMANHO MÉDIO TER?",
+        "Esse sutiã está apertado. → SUTIÃ ESSE APERTADO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=138&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -562,19 +697,24 @@
     {
       "id": "vestuario-28",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “vestido”?",
+      "situation": "Para o casamento da prima, você escolhe um vestido longo.",
       "translation": "Vestido",
       "librasStructure": "VESTIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou de vestido ao casamento. → CASAMENTO EU IR VESTIDO.",
+        "Esse vestido vermelho ficou lindo em você! → VESTIDO VERMELHO ESSE VOCÊ LINDO!"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -582,19 +722,24 @@
     {
       "id": "vestuario-29",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “zíper”?",
+      "situation": "Antes de sair, você percebe que o zíper da calça quebrou.",
       "translation": "Zíper",
       "librasStructure": "ZÍPER",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O zíper quebrou! → ZÍPER QUEBRAR!",
+        "Fecha o zíper da sua bolsa. → BOLSA SUA ZÍPER FECHAR."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=145&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -602,19 +747,24 @@
     {
       "id": "vestuario-30",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “salto alto”?",
+      "situation": "Na loja de sapatos com uma amiga, ela experimenta um salto alto para a formatura.",
       "translation": "Salto alto",
       "librasStructure": "SALTO-ALTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não consigo andar de salto alto. → SALTO-ALTO EU ANDAR CONSEGUIR NÃO.",
+        "Vou de salto alto na formatura. → FORMATURA EU USAR SALTO-ALTO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=149&end=153&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -622,19 +772,24 @@
     {
       "id": "vestuario-31",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “chinelo”?",
+      "situation": "Em casa, você tira o tênis e calça o chinelo.",
       "translation": "Chinelo",
       "librasStructure": "CHINELO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Em casa eu ando de chinelo. → CASA EU ANDAR CHINELO.",
+        "Não pode ir de chinelo à escola. → ESCOLA CHINELO IR PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=154&end=157&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -642,19 +797,24 @@
     {
       "id": "vestuario-32",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “sandália”?",
+      "situation": "No calor, você escolhe uma sandália para ir ao shopping.",
       "translation": "Sandália",
       "librasStructure": "SANDÁLIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa sandália é confortável. → SANDÁLIA ESSA CONFORTÁVEL.",
+        "Vai de sandália ou de tênis? → VOCÊ IR SANDÁLIA OU TÊNIS?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=157&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -662,19 +822,24 @@
     {
       "id": "vestuario-33",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “tênis”?",
+      "situation": "Para a aula de educação física, você lembra o filho de ir de tênis.",
       "translation": "Tênis",
       "librasStructure": "TÊNIS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na educação física, use tênis. → EDUCAÇÃO-FÍSICA TÊNIS USAR.",
+        "Meu tênis está sujo. → TÊNIS MEU SUJO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=161&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -682,19 +847,24 @@
     {
       "id": "vestuario-34",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “terno”?",
+      "situation": "Seu irmão vai ser padrinho de casamento e precisa alugar um terno.",
       "translation": "Terno",
       "librasStructure": "TERNO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou alugar um terno para o casamento. → CASAMENTO EU ALUGAR TERNO.",
+        "Meu pai trabalha de terno e gravata. → PAI MEU TRABALHAR TERNO GRAVATA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=165&end=168&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -702,19 +872,24 @@
     {
       "id": "vestuario-35",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “batom”?",
+      "situation": "Antes da festa, sua amiga pede emprestado o seu batom vermelho.",
       "translation": "Batom",
       "librasStructure": "BATOM",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me empresta o batom? → BATOM EMPRESTAR-ME?",
+        "Esse batom combina com o vestido. → BATOM ESSE COMBINAR VESTIDO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=169&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -722,19 +897,24 @@
     {
       "id": "vestuario-36",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “brinco”?",
+      "situation": "Antes de sair, você não acha um dos brincos e pede ajuda para procurar.",
       "translation": "Brinco",
       "librasStructure": "BRINCO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Perdi meu brinco. → BRINCO MEU PERDER.",
+        "Que brinco bonito! Onde você comprou? → BRINCO BONITO! VOCÊ COMPRAR ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=174&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -742,19 +922,24 @@
     {
       "id": "vestuario-37",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “colar”?",
+      "situation": "No aniversário da sua mãe, você dá um colar de presente.",
       "translation": "Colar",
       "librasStructure": "COLAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Mãe, esse colar é para você. → MÃE, COLAR ESSE PRESENTE VOCÊ.",
+        "Esse colar é de ouro? → COLAR ESSE OURO?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -762,19 +947,24 @@
     {
       "id": "vestuario-38",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “chapéu”?",
+      "situation": "No passeio ao sol, você coloca o chapéu para proteger o rosto.",
       "translation": "Chapéu",
       "librasStructure": "CHAPÉU",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sol está forte, coloca o chapéu. → SOL FORTE, CHAPÉU COLOCAR.",
+        "Na festa junina, uso chapéu de palha. → FESTA-JUNINA EU USAR CHAPÉU PALHA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=181&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -782,19 +972,24 @@
     {
       "id": "vestuario-39",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “esmalte”?",
+      "situation": "No salão, a manicure pergunta qual cor de esmalte você prefere.",
       "translation": "Esmalte",
       "librasStructure": "ESMALTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esmalte vermelho, por favor. → ESMALTE VERMELHO, POR-FAVOR.",
+        "Seu esmalte está descascando. → ESMALTE SEU DESCASCAR."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=190&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -802,19 +997,24 @@
     {
       "id": "vestuario-40",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “guarda-chuva”?",
+      "situation": "O céu está escuro antes de sair de casa. Sua mãe lembra você de levar o guarda-chuva.",
       "translation": "Guarda-chuva",
       "librasStructure": "GUARDA-CHUVA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vai chover, leva o guarda-chuva! → CHUVA VIR, GUARDA-CHUVA LEVAR!",
+        "Esqueci o guarda-chuva no ônibus. → EU ESQUECER GUARDA-CHUVA ÔNIBUS."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=195&end=200&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -822,19 +1022,24 @@
     {
       "id": "vestuario-41",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “maleta”?",
+      "situation": "Seu pai vai a uma reunião de trabalho e leva os documentos na maleta.",
       "translation": "Maleta",
       "librasStructure": "MALETA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Os documentos estão na maleta. → DOCUMENTO MALETA.",
+        "Essa maleta é pesada. → MALETA ESSA PESADA."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=201&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -842,19 +1047,24 @@
     {
       "id": "vestuario-42",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “óculos escuros”?",
+      "situation": "Na loja com um amigo, você experimenta óculos escuros para usar na praia.",
       "translation": "Óculos escuros",
       "librasStructure": "ÓCULOS-ESCUROS",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esses óculos escuros ficaram bons em você. → ÓCULOS-ESCUROS ESSE VOCÊ BOM.",
+        "Cadê meus óculos escuros? → ÓCULOS-ESCUROS MEU ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=207&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -862,19 +1072,24 @@
     {
       "id": "vestuario-43",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “óculos de sol”?",
+      "situation": "Antes de dirigir no sol forte, você pega os óculos de sol no porta-luvas.",
       "translation": "Óculos de sol",
       "librasStructure": "ÓCULOS-DE-SOL",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Não esqueça os óculos de sol. → ÓCULOS-DE-SOL ESQUECER NÃO.",
+        "Óculos de sol protegem os olhos. → ÓCULOS-DE-SOL PROTEGER OLHO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=211&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -882,19 +1097,24 @@
     {
       "id": "vestuario-44",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “boné”?",
+      "situation": "Antes do jogo de futebol, seu sobrinho pega o boné do time.",
       "translation": "Boné",
       "librasStructure": "BONÉ",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse boné é do Goiás? → BONÉ ESSE GOIÁS?",
+        "Na sala de aula, tire o boné. → SALA AULA, BONÉ TIRAR."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=216&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -902,19 +1122,24 @@
     {
       "id": "vestuario-45",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bolsa”?",
+      "situation": "Antes de sair, você confere se a carteira e o celular estão na bolsa.",
       "translation": "Bolsa",
       "librasStructure": "BOLSA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu celular está na bolsa. → CELULAR MEU BOLSA.",
+        "Comprei uma bolsa nova em promoção. → EU COMPRAR BOLSA NOVA PROMOÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=219&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -922,19 +1147,24 @@
     {
       "id": "vestuario-46",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “relógio”?",
+      "situation": "Na loja com um amigo, você escolhe um relógio de presente para seu pai.",
       "translation": "Relógio",
       "librasStructure": "RELÓGIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vou dar um relógio para o meu pai. → PAI MEU, EU DAR RELÓGIO.",
+        "Que horas são no seu relógio? → RELÓGIO SEU HORAS QUANTO?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=223&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -942,19 +1172,24 @@
     {
       "id": "vestuario-47",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “pulseira”?",
+      "situation": "No aniversário, sua amiga ganha uma pulseira e mostra para você.",
       "translation": "Pulseira",
       "librasStructure": "PULSEIRA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ganhei essa pulseira da minha mãe. → PULSEIRA ESSA MÃE MINHA DAR-ME.",
+        "Sua pulseira é de prata? → PULSEIRA SUA PRATA?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=227&end=231&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -962,19 +1197,24 @@
     {
       "id": "vestuario-48",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “bota”?",
+      "situation": "Vai chover e o caminho tem lama. Você calça a bota antes de sair.",
       "translation": "Bota",
       "librasStructure": "BOTA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na chuva, uso bota. → CHUVA EU USAR BOTA.",
+        "Essa bota de couro é do meu avô. → BOTA COURO ESSA AVÔ MEU."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=231&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -982,19 +1222,24 @@
     {
       "id": "vestuario-49",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “gravata”?",
+      "situation": "Antes da formatura, seu irmão pede ajuda para dar o nó na gravata.",
       "translation": "Gravata",
       "librasStructure": "GRAVATA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Me ajuda com a gravata? → GRAVATA AJUDAR-ME?",
+        "Essa gravata não combina com o terno. → GRAVATA ESSA COMBINAR TERNO NÃO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=236&end=239&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1002,19 +1247,24 @@
     {
       "id": "vestuario-50",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “cinto”?",
+      "situation": "Na loja com um amigo, você experimenta uma calça larga e percebe que precisa de um cinto.",
       "translation": "Cinto",
       "librasStructure": "CINTO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa calça precisa de cinto. → CALÇA ESSA CINTO PRECISAR.",
+        "O cinto combina com o sapato. → CINTO COMBINAR SAPATO."
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=239&end=242&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -1022,19 +1272,24 @@
     {
       "id": "vestuario-51",
       "section": "Roupas e acessórios",
-      "situation": "Ao descrever o que alguém está vestindo, como você sinaliza “suspensório”?",
+      "situation": "Na festa à fantasia, seu primo usa suspensório e gravata-borboleta.",
       "translation": "Suspensório",
       "librasStructure": "SUSPENSÓRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu avô sempre usa suspensório. → AVÔ MEU USAR SUSPENSÓRIO SEMPRE.",
+        "Suspensório ou cinto? → SUSPENSÓRIO OU CINTO?"
+      ],
       "video": "https://www.youtube.com/embed/_D2ocZCDyPs?start=243&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_D2ocZCDyPs",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:58:37.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

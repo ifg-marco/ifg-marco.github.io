@@ -29,19 +29,24 @@
     {
       "id": "indefinido-01",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza alguns?",
+      "situation": "Na mesa há vários materiais, mas você escolhe só alguns para levar.",
       "translation": "Alguns",
       "librasStructure": "ALGUNS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Vou levar alguns livros. → LIVRO ALGUNS EU LEVAR.",
+        "Alguns colegas são surdos. → COLEGA ALGUNS SURDO."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -49,19 +54,24 @@
     {
       "id": "indefinido-02",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza maioria?",
+      "situation": "Na votação da turma, você comenta que a maioria concordou.",
       "translation": "Maioria",
       "librasStructure": "MAIORIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "A maioria quer a festa no sábado. → MAIORIA QUERER FESTA SÁBADO.",
+        "A maioria da turma é ouvinte. → TURMA MAIORIA OUVINTE."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=31&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -69,19 +79,24 @@
     {
       "id": "indefinido-03",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza quantos?",
+      "situation": "A professora pergunta quantos estudantes estão na sala.",
       "translation": "Quantos",
       "librasStructure": "QUANTOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Quantos alunos vieram hoje? → HOJE ALUNO VIR QUANTOS?",
+        "Quantos irmãos você tem? → VOCÊ IRMÃO QUANTOS?"
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -89,19 +104,24 @@
     {
       "id": "indefinido-04",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza minoria?",
+      "situation": "Na reunião, só uma minoria discordou da decisão.",
       "translation": "Minoria",
       "librasStructure": "MINORIA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "A minoria votou contra. → MINORIA VOTAR CONTRA.",
+        "Os surdos são minoria na escola. → ESCOLA SURDO MINORIA."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=38&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -109,19 +129,24 @@
     {
       "id": "indefinido-05",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza pouco?",
+      "situation": "Você provou a comida, mas colocou pouco no prato.",
       "translation": "Pouco",
       "librasStructure": "POUCO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Quero pouco arroz, por favor. → ARROZ POUCO, POR-FAVOR.",
+        "Dormi pouco ontem. → ONTEM EU DORMIR POUCO."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=41&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -129,19 +154,24 @@
     {
       "id": "indefinido-06",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza nada?",
+      "situation": "Você procura o material na mochila, mas não encontra nada.",
       "translation": "Nada",
       "librasStructure": "NADA",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Não tem nada na geladeira. → GELADEIRA NADA.",
+        "Você comprou o quê? — Nada. → VOCÊ COMPRAR O-QUÊ? — NADA."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=44&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -149,19 +179,24 @@
     {
       "id": "indefinido-07",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza sozinho?",
+      "situation": "Sua colega pergunta quem fez o trabalho, e você conta que fez sozinho.",
       "translation": "Sozinho",
       "librasStructure": "SOZINHO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Fiz o trabalho sozinho. → TRABALHO EU FAZER SOZINHO.",
+        "Você mora sozinha? → VOCÊ MORAR SOZINHA?"
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=47&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -169,19 +204,24 @@
     {
       "id": "indefinido-08",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza vários?",
+      "situation": "Na biblioteca, você encontra vários livros sobre o mesmo tema.",
       "translation": "Vários",
       "librasStructure": "VÁRIOS",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Tem vários livros de Libras aqui. → AQUI LIVRO LIBRAS VÁRIOS.",
+        "Visitei vários países. → EU VISITAR PAÍS VÁRIOS."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -189,19 +229,24 @@
     {
       "id": "indefinido-09",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza pouquinho?",
+      "situation": "Você oferece só um pouquinho de bolo, porque ainda vai servir outras pessoas.",
       "translation": "Pouquinho",
       "librasStructure": "POUQUINHO",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Só um pouquinho de bolo para você. → BOLO POUQUINHO VOCÊ.",
+        "Espera um pouquinho! → ESPERAR POUQUINHO!"
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=58&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -209,19 +254,23 @@
     {
       "id": "indefinido-10",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza só?",
+      "situation": "Na atividade, você informa que apenas uma pessoa ficou responsável pela tarefa.",
       "translation": "Só",
       "librasStructure": "SÓ",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Só a Ana vai apresentar. → A-N-A SÓ APRESENTAR.",
+        "Tenho só cinco reais. → EU TER R$-5,00 SÓ."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -229,19 +278,23 @@
     {
       "id": "indefinido-11",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza cada / cada um?",
+      "situation": "A professora entrega um cartão para cada estudante praticar.",
       "translation": "Cada / cada um",
       "librasStructure": "CADA / CADA UM",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Cada um traz um prato para a festa. → FESTA, CADA-UM TRAZER PRATO.",
+        "Um cartão para cada estudante. → CARTÃO CADA ESTUDANTE."
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=66&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -249,19 +302,23 @@
     {
       "id": "indefinido-12",
       "section": "Pronomes e quantificadores",
-      "situation": "Como você sinaliza ninguém?",
+      "situation": "Você pergunta quem respondeu, mas ninguém se manifestou.",
       "translation": "Ninguém",
       "librasStructure": "NINGUÉM",
       "notes": "Observe o movimento, a expressão facial e o uso do espaço no contexto de pronomes e quantificadores.",
-      "examples": [],
+      "examples": [
+        "Ninguém veio à aula. → AULA VIR NINGUÉM.",
+        "Ninguém sabe a resposta? → RESPOSTA SABER NINGUÉM?"
+      ],
       "video": "https://www.youtube.com/embed/_c--i9TIUxU?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_c--i9TIUxU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:05:03.645Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -269,19 +326,24 @@
     {
       "id": "indefinido-extra-01",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza pronomes indefinidos?",
+      "situation": "Na aula de gramática, você explica o que são pronomes indefinidos: palavras que não indicam pessoa ou quantidade exata.",
       "translation": "Pronomes indefinidos",
       "librasStructure": "PRONOMES INDEFINIDOS",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Alguém e ninguém são pronomes indefinidos. → ALGUÉM, NINGUÉM: PRONOMES INDEFINIDOS.",
+        "Hoje vamos estudar pronomes indefinidos. → HOJE NÓS ESTUDAR PRONOMES INDEFINIDOS."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=5&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -289,19 +351,24 @@
     {
       "id": "indefinido-extra-02",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza nenhum?",
+      "situation": "Você confere a lista de materiais, mas não encontra nenhum item.",
       "translation": "Nenhum",
       "librasStructure": "NENHUM",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Não tenho nenhum lápis. → LÁPIS NENHUM EU TER.",
+        "Nenhum aluno faltou. → ALUNO FALTAR NENHUM."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -309,19 +376,23 @@
     {
       "id": "indefinido-extra-03",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza alguma / alguns?",
+      "situation": "Você pergunta se existe alguma atividade ou alguns materiais disponíveis.",
       "translation": "Alguma / alguns",
       "librasStructure": "ALGUMA / ALGUNS",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Tem alguma atividade para hoje? → HOJE ATIVIDADE ALGUMA TER?",
+        "Alguns livros estão na estante. → LIVRO ALGUNS ESTANTE."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=23&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -329,19 +400,23 @@
     {
       "id": "indefinido-extra-04",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza alguém?",
+      "situation": "Você ouviu alguém chamar na porta, mas ainda não sabe quem foi.",
       "translation": "Alguém",
       "librasStructure": "ALGUÉM",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Tem alguém na porta. → PORTA ALGUÉM TER.",
+        "Alguém viu meu celular? → CELULAR MEU ALGUÉM VER?"
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -349,20 +424,25 @@
     {
       "id": "indefinido-extra-05",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza ninguém?",
+      "situation": "Você perguntou quem queria participar, mas ninguém levantou a mão. Use a variação de ninguém.",
       "translation": "Ninguém (variação)",
       "librasStructure": "NINGUÉM",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Ninguém quis participar. → PARTICIPAR QUERER NINGUÉM.",
+        "Ninguém me avisou! → AVISAR-ME NINGUÉM!"
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -370,19 +450,24 @@
     {
       "id": "indefinido-extra-06",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza todos / tudo?",
+      "situation": "Antes de encerrar, a professora confirma que todos entregaram tudo.",
       "translation": "Todos / tudo",
       "librasStructure": "TODOS / TUDO",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Todos entregaram a tarefa? → TAREFA ENTREGAR TODOS?",
+        "Comi tudo! → EU COMER TUDO!"
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -390,20 +475,25 @@
     {
       "id": "indefinido-extra-07",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza nada?",
+      "situation": "Você abre a caixa e não há nada dentro. Use a variação do sinal de nada.",
       "translation": "Nada (variação)",
       "librasStructure": "NADA",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "A caixa está vazia, não tem nada. → CAIXA VAZIA, NADA.",
+        "Não entendi nada. → EU ENTENDER NADA."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=40&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -411,19 +501,23 @@
     {
       "id": "indefinido-extra-08",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza qualquer?",
+      "situation": "A professora diz que você pode escolher qualquer tema para o trabalho.",
       "translation": "Qualquer",
       "librasStructure": "QUALQUER",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Pode escolher qualquer tema. → TEMA QUALQUER ESCOLHER PODER.",
+        "Qualquer dia eu passo na sua casa. → DIA QUALQUER EU PASSAR CASA SUA."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=43&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -431,19 +525,23 @@
     {
       "id": "indefinido-extra-09",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza cada?",
+      "situation": "A organização chama cada participante pelo nome para receber o material.",
       "translation": "Cada",
       "librasStructure": "CADA",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Cada participante recebe um certificado. → PARTICIPANTE CADA RECEBER CERTIFICADO.",
+        "Cada dia aprendo um sinal novo. → DIA CADA EU APRENDER SINAL NOVO."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=46&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-07T16:07:12.688Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -451,20 +549,25 @@
     {
       "id": "indefinido-extra-10",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza só?",
+      "situation": "Você explica que só uma pessoa vai apresentar, usando a variação do sinal de só.",
       "translation": "Só (variação)",
       "librasStructure": "SÓ",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Só ele vai apresentar. → ELE SÓ APRESENTAR.",
+        "Só falta você! → FALTAR VOCÊ SÓ!"
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=50&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -472,20 +575,25 @@
     {
       "id": "indefinido-extra-11",
       "section": "Variações e revisão",
-      "situation": "Como você sinaliza sozinho?",
+      "situation": "Seu colega pergunta com quem você fez a tarefa, e você responde que fez sozinho (variação).",
       "translation": "Sozinho (variação)",
       "librasStructure": "SOZINHO",
       "notes": "Observe a variação apresentada neste vídeo.",
-      "examples": [],
+      "examples": [
+        "Aprendi Libras sozinho? Não, com professor. → LIBRAS EU APRENDER SOZINHO? NÃO, PROFESSOR.",
+        "O bebê não pode ficar sozinho. → BEBÊ FICAR SOZINHO PODER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/HitEI1ZtiT4?start=53&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T03:10:00.000Z",
+          "at": "2026-10-11T00:05:35.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]

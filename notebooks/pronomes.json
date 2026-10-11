@@ -28,19 +28,25 @@
     {
       "id": "pronomes-01",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eu”?",
+      "situation": "Na apresentação, você aponta para si mesmo e diz “eu”: conte quem você é e que estuda Libras.",
       "translation": "Eu",
       "librasStructure": "EU",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eu sou surdo. → EU SURDO.",
+        "Eu estudo Libras à noite. → EU ESTUDAR LIBRAS NOITE.",
+        "Eu também gosto de pizza! → EU TAMBÉM GOSTAR P-I-Z-Z-A!"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=19&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -48,19 +54,23 @@
     {
       "id": "pronomes-02",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “você”?",
+      "situation": "Você encontrou uma colega nova e quer perguntar se ela também estuda Libras.",
       "translation": "Você",
       "librasStructure": "VOCÊ",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você é surda? → VOCÊ SURDA?",
+        "Você mora perto da escola? → VOCÊ MORAR PERTO ESCOLA?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=30&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -68,19 +78,25 @@
     {
       "id": "pronomes-03",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “ele / ela”?",
+      "situation": "Sua colega fala de uma pessoa que não está na sala. Aponte para o lado e pergunte quem é ele ou ela.",
       "translation": "Ele / ela",
       "librasStructure": "ELE/ELA",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quem é ela? → ELA QUEM?",
+        "Ele é meu irmão. → ELE IRMÃO MEU.",
+        "Ela não veio hoje. → HOJE ELA VIR NÃO."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=34&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +104,24 @@
     {
       "id": "pronomes-04",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “plural (nós, vocês, eles)”?",
+      "situation": "A professora olha para toda a turma e usa o plural (nós, vocês, eles) para perguntar quem vai participar.",
       "translation": "Plural (nós, vocês, eles)",
       "librasStructure": "PLURAL",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês vão participar? → VOCÊS PARTICIPAR?",
+        "Eles chegaram atrasados. → ELES CHEGAR ATRASADO."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=41&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -108,19 +129,24 @@
     {
       "id": "pronomes-05",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “nós dois”?",
+      "situation": "Você e uma colega vão praticar o diálogo em dupla. Diga “nós dois” vamos treinar.",
       "translation": "Nós dois",
       "librasStructure": "NÓS-DOIS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Nós dois estudamos juntos. → NÓS-DOIS ESTUDAR JUNTO.",
+        "Nós dois vamos de ônibus? → NÓS-DOIS IR ÔNIBUS?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=47&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -128,19 +154,24 @@
     {
       "id": "pronomes-06",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “nós três”?",
+      "situation": "Três colegas combinam de preparar uma apresentação em Libras. Diga que “nós três” vamos fazer o trabalho.",
       "translation": "Nós três",
       "librasStructure": "NÓS-TRÊS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Nós três vamos apresentar sexta-feira. → NÓS-TRÊS APRESENTAR SEXTA-FEIRA.",
+        "Nós três somos primos. → NÓS-TRÊS PRIMO."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -148,19 +179,24 @@
     {
       "id": "pronomes-07",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “nós quatro”?",
+      "situation": "Quatro estudantes formam uma equipe. Diga que “nós quatro” vamos revisar os cartões.",
       "translation": "Nós quatro",
       "librasStructure": "NÓS-QUATRO",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Nós quatro vamos revisar os cartões. → NÓS-QUATRO REVISAR CARTÃO.",
+        "Nós quatro cabemos no carro? → NÓS-QUATRO CARRO CABER?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=56&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -168,19 +204,24 @@
     {
       "id": "pronomes-08",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “nós / todos nós”?",
+      "situation": "A turma terminou a atividade e você chama todas as pessoas: “nós, todos nós” vamos conversar.",
       "translation": "Nós / todos nós",
       "librasStructure": "NÓS/TODOS-NÓS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Todos nós vamos à festa! → TODOS-NÓS IR FESTA!",
+        "Nós somos uma turma unida. → NÓS TURMA UNIDA."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=61&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -188,19 +229,24 @@
     {
       "id": "pronomes-09",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “vocês”?",
+      "situation": "Você fala com duas colegas que estão preparando o trabalho e pergunta se “vocês” precisam de ajuda.",
       "translation": "Vocês",
       "librasStructure": "VOCÊS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês precisam de ajuda? → VOCÊS PRECISAR AJUDA?",
+        "Vocês moram juntos? → VOCÊS MORAR JUNTO?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -208,19 +254,24 @@
     {
       "id": "pronomes-10",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “vocês dois”?",
+      "situation": "Duas colegas chegam para praticar com você. Pergunte se “vocês dois” já sabem o diálogo.",
       "translation": "Vocês dois",
       "librasStructure": "VOCÊS-DOIS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês dois são irmãos? → VOCÊS-DOIS IRMÃO?",
+        "Vocês dois querem café? → VOCÊS-DOIS QUERER CAFÉ?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -228,19 +279,24 @@
     {
       "id": "pronomes-11",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “vocês três”?",
+      "situation": "Três estudantes estão na porta. Pergunte se “vocês três” vão entrar.",
       "translation": "Vocês três",
       "librasStructure": "VOCÊS-TRÊS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês três vão entrar? → VOCÊS-TRÊS ENTRAR?",
+        "Vocês três fazem o cartaz. → VOCÊS-TRÊS FAZER CARTAZ."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=75&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -248,19 +304,24 @@
     {
       "id": "pronomes-12",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “vocês quatro”?",
+      "situation": "Quatro colegas esperam a divisão das tarefas. Explique o que “vocês quatro” vão fazer.",
       "translation": "Vocês quatro",
       "librasStructure": "VOCÊS-QUATRO",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês quatro ficam com a pesquisa. → VOCÊS-QUATRO PESQUISA FICAR.",
+        "Vocês quatro já almoçaram? → VOCÊS-QUATRO ALMOÇAR JÁ?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -268,19 +329,24 @@
     {
       "id": "pronomes-13",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “vocês (grupo)”?",
+      "situation": "Você se dirige a um grupo inteiro antes da atividade e pergunta se “vocês” estão prontos.",
       "translation": "Vocês (grupo)",
       "librasStructure": "VOCÊS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Vocês estão prontos? → VOCÊS PRONTO?",
+        "Obrigado a vocês pela ajuda! → OBRIGADO VOCÊS AJUDAR!"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -288,19 +354,24 @@
     {
       "id": "pronomes-14",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eles dois / elas duas”?",
+      "situation": "Duas colegas faltaram à aula. Explique que “elas duas” vão enviar o trabalho.",
       "translation": "Eles dois / elas duas",
       "librasStructure": "ELES-DOIS/ELAS-DUAS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Elas duas vão mandar o trabalho. → ELAS-DUAS MANDAR TRABALHO.",
+        "Eles dois são casados. → ELES-DOIS CASADO."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=88&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -308,19 +379,24 @@
     {
       "id": "pronomes-15",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eles três”?",
+      "situation": "Três estudantes organizaram os materiais antes da aula. Conte que “eles três” ajudaram.",
       "translation": "Eles três",
       "librasStructure": "ELES-TRÊS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eles três organizaram tudo. → ELES-TRÊS ORGANIZAR TUDO.",
+        "Eles três são da mesma família? → ELES-TRÊS FAMÍLIA MESMA?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=91&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -328,19 +404,24 @@
     {
       "id": "pronomes-16",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eles quatro”?",
+      "situation": "Quatro colegas estão em outro grupo. Comente a apresentação que “eles quatro” fizeram.",
       "translation": "Eles quatro",
       "librasStructure": "ELES-QUATRO",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eles quatro apresentaram muito bem. → ELES-QUATRO APRESENTAR BEM.",
+        "Eles quatro vão de van. → ELES-QUATRO IR VAN."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -348,19 +429,24 @@
     {
       "id": "pronomes-17",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eles todos / elas todas”?",
+      "situation": "Toda a equipe concluiu a atividade. Comente que “eles todos” ou “elas todas” terminaram.",
       "translation": "Eles todos / elas todas",
       "librasStructure": "ELES-TODOS/ELAS-TODAS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Elas todas são surdas. → ELAS-TODAS SURDA.",
+        "Eles todos já foram embora. → ELES-TODOS IR-EMBORA JÁ."
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=100&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -368,19 +454,24 @@
     {
       "id": "pronomes-18",
       "section": "Pessoais",
-      "situation": "Como você sinaliza “eles (grupo)”?",
+      "situation": "Um grupo de estudantes chegou depois do início da aula. Comente que “eles” se atrasaram.",
       "translation": "Eles (grupo)",
       "librasStructure": "ELES",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eles chegaram atrasados. → ELES CHEGAR ATRASADO.",
+        "Quem são eles? → ELES QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/Cn_XxJ_qDbc?start=107&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Cn_XxJ_qDbc",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -388,19 +479,24 @@
     {
       "id": "pronomes-19",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “meu / minha”?",
+      "situation": "Você mostra seu caderno para uma colega e diz que é o “meu” caderno.",
       "translation": "Meu / minha",
       "librasStructure": "MEU/MINHA",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse é o meu caderno. → CADERNO MEU ESSE.",
+        "Minha mãe é surda. → MÃE MINHA SURDA."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=9&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -408,19 +504,24 @@
     {
       "id": "pronomes-20",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “seu / sua”?",
+      "situation": "Uma colega deixou um material sobre a mesa. Pergunte se é “seu” ou “sua”.",
       "translation": "Seu / sua",
       "librasStructure": "SEU/SUA",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa bolsa é sua? → BOLSA ESSA SUA?",
+        "Qual é o seu nome? → NOME SEU QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=17&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -428,19 +529,24 @@
     {
       "id": "pronomes-21",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “dele / dela”?",
+      "situation": "Você encontrou um livro e explica que é “dele” ou “dela”, apontando para o dono.",
       "translation": "Dele / dela",
       "librasStructure": "DELE/DELA",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse celular é dela. → CELULAR ESSE DELA.",
+        "O carro dele é novo. → CARRO DELE NOVO."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -448,19 +554,24 @@
     {
       "id": "pronomes-22",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “de (uma) pessoa”?",
+      "situation": "Você encontrou um objeto e sabe que é “de” uma pessoa da turma. Diga de quem é.",
       "translation": "De (uma) pessoa",
       "librasStructure": "DE",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse livro é da Ana. → LIVRO ESSE DE A-N-A.",
+        "De quem é essa mochila? → MOCHILA ESSA DE QUEM?"
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -468,19 +579,23 @@
     {
       "id": "pronomes-23",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “próprio”?",
+      "situation": "Você quer explicar que cada estudante deve trazer seu próprio material.",
       "translation": "Próprio",
       "librasStructure": "PRÓPRIO",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Traga seu próprio material. → MATERIAL PRÓPRIO TRAZER.",
+        "Ele tem o próprio carro. → ELE TER CARRO PRÓPRIO."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -488,19 +603,24 @@
     {
       "id": "pronomes-24",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “meu (egoísmo)”?",
+      "situation": "Uma colega não quer emprestar nada e diz “é meu!”. Comente que ela só pensa em si (sinal de MEU com sentido de egoísmo).",
       "translation": "Meu (egoísmo)",
       "librasStructure": "MEU",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela sempre diz: é meu, é meu! → ELA SEMPRE: MEU, MEU!",
+        "Não seja egoísta, empresta o lápis. → MEU NÃO, LÁPIS EMPRESTAR."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=39&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -508,19 +628,24 @@
     {
       "id": "pronomes-25",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “deles dois / delas duas”?",
+      "situation": "Duas colegas fizeram juntas um trabalho. Diga que o trabalho é “delas duas”.",
       "translation": "Deles dois / delas duas",
       "librasStructure": "DELES-DOIS/DELAS-DUAS",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse trabalho é delas duas. → TRABALHO ESSE DELAS-DUAS.",
+        "O carro é deles dois. → CARRO DELES-DOIS."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -528,19 +653,24 @@
     {
       "id": "pronomes-26",
       "section": "Possessivos",
-      "situation": "Como você sinaliza “nosso / nossa”?",
+      "situation": "Você e sua equipe apresentam o trabalho e dizem que é o “nosso” trabalho.",
       "translation": "Nosso / nossa",
       "librasStructure": "NOSSO/NOSSA",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse é o nosso trabalho. → TRABALHO NOSSO ESSE.",
+        "Nossa casa fica perto da escola. → CASA NOSSA PERTO ESCOLA."
+      ],
       "video": "https://www.youtube.com/embed/eR9naZBy17M?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=eR9naZBy17M",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -548,19 +678,24 @@
     {
       "id": "pronomes-27",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “advérbio interrogativo”?",
+      "situation": "Você quer descobrir uma informação e usa um advérbio interrogativo (onde, quando, por quê…) adequado à conversa.",
       "translation": "Advérbio interrogativo",
       "librasStructure": "ADVÉRBIO-INTERROGATIVO",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Onde, quando e por quê são advérbios interrogativos. → ONDE, QUANDO, POR-QUÊ: ADVÉRBIO-INTERROGATIVO.",
+        "Em Libras, o advérbio interrogativo vem com a expressão facial. → LIBRAS ADVÉRBIO-INTERROGATIVO EXPRESSÃO-FACIAL JUNTO."
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=18&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -568,19 +703,25 @@
     {
       "id": "pronomes-28",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “onde?”?",
+      "situation": "Você chegou à escola e não encontrou sua sala. Pergunte “onde?” ela fica.",
       "translation": "Onde?",
       "librasStructure": "ONDE?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Onde fica a sala de Libras? → SALA LIBRAS ONDE?",
+        "Onde você mora? → VOCÊ MORAR ONDE?",
+        "Onde está meu celular? → CELULAR MEU ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=24&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -588,19 +729,24 @@
     {
       "id": "pronomes-29",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “O quê?”?",
+      "situation": "Uma colega sinalizou rápido e você não entendeu. Pergunte “o quê?”.",
       "translation": "O quê?",
       "librasStructure": "O-QUÊ?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O quê? Repete, por favor. → O-QUÊ? REPETIR, POR-FAVOR.",
+        "Você vai comprar o quê? → VOCÊ COMPRAR O-QUÊ?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=29&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -608,19 +754,24 @@
     {
       "id": "pronomes-30",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “O que aconteceu?”?",
+      "situation": "Você percebe uma movimentação no corredor e pergunta: “o que aconteceu?”.",
       "translation": "O que aconteceu?",
       "librasStructure": "O-QUE-ACONTECEU?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O que aconteceu com você? → VOCÊ O-QUE-ACONTECEU?",
+        "Você está triste. O que aconteceu? → VOCÊ TRISTE. O-QUE-ACONTECEU?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=34&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -628,19 +779,24 @@
     {
       "id": "pronomes-31",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “para quê?”?",
+      "situation": "Uma colega pediu seu caderno e você pergunta “para quê?”.",
       "translation": "Para quê?",
       "librasStructure": "PARA-QUÊ?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você quer meu caderno para quê? → CADERNO MEU VOCÊ QUERER PARA-QUÊ?",
+        "Para que serve esse cartão? → CARTÃO ESSE SERVIR PARA-QUÊ?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=39&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -648,19 +804,24 @@
     {
       "id": "pronomes-32",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “por quê?”?",
+      "situation": "Seu colega faltou à aula e você pergunta “por quê?”.",
       "translation": "Por quê?",
       "librasStructure": "POR-QUÊ?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Por que você faltou? → VOCÊ FALTAR POR-QUÊ?",
+        "Por que você está triste? → VOCÊ TRISTE POR-QUÊ?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=44&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -668,19 +829,24 @@
     {
       "id": "pronomes-33",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “quando? (passado)”?",
+      "situation": "Uma colega foi a um evento e você pergunta “quando?” foi, no passado.",
       "translation": "Quando? (passado)",
       "librasStructure": "QUANDO?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quando você foi ao evento? → VOCÊ IR EVENTO QUANDO?",
+        "Quando você chegou? → VOCÊ CHEGAR QUANDO?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=51&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -688,19 +854,24 @@
     {
       "id": "pronomes-34",
       "section": "Interrogativos",
-      "situation": "Como você sinaliza “quando?”?",
+      "situation": "A turma quer marcar o próximo encontro e você pergunta “quando?”.",
       "translation": "Quando?",
       "librasStructure": "QUANDO?",
       "notes": "Em Libras, os pronomes pessoais apontam para o lugar da pessoa no espaço; o número de dedos ou o movimento circular indica quantas pessoas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quando é a prova? → PROVA QUANDO?",
+        "Quando vamos estudar juntos? → NÓS ESTUDAR JUNTO QUANDO?"
+      ],
       "video": "https://www.youtube.com/embed/piMQ9gMfah0?start=64&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=piMQ9gMfah0",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:02:31.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

@@ -22,19 +22,23 @@
     {
       "id": "biologia-01",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “célula”?",
+      "situation": "No microscópio, você observa uma célula e explica por que ela é a unidade básica dos seres vivos.",
       "translation": "Célula",
       "librasStructure": "CÉLULA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A célula é a menor parte do ser vivo. → CÉLULA SER-VIVO PARTE MENOR.",
+        "Vimos a célula no microscópio. → MICROSCÓPIO NÓS CÉLULA VER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=5&end=9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -42,19 +46,23 @@
     {
       "id": "biologia-02",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “mitocôndria”?",
+      "situation": "Ao estudar a célula, você aponta a mitocôndria e relaciona sua função à produção de energia.",
       "translation": "Mitocôndria",
       "librasStructure": "MITOCÔNDRIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A mitocôndria produz energia. → MITOCÔNDRIA ENERGIA PRODUZIR.",
+        "Onde fica a mitocôndria na célula? → CÉLULA MITOCÔNDRIA ONDE?"
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=10&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -62,19 +70,23 @@
     {
       "id": "biologia-03",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “RNA”?",
+      "situation": "Na atividade sobre material genético, você compara RNA e DNA no esquema apresentado pela professora.",
       "translation": "RNA",
       "librasStructure": "RNA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O RNA ajuda a fazer proteínas. → RNA PROTEÍNA FAZER AJUDAR.",
+        "Qual a diferença entre RNA e DNA? → RNA DNA DIFERENÇA QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -82,19 +94,23 @@
     {
       "id": "biologia-04",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “gene”?",
+      "situation": "Ao montar o esquema da hereditariedade, você mostra onde o gene aparece no material genético.",
       "translation": "Gene",
       "librasStructure": "GENE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O gene passa de pai para filho. → GENE PAI FILHO PASSAR.",
+        "A surdez pode ter origem em um gene. → SURDEZ ORIGEM GENE PODER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=41&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -102,19 +118,23 @@
     {
       "id": "biologia-05",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “genótipo”?",
+      "situation": "Na atividade de genética, você diferencia o genótipo da característica observada em uma pessoa.",
       "translation": "Genótipo",
       "librasStructure": "GENÓTIPO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O genótipo é a informação dos genes. → GENÓTIPO GENE INFORMAÇÃO.",
+        "Não dá para ver o genótipo a olho nu. → GENÓTIPO OLHO VER NÃO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -122,19 +142,23 @@
     {
       "id": "biologia-06",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “fenótipo”?",
+      "situation": "Ao comparar irmãos, você explica que o fenótipo é a característica que pode ser observada.",
       "translation": "Fenótipo",
       "librasStructure": "FENÓTIPO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A cor dos olhos é fenótipo. → OLHOS COR FENÓTIPO.",
+        "Irmãos podem ter fenótipos diferentes. → IRMÃO FENÓTIPO DIFERENTE PODER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=59&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -142,19 +166,23 @@
     {
       "id": "biologia-07",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “alelo”?",
+      "situation": "No quadro de cruzamentos, você marca cada alelo e explica sua participação na herança.",
       "translation": "Alelo",
       "librasStructure": "ALELO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cada pessoa tem dois alelos de cada gene. → PESSOA GENE ALELO 2.",
+        "O alelo dominante aparece mais. → ALELO DOMINANTE APARECER MAIS."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -162,19 +190,23 @@
     {
       "id": "biologia-08",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “genética”?",
+      "situation": "Na conversa sobre características familiares, você relaciona genética à transmissão de informações entre gerações.",
       "translation": "Genética",
       "librasStructure": "GENÉTICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A genética explica por que pareço com minha mãe. → GENÉTICA EXPLICAR EU PARECER MÃE MINHA.",
+        "Quero estudar genética. → EU QUERER GENÉTICA ESTUDAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -182,19 +214,23 @@
     {
       "id": "biologia-09",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “homeostase”?",
+      "situation": "Ao estudar o corpo, você explica como a homeostase mantém o equilíbrio interno mesmo com mudanças externas.",
       "translation": "Homeostase",
       "librasStructure": "HOMEOSTASE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O suor ajuda a homeostase no calor. → CALOR, SUOR HOMEOSTASE AJUDAR.",
+        "A homeostase mantém o corpo em equilíbrio. → HOMEOSTASE CORPO EQUILÍBRIO MANTER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=74&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -202,19 +238,23 @@
     {
       "id": "biologia-10",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “hormônio”?",
+      "situation": "Na aula sobre o corpo, você explica que um hormônio transmite sinais e regula diferentes funções.",
       "translation": "Hormônio",
       "librasStructure": "HORMÔNIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A insulina é um hormônio. → INSULINA HORMÔNIO.",
+        "Na adolescência, os hormônios mudam. → ADOLESCENTE HORMÔNIO MUDAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=80&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -222,19 +262,23 @@
     {
       "id": "biologia-11",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “metabolismo”?",
+      "situation": "Ao falar sobre alimentação, você explica como o metabolismo transforma nutrientes em energia.",
       "translation": "Metabolismo",
       "librasStructure": "METABOLISMO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu metabolismo é rápido. → METABOLISMO MEU RÁPIDO.",
+        "Exercício acelera o metabolismo. → EXERCÍCIO METABOLISMO ACELERAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=87&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -242,19 +286,23 @@
     {
       "id": "biologia-12",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “sinapse”?",
+      "situation": "No desenho do sistema nervoso, você mostra a sinapse e explica como os neurônios se comunicam.",
       "translation": "Sinapse",
       "librasStructure": "SINAPSE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na sinapse, um neurônio passa a mensagem ao outro. → SINAPSE NEURÔNIO MENSAGEM PASSAR.",
+        "A sinapse é muito rápida. → SINAPSE RÁPIDO MUITO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=96&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -262,19 +310,23 @@
     {
       "id": "biologia-13",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “hemoglobina”?",
+      "situation": "Ao observar uma imagem do sangue, você relaciona a hemoglobina ao transporte de oxigênio.",
       "translation": "Hemoglobina",
       "librasStructure": "HEMOGLOBINA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A hemoglobina leva oxigênio no sangue. → HEMOGLOBINA OXIGÊNIO SANGUE LEVAR.",
+        "Minha hemoglobina está baixa: anemia. → HEMOGLOBINA MINHA BAIXA: ANEMIA."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=103&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -282,19 +334,23 @@
     {
       "id": "biologia-14",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “anatomia”?",
+      "situation": "Na aula prática, você usa um modelo para estudar a anatomia e localizar partes do corpo.",
       "translation": "Anatomia",
       "librasStructure": "ANATOMIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na anatomia, estudamos as partes do corpo. → ANATOMIA CORPO PARTE NÓS ESTUDAR.",
+        "A aula de anatomia é no laboratório. → AULA ANATOMIA LABORATÓRIO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=113&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -302,19 +358,23 @@
     {
       "id": "biologia-15",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “tecido”?",
+      "situation": "Ao observar uma lâmina, você explica que um tecido reúne células com funções semelhantes.",
       "translation": "Tecido",
       "librasStructure": "TECIDO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O músculo é um tipo de tecido. → MÚSCULO TECIDO TIPO.",
+        "Vimos o tecido da pele no microscópio. → PELE TECIDO MICROSCÓPIO NÓS VER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=125&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -322,19 +382,23 @@
     {
       "id": "biologia-16",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “órgão”?",
+      "situation": "No modelo do corpo humano, você identifica um órgão e relaciona sua função ao sistema correspondente.",
       "translation": "Órgão",
       "librasStructure": "ÓRGÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O coração é um órgão. → CORAÇÃO ÓRGÃO.",
+        "Doar órgão salva vidas. → ÓRGÃO DOAR VIDA SALVAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=131&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -342,19 +406,23 @@
     {
       "id": "biologia-17",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “sistema nervoso”?",
+      "situation": "Ao estudar os sentidos, você explica como o sistema nervoso recebe e organiza informações.",
       "translation": "Sistema nervoso",
       "librasStructure": "SISTEMA-NERVOSO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sistema nervoso controla o corpo. → SISTEMA-NERVOSO CORPO CONTROLAR.",
+        "O cérebro faz parte do sistema nervoso. → CÉREBRO SISTEMA-NERVOSO PARTE."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=139&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -362,19 +430,23 @@
     {
       "id": "biologia-18",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “sistema digestório”?",
+      "situation": "Durante a aula sobre alimentação, você acompanha o caminho do alimento pelo sistema digestório.",
       "translation": "Sistema digestório",
       "librasStructure": "SISTEMA-DIGESTÓRIO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O estômago faz parte do sistema digestório. → ESTÔMAGO SISTEMA-DIGESTÓRIO PARTE.",
+        "O sistema digestório começa na boca. → SISTEMA-DIGESTÓRIO COMEÇAR BOCA."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=151&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -382,19 +454,23 @@
     {
       "id": "biologia-19",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “sistema cardiovascular”?",
+      "situation": "Ao estudar a circulação, você relaciona o coração e os vasos ao sistema cardiovascular.",
       "translation": "Sistema cardiovascular",
       "librasStructure": "SISTEMA-CARDIOVASCULAR",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O sistema cardiovascular leva o sangue pelo corpo. → SISTEMA-CARDIOVASCULAR SANGUE CORPO LEVAR.",
+        "Exercício faz bem ao sistema cardiovascular. → EXERCÍCIO SISTEMA-CARDIOVASCULAR BOM."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=160&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -402,19 +478,23 @@
     {
       "id": "biologia-20",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “ecologia”?",
+      "situation": "No passeio pelo parque, você relaciona ecologia às relações entre os seres vivos e o ambiente.",
       "translation": "Ecologia",
       "librasStructure": "ECOLOGIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A ecologia estuda os seres vivos e o ambiente. → ECOLOGIA SER-VIVO AMBIENTE ESTUDAR.",
+        "Vamos fazer um trabalho de ecologia no parque. → PARQUE NÓS TRABALHO ECOLOGIA FAZER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=174&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -422,19 +502,23 @@
     {
       "id": "biologia-21",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “meio ambiente”?",
+      "situation": "Na atividade do bairro, você identifica problemas no meio ambiente e propõe uma ação de cuidado.",
       "translation": "Meio ambiente",
       "librasStructure": "MEIO-AMBIENTE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Cuide do meio ambiente: não jogue lixo no chão. → MEIO-AMBIENTE CUIDAR: LIXO CHÃO JOGAR NÃO.",
+        "O Dia do Meio Ambiente é em junho. → DIA MEIO-AMBIENTE JUNHO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=184&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -442,19 +526,23 @@
     {
       "id": "biologia-22",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “ecossistema”?",
+      "situation": "Ao observar uma lagoa, você explica que plantas, animais e água formam um ecossistema.",
       "translation": "Ecossistema",
       "librasStructure": "ECOSSISTEMA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cerrado é um ecossistema. → CERRADO ECOSSISTEMA.",
+        "A poluição destrói o ecossistema do rio. → POLUIÇÃO RIO ECOSSISTEMA DESTRUIR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=192&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -462,19 +550,23 @@
     {
       "id": "biologia-23",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “biodiversidade”?",
+      "situation": "No passeio, você registra a biodiversidade do parque e compara a quantidade de espécies encontradas.",
       "translation": "Biodiversidade",
       "librasStructure": "BIODIVERSIDADE",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O Brasil tem muita biodiversidade. → BRASIL BIODIVERSIDADE MUITO.",
+        "O desmatamento ameaça a biodiversidade. → DESMATAMENTO BIODIVERSIDADE AMEAÇAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=201&end=208&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -482,19 +574,23 @@
     {
       "id": "biologia-24",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “nicho ecológico”?",
+      "situation": "Ao estudar uma abelha, você explica seu nicho ecológico e a função que ela exerce no ambiente.",
       "translation": "Nicho ecológico",
       "librasStructure": "NICHO-ECOLÓGICO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O nicho ecológico da abelha é polinizar. → ABELHA NICHO-ECOLÓGICO POLINIZAR.",
+        "Cada espécie tem seu nicho ecológico. → ESPÉCIES CADA NICHO-ECOLÓGICO TER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=209&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -502,19 +598,23 @@
     {
       "id": "biologia-25",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “sucessão ecológica”?",
+      "situation": "Ao observar uma área que voltou a ter plantas, você explica as etapas da sucessão ecológica.",
       "translation": "Sucessão ecológica",
       "librasStructure": "SUCESSÃO-ECOLÓGICA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Depois do incêndio, começou a sucessão ecológica. → INCÊNDIO DEPOIS, SUCESSÃO-ECOLÓGICA COMEÇAR.",
+        "A sucessão ecológica leva muitos anos. → SUCESSÃO-ECOLÓGICA ANO MUITO DEMORAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=218&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -522,19 +622,23 @@
     {
       "id": "biologia-26",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “imunologia”?",
+      "situation": "Na aula de saúde, você relaciona imunologia à defesa do corpo contra doenças.",
       "translation": "Imunologia",
       "librasStructure": "IMUNOLOGIA",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A imunologia estuda a defesa do corpo. → IMUNOLOGIA CORPO DEFESA ESTUDAR.",
+        "As vacinas vêm da imunologia. → VACINA VIR IMUNOLOGIA."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=231&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -542,19 +646,23 @@
     {
       "id": "biologia-27",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “antígeno”?",
+      "situation": "Ao explicar uma vacina, você mostra como o antígeno estimula uma resposta do sistema imune.",
       "translation": "Antígeno",
       "librasStructure": "ANTÍGENO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O antígeno faz o corpo reagir. → ANTÍGENO CORPO REAGIR FAZER.",
+        "A vacina tem antígeno enfraquecido. → VACINA ANTÍGENO FRACO TER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=254&end=263&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -562,19 +670,23 @@
     {
       "id": "biologia-28",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “anticorpo”?",
+      "situation": "No esquema de defesa do corpo, você aponta o anticorpo e explica sua relação com o antígeno.",
       "translation": "Anticorpo",
       "librasStructure": "ANTICORPO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O anticorpo combate o vírus. → ANTICORPO VÍRUS COMBATER.",
+        "Depois da vacina, o corpo faz anticorpos. → VACINA DEPOIS, CORPO ANTICORPO FAZER."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=263&end=274&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -582,19 +694,23 @@
     {
       "id": "biologia-29",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “evolução”?",
+      "situation": "Ao comparar fósseis e espécies atuais, você explica como a evolução ocorre ao longo do tempo.",
       "translation": "Evolução",
       "librasStructure": "EVOLUÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Darwin estudou a evolução. → DARWIN EVOLUÇÃO ESTUDAR.",
+        "A evolução leva milhões de anos. → EVOLUÇÃO ANO MILHÕES DEMORAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=282&end=289&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -602,19 +718,23 @@
     {
       "id": "biologia-30",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “adaptação”?",
+      "situation": "Ao observar um animal em seu ambiente, você relaciona uma característica à adaptação para sobreviver.",
       "translation": "Adaptação",
       "librasStructure": "ADAPTAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O camelo tem adaptação ao deserto. → CAMELO DESERTO ADAPTAÇÃO TER.",
+        "A adaptação ajuda a espécie a sobreviver. → ADAPTAÇÃO ESPÉCIES SOBREVIVER AJUDAR."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=290&end=295&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -622,19 +742,23 @@
     {
       "id": "biologia-31",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “mutação”?",
+      "situation": "Na atividade de genética, você explica que uma mutação pode alterar uma característica e tem efeitos variados.",
       "translation": "Mutação",
       "librasStructure": "MUTAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Uma mutação mudou a cor da flor. → MUTAÇÃO FLOR COR MUDAR.",
+        "Nem toda mutação é ruim. → MUTAÇÃO TODA RUIM NÃO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=296&end=302&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -642,19 +766,23 @@
     {
       "id": "biologia-32",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “espécies”?",
+      "situation": "No inventário do parque, você separa os seres observados por espécies e registra as diferenças.",
       "translation": "Espécies",
       "librasStructure": "ESPÉCIES",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "O cerrado tem muitas espécies de aves. → CERRADO ESPÉCIES PÁSSARO MUITO.",
+        "Essa espécie está em extinção. → ESPÉCIES ESSA EXTINÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=303&end=311&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -662,19 +790,23 @@
     {
       "id": "biologia-33",
       "section": "Biologia",
-      "situation": "Numa aula de biologia, como você sinaliza “fossilização”?",
+      "situation": "Ao estudar um fóssil, você explica como a fossilização preserva marcas de seres vivos do passado.",
       "translation": "Fossilização",
       "librasStructure": "FOSSILIZAÇÃO",
       "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A fossilização demora milhares de anos. → FOSSILIZAÇÃO ANO MILHARES DEMORAR.",
+        "O osso de dinossauro passou por fossilização. → DINOSSAURO OSSO FOSSILIZAÇÃO."
+      ],
       "video": "https://www.youtube.com/embed/X6tFRPAHo7Q?start=313&end=339&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=X6tFRPAHo7Q",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:22:13.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]

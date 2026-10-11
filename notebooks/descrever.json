@@ -28,19 +28,23 @@
     {
       "id": "descrever-01",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “quadrado”?",
+      "situation": "Na vitrine, você compara duas bolsas e escolhe a que tem formato quadrado.",
       "translation": "Quadrado",
       "librasStructure": "QUADRADO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quero a bolsa quadrada. → EU QUERER BOLSA QUADRADA.",
+        "A mesa é redonda ou quadrada? → MESA REDONDA OU QUADRADA?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=22&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -48,19 +52,24 @@
     {
       "id": "descrever-02",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “listrado / listrada”?",
+      "situation": "Uma colega mostra duas blusas, e você escolhe a listrada.",
       "translation": "Listrado / listrada",
       "librasStructure": "LISTRADO/LISTRADA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Gostei da blusa listrada. → BLUSA LISTRADA EU GOSTAR.",
+        "A camisa do time é listrada. → CAMISA TIME LISTRADA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=28&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -68,19 +77,24 @@
     {
       "id": "descrever-03",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “desenho (estampa)”?",
+      "situation": "Na loja, você aponta para o desenho (estampa) da camiseta e pergunta se há outro.",
       "translation": "Desenho (estampa)",
       "librasStructure": "DESENHO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Tem camiseta com outro desenho? → CAMISETA DESENHO OUTRO TER?",
+        "Meu filho gosta de roupa com desenho de carro. → FILHO MEU GOSTAR ROUPA DESENHO CARRO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=34&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -88,19 +102,24 @@
     {
       "id": "descrever-04",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “florido”?",
+      "situation": "Para uma festa, sua colega escolhe um vestido florido.",
       "translation": "Florido",
       "librasStructure": "FLORIDO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Seu vestido florido é lindo! → VESTIDO FLORIDO SEU LINDO!",
+        "Prefiro saia florida ou lisa? → SAIA FLORIDA OU LISA, QUAL?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -108,19 +127,24 @@
     {
       "id": "descrever-05",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “riscado”?",
+      "situation": "Você encontra uma folha toda riscada e pergunta quem riscou.",
       "translation": "Riscado",
       "librasStructure": "RISCADO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quem riscou meu caderno? → CADERNO MEU RISCADO QUEM?",
+        "A mesa está riscada. → MESA RISCADA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=44&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -128,19 +152,23 @@
     {
       "id": "descrever-06",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “brilhante”?",
+      "situation": "A luz bate em um tecido e você comenta que ele tem aparência brilhante.",
       "translation": "Brilhante",
       "librasStructure": "BRILHANTE",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Esse tecido é brilhante. → TECIDO ESSE BRILHANTE.",
+        "Ela usou um batom brilhante. → ELA USAR BATOM BRILHANTE."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -148,19 +176,24 @@
     {
       "id": "descrever-07",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “encaracolado (cabelo)”?",
+      "situation": "Na foto da turma, você descreve uma colega de cabelo encaracolado.",
       "translation": "Encaracolado (cabelo)",
       "librasStructure": "ENCARACOLADO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha irmã tem cabelo encaracolado. → IRMÃ MINHA CABELO ENCARACOLADO.",
+        "O bebê nasceu com cabelo encaracolado. → BEBÊ NASCER CABELO ENCARACOLADO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -168,19 +201,24 @@
     {
       "id": "descrever-08",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “ondulado (cabelo)”?",
+      "situation": "Uma colega fez ondas no cabelo e pergunta se ficou bom o cabelo ondulado.",
       "translation": "Ondulado (cabelo)",
       "librasStructure": "ONDULADO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Seu cabelo ondulado ficou bonito. → CABELO ONDULADO SEU BONITO.",
+        "Meu cabelo é ondulado, não liso. → CABELO MEU ONDULADO, LISO NÃO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=59&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -188,19 +226,24 @@
     {
       "id": "descrever-09",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “crespo (cabelo)”?",
+      "situation": "Ao apresentar uma pessoa da foto, você descreve com respeito o cabelo crespo dela.",
       "translation": "Crespo (cabelo)",
       "librasStructure": "CRESPO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela tem cabelo crespo e curto. → ELA CABELO CRESPO CURTO.",
+        "Amo meu cabelo crespo! → EU AMAR CABELO CRESPO MEU!"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -208,19 +251,24 @@
     {
       "id": "descrever-10",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “liso (cabelo)”?",
+      "situation": "Você comenta que uma colega mudou o penteado e agora está de cabelo liso.",
       "translation": "Liso (cabelo)",
       "librasStructure": "LISO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Você alisou? Seu cabelo está liso! → VOCÊ ALISAR? CABELO SEU LISO!",
+        "Meu pai tem cabelo liso e preto. → PAI MEU CABELO LISO PRETO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -228,19 +276,23 @@
     {
       "id": "descrever-11",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampado / estampada”?",
+      "situation": "Na loja, você procura uma camisa estampada para usar no passeio.",
       "translation": "Estampado / estampada",
       "librasStructure": "ESTAMPADO/ESTAMPADA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Prefere camisa lisa ou estampada? → CAMISA LISA OU ESTAMPADA, VOCÊ PREFERIR?",
+        "Comprei uma saia estampada. → EU COMPRAR SAIA ESTAMPADA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -248,19 +300,24 @@
     {
       "id": "descrever-12",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “xadrez (estampa)”?",
+      "situation": "Para a festa junina, você escolhe uma camisa xadrez.",
       "translation": "Xadrez (estampa)",
       "librasStructure": "XADREZ",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Na festa junina, uso camisa xadrez. → FESTA-JUNINA EU USAR CAMISA XADREZ.",
+        "A toalha da mesa é xadrez. → TOALHA MESA XADREZ."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -268,19 +325,23 @@
     {
       "id": "descrever-13",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “bolinhas”?",
+      "situation": "Uma criança escolhe um vestido com bolinhas para a festa da escola.",
       "translation": "Bolinhas",
       "librasStructure": "BOLINHAS",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela quer o vestido de bolinhas. → ELA QUERER VESTIDO BOLINHAS.",
+        "A gravata do meu avô tem bolinhas. → GRAVATA AVÔ MEU BOLINHAS."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=81&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -288,19 +349,23 @@
     {
       "id": "descrever-14",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de onça”?",
+      "situation": "Na vitrine, você identifica uma roupa com estampa de onça e comenta seu estilo.",
       "translation": "Estampa de onça",
       "librasStructure": "ESTAMPA-DE-ONÇA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa bolsa com estampa de onça é chique. → BOLSA ESTAMPA-DE-ONÇA CHIQUE.",
+        "Você usaria estampa de onça? → VOCÊ USAR ESTAMPA-DE-ONÇA?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -308,19 +373,24 @@
     {
       "id": "descrever-15",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de zebra”?",
+      "situation": "Você compara duas estampas e aponta para a estampa de zebra, preta e branca.",
       "translation": "Estampa de zebra",
       "librasStructure": "ESTAMPA-DE-ZEBRA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A estampa de zebra é preta e branca. → ESTAMPA-DE-ZEBRA PRETO BRANCO.",
+        "Quero o tapete com estampa de zebra. → EU QUERER TAPETE ESTAMPA-DE-ZEBRA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=91&end=98&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -328,19 +398,24 @@
     {
       "id": "descrever-16",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de animais”?",
+      "situation": "Uma criança mostra a camiseta com estampa de animais que ganhou de presente.",
       "translation": "Estampa de animais",
       "librasStructure": "ESTAMPA-DE-ANIMAIS",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu filho adora roupa com estampa de animais. → FILHO MEU ADORAR ROUPA ESTAMPA-DE-ANIMAIS.",
+        "O pijama tem estampa de animais. → PIJAMA ESTAMPA-DE-ANIMAIS."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=99&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -348,19 +423,23 @@
     {
       "id": "descrever-17",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “estampa de cobra”?",
+      "situation": "Você vê uma bolsa com estampa de cobra e pergunta se sua colega gostou dela.",
       "translation": "Estampa de cobra",
       "librasStructure": "ESTAMPA-DE-COBRA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa bota tem estampa de cobra. → BOTA ESSA ESTAMPA-DE-COBRA.",
+        "Você gostou da estampa de cobra? → ESTAMPA-DE-COBRA VOCÊ GOSTAR?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=105&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -368,19 +447,23 @@
     {
       "id": "descrever-18",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cacheado”?",
+      "situation": "Uma colega mostra o penteado novo e você comenta que o cabelo ficou cacheado.",
       "translation": "Cacheado",
       "librasStructure": "CACHEADO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Seu cabelo ficou cacheado! → CABELO SEU CACHEADO!",
+        "Minha filha tem cabelo cacheado e ruivo. → FILHA MINHA CABELO CACHEADO RUIVO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=110&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -388,19 +471,24 @@
     {
       "id": "descrever-19",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “bigode”?",
+      "situation": "Na foto, você identifica uma pessoa pelo bigode.",
       "translation": "Bigode",
       "librasStructure": "BIGODE",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu avô tem bigode branco. → AVÔ MEU BIGODE BRANCO.",
+        "O homem de bigode é seu tio? → HOMEM BIGODE TIO SEU?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=115&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -408,19 +496,24 @@
     {
       "id": "descrever-20",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “careca”?",
+      "situation": "Você descreve uma pessoa da foto que é careca.",
       "translation": "Careca",
       "librasStructure": "CARECA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Meu pai é careca. → PAI MEU CARECA.",
+        "O professor careca é o de matemática. → PROFESSOR CARECA MATEMÁTICA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -428,19 +521,24 @@
     {
       "id": "descrever-21",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “boca (descrição)”?",
+      "situation": "Sua colega pede uma descrição de quem chegou, e você descreve a boca da pessoa (lábios grossos, finos…).",
       "translation": "Boca (descrição)",
       "librasStructure": "BOCA",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Ela tem a boca grande. → ELA BOCA GRANDE.",
+        "O bebê tem a boca pequena. → BEBÊ BOCA PEQUENA."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=126&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -448,19 +546,24 @@
     {
       "id": "descrever-22",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cabelo curto”?",
+      "situation": "Você identifica uma colega na foto pelo cabelo curto.",
       "translation": "Cabelo curto",
       "librasStructure": "CABELO-CURTO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "A menina de cabelo curto é minha prima. → MENINA CABELO-CURTO PRIMA MINHA.",
+        "Cortei o cabelo curto. → EU CORTAR CABELO-CURTO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=130&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -468,19 +571,23 @@
     {
       "id": "descrever-23",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “cabelo longo”?",
+      "situation": "Uma colega mudou o penteado, e você percebe que agora ela está com cabelo longo.",
       "translation": "Cabelo longo",
       "librasStructure": "CABELO-LONGO",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Minha irmã tem cabelo longo e liso. → IRMÃ MINHA CABELO-LONGO LISO.",
+        "Cabelo longo dá trabalho? → CABELO-LONGO TRABALHO DAR?"
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
@@ -488,19 +595,24 @@
     {
       "id": "descrever-24",
       "section": "Descrição",
-      "situation": "Ao descrever uma pessoa ou uma roupa, como você sinaliza “roupa com letras”?",
+      "situation": "Na loja, você encontra uma roupa com letras grandes e pergunta se tem outro tamanho.",
       "translation": "Roupa com letras",
       "librasStructure": "ROUPA-COM-LETRAS",
       "notes": "Na descrição, a mão desenha a forma ou o padrão no espaço ou no corpo (uso de classificadores). Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Essa camiseta tem letras grandes. → CAMISETA ESSA ROUPA-COM-LETRAS GRANDE.",
+        "Prefiro roupa lisa, sem letras. → EU PREFERIR ROUPA LISA, ROUPA-COM-LETRAS NÃO."
+      ],
       "video": "https://www.youtube.com/embed/BrQvaqsnd4o?start=145&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BrQvaqsnd4o",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-11T00:03:24.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples",
+            "situation"
           ]
         }
       ]

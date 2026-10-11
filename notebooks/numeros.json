@@ -28,20 +28,26 @@
     {
       "id": "numeros-01",
       "section": "Cardinais",
-      "situation": "Como você sinaliza os números cardinais (0 a 2 bilhões)?",
+      "situation": "Na secretaria, pedem seus dados para a matrícula. Use os números cardinais para informar um telefone, sua idade ou um valor.",
       "translation": "Números cardinais: 0 a 15, 17 a 21, 23, 34, 60, 100, mil, dez mil, milhões e bilhões",
       "librasStructure": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 23 34 60 100 1.000 10.000 10-MILHÕES 10-BILHÕES 1-BILHÃO 2-BILHÕES",
       "notes": "Os números se compõem: dezenas e centenas juntam a configuração de cada algarismo; para milhar, milhão e bilhão observe o movimento que indica a ordem de grandeza. Pode haver variação regional; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Eu tenho vinte anos. → EU IDADE 20.",
+        "Qual é o seu telefone? → TELEFONE VOCÊ NÚMERO QUAL?",
+        "A escola tem mil estudantes. → ESCOLA TER 1.000 ESTUDANTE."
+      ],
       "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=28&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T12:12:22.691Z",
+          "at": "2026-10-10T23:53:30.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -49,20 +55,26 @@
     {
       "id": "numeros-32",
       "section": "Ordinais",
-      "situation": "Como você sinaliza os números ordinais (1º a 8º)?",
+      "situation": "A professora organiza a apresentação dos grupos e usa números ordinais (1º, 2º, 4º…) para informar a posição de cada equipe.",
       "translation": "Números ordinais: 1º, 2º, 4º, 5º, 7º e 8º",
       "librasStructure": "1º 2º 4º 5º 7º 8º",
       "notes": "Compare com os cardinais: o ordinal usa a mesma configuração de mão com um movimento próprio. Pode haver variação regional; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Nosso grupo é o primeiro. → NOSSO GRUPO 1º.",
+        "Você vai ser o segundo? → VOCÊ 2º?",
+        "A apresentação dela é a quarta, não a quinta. → APRESENTAÇÃO DELA 4º, 5º NÃO."
+      ],
       "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=142&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T12:12:22.691Z",
+          "at": "2026-10-10T23:53:30.000Z",
           "changes": [
             "created",
-            "edited"
+            "edited",
+            "examples",
+            "situation"
           ]
         }
       ]
@@ -70,19 +82,23 @@
     {
       "id": "numeros-38",
       "section": "Quantidade",
-      "situation": "Como você sinaliza o número Quantidade?",
+      "situation": "Na atividade, a colega pergunta quantos cartões vocês já estudaram. Responda indicando a quantidade.",
       "translation": "Quantidade",
       "librasStructure": "QUANTIDADE",
       "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
-      "examples": [],
+      "examples": [
+        "Quantos cartões você estudou? → VOCÊ ESTUDAR CARTÃO QUANTIDADE?",
+        "Hoje estudei uma quantidade grande de sinais. → HOJE EU ESTUDAR SINAL QUANTIDADE MUITO."
+      ],
       "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=157&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-09T05:00:00.000Z",
+          "at": "2026-10-10T23:53:30.000Z",
           "changes": [
-            "created"
+            "created",
+            "examples"
           ]
         }
       ]
