@@ -2,7 +2,7 @@
   "notebooks": [
     {
       "id": "adjetivos-aparencia",
-      "hash": "4ad0c3696816804f",
+      "hash": "02c6e4ec9c93a146",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Adjetivos: aparência e qualidades",
       "description": "Tamanho, forma, cor clara ou escura, limpo, sujo, fácil, difícil e outras qualidades.",
@@ -13,7 +13,7 @@
     },
     {
       "id": "adjetivos-sentimentos",
-      "hash": "a3e5d551ff28c3e2",
+      "hash": "b77b2f4edfaa5035",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Adjetivos: sentimentos e comportamento",
       "description": "Sentimentos, emoções e jeitos de ser.",
@@ -24,7 +24,7 @@
     },
     {
       "id": "adverbios",
-      "hash": "ffc335090f953178",
+      "hash": "529dd8cea2228335",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Advérbios e conectivos",
       "description": "Sim, não e talvez; hoje, ontem e amanhã; sempre e nunca; e os conectivos “mas” e “mais”.",
@@ -35,7 +35,7 @@
     },
     {
       "id": "alfabeto",
-      "hash": "eb5db33ad38856a1",
+      "hash": "41273f18738a4783",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Alfabeto manual",
       "description": "Aprenda o alfabeto manual completo da Libras em um único vídeo, da letra A à letra Z.",
@@ -56,7 +56,7 @@
     },
     {
       "id": "alimentos",
-      "hash": "415c0ea6d99966bb",
+      "hash": "b2b061a49b25f160",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Alimentos e bebidas",
       "description": "Comidas do dia a dia e bebidas para conversar sobre refeições.",
@@ -67,7 +67,7 @@
     },
     {
       "id": "animais",
-      "hash": "1cf1261b57aff1ab",
+      "hash": "eb5dfd47c342f974",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Animais",
       "description": "Animais domésticos e selvagens.",
@@ -78,7 +78,7 @@
     },
     {
       "id": "biologia",
-      "hash": "f94ad697c22184f0",
+      "hash": "d7e43442fa559e76",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Biologia",
       "description": "Célula, genética, corpo humano, ecologia e evolução.",
@@ -89,7 +89,7 @@
     },
     {
       "id": "casa-cozinha",
-      "hash": "698e9eb6b179d837",
+      "hash": "a1b010b8b2b0a491",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Casa e cozinha",
       "description": "Móveis, eletrodomésticos e o vocabulário de uma receita.",
@@ -100,7 +100,7 @@
     },
     {
       "id": "cidades-goias",
-      "hash": "cdc4dbae9003f0cb",
+      "hash": "9db9fef7544e5baf",
       "updatedAt": "2026-10-07T15:58:12.028Z",
       "title": "Cidades de Goiás",
       "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar.",
@@ -111,7 +111,7 @@
     },
     {
       "id": "ciencias-humanas",
-      "hash": "93ffca985d82887a",
+      "hash": "19158e2732f7425c",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Ciências humanas",
       "description": "Política, sociedade, direitos e história.",
@@ -122,7 +122,7 @@
     },
     {
       "id": "classificadores",
-      "hash": "f8ebdc9e21f62a72",
+      "hash": "18712933621c08b8",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Classificadores e espaço",
       "description": "Tipos de classificadores e sinais de direção e perspectiva.",
@@ -133,7 +133,7 @@
     },
     {
       "id": "comparar-intensificar",
-      "hash": "920a8c366518ae00",
+      "hash": "dc92bbc1f2dc6660",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Comparar e intensificar",
       "description": "Comparações (mais, menos, igual) e como a Libras marca a intensidade de um sinal.",
@@ -150,7 +150,7 @@
     },
     {
       "id": "comunicacao",
-      "hash": "81ede2bdf93677a3",
+      "hash": "35344a153cff0463",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Meios de comunicação",
       "description": "Tecnologia, internet, redes sociais, TV e telefonia.",
@@ -161,7 +161,7 @@
     },
     {
       "id": "comunidades-surdas",
-      "hash": "4191a38f61657cc3",
+      "hash": "195ac451f2c1d6a1",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Comunidades surdas",
       "description": "Povo surdo, associações e instituições da comunidade surda no Brasil.",
@@ -177,8 +177,17 @@
       ]
     },
     {
+      "id": "congregacao-crista-no-brasil",
+      "hash": "782a1b94b960e13f",
+      "updatedAt": "2026-10-11T02:53:52.319Z",
+      "title": "Congregação Cristã no Brasil",
+      "description": "Vocabulário em contexto da Congregação Cristã no Brasil, com vídeos e abrangência regional para todos os estados brasileiros.",
+      "cardCount": 505,
+      "collection": "Religião"
+    },
+    {
       "id": "contexto-juridico",
-      "hash": "d77bfa0ea2b10ad4",
+      "hash": "f42faae405ed6a34",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Contexto jurídico (criminal)",
       "description": "Sinais do contexto jurídico e criminal: polícia, processo, crimes e justiça.",
@@ -189,7 +198,7 @@
     },
     {
       "id": "cores",
-      "hash": "cfe675088c0c5f77",
+      "hash": "d7e2d80d5ffdd92f",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Cores",
       "description": "As cores e os tons claro e escuro.",
@@ -200,7 +209,7 @@
     },
     {
       "id": "corpo-humano",
-      "hash": "318d5118d32d3715",
+      "hash": "d2dc8357d2a63741",
       "updatedAt": "2026-10-07T15:07:17.154Z",
       "title": "Corpo Humano",
       "description": "Vocabulário de partes do corpo, órgãos, sistemas e estética.",
@@ -211,7 +220,7 @@
     },
     {
       "id": "descrever",
-      "hash": "e34e7c05ef3d09c5",
+      "hash": "8bd1eeae82250b8f",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Descrever pessoas e objetos",
       "description": "Adjetivação descritiva: estampas, texturas, tipos de cabelo e detalhes do rosto.",
@@ -228,7 +237,7 @@
     },
     {
       "id": "dinheiro",
-      "hash": "63df559a24266146",
+      "hash": "2547bc3f14c2649c",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Dinheiro e compras",
       "description": "Valores em reais, formas de pagamento, banco e compras.",
@@ -245,7 +254,7 @@
     },
     {
       "id": "direito-em-libras",
-      "hash": "fd49ec92288f1fe1",
+      "hash": "753f9f01c467a608",
       "updatedAt": "2026-10-08T05:23:42.115Z",
       "title": "Direito em Libras",
       "description": "",
@@ -256,7 +265,7 @@
     },
     {
       "id": "disciplinas",
-      "hash": "c584a0af879164c4",
+      "hash": "5e1d1c32dfcbb5c0",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Disciplinas escolares",
       "description": "Nomes das disciplinas da escola.",
@@ -267,7 +276,7 @@
     },
     {
       "id": "documentos",
-      "hash": "294fef64d86ae784",
+      "hash": "695de03fbe146f92",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Documentos",
       "description": "Documentos pessoais, cartões, certidões, contas e seguros.",
@@ -278,7 +287,7 @@
     },
     {
       "id": "doencas",
-      "hash": "4b773e8552a2ccd1",
+      "hash": "8932489573bf591a",
       "updatedAt": "2026-10-07T16:13:55.996Z",
       "title": "Doenças",
       "description": "Vocabulário de doenças, sintomas e condições de saúde em Libras, para fins de aprendizagem.",
@@ -289,7 +298,7 @@
     },
     {
       "id": "drogas",
-      "hash": "9c978552af42e4ce",
+      "hash": "8bf3b3a433f310c4",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Drogas",
       "description": "Drogas lícitas e ilícitas, tráfico e prevenção.",
@@ -300,7 +309,7 @@
     },
     {
       "id": "escola-materiais",
-      "hash": "4282d63c225374f8",
+      "hash": "f986cfdfdeb0dd61",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Escola: materiais",
       "description": "Materiais escolares e objetos da sala de aula.",
@@ -311,7 +320,7 @@
     },
     {
       "id": "escola-rotina",
-      "hash": "86cdfa83ac27a23c",
+      "hash": "7a1b927af4826931",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Escola: aula, avaliação e equipe",
       "description": "Rotina escolar, avaliação e os profissionais da escola.",
@@ -322,7 +331,7 @@
     },
     {
       "id": "esportes",
-      "hash": "780d2f2476e71f1c",
+      "hash": "34d8ed0040d339c7",
       "updatedAt": "2026-10-07T15:55:36.027Z",
       "title": "Esportes: modalidades",
       "description": "Vocabulário de modalidades esportivas em Libras.",
@@ -339,7 +348,7 @@
     },
     {
       "id": "esportes-competicoes",
-      "hash": "cc430bb232a7076f",
+      "hash": "b259edb38484c330",
       "updatedAt": "2026-10-09T05:20:00.000Z",
       "title": "Esportes: competições e resultados",
       "description": "Torneios, placares, vitória, derrota e outros termos de competição.",
@@ -356,7 +365,7 @@
     },
     {
       "id": "estados-capitais",
-      "hash": "ab6f9012ddfaaad7",
+      "hash": "21e7c306a778bff6",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Estados e capitais do Brasil",
       "description": "Regiões, estados e capitais do Brasil.",
@@ -367,7 +376,7 @@
     },
     {
       "id": "familia",
-      "hash": "e7c3496f1776f9ec",
+      "hash": "5e30820439da3189",
       "updatedAt": "2026-10-08T23:30:00.000Z",
       "title": "Família e relacionamentos",
       "description": "Sinais de família, pessoas, idades e relacionamentos para falar de quem faz parte da sua vida.",
@@ -390,7 +399,7 @@
     },
     {
       "id": "filosofia",
-      "hash": "7069c9852303aea4",
+      "hash": "22410099ef6cf308",
       "updatedAt": "2026-10-08T05:14:07.092Z",
       "title": "Filosofia",
       "description": "",
@@ -401,7 +410,7 @@
     },
     {
       "id": "frutas-legumes",
-      "hash": "98cb20067aa303f3",
+      "hash": "a74130cf86480799",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Frutas, legumes e verduras",
       "description": "Frutas, legumes e verduras da feira e do mercado.",
@@ -412,7 +421,7 @@
     },
     {
       "id": "goiania-bairros",
-      "hash": "61c886f207b5bd22",
+      "hash": "954d931f18daa49d",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Goiânia: bairros e terminais",
       "description": "Setores de Goiânia e terminais de ônibus.",
@@ -423,7 +432,7 @@
     },
     {
       "id": "goiania-ensino-times",
-      "hash": "25bc2c3e63763313",
+      "hash": "29aac6cd1f9c0b25",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Goiânia: faculdades e times",
       "description": "Instituições de ensino superior e times de futebol de Goiás.",
@@ -434,7 +443,7 @@
     },
     {
       "id": "goiania-lazer",
-      "hash": "606011b447e6ee5a",
+      "hash": "115632e48f4cfd2c",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Goiânia: compras e lazer",
       "description": "Shoppings, feiras, supermercados, clubes, parques e praças de Goiânia.",
@@ -445,7 +454,7 @@
     },
     {
       "id": "higiene-pessoal",
-      "hash": "0786822466898e14",
+      "hash": "71b463acea8e3806",
       "updatedAt": "2026-10-07T16:11:21.974Z",
       "title": "Higiene Pessoal",
       "description": "Vocabulário de objetos, produtos e ações de higiene pessoal.",
@@ -456,7 +465,7 @@
     },
     {
       "id": "horas-periodos",
-      "hash": "f8943c47218a65ff",
+      "hash": "e21fecb53d5311d3",
       "updatedAt": "2026-10-07T15:59:01.367Z",
       "title": "Horas, dias e calendário",
       "description": "Horas, períodos do dia, dias da semana e expressões de tempo como semana que vem e ano passado.",
@@ -467,7 +476,7 @@
     },
     {
       "id": "identidade-cultura-surda",
-      "hash": "fa3ad55bcc5e0ee2",
+      "hash": "88ce3c0e17d21f4b",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Identidade e cultura surda",
       "description": "Conceitos sobre identidade, cultura, educação e história das pessoas surdas.",
@@ -478,7 +487,7 @@
     },
     {
       "id": "ist",
-      "hash": "eae695ec991d8b31",
+      "hash": "8d0f43a30ce554d2",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Saúde sexual e IST",
       "description": "Infecções sexualmente transmissíveis, corpo e prevenção.",
@@ -495,7 +504,7 @@
     },
     {
       "id": "matematica",
-      "hash": "c049ccdd50a7b53f",
+      "hash": "b36a3dca91926025",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Matemática e física",
       "description": "Termos de matemática e de física para a sala de aula.",
@@ -512,7 +521,7 @@
     },
     {
       "id": "numeros",
-      "hash": "ba78a5aafa0d3e9a",
+      "hash": "8cb99f6dd5e53c7b",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Números",
       "description": "Números cardinais, ordinais e a ideia de quantidade em Libras.",
@@ -529,7 +538,7 @@
     },
     {
       "id": "paises",
-      "hash": "071d7ea1f5b753f2",
+      "hash": "eb8e0d24da081f93",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Países e continentes",
       "description": "Continentes e países em Libras.",
@@ -546,7 +555,7 @@
     },
     {
       "id": "pesos-medidas",
-      "hash": "e977120ea8d61f50",
+      "hash": "2409e82060951d28",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Pesos e medidas",
       "description": "Peso, comprimento, volume e instrumentos de medida.",
@@ -557,7 +566,7 @@
     },
     {
       "id": "primeiros-sinais",
-      "hash": "b04731f21cab837d",
+      "hash": "02edbebf87c6cc20",
       "updatedAt": "2026-10-08T23:30:00.000Z",
       "title": "Primeiros sinais",
       "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras.",
@@ -565,7 +574,7 @@
     },
     {
       "id": "producao-multimidia-bilingue",
-      "hash": "7f1774d421275ad9",
+      "hash": "ea4df1ec9b3adc16",
       "updatedAt": "2026-10-08T04:37:38.328Z",
       "title": "Produção Multimídia Bilíngue",
       "description": "",
@@ -576,7 +585,7 @@
     },
     {
       "id": "profissoes",
-      "hash": "fe794f161be0ba70",
+      "hash": "7eafb2e015f474e3",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Profissões",
       "description": "Profissões e ocupações.",
@@ -587,7 +596,7 @@
     },
     {
       "id": "pronomes",
-      "hash": "03899d3b67d2130f",
+      "hash": "2dc9a3a6bd53dd38",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Pronomes pessoais, possessivos e interrogativos",
       "description": "Eu, você, ele; meu, seu, nosso; e as perguntas onde, o quê e para quê.",
@@ -604,7 +613,7 @@
     },
     {
       "id": "pronomes-indefinidos",
-      "hash": "90c9b20064d645d5",
+      "hash": "05dcc7641fdc99fc",
       "updatedAt": "2026-10-07T16:05:03.645Z",
       "title": "Pronomes indefinidos e quantificadores",
       "description": "Sinais para indicar quantidade, ausência, individualidade e distribuição.",
@@ -621,7 +630,7 @@
     },
     {
       "id": "quimica",
-      "hash": "0fab6dd87609bd0e",
+      "hash": "e95abe706b2aa702",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Química",
       "description": "Átomos, ligações, reações, misturas e soluções.",
@@ -632,7 +641,7 @@
     },
     {
       "id": "saude",
-      "hash": "dea187865d2724d6",
+      "hash": "3e03abee8ab22839",
       "updatedAt": "2026-10-07T16:13:19.604Z",
       "title": "Saúde",
       "description": "Vocabulário de saúde e corpo humano em Libras, para fins de aprendizagem.",
@@ -643,7 +652,7 @@
     },
     {
       "id": "saude-prevencao",
-      "hash": "1e0b687ab258981c",
+      "hash": "818199fa38cde75e",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Saúde: prevenção e atendimento",
       "description": "Prevenção, hábitos, exames e atendimento em saúde.",
@@ -660,7 +669,7 @@
     },
     {
       "id": "sociologia",
-      "hash": "e5907b6ed2270a0f",
+      "hash": "c099a8bc5e4276fa",
       "updatedAt": "2026-10-08T05:16:25.889Z",
       "title": "Sociologia",
       "description": "",
@@ -671,7 +680,7 @@
     },
     {
       "id": "soletracao-ritmica",
-      "hash": "849c38f434a1a4e6",
+      "hash": "bb15fa9114cd65d5",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Soletração rítmica",
       "description": "Palavras curtas soletradas com ritmo próprio, como se fossem um sinal.",
@@ -688,7 +697,7 @@
     },
     {
       "id": "surdocegueira",
-      "hash": "20f63aad44089a11",
+      "hash": "82df252ff9f89ffb",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Surdocegueira",
       "description": "Comunicação e acessibilidade com pessoas surdocegas: Libras tátil, braile, guia-intérprete e outros recursos.",
@@ -704,8 +713,17 @@
       ]
     },
     {
+      "id": "traducao-protagonismo-surdo-biblia-tps",
+      "hash": "12c47479ac67b350",
+      "updatedAt": "2026-10-11T02:54:45.408Z",
+      "title": "Tradução com Protagonismo Surdo, Bíblia (TPS)",
+      "description": "",
+      "cardCount": 744,
+      "collection": "Religião"
+    },
+    {
       "id": "transporte",
-      "hash": "06fd6a9a5914a05c",
+      "hash": "86e14b59000993e0",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Meios de transporte",
       "description": "Veículos e meios de transporte por terra, água e ar.",
@@ -716,7 +734,7 @@
     },
     {
       "id": "verbos-concordancia",
-      "hash": "25b044830cbd5490",
+      "hash": "57c2991d3a74599c",
       "updatedAt": "2026-10-07T16:15:52.165Z",
       "title": "Verbos com concordância",
       "description": "Verbos que podem direcionar o movimento entre participantes na Libras.",
@@ -733,7 +751,7 @@
     },
     {
       "id": "verbos-genero",
-      "hash": "76ef0db190cbe561",
+      "hash": "59bdea617c5fab0a",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Verbos com concordância de gênero",
       "description": "Verbos que mudam a configuração de mão conforme quem age: pessoa, objeto ou animal.",
@@ -750,7 +768,7 @@
     },
     {
       "id": "verbos-localizacao",
-      "hash": "78fd654806887beb",
+      "hash": "57b78c2d51770c9e",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Verbos com concordância de localização",
       "description": "Verbos que se realizam no lugar do corpo ou do objeto em que a ação acontece.",
@@ -767,7 +785,7 @@
     },
     {
       "id": "verbos-sem-concordancia",
-      "hash": "a32689c95dc8c521",
+      "hash": "c11c9478adca6882",
       "updatedAt": "2026-10-07T16:16:29.398Z",
       "title": "Verbos sem concordância",
       "description": "Verbos apresentados sem direcionamento entre participantes.",
@@ -784,7 +802,7 @@
     },
     {
       "id": "vestuario",
-      "hash": "0a65e7a7864d8c43",
+      "hash": "19f4be4e2cb5b941",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Roupas e acessórios",
       "description": "Peças de roupa, calçados e acessórios.",

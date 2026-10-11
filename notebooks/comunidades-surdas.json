@@ -31,20 +31,28 @@
       "situation": "Em uma conversa sobre direitos, você explica que um povo compartilha história, língua e experiências.",
       "translation": "Povo",
       "librasStructure": "POVO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O povo surdo tem língua própria. → POVO SURDO LÍNGUA PRÓPRIA TER.",
         "O povo surdo luta por seus direitos. → POVO SURDO DIREITO LUTAR."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=20&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=20&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -55,21 +63,29 @@
       "situation": "Você convida uma colega para conhecer a comunidade, pessoas que se reúnem e conversam em Libras.",
       "translation": "Comunidade",
       "librasStructure": "COMUNIDADE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vem conhecer a comunidade surda! → COMUNIDADE SURDA VIR CONHECER!",
         "A comunidade se encontra todo sábado. → COMUNIDADE ENCONTRAR SÁBADO TODO."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -80,21 +96,29 @@
       "situation": "Na aula, você mostra a variação do sinal de comunidade usada em outra região.",
       "translation": "Comunidade (variação)",
       "librasStructure": "COMUNIDADE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Em outra região, comunidade se sinaliza assim. → REGIÃO OUTRA, COMUNIDADE SINAL ASSIM.",
         "A comunidade do bairro é unida. → BAIRRO COMUNIDADE UNIDA."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -105,21 +129,29 @@
       "situation": "Numa apresentação, você explica a diferença entre uma pessoa surda e uma pessoa ouvinte.",
       "translation": "Ouvinte",
       "librasStructure": "OUVINTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu sou ouvinte e estudo Libras. → EU OUVINTE, LIBRAS ESTUDAR.",
         "Na minha família, só eu sou ouvinte. → FAMÍLIA MINHA, OUVINTE EU SÓ."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=32&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -130,21 +162,29 @@
       "situation": "Você apresenta um trabalho sobre a cultura da comunidade surda: costumes, valores e produções.",
       "translation": "Cultura",
       "librasStructure": "CULTURA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cada povo tem sua cultura. → POVO CADA CULTURA PRÓPRIA.",
         "A cultura surda é visual. → CULTURA SURDA VISUAL."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -155,20 +195,28 @@
       "situation": "Ao organizar uma sala acessível, você explica por que a comunicação visual é importante.",
       "translation": "Visual",
       "librasStructure": "VISUAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O surdo aprende de forma visual. → SURDO APRENDER VISUAL.",
         "Use imagens: a aula fica mais visual. → IMAGEM USAR, AULA VISUAL MAIS."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=38&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=38&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -179,21 +227,29 @@
       "situation": "Na aula de Libras, você percebe que a língua é espacial: o espaço constrói o sentido.",
       "translation": "Espacial",
       "librasStructure": "ESPACIAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Libras é uma língua espacial. → LIBRAS LÍNGUA ESPACIAL.",
         "O sinal usa o espaço na frente do corpo. → SINAL ESPACIAL FRENTE CORPO USAR."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=41&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=41&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -204,21 +260,29 @@
       "situation": "Você descreve uma escola bilíngue, que usa Libras e Língua Portuguesa.",
       "translation": "Bilíngue",
       "librasStructure": "BILÍNGUE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha escola é bilíngue. → ESCOLA MINHA BILÍNGUE.",
         "Meu filho é bilíngue: Libras e português. → FILHO MEU BILÍNGUE: LIBRAS, PORTUGUÊS."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -229,21 +293,29 @@
       "situation": "Na reunião, cada pessoa conta sua experiência individual, sem falar pelo grupo.",
       "translation": "Individual",
       "librasStructure": "INDIVIDUAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Essa é uma opinião individual. → OPINIÃO INDIVIDUAL ESSA.",
         "A prova é individual. → PROVA INDIVIDUAL."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=51&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=51&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -254,21 +326,29 @@
       "situation": "Na pesquisa, você encontra a Feneis, federação que defende os direitos das pessoas surdas.",
       "translation": "Feneis",
       "librasStructure": "FENEIS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Feneis defende os direitos dos surdos. → FENEIS DIREITO SURDO DEFENDER.",
         "A Feneis oferece curso de Libras. → FENEIS CURSO LIBRAS OFERECER."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -279,21 +359,29 @@
       "situation": "Você lê sobre o INES, instituto histórico de educação de surdos no Rio de Janeiro.",
       "translation": "INES",
       "librasStructure": "INES",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O INES fica no Rio de Janeiro. → INES RIO-DE-JANEIRO.",
         "O INES foi fundado em 1857. → INES FUNDAR 1857."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -304,21 +392,29 @@
       "situation": "Uma colega convida você para conhecer uma associação local de pessoas com interesses comuns.",
       "translation": "Associação",
       "librasStructure": "ASSOCIAÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou à associação no sábado. → SÁBADO EU IR ASSOCIAÇÃO.",
         "A associação organiza festas e cursos. → ASSOCIAÇÃO FESTA CURSO ORGANIZAR."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -329,21 +425,29 @@
       "situation": "Pesquisando espaços de convivência em Goiânia, você encontra a ASG, a Associação de Surdos de Goiânia.",
       "translation": "ASG (Associação de Surdos de Goiânia)",
       "librasStructure": "ASG",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A ASG fica em Goiânia. → ASG GOIÂNIA.",
         "Vamos ao encontro da ASG? → ASG ENCONTRO NÓS IR?"
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=64&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=64&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -354,21 +458,29 @@
       "situation": "No trabalho, você cita a lei que reconhece a Libras e garante acessibilidade.",
       "translation": "Lei",
       "librasStructure": "LEI",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Lei 10.436 reconheceu a Libras. → LEI 10.436 LIBRAS RECONHECER.",
         "A lei garante intérprete na escola. → LEI INTÉRPRETE ESCOLA GARANTIR."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -379,21 +491,29 @@
       "situation": "Você conversa sobre esporte e um campeonato para atletas surdos.",
       "translation": "Esporte",
       "librasStructure": "ESPORTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Qual esporte você pratica? → ESPORTE VOCÊ PRATICAR QUAL?",
         "Tem campeonato de esporte para surdos. → ESPORTE SURDO CAMPEONATO TER."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -404,21 +524,29 @@
       "situation": "Uma equipe explica a criação de um projeto acessível.",
       "translation": "Criação",
       "librasStructure": "CRIAÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A criação do aplicativo levou um ano. → APLICATIVO CRIAÇÃO UM-ANO.",
         "A criação de sinais é feita pela comunidade surda. → SINAL CRIAÇÃO COMUNIDADE-SURDA FAZER."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=76&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=76&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -429,20 +557,28 @@
       "situation": "No evento, você identifica as pessoas que chegaram juntas e pergunta de qual grupo fazem parte.",
       "translation": "Grupo",
       "librasStructure": "GRUPO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Você é de qual grupo? → VOCÊ GRUPO QUAL?",
         "Nosso grupo vai apresentar primeiro. → GRUPO NOSSO APRESENTAR PRIMEIRO."
       ],
-      "video": "https://www.youtube.com/embed/AZvymqUDjqU?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AZvymqUDjqU?start=79&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AZvymqUDjqU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:19:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

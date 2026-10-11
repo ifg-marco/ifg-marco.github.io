@@ -37,15 +37,23 @@
         "Corrida e salto são provas de atletismo. → CORRIDA PULAR ATLETISMO.",
         "Você pratica atletismo? → VOCÊ ATLETISMO PRATICAR?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=8&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=8&end=12&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -61,15 +69,23 @@
         "Vamos jogar badminton no sábado? → SÁBADO NÓS BADMINTON JOGAR?",
         "O badminton usa raquete e peteca. → BADMINTON RAQUETE PETECA USAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=12&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=12&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -85,15 +101,23 @@
         "O baseball é famoso nos Estados Unidos. → ESTADOS-UNIDOS BASEBALL FAMOSO.",
         "Você entende as regras do baseball? → BASEBALL REGRA VOCÊ ENTENDER?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=16&end=20&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -109,16 +133,24 @@
         "Vamos jogar basquete três contra três? → BASQUETE(3) NÓS JOGAR?",
         "No basquete de três, usa só uma cesta. → BASQUETE(3) CESTA UMA SÓ."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=20&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -134,16 +166,24 @@
         "Meu irmão joga basquete no time da escola. → IRMÃO MEU BASQUETE(6) TIME ESCOLA.",
         "O jogo de basquete foi emocionante. → JOGO BASQUETE(6) EMOCIONANTE."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=25&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=25&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -159,15 +199,23 @@
         "Vamos jogar boliche no shopping? → SHOPPING NÓS BOLICHE JOGAR?",
         "Derrubei todos os pinos no boliche! → BOLICHE PINO TODOS EU DERRUBAR!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -183,15 +231,23 @@
         "Comecei a fazer boxe. → EU COMEÇAR BOXE.",
         "No boxe, use luva e protetor. → BOXE LUVA PROTETOR USAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=35&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -207,15 +263,23 @@
         "Fizemos canoagem no rio. → RIO NÓS CANOAGEM.",
         "A canoagem é esporte olímpico. → CANOAGEM ESPORTE OLÍMPICO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=40&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=40&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -231,15 +295,23 @@
         "No domingo tem ciclismo no parque. → DOMINGO PARQUE CICLISMO.",
         "Use capacete no ciclismo. → CICLISMO CAPACETE USAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=46&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -255,15 +327,23 @@
         "Tenho medo de escalada. → EU ESCALADA MEDO.",
         "Na escalada, usamos corda. → ESCALADA NÓS CORDA USAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -279,15 +359,23 @@
         "Na esgrima, os atletas usam máscara. → ESGRIMA ATLETA MÁSCARA USAR.",
         "Você já viu esgrima? → VOCÊ ESGRIMA VER JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=56&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -304,15 +392,23 @@
         "Meu time de futebol é o Goiás. → TIME FUTEBOL MEU GOIÁS.",
         "Quem leva a bola? → BOLA LEVAR QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -328,16 +424,24 @@
         "Vamos jogar futebol society na quinta? → QUINTA-FEIRA NÓS FUTEBOL(7) JOGAR?",
         "Falta um jogador no time de sete. → FUTEBOL(7) JOGADOR UM FALTAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=64&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -353,15 +457,23 @@
         "Futebol de praia cansa muito. → FUTEBOL DE PRAIA CANSAR MUITO.",
         "Vamos jogar futebol de praia nas férias! → FÉRIAS NÓS FUTEBOL DE PRAIA JOGAR!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=68&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=68&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -377,15 +489,23 @@
         "O treino de futsal é às seis horas. → TREINO FUTSAL SEIS HORAS.",
         "Tem campeonato de futsal de surdos. → CAMPEONATO FUTSAL SURDO TER."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=73&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -401,15 +521,23 @@
         "A ginástica artística exige muito treino. → GINÁSTICA ARTÍSTICA TREINO MUITO PRECISAR.",
         "Rebeca Andrade é campeã de ginástica artística. → R-E-B-E-C-A GINÁSTICA ARTÍSTICA CAMPEÃ."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=76&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=76&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -425,15 +553,23 @@
         "O golfe é um esporte caro. → GOLFE ESPORTE CARO.",
         "No golfe, a bola entra no buraco. → GOLFE BOLA BURACO ENTRAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -449,15 +585,23 @@
         "No handebol, joga-se com a mão. → HANDEBOL MÃO JOGAR.",
         "Entrei no time de handebol. → EU ENTRAR TIME HANDEBOL."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=84&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -473,15 +617,23 @@
         "No hipismo, o cavalo pula obstáculos. → HIPISMO CAVALO PULAR OBSTÁCULO.",
         "Minha prima faz hipismo. → PRIMA MINHA HIPISMO FAZER."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=87&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -497,15 +649,23 @@
         "O hóquei na grama usa um taco. → HÓQUEI NA GRAMA TACO USAR.",
         "Hóquei na grama é parecido com futebol? → HÓQUEI NA GRAMA PARECER FUTEBOL?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=92&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=92&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -521,15 +681,23 @@
         "Meu filho faz judô. → FILHO MEU JUDÔ FAZER.",
         "No judô, a faixa preta é a mais alta. → JUDÔ FAIXA PRETA MAIS ALTA."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=96&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -545,15 +713,23 @@
         "Treino karatê duas vezes por semana. → EU KARATÊ TREINAR SEMANA 2 VEZES.",
         "No karatê, aprendemos disciplina. → KARATÊ NÓS DISCIPLINA APRENDER."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=100&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=100&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -569,15 +745,23 @@
         "Lutas ensinam respeito. → LUTAS RESPEITO ENSINAR.",
         "Você gosta de assistir lutas? → VOCÊ GOSTAR LUTAS ASSISTIR?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=103&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=103&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -593,15 +777,23 @@
         "A maratona tem 42 quilômetros. → MARATONA 42 QUILÔMETRO.",
         "Minha amiga vai correr a maratona! → AMIGA MINHA MARATONA CORRER!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -617,15 +809,23 @@
         "Faço natação de manhã. → MANHÃ EU NATAÇÃO.",
         "Trouxe os óculos de natação? → ÓCULOS NATAÇÃO VOCÊ TRAZER?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -641,15 +841,23 @@
         "Vamos jogar peteca na praça? → PRAÇA NÓS PETECA JOGAR?",
         "A peteca caiu na árvore! → PETECA CAIR ÁRVORE!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=117&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=117&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -665,15 +873,23 @@
         "O polo aquático é jogado na piscina. → POLO AQUÁTICO PISCINA JOGAR.",
         "Polo aquático cansa muito. → POLO AQUÁTICO CANSAR MUITO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=121&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -689,15 +905,23 @@
         "No rugby, a bola é oval. → RUGBY BOLA OVAL.",
         "O rugby parece violento. → RUGBY PARECER VIOLENTO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -713,15 +937,23 @@
         "Meu filho anda de skate na praça. → FILHO MEU SKATE ANDAR PRAÇA.",
         "No skate, use capacete! → SKATE CAPACETE USAR!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=130&end=135&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -737,15 +969,23 @@
         "As ondas estão boas para o surfe? → ONDA BOA SURFE?",
         "O Brasil tem campeões de surfe. → BRASIL SURFE CAMPEÃO TER."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=135&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -761,15 +1001,23 @@
         "O tiro esportivo exige concentração. → TIRO ESPORTIVO CONCENTRAÇÃO PRECISAR.",
         "No tiro esportivo, segurança vem primeiro. → TIRO ESPORTIVO SEGURANÇA PRIMEIRO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -785,15 +1033,23 @@
         "Acertei o alvo no tiro com arco! → TIRO COM ARCO ALVO EU ACERTAR!",
         "O tiro com arco é esporte olímpico. → TIRO COM ARCO ESPORTE OLÍMPICO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=144&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=144&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -809,15 +1065,23 @@
         "No taekwondo, chutamos muito. → TAEKWONDO NÓS CHUTAR MUITO.",
         "Ela é faixa azul no taekwondo. → ELA TAEKWONDO FAIXA AZUL."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -833,16 +1097,24 @@
         "O triatlo tem natação, ciclismo e corrida. → TRIATLO NATAÇÃO CICLISMO CORRIDA.",
         "Treinar para o triatlo é difícil. → TRIATLO TREINAR DIFÍCIL."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=151&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=151&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -858,15 +1130,23 @@
         "Vamos jogar tênis de mesa? → NÓS TÊNIS DE MESA JOGAR?",
         "Ganhei no tênis de mesa! → TÊNIS DE MESA EU GANHAR!"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=161&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=161&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -882,16 +1162,24 @@
         "Aluguei a quadra para jogar tênis. → QUADRA EU ALUGAR TÊNIS DE QUADRA.",
         "Tênis de quadra exige raquete boa. → TÊNIS DE QUADRA RAQUETE BOA PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=166&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=166&end=173&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -907,15 +1195,23 @@
         "Na vela, o vento move o barco. → VELA VENTO BARCO MOVER.",
         "Ele é campeão de vela. → ELE VELA CAMPEÃO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=173&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=173&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -931,15 +1227,23 @@
         "Vamos jogar vôlei de praia em dupla? → VÔLEI DE PRAIA NÓS DUPLA JOGAR?",
         "Vôlei de praia na areia quente cansa. → AREIA QUENTE VÔLEI DE PRAIA CANSAR."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=177&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=177&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -955,15 +1259,23 @@
         "O time de vôlei de quadra treina na quarta. → TIME VÔLEI DE QUADRA TREINAR QUARTA-FEIRA.",
         "Qual é sua posição no vôlei de quadra? → VÔLEI DE QUADRA POSIÇÃO SUA QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=180&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=180&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -979,15 +1291,23 @@
         "Vamos jogar xadrez? → NÓS XADREZ JOGAR?",
         "Xadrez faz a gente pensar muito. → XADREZ PENSAR MUITO."
       ],
-      "video": "https://www.youtube.com/embed/g4ujl3nvKKw?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g4ujl3nvKKw?start=183&end=187&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=g4ujl3nvKKw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1003,15 +1323,23 @@
         "Faço ginástica de manhã. → MANHÃ EU GINÁSTICA FAZER.",
         "Antes da ginástica, alongue o corpo. → GINÁSTICA ANTES, CORPO ALONGAR."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=22&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=22&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1027,15 +1355,23 @@
         "O sumô é tradicional no Japão. → JAPÃO SUMÔ TRADIÇÃO.",
         "Os lutadores de sumô são muito pesados. → SUMÔ LUTADOR PESADO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=53&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=53&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1051,15 +1387,23 @@
         "Ayrton Senna é ídolo do automobilismo. → A-Y-R-T-O-N S-E-N-N-A AUTOMOBILISMO ÍDOLO.",
         "Gosto de assistir automobilismo no domingo. → DOMINGO EU GOSTAR AUTOMOBILISMO ASSISTIR."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1075,15 +1419,23 @@
         "Minha avó faz hidroginástica. → AVÓ MINHA HIDROGINÁSTICA FAZER.",
         "A hidroginástica é boa para as articulações. → HIDROGINÁSTICA ARTICULAÇÃO BOM."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1099,15 +1451,23 @@
         "O pilates melhorou minha coluna. → PILATES COLUNA MINHA MELHORAR.",
         "Você faz pilates ou musculação? → VOCÊ PILATES OU MUSCULAÇÃO FAZER?"
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1123,15 +1483,23 @@
         "Faço musculação na academia. → ACADEMIA EU MUSCULAÇÃO FAZER.",
         "Na musculação, peça orientação do professor. → MUSCULAÇÃO PROFESSOR ORIENTAÇÃO PEDIR."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=88&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=88&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1147,15 +1515,23 @@
         "O motociclismo é perigoso. → MOTOCICLISMO PERIGOSO.",
         "No motociclismo, use roupa de proteção. → MOTOCICLISMO ROUPA PROTEÇÃO USAR."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=102&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=102&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1171,15 +1547,23 @@
         "Comecei aula de patinação. → EU AULA PATINAÇÃO COMEÇAR.",
         "Na patinação, caí várias vezes. → PATINAÇÃO EU CAIR VEZ VÁRIAS."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=111&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=111&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1195,15 +1579,23 @@
         "Vamos jogar tênis de praia? → NÓS TÊNIS DE PRAIA JOGAR?",
         "Tênis de praia se joga em dupla. → TÊNIS DE PRAIA DUPLA JOGAR."
       ],
-      "video": "https://www.youtube.com/embed/zGSM_8KuQzs?start=115&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zGSM_8KuQzs?start=115&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zGSM_8KuQzs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:53.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

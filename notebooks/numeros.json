@@ -37,17 +37,25 @@
         "Qual é o seu telefone? → TELEFONE VOCÊ NÚMERO QUAL?",
         "A escola tem mil estudantes. → ESCOLA TER 1.000 ESTUDANTE."
       ],
-      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=28&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YAYS3zqvbTU?start=28&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -64,17 +72,25 @@
         "Você vai ser o segundo? → VOCÊ 2º?",
         "A apresentação dela é a quarta, não a quinta. → APRESENTAÇÃO DELA 4º, 5º NÃO."
       ],
-      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=142&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YAYS3zqvbTU?start=142&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -85,20 +101,28 @@
       "situation": "Na atividade, a colega pergunta quantos cartões vocês já estudaram. Responda indicando a quantidade.",
       "translation": "Quantidade",
       "librasStructure": "QUANTIDADE",
-      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Repare na configuração de mão e na orientação da palma: números parecidos mudam só nesses detalhes.",
       "examples": [
         "Quantos cartões você estudou? → VOCÊ ESTUDAR CARTÃO QUANTIDADE?",
         "Hoje estudei uma quantidade grande de sinais. → HOJE EU ESTUDAR SINAL QUANTIDADE MUITO."
       ],
-      "video": "https://www.youtube.com/embed/YAYS3zqvbTU?start=157&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YAYS3zqvbTU?start=157&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YAYS3zqvbTU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

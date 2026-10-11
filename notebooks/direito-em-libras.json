@@ -31,16 +31,24 @@
         "O partido entrou com uma ADPF no STF. → PARTIDO ADPF STF ENTRAR.",
         "A ADPF protege direitos fundamentais. → ADPF DIREITOS FUNDAMENTAIS PROTEGER."
       ],
-      "video": "https://www.youtube.com/embed/J09lXJTNBhs?start=11&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=J09lXJTNBhs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/J09lXJTNBhs?start=11&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=J09lXJTNBhs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -56,17 +64,25 @@
         "O Congresso Nacional fica em Brasília. → CONGRESSO-NACIONAL BRASÍLIA.",
         "O Congresso Nacional aprovou a lei. → CONGRESSO-NACIONAL LEI APROVAR."
       ],
-      "video": "https://www.youtube.com/embed/hcI5yFGlMvg?start=11&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=hcI5yFGlMvg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hcI5yFGlMvg?start=11&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=hcI5yFGlMvg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -82,16 +98,24 @@
         "A fiança foi de mil reais. → FIANÇA R$-1.000,00.",
         "Ele pagou a fiança e foi solto. → ELE FIANÇA PAGAR, SOLTAR."
       ],
-      "video": "https://www.youtube.com/embed/kgX-OKRVwic?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kgX-OKRVwic",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/kgX-OKRVwic?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kgX-OKRVwic",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -107,17 +131,25 @@
         "Dirigir rápido demais é imprudência. → DIRIGIR RÁPIDO DEMAIS IMPRUDÊNCIA.",
         "O acidente aconteceu por imprudência. → ACIDENTE ACONTECER IMPRUDÊNCIA."
       ],
-      "video": "https://www.youtube.com/embed/6ai2p5Y5lR4?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=6ai2p5Y5lR4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/6ai2p5Y5lR4?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=6ai2p5Y5lR4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -133,17 +165,25 @@
         "O juiz concedeu o perdão judicial. → JUIZ PERDÃO JUDICIAL CONCEDER.",
         "O pai recebeu perdão porque perdeu o filho no acidente. → PAI FILHO PERDER ACIDENTE, PERDÃO RECEBER."
       ],
-      "video": "https://www.youtube.com/embed/DAmRZA88qEQ?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=DAmRZA88qEQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/DAmRZA88qEQ?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=DAmRZA88qEQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -159,17 +199,25 @@
         "A advogada entrou com embargos de declaração. → ADVOGADA EMBARGOS-DE-DECLARAÇÃO ENTRAR.",
         "Os embargos de declaração pedem esclarecimento. → EMBARGOS-DE-DECLARAÇÃO ESCLARECER PEDIR."
       ],
-      "video": "https://www.youtube.com/embed/r6OyXot4_WU?start=11&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=r6OyXot4_WU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/r6OyXot4_WU?start=11&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=r6OyXot4_WU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -185,17 +233,25 @@
         "O Senado Federal tem 81 senadores. → SENADO-FEDERAL SENADOR 81.",
         "O projeto agora vai para o Senado Federal. → PROJETO AGORA IR SENADO-FEDERAL."
       ],
-      "video": "https://www.youtube.com/embed/QNjcSbixNBI?start=11&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QNjcSbixNBI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/QNjcSbixNBI?start=11&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QNjcSbixNBI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -211,16 +267,24 @@
         "O presidente chefia o Poder Executivo. → PRESIDENTE PODER-EXECUTIVO CHEFIAR.",
         "O prefeito faz parte do Poder Executivo. → PREFEITO PODER-EXECUTIVO PARTE."
       ],
-      "video": "https://www.youtube.com/embed/hXiRYEniAd0?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=hXiRYEniAd0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hXiRYEniAd0?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=hXiRYEniAd0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -236,17 +300,25 @@
         "O Poder Legislativo faz as leis. → PODER-LEGISLATIVO LEI FAZER.",
         "Vereadores fazem parte do Poder Legislativo. → VEREADOR PODER-LEGISLATIVO PARTE."
       ],
-      "video": "https://www.youtube.com/embed/cIPnNOdBEMQ?start=11&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=cIPnNOdBEMQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/cIPnNOdBEMQ?start=11&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=cIPnNOdBEMQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -262,17 +334,25 @@
         "A Câmara dos Deputados votou o projeto. → CÂMARA-DOS-DEPUTADOS PROJETO VOTAR.",
         "Goiás tem 17 deputados na Câmara dos Deputados. → GOIÁS DEPUTADO 17 CÂMARA-DOS-DEPUTADOS."
       ],
-      "video": "https://www.youtube.com/embed/CSWXqe5Tlec?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=CSWXqe5Tlec",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CSWXqe5Tlec?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=CSWXqe5Tlec",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -288,16 +368,24 @@
         "O erro foi por imperícia do médico. → MÉDICO ERRO IMPERÍCIA.",
         "Imperícia é falta de conhecimento técnico. → IMPERÍCIA CONHECIMENTO TÉCNICO FALTA."
       ],
-      "video": "https://www.youtube.com/embed/bVJWS80IlP8?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=bVJWS80IlP8",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bVJWS80IlP8?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=bVJWS80IlP8",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -313,17 +401,25 @@
         "Deixar a criança sozinha é negligência. → CRIANÇA SOZINHA DEIXAR NEGLIGÊNCIA.",
         "O hospital foi acusado de negligência. → HOSPITAL ACUSAR NEGLIGÊNCIA."
       ],
-      "video": "https://www.youtube.com/embed/2oJfmNB28c4?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=2oJfmNB28c4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2oJfmNB28c4?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=2oJfmNB28c4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -339,17 +435,25 @@
         "O presidente concedeu indulto de Natal. → PRESIDENTE INDULTO NATAL CONCEDER.",
         "O indulto extingue a pena. → INDULTO PENA ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/fJPuqs40H60?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=fJPuqs40H60",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fJPuqs40H60?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=fJPuqs40H60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -365,17 +469,25 @@
         "A anistia perdoou crimes políticos. → ANISTIA CRIME POLÍTICO PERDOAR.",
         "A Lei da Anistia é de 1979. → LEI ANISTIA 1979."
       ],
-      "video": "https://www.youtube.com/embed/LQ4YJ-Je9Bw?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LQ4YJ-Je9Bw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LQ4YJ-Je9Bw?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LQ4YJ-Je9Bw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -391,17 +503,25 @@
         "O recurso extraordinário vai para o STF. → RECURSO-EXTRAORDINÁRIO IR STF.",
         "Cabe recurso extraordinário nesse caso? → CASO ESSE RECURSO-EXTRAORDINÁRIO CABER?"
       ],
-      "video": "https://www.youtube.com/embed/UTungrwn3TE?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=UTungrwn3TE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UTungrwn3TE?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=UTungrwn3TE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -417,17 +537,25 @@
         "A associação entrou com uma ADI no STF. → ASSOCIAÇÃO ADI STF ENTRAR.",
         "A ADI questiona se a lei respeita a Constituição. → ADI LEI CONSTITUIÇÃO RESPEITAR QUESTIONAR."
       ],
-      "video": "https://www.youtube.com/embed/nUiertNit-c?start=11&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=nUiertNit-c",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/nUiertNit-c?start=11&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=nUiertNit-c",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -443,16 +571,24 @@
         "A ação por omissão cobra uma lei que não existe. → AÇÃO-OMISSÃO LEI NÃO-EXISTIR COBRAR.",
         "O STF julgou a ação direta de inconstitucionalidade por omissão. → STF ADO JULGAR."
       ],
-      "video": "https://www.youtube.com/embed/E-FYkj0u8LA?start=11&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=E-FYkj0u8LA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/E-FYkj0u8LA?start=11&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=E-FYkj0u8LA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -468,17 +604,25 @@
         "A ADC confirma que a lei é constitucional. → ADC LEI CONSTITUCIONAL CONFIRMAR.",
         "O governo entrou com uma ADC. → GOVERNO ADC ENTRAR."
       ],
-      "video": "https://www.youtube.com/embed/LU8zzu1lRQM?start=11&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LU8zzu1lRQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LU8zzu1lRQM?start=11&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LU8zzu1lRQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -494,16 +638,24 @@
         "Ele recebeu pena de multa. → ELE PENA-DE-MULTA RECEBER.",
         "A pena de multa é paga em dinheiro. → PENA-DE-MULTA DINHEIRO PAGAR."
       ],
-      "video": "https://www.youtube.com/embed/x-0oOsaH6lU?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=x-0oOsaH6lU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/x-0oOsaH6lU?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=x-0oOsaH6lU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -519,17 +671,25 @@
         "O oficial de justiça veio entregar a intimação. → OFICIAL-DE-JUSTIÇA INTIMAÇÃO ENTREGAR VIR.",
         "O oficial de justiça precisava de intérprete. → OFICIAL-DE-JUSTIÇA INTÉRPRETE PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/vRsDRH3rQlE?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=vRsDRH3rQlE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/vRsDRH3rQlE?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=vRsDRH3rQlE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -545,16 +705,24 @@
         "O processo penal está em andamento. → PROCESSO-PENAL ANDAMENTO.",
         "No processo penal, o réu tem direito a intérprete. → PROCESSO-PENAL RÉU DIREITO INTÉRPRETE."
       ],
-      "video": "https://www.youtube.com/embed/LI7M_Ii0adk?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LI7M_Ii0adk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LI7M_Ii0adk?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LI7M_Ii0adk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -570,17 +738,25 @@
         "O acidente foi por culpa, sem intenção. → ACIDENTE CULPA, INTENÇÃO NÃO.",
         "A culpa pode ser por imprudência ou negligência. → CULPA IMPRUDÊNCIA OU NEGLIGÊNCIA PODER."
       ],
-      "video": "https://www.youtube.com/embed/n_F6cXQ3CpA?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=n_F6cXQ3CpA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/n_F6cXQ3CpA?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=n_F6cXQ3CpA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -596,17 +772,25 @@
         "A pena foi de dois anos. → PENA DOIS-ANOS.",
         "O juiz diminuiu a pena. → JUIZ PENA DIMINUIR."
       ],
-      "video": "https://www.youtube.com/embed/AgMGqem0ZRo?start=11&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=AgMGqem0ZRo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AgMGqem0ZRo?start=11&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=AgMGqem0ZRo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -622,17 +806,25 @@
         "Ele conseguiu progressão de regime. → ELE PROGRESSÃO-DE-REGIME CONSEGUIR.",
         "A progressão de regime depende do comportamento. → PROGRESSÃO-DE-REGIME COMPORTAMENTO DEPENDER."
       ],
-      "video": "https://www.youtube.com/embed/mqb455amz4c?start=11&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=mqb455amz4c",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mqb455amz4c?start=11&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=mqb455amz4c",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -648,16 +840,24 @@
         "Passei na prova da OAB! → PROVA OAB EU PASSAR!",
         "A OAB tem comissão de direitos dos surdos. → OAB COMISSÃO DIREITOS SURDO TER."
       ],
-      "video": "https://www.youtube.com/embed/m0XuHtfkb_k?start=11&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=m0XuHtfkb_k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/m0XuHtfkb_k?start=11&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=m0XuHtfkb_k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -673,16 +873,24 @@
         "Ele está em prisão provisória. → ELE PRISÃO-PROVISÓRIA.",
         "A prisão provisória não é condenação. → PRISÃO-PROVISÓRIA CONDENAÇÃO NÃO."
       ],
-      "video": "https://www.youtube.com/embed/ixYgUOWBvcw?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ixYgUOWBvcw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ixYgUOWBvcw?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ixYgUOWBvcw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -698,17 +906,25 @@
         "Ele foi pego em flagrante. → ELE PEGAR FLAGRANTE.",
         "No flagrante, a polícia pode prender na hora. → FLAGRANTE, POLÍCIA PRENDER NA-HORA PODER."
       ],
-      "video": "https://www.youtube.com/embed/p72xDXBYuEk?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=p72xDXBYuEk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/p72xDXBYuEk?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=p72xDXBYuEk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -724,16 +940,24 @@
         "O Tribunal do Júri julga homicídio. → TRIBUNAL-DO-JÚRI HOMICÍDIO JULGAR.",
         "Fui chamado para o Tribunal do Júri. → TRIBUNAL-DO-JÚRI EU CHAMAR."
       ],
-      "video": "https://www.youtube.com/embed/UtJjLgFj1VI?start=11&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=UtJjLgFj1VI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UtJjLgFj1VI?start=11&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=UtJjLgFj1VI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -749,16 +973,24 @@
         "A pena de detenção é mais leve. → DETENÇÃO PENA LEVE MAIS.",
         "Ele foi condenado a seis meses de detenção. → ELE DETENÇÃO SEIS MESES CONDENAR."
       ],
-      "video": "https://www.youtube.com/embed/3WbkEjfvQEo?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=3WbkEjfvQEo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/3WbkEjfvQEo?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=3WbkEjfvQEo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -774,16 +1006,24 @@
         "Ele usa tornozeleira eletrônica. → ELE TORNOZELEIRA-ELETRÔNICA USAR.",
         "A tornozeleira eletrônica mostra onde a pessoa está. → TORNOZELEIRA-ELETRÔNICA PESSOA ONDE MOSTRAR."
       ],
-      "video": "https://www.youtube.com/embed/LQZ01qwnH_w?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LQZ01qwnH_w",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LQZ01qwnH_w?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=LQZ01qwnH_w",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -799,17 +1039,25 @@
         "No regime semiaberto, ele trabalha de dia. → REGIME-SEMIABERTO ELE DIA TRABALHAR.",
         "Ele passou para o regime semiaberto. → ELE REGIME-SEMIABERTO PASSAR."
       ],
-      "video": "https://www.youtube.com/embed/8eD4-1dxPZA?start=11&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=8eD4-1dxPZA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/8eD4-1dxPZA?start=11&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=8eD4-1dxPZA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -825,17 +1073,25 @@
         "No regime aberto, ele dorme em casa. → REGIME-ABERTO ELE CASA DORMIR.",
         "O regime aberto tem regras. → REGIME-ABERTO REGRAS TER."
       ],
-      "video": "https://www.youtube.com/embed/bSYk-rO1G9k?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=bSYk-rO1G9k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bSYk-rO1G9k?start=11&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=bSYk-rO1G9k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -851,16 +1107,24 @@
         "Ele cumpre pena em regime fechado. → ELE PENA REGIME-FECHADO CUMPRIR.",
         "Regime fechado é para crimes graves. → REGIME-FECHADO CRIME GRAVE."
       ],
-      "video": "https://www.youtube.com/embed/tYsCXG-acec?start=11&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=tYsCXG-acec",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tYsCXG-acec?start=11&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=tYsCXG-acec",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -876,16 +1140,24 @@
         "Ele recebeu pena restritiva de direito. → ELE PENA-RESTRITIVA-DE-DIREITO RECEBER.",
         "Prestar serviço comunitário é pena restritiva de direito. → SERVIÇO COMUNIDADE PENA-RESTRITIVA-DE-DIREITO."
       ],
-      "video": "https://www.youtube.com/embed/b1oF2fMP_aM?start=11&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=b1oF2fMP_aM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/b1oF2fMP_aM?start=11&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=b1oF2fMP_aM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -901,16 +1173,24 @@
         "A pena privativa de liberdade foi de quatro anos. → PENA-PRIVATIVA-DE-LIBERDADE 4 ANOS.",
         "Prisão é pena privativa de liberdade. → PRISÃO PENA-PRIVATIVA-DE-LIBERDADE."
       ],
-      "video": "https://www.youtube.com/embed/BTZzEOW4ezg?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=BTZzEOW4ezg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BTZzEOW4ezg?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=BTZzEOW4ezg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -926,16 +1206,24 @@
         "Ele está em prisão domiciliar. → ELE PRISÃO-DOMICILIAR.",
         "Na prisão domiciliar, a pessoa não pode sair de casa. → PRISÃO-DOMICILIAR, CASA SAIR PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/5mJP9y1dj24?start=11&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=5mJP9y1dj24",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5mJP9y1dj24?start=11&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=5mJP9y1dj24",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -951,16 +1239,24 @@
         "A prisão temporária dura cinco dias. → PRISÃO-TEMPORÁRIA CINCO DIAS.",
         "O juiz decretou prisão temporária. → JUIZ PRISÃO-TEMPORÁRIA DECRETAR."
       ],
-      "video": "https://www.youtube.com/embed/zXPqOQmj3tM?start=11&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zXPqOQmj3tM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zXPqOQmj3tM?start=11&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zXPqOQmj3tM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -976,16 +1272,24 @@
         "O juiz decretou prisão preventiva. → JUIZ PRISÃO-PREVENTIVA DECRETAR.",
         "A prisão preventiva não tem prazo fixo. → PRISÃO-PREVENTIVA PRAZO FIXO NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/NStP0mXUhs4?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=NStP0mXUhs4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/NStP0mXUhs4?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=NStP0mXUhs4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1001,16 +1305,24 @@
         "O STF reconheceu a repercussão geral. → STF REPERCUSSÃO-GERAL RECONHECER.",
         "Com repercussão geral, a decisão vale para todos. → REPERCUSSÃO-GERAL, DECISÃO TODOS VALER."
       ],
-      "video": "https://www.youtube.com/embed/ao7vEpyTK_0?start=11&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ao7vEpyTK_0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ao7vEpyTK_0?start=11&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ao7vEpyTK_0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1026,17 +1338,25 @@
         "O Procurador da República abriu investigação. → PROCURADOR-DA-REPÚBLICA INVESTIGAÇÃO ABRIR.",
         "O Procurador da República atua em casos federais. → PROCURADOR-DA-REPÚBLICA CASO FEDERAL ATUAR."
       ],
-      "video": "https://www.youtube.com/embed/YkVbKI6P70k?start=11&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=YkVbKI6P70k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YkVbKI6P70k?start=11&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=YkVbKI6P70k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1052,17 +1372,25 @@
         "O Procurador do Estado defende Goiás na Justiça. → PROCURADOR-DO-ESTADO GOIÁS DEFENDER JUSTIÇA.",
         "Ela passou no concurso de Procurador do Estado. → ELA CONCURSO PROCURADOR-DO-ESTADO PASSAR."
       ],
-      "video": "https://www.youtube.com/embed/9lEga5NX5fs?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=9lEga5NX5fs",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/9lEga5NX5fs?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=9lEga5NX5fs",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1078,17 +1406,25 @@
         "Preciso de um advogado. → EU ADVOGADO PRECISAR.",
         "O advogado sabe Libras? → ADVOGADO SABER LIBRAS?"
       ],
-      "video": "https://www.youtube.com/embed/RAdxayYsvTU?start=11&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=RAdxayYsvTU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/RAdxayYsvTU?start=11&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=RAdxayYsvTU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1104,17 +1440,25 @@
         "Fiz uma procuração para meu irmão. → EU PROCURAÇÃO FAZER IRMÃO MEU.",
         "A procuração precisa ser do cartório. → PROCURAÇÃO CARTÓRIO PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/0yBwtkVTfnI?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0yBwtkVTfnI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0yBwtkVTfnI?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0yBwtkVTfnI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1130,17 +1474,25 @@
         "O promotor de justiça fez a acusação. → PROMOTOR-DE-JUSTIÇA ACUSAÇÃO FAZER.",
         "O promotor de justiça defende a sociedade. → PROMOTOR-DE-JUSTIÇA SOCIEDADE DEFENDER."
       ],
-      "video": "https://www.youtube.com/embed/IJx6qVsYSxY?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=IJx6qVsYSxY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/IJx6qVsYSxY?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=IJx6qVsYSxY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1156,17 +1508,25 @@
         "O caso foi para o Juizado Especial Criminal. → CASO IR JUIZADO-ESPECIAL-CRIMINAL.",
         "O Juizado Especial Criminal julga crimes de menor gravidade. → JUIZADO-ESPECIAL-CRIMINAL CRIME LEVE JULGAR."
       ],
-      "video": "https://www.youtube.com/embed/EzLrAz8cic0?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=EzLrAz8cic0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/EzLrAz8cic0?start=11&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=EzLrAz8cic0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1182,16 +1542,24 @@
         "Vou ao Juizado Especial Cível reclamar da loja. → LOJA RECLAMAR, EU IR JUIZADO-ESPECIAL-CÍVEL.",
         "No Juizado Especial Cível, causa pequena não precisa de advogado. → JUIZADO-ESPECIAL-CÍVEL CAUSA PEQUENA ADVOGADO PRECISAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/PCb649FfPjo?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=PCb649FfPjo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/PCb649FfPjo?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=PCb649FfPjo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1207,17 +1575,25 @@
         "O conciliador ajudou no acordo. → CONCILIADOR ACORDO AJUDAR.",
         "O conciliador não é juiz. → CONCILIADOR JUIZ NÃO."
       ],
-      "video": "https://www.youtube.com/embed/ZErcHXhIJxU?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZErcHXhIJxU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ZErcHXhIJxU?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZErcHXhIJxU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1233,17 +1609,25 @@
         "A audiência de conciliação é amanhã. → AMANHÃ AUDIÊNCIA CONCILIAÇÃO.",
         "Na conciliação, as partes fizeram acordo. → CONCILIAÇÃO PARTES ACORDO FAZER."
       ],
-      "video": "https://www.youtube.com/embed/ivabt0SlNfg?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ivabt0SlNfg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ivabt0SlNfg?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ivabt0SlNfg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1259,16 +1643,24 @@
         "O Congresso aprovou uma emenda constitucional. → CONGRESSO-NACIONAL EMENDA-CONSTITUCIONAL APROVAR.",
         "A emenda constitucional precisa de muitos votos. → EMENDA-CONSTITUCIONAL VOTO MUITO PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/1ZuIwMv2c8k?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=1ZuIwMv2c8k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1ZuIwMv2c8k?start=11&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=1ZuIwMv2c8k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1284,17 +1676,25 @@
         "O CNJ exige acessibilidade nos tribunais. → CNJ TRIBUNAL ACESSIBILIDADE EXIGIR.",
         "O Conselho Nacional de Justiça fica em Brasília. → CNJ BRASÍLIA."
       ],
-      "video": "https://www.youtube.com/embed/i3Glm-YQ2TU?start=11&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=i3Glm-YQ2TU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/i3Glm-YQ2TU?start=11&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=i3Glm-YQ2TU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1310,17 +1710,25 @@
         "O ministro Dias Toffoli lançou uma série em Libras. → MINISTRO DIAS-TOFFOLI SÉRIE LIBRAS LANÇAR.",
         "Dias Toffoli foi presidente do STF. → DIAS-TOFFOLI STF PRESIDENTE ANTES."
       ],
-      "video": "https://www.youtube.com/embed/dAbs3W-DXCk?start=11&end=326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=dAbs3W-DXCk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dAbs3W-DXCk?start=11&end=326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=dAbs3W-DXCk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1336,17 +1744,25 @@
         "O STF tem onze ministros. → STF MINISTRO 11.",
         "O caso chegou ao Supremo Tribunal Federal. → CASO CHEGAR STF."
       ],
-      "video": "https://www.youtube.com/embed/m1P9ynOM1sQ?start=11&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=m1P9ynOM1sQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/m1P9ynOM1sQ?start=11&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=m1P9ynOM1sQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1362,17 +1778,25 @@
         "Entrei com reclamação trabalhista. → EU RECLAMAÇÃO-TRABALHISTA ENTRAR.",
         "A reclamação trabalhista cobra salário atrasado. → RECLAMAÇÃO-TRABALHISTA SALÁRIO ATRASADO COBRAR."
       ],
-      "video": "https://www.youtube.com/embed/ccVdz1K36gw?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ccVdz1K36gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ccVdz1K36gw?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ccVdz1K36gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1388,16 +1812,24 @@
         "O advogado protocolou a petição. → ADVOGADO PETIÇÃO PROTOCOLAR.",
         "A petição pede intérprete na audiência. → PETIÇÃO AUDIÊNCIA INTÉRPRETE PEDIR."
       ],
-      "video": "https://www.youtube.com/embed/oCNG30gpLks?start=11&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=oCNG30gpLks",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/oCNG30gpLks?start=11&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=oCNG30gpLks",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1413,17 +1845,25 @@
         "A súmula vinculante vale para todos os juízes. → SÚMULA-VINCULANTE JUIZ TODOS VALER.",
         "O STF aprovou uma nova súmula vinculante. → STF SÚMULA-VINCULANTE NOVA APROVAR."
       ],
-      "video": "https://www.youtube.com/embed/Fw9cgEm1SUA?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Fw9cgEm1SUA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Fw9cgEm1SUA?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Fw9cgEm1SUA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1439,17 +1879,25 @@
         "O STF declarou a inconstitucionalidade da lei. → STF LEI INCONSTITUCIONALIDADE DECLARAR.",
         "Essa lei tem inconstitucionalidade? → LEI ESSA INCONSTITUCIONALIDADE TER?"
       ],
-      "video": "https://www.youtube.com/embed/HbRVPrWr0AY?start=11&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=HbRVPrWr0AY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/HbRVPrWr0AY?start=11&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=HbRVPrWr0AY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1465,17 +1913,25 @@
         "A jurisprudência favorece o surdo. → JURISPRUDÊNCIA SURDO FAVORECER.",
         "O advogado pesquisou a jurisprudência. → ADVOGADO JURISPRUDÊNCIA PESQUISAR."
       ],
-      "video": "https://www.youtube.com/embed/5XN0TKsm-BU?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=5XN0TKsm-BU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5XN0TKsm-BU?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=5XN0TKsm-BU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1491,16 +1947,24 @@
         "Os direitos fundamentais são cláusula pétrea. → DIREITOS FUNDAMENTAIS CLÁUSULA-PÉTREA.",
         "Cláusula pétrea não pode ser retirada. → CLÁUSULA-PÉTREA TIRAR PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/wzELXASw8H0?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=wzELXASw8H0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wzELXASw8H0?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=wzELXASw8H0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1516,16 +1980,24 @@
         "O parecer foi favorável. → PARECER FAVORÁVEL.",
         "O promotor deu parecer no processo. → PROMOTOR-DE-JUSTIÇA PROCESSO PARECER DAR."
       ],
-      "video": "https://www.youtube.com/embed/0wIio80mH4A?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0wIio80mH4A",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0wIio80mH4A?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0wIio80mH4A",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1541,16 +2013,24 @@
         "O juiz deu uma liminar. → JUIZ LIMINAR DAR.",
         "A liminar garante o intérprete na escola. → LIMINAR INTÉRPRETE ESCOLA GARANTIR."
       ],
-      "video": "https://www.youtube.com/embed/CmIolnGfxP8?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=CmIolnGfxP8",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CmIolnGfxP8?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=CmIolnGfxP8",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1566,16 +2046,24 @@
         "A Feneis atuou como amigo da corte. → FENEIS AMIGO-DA-CORTE ATUAR.",
         "O amigo da corte ajuda o tribunal com informações. → AMIGO-DA-CORTE TRIBUNAL INFORMAÇÃO AJUDAR."
       ],
-      "video": "https://www.youtube.com/embed/VM01vFxWx3o?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=VM01vFxWx3o",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/VM01vFxWx3o?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=VM01vFxWx3o",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1591,16 +2079,24 @@
         "O advogado pediu habeas corpus. → ADVOGADO HABEAS-CORPUS PEDIR.",
         "O habeas corpus foi concedido. → HABEAS-CORPUS CONCEDER."
       ],
-      "video": "https://www.youtube.com/embed/yDxigjnc9Fc?start=11&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=yDxigjnc9Fc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/yDxigjnc9Fc?start=11&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=yDxigjnc9Fc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1616,17 +2112,25 @@
         "Vamos entrar com recurso. → NÓS RECURSO ENTRAR.",
         "O prazo do recurso é de quinze dias. → RECURSO PRAZO 15 DIAS."
       ],
-      "video": "https://www.youtube.com/embed/OIDLGHDlpu0?start=11&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=OIDLGHDlpu0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OIDLGHDlpu0?start=11&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=OIDLGHDlpu0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1642,17 +2146,25 @@
         "A Constituição Estadual de Goiás fala de Libras? → CONSTITUIÇÃO-ESTADUAL GOIÁS LIBRAS FALAR?",
         "A Constituição Estadual segue a Federal. → CONSTITUIÇÃO-ESTADUAL CONSTITUIÇÃO-FEDERAL SEGUIR."
       ],
-      "video": "https://www.youtube.com/embed/L_WojP8w0pw?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=L_WojP8w0pw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/L_WojP8w0pw?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=L_WojP8w0pw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1668,17 +2180,25 @@
         "A Constituição Federal é de 1988. → CONSTITUIÇÃO-FEDERAL 1988.",
         "A Constituição Federal garante a igualdade. → CONSTITUIÇÃO-FEDERAL IGUALDADE GARANTIR."
       ],
-      "video": "https://www.youtube.com/embed/Mquowc0hSmk?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Mquowc0hSmk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Mquowc0hSmk?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Mquowc0hSmk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1694,17 +2214,25 @@
         "O juiz vai decidir amanhã. → JUIZ AMANHÃ DECIDIR.",
         "A juíza pediu intérprete de Libras. → JUÍZA INTÉRPRETE-DE-LIBRAS PEDIR."
       ],
-      "video": "https://www.youtube.com/embed/XTgj9iGyZEw?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=XTgj9iGyZEw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/XTgj9iGyZEw?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=XTgj9iGyZEw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1720,17 +2248,25 @@
         "A família quer justiça. → FAMÍLIA JUSTIÇA QUERER.",
         "Vou procurar a Justiça. → EU JUSTIÇA PROCURAR."
       ],
-      "video": "https://www.youtube.com/embed/xniu5buPvmU?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xniu5buPvmU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/xniu5buPvmU?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xniu5buPvmU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1746,16 +2282,24 @@
         "O caso está na segunda instância. → CASO INSTÂNCIA 2ª.",
         "Perdemos na primeira instância e recorremos. → INSTÂNCIA 1ª NÓS PERDER, RECORRER."
       ],
-      "video": "https://www.youtube.com/embed/xE-ZaZPKH6Q?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xE-ZaZPKH6Q",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/xE-ZaZPKH6Q?start=11&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xE-ZaZPKH6Q",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1771,17 +2315,25 @@
         "O réu tem direito a intérprete. → RÉU DIREITO INTÉRPRETE.",
         "O réu foi absolvido. → RÉU ABSOLVER."
       ],
-      "video": "https://www.youtube.com/embed/ETwdDfHroHE?start=11&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ETwdDfHroHE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ETwdDfHroHE?start=11&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ETwdDfHroHE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1797,16 +2349,24 @@
         "Ele é investigado, não condenado. → ELE INVESTIGADO, CONDENADO NÃO.",
         "O investigado prestou depoimento. → INVESTIGADO DEPOIMENTO PRESTAR."
       ],
-      "video": "https://www.youtube.com/embed/S_ZJJyVFNAY?start=11&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=S_ZJJyVFNAY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/S_ZJJyVFNAY?start=11&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=S_ZJJyVFNAY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1822,17 +2382,25 @@
         "Eu sou o autor da ação. → EU AUTOR AÇÃO.",
         "O autor pediu indenização. → AUTOR INDENIZAÇÃO PEDIR."
       ],
-      "video": "https://www.youtube.com/embed/scljJKMhiFc?start=11&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=scljJKMhiFc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/scljJKMhiFc?start=11&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=scljJKMhiFc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1848,17 +2416,25 @@
         "A sentença saiu hoje. → HOJE SENTENÇA SAIR.",
         "A sentença foi favorável a nós. → SENTENÇA NÓS FAVORÁVEL."
       ],
-      "video": "https://www.youtube.com/embed/A29PY1K92bI?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=A29PY1K92bI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/A29PY1K92bI?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=A29PY1K92bI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -1874,16 +2450,24 @@
         "O acórdão do tribunal confirmou a sentença. → TRIBUNAL ACÓRDÃO SENTENÇA CONFIRMAR.",
         "O acórdão foi publicado. → ACÓRDÃO PUBLICAR."
       ],
-      "video": "https://www.youtube.com/embed/H1PycsOGVjg?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=H1PycsOGVjg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/H1PycsOGVjg?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=H1PycsOGVjg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1899,16 +2483,24 @@
         "O voto do relator foi a favor. → RELATOR VOTO FAVOR.",
         "Cada ministro dá seu voto. → MINISTRO CADA VOTO DAR."
       ],
-      "video": "https://www.youtube.com/embed/9gddcOkd4Cg?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=9gddcOkd4Cg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/9gddcOkd4Cg?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=9gddcOkd4Cg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1924,16 +2516,24 @@
         "O juiz declarou incompetência. → JUIZ INCOMPETÊNCIA DECLARAR.",
         "Por incompetência, o processo mudou de cidade. → INCOMPETÊNCIA, PROCESSO CIDADE MUDAR."
       ],
-      "video": "https://www.youtube.com/embed/kvw7K7kqujQ?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kvw7K7kqujQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/kvw7K7kqujQ?start=11&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kvw7K7kqujQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1949,16 +2549,24 @@
         "O acusado é surdo e precisa de intérprete. → ACUSADO SURDO, INTÉRPRETE PRECISAR.",
         "O acusado negou o crime. → ACUSADO CRIME NEGAR."
       ],
-      "video": "https://www.youtube.com/embed/TOXiYhPDVS8?start=11&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=TOXiYhPDVS8",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/TOXiYhPDVS8?start=11&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=TOXiYhPDVS8",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1974,17 +2582,25 @@
         "O promotor ofereceu denúncia. → PROMOTOR-DE-JUSTIÇA DENÚNCIA OFERECER.",
         "O juiz recebeu a denúncia. → JUIZ DENÚNCIA RECEBER."
       ],
-      "video": "https://www.youtube.com/embed/-MsQGQW0PBc?start=11&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=-MsQGQW0PBc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-MsQGQW0PBc?start=11&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=-MsQGQW0PBc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2000,16 +2616,24 @@
         "Os documentos estão nos autos. → DOCUMENTOS AUTOS.",
         "O advogado leu os autos do processo. → ADVOGADO PROCESSO AUTOS LER."
       ],
-      "video": "https://www.youtube.com/embed/ZUXQig0H6PY?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZUXQig0H6PY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ZUXQig0H6PY?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZUXQig0H6PY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2025,17 +2649,25 @@
         "Fui prestar queixa na delegacia. → DELEGACIA EU QUEIXA PRESTAR.",
         "A queixa foi registrada. → QUEIXA REGISTRAR."
       ],
-      "video": "https://www.youtube.com/embed/g5rBwWlCGJo?start=11&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=g5rBwWlCGJo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/g5rBwWlCGJo?start=11&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=g5rBwWlCGJo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2051,17 +2683,25 @@
         "Precisa pagar taxa? → TAXA PAGAR PRECISAR?",
         "Quem não pode pagar fica isento da taxa. → PAGAR PODER NÃO, TAXA ISENTO."
       ],
-      "video": "https://www.youtube.com/embed/4oooq33ygg0?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=4oooq33ygg0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/4oooq33ygg0?start=11&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=4oooq33ygg0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2077,17 +2717,25 @@
         "O Poder Judiciário julga os processos. → PODER-JUDICIÁRIO PROCESSO JULGAR.",
         "O Poder Judiciário precisa ser acessível. → PODER-JUDICIÁRIO ACESSÍVEL PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/I9dPYpZbVvw?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=I9dPYpZbVvw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/I9dPYpZbVvw?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=I9dPYpZbVvw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2103,17 +2751,25 @@
         "A prefeitura abriu licitação. → PREFEITURA LICITAÇÃO ABRIR.",
         "A licitação escolhe a proposta mais barata. → LICITAÇÃO PROPOSTA BARATA ESCOLHER."
       ],
-      "video": "https://www.youtube.com/embed/kvAyRv4Brfg?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kvAyRv4Brfg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/kvAyRv4Brfg?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=kvAyRv4Brfg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2129,17 +2785,25 @@
         "A Defensoria Pública atende de graça. → DEFENSORIA-PÚBLICA ATENDER GRÁTIS.",
         "Procure a Defensoria Pública. → DEFENSORIA-PÚBLICA PROCURAR."
       ],
-      "video": "https://www.youtube.com/embed/smcAA17sr6Y?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=smcAA17sr6Y",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/smcAA17sr6Y?start=11&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=smcAA17sr6Y",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2155,16 +2819,24 @@
         "Comprovei hipossuficiência e não paguei custas. → EU HIPOSSUFICIÊNCIA COMPROVAR, CUSTAS PAGAR NÃO.",
         "Hipossuficiência é não ter dinheiro para pagar o processo. → HIPOSSUFICIÊNCIA PROCESSO PAGAR DINHEIRO NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/tq5IRhWi4OA?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=tq5IRhWi4OA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tq5IRhWi4OA?start=11&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=tq5IRhWi4OA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2180,16 +2852,24 @@
         "A pena foi de oito anos de reclusão. → PENA RECLUSÃO 8 ANOS.",
         "Reclusão é mais grave que detenção. → RECLUSÃO GRAVE MAIS DETENÇÃO."
       ],
-      "video": "https://www.youtube.com/embed/QZkeA1q7rJo?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QZkeA1q7rJo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/QZkeA1q7rJo?start=11&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QZkeA1q7rJo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2205,17 +2885,25 @@
         "Ele conseguiu liberdade provisória. → ELE LIBERDADE-PROVISÓRIA CONSEGUIR.",
         "A liberdade provisória tem condições. → LIBERDADE-PROVISÓRIA CONDIÇÃO TER."
       ],
-      "video": "https://www.youtube.com/embed/0caYurYUQ80?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0caYurYUQ80",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0caYurYUQ80?start=11&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=0caYurYUQ80",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2231,16 +2919,24 @@
         "Houve dolo, ele quis fazer. → DOLO, ELE QUERER FAZER.",
         "Sem dolo, o crime é culposo. → DOLO NÃO-TER, CRIME CULPA."
       ],
-      "video": "https://www.youtube.com/embed/COM4cg3EXtE?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=COM4cg3EXtE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/COM4cg3EXtE?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=COM4cg3EXtE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2256,17 +2952,25 @@
         "Crime doloso é com intenção. → CRIME-DOLOSO INTENÇÃO TER.",
         "Homicídio doloso vai ao Tribunal do Júri. → HOMICÍDIO CRIME-DOLOSO TRIBUNAL-DO-JÚRI IR."
       ],
-      "video": "https://www.youtube.com/embed/qWimmN15YYk?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=qWimmN15YYk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qWimmN15YYk?start=11&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=qWimmN15YYk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2282,16 +2986,24 @@
         "A decisão virou coisa julgada. → DECISÃO COISA-JULGADA VIRAR.",
         "Coisa julgada não se discute mais. → COISA-JULGADA DISCUTIR MAIS NÃO."
       ],
-      "video": "https://www.youtube.com/embed/vfIcOR_K5Zc?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=vfIcOR_K5Zc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/vfIcOR_K5Zc?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=vfIcOR_K5Zc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2307,17 +3019,25 @@
         "Recebi uma intimação. → EU INTIMAÇÃO RECEBER.",
         "A intimação marca a audiência. → INTIMAÇÃO AUDIÊNCIA MARCAR."
       ],
-      "video": "https://www.youtube.com/embed/EKXQknMhkDQ?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=EKXQknMhkDQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/EKXQknMhkDQ?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=EKXQknMhkDQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2333,17 +3053,25 @@
         "O juiz deu uma decisão interlocutória. → JUIZ DECISÃO-INTERLOCUTÓRIA DAR.",
         "A decisão interlocutória não encerra o processo. → DECISÃO-INTERLOCUTÓRIA PROCESSO ENCERRAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/y8ZFMZSH_3E?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=y8ZFMZSH_3E",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/y8ZFMZSH_3E?start=11&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=y8ZFMZSH_3E",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2359,17 +3087,25 @@
         "A audiência pública terá intérprete. → AUDIÊNCIA-PÚBLICA INTÉRPRETE TER.",
         "Vamos participar da audiência pública? → AUDIÊNCIA-PÚBLICA NÓS PARTICIPAR?"
       ],
-      "video": "https://www.youtube.com/embed/AwzgTXx0mzY?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=AwzgTXx0mzY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AwzgTXx0mzY?start=11&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=AwzgTXx0mzY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2385,17 +3121,25 @@
         "O réu recebeu a citação. → RÉU CITAÇÃO RECEBER.",
         "Depois da citação, há prazo para se defender. → CITAÇÃO DEPOIS, DEFESA PRAZO TER."
       ],
-      "video": "https://www.youtube.com/embed/lB_bMyen2tQ?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=lB_bMyen2tQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/lB_bMyen2tQ?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=lB_bMyen2tQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2411,16 +3155,24 @@
         "Vou entrar com uma ação. → EU AÇÃO ENTRAR.",
         "A ação foi julgada procedente. → AÇÃO JULGAR PROCEDENTE."
       ],
-      "video": "https://www.youtube.com/embed/FF3rCSAjvEw?start=11&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=FF3rCSAjvEw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/FF3rCSAjvEw?start=11&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=FF3rCSAjvEw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2436,17 +3188,25 @@
         "O tribunal fica no centro. → TRIBUNAL CENTRO.",
         "O tribunal manteve a decisão. → TRIBUNAL DECISÃO MANTER."
       ],
-      "video": "https://www.youtube.com/embed/rihKwSVDPxo?start=11&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=rihKwSVDPxo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rihKwSVDPxo?start=11&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=rihKwSVDPxo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2462,16 +3222,24 @@
         "O processo está em segredo de justiça. → PROCESSO SEGREDO-DE-JUSTIÇA.",
         "Casos de família correm em segredo de justiça. → FAMÍLIA CASO SEGREDO-DE-JUSTIÇA."
       ],
-      "video": "https://www.youtube.com/embed/neaU8e-GVfE?start=11&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=neaU8e-GVfE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/neaU8e-GVfE?start=11&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=neaU8e-GVfE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2487,16 +3255,24 @@
         "Não tem quórum para votar. → VOTAR QUÓRUM NÃO-TER.",
         "Com quórum, a reunião começou. → QUÓRUM TER, REUNIÃO COMEÇAR."
       ],
-      "video": "https://www.youtube.com/embed/L0i8h_yPBRY?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=L0i8h_yPBRY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/L0i8h_yPBRY?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=L0i8h_yPBRY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2512,16 +3288,24 @@
         "Meu processo está parado. → PROCESSO MEU PARADO.",
         "Qual é o número do processo? → PROCESSO NÚMERO QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/xQ9Noh0skw8?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xQ9Noh0skw8",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/xQ9Noh0skw8?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xQ9Noh0skw8",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2537,16 +3321,24 @@
         "A petição inicial foi protocolada. → PETIÇÃO-INICIAL PROTOCOLAR.",
         "A petição inicial conta os fatos e os pedidos. → PETIÇÃO-INICIAL FATOS PEDIDOS CONTAR."
       ],
-      "video": "https://www.youtube.com/embed/zgRJYGkKV4o?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zgRJYGkKV4o",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zgRJYGkKV4o?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zgRJYGkKV4o",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2562,17 +3354,25 @@
         "As duas partes fizeram acordo. → PARTE DUAS ACORDO FAZER.",
         "Você é parte no processo? → VOCÊ PROCESSO PARTE?"
       ],
-      "video": "https://www.youtube.com/embed/pIdZIo_CPHo?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=pIdZIo_CPHo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/pIdZIo_CPHo?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=pIdZIo_CPHo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2588,17 +3388,25 @@
         "O Ministério Público investigou a prefeitura. → MINISTÉRIO-PÚBLICO PREFEITURA INVESTIGAR.",
         "Denuncie ao Ministério Público. → MINISTÉRIO-PÚBLICO DENUNCIAR."
       ],
-      "video": "https://www.youtube.com/embed/QHP6HFIvTy0?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QHP6HFIvTy0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/QHP6HFIvTy0?start=11&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=QHP6HFIvTy0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2614,16 +3422,24 @@
         "A lide é entre o cliente e a loja. → LIDE CLIENTE LOJA.",
         "O juiz resolveu a lide. → JUIZ LIDE RESOLVER."
       ],
-      "video": "https://www.youtube.com/embed/e4_26pL0i4o?start=11&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=e4_26pL0i4o",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/e4_26pL0i4o?start=11&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=e4_26pL0i4o",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2639,16 +3455,24 @@
         "Vamos impetrar mandado de segurança. → NÓS IMPETRAR MANDADO-DE-SEGURANÇA.",
         "O advogado impetrou habeas corpus. → ADVOGADO HABEAS-CORPUS IMPETRAR."
       ],
-      "video": "https://www.youtube.com/embed/Xl8Ar1Xy-7w?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Xl8Ar1Xy-7w",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Xl8Ar1Xy-7w?start=11&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=Xl8Ar1Xy-7w",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2664,17 +3488,25 @@
         "Leia a ementa primeiro. → EMENTA LER PRIMEIRO.",
         "A ementa resume o acórdão. → EMENTA ACÓRDÃO RESUMIR."
       ],
-      "video": "https://www.youtube.com/embed/YhKFQsVFNRw?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=YhKFQsVFNRw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YhKFQsVFNRw?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=YhKFQsVFNRw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2690,17 +3522,25 @@
         "O desembargador julgou o recurso. → DESEMBARGADOR RECURSO JULGAR.",
         "Ela virou desembargadora. → ELA DESEMBARGADORA VIRAR."
       ],
-      "video": "https://www.youtube.com/embed/zFL_sbUFIwc?start=11&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zFL_sbUFIwc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zFL_sbUFIwc?start=11&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=zFL_sbUFIwc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]
@@ -2716,16 +3556,24 @@
         "Discriminar surdo é crime. → SURDO DISCRIMINAR CRIME.",
         "Ele cometeu um crime. → ELE CRIME COMETER."
       ],
-      "video": "https://www.youtube.com/embed/VZuzpvqvLto?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=VZuzpvqvLto",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/VZuzpvqvLto?start=11&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=VZuzpvqvLto",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2741,16 +3589,24 @@
         "O STF analisou a constitucionalidade da lei. → STF LEI CONSTITUCIONALIDADE ANALISAR.",
         "A constitucionalidade foi confirmada. → CONSTITUCIONALIDADE CONFIRMAR."
       ],
-      "video": "https://www.youtube.com/embed/xjw8AddMvK0?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xjw8AddMvK0",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/xjw8AddMvK0?start=11&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=xjw8AddMvK0",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2766,16 +3622,24 @@
         "Esse caso é de competência da Justiça Federal. → CASO ESSE COMPETÊNCIA JUSTIÇA FEDERAL.",
         "Qual juiz tem competência para julgar? → JULGAR COMPETÊNCIA JUIZ QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/ZtL2N1TiaKE?start=11&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZtL2N1TiaKE",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ZtL2N1TiaKE?start=11&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=ZtL2N1TiaKE",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:25:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -2791,17 +3655,25 @@
         "Vou ajuizar uma ação contra a empresa. → EMPRESA EU AJUIZAR AÇÃO.",
         "Para ajuizar ação, procure um advogado. → AÇÃO AJUIZAR, ADVOGADO PROCURAR."
       ],
-      "video": "https://www.youtube.com/embed/nQPPwQxDs2E?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=nQPPwQxDs2E",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/nQPPwQxDs2E?start=11&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=0&playlist=nQPPwQxDs2E",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:30:19.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "translation"
+            "translation",
+            "videos"
           ]
         }
       ]

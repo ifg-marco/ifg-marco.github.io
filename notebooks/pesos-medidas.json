@@ -25,21 +25,29 @@
       "situation": "Você pega uma caixa e comenta que ela é leve, fácil de carregar.",
       "translation": "Leve",
       "librasStructure": "LEVE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Essa caixa é leve. → CAIXA ESSA LEVE.",
         "Minha mochila está leve hoje. → HOJE MOCHILA MINHA LEVE."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -50,21 +58,29 @@
       "situation": "Na mudança, você tenta levantar uma caixa pesada e pede ajuda.",
       "translation": "Pesado",
       "librasStructure": "PESADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Essa caixa está pesada! → CAIXA ESSA PESADA!",
         "Me ajuda? É pesado. → AJUDAR-ME? PESADO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=17&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=17&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -75,21 +91,29 @@
       "situation": "No mercado, você escolhe um quilo de arroz.",
       "translation": "Quilo",
       "librasStructure": "QUILO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Um quilo de feijão, por favor. → FEIJÃO QUILO UM, POR-FAVOR.",
         "Quanto custa o quilo do tomate? → TOMATE QUILO PREÇO QUANTO?"
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=20&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=20&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -100,21 +124,29 @@
       "situation": "Na aula, você registra o peso da mochila em quilogramas.",
       "translation": "Quilograma",
       "librasStructure": "QUILOGRAMA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A mochila pesa três quilogramas. → MOCHILA PESAR 3 QUILOGRAMA.",
         "Quantos quilogramas você pesa? → VOCÊ PESAR QUILOGRAMA QUANTOS?"
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=22&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=22&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -125,21 +157,29 @@
       "situation": "Na cozinha, você prepara um litro de suco para a família.",
       "translation": "Litro",
       "librasStructure": "LITRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Comprei um litro de leite. → EU COMPRAR LEITE LITRO UM.",
         "Beba dois litros de água por dia. → DIA ÁGUA BEBER 2 LITRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -150,21 +190,29 @@
       "situation": "Na receita, você precisa pesar cem gramas de manteiga.",
       "translation": "Grama (medida)",
       "librasStructure": "GRAMA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A receita pede duzentos gramas de açúcar. → RECEITA AÇÚCAR 200 GRAMA.",
         "Cem gramas de presunto, por favor. → PRESUNTO 100 GRAMA, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=27&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -175,21 +223,29 @@
       "situation": "Você confere os mililitros do remédio no copo medidor.",
       "translation": "Mililitro",
       "librasStructure": "MILILITRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tome cinco mililitros do xarope. → XAROPE 5 MILILITRO TOMAR.",
         "A lata tem 350 mililitros. → LATA 350 MILILITRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -200,21 +256,29 @@
       "situation": "Na reforma, você usa o metro articulado, que dobra, para medir a parede.",
       "translation": "Metro articulado",
       "librasStructure": "METRO-ARTICULADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pedreiro usa metro articulado. → PEDREIRO USAR METRO-ARTICULADO.",
         "Me passa o metro articulado? → METRO-ARTICULADO PASSAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -225,21 +289,29 @@
       "situation": "Na costura, você usa a fita métrica para medir o tecido.",
       "translation": "Fita métrica",
       "librasStructure": "FITA-MÉTRICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A costureira mediu minha cintura com a fita métrica. → COSTUREIRA MEDIR CINTURA MINHA FITA-MÉTRICA.",
         "Cadê a fita métrica? → FITA-MÉTRICA ONDE?"
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=36&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=36&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -250,20 +322,28 @@
       "situation": "Na aula de desenho, você usa uma régua para traçar uma linha reta.",
       "translation": "Régua",
       "librasStructure": "RÉGUA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faça a linha reta com a régua. → LINHA RETA FAZER RÉGUA.",
         "Minha régua tem trinta centímetros. → RÉGUA MINHA 30 CENTÍMETRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -274,21 +354,29 @@
       "situation": "Para medir a largura da sala, você pega a trena.",
       "translation": "Trena",
       "librasStructure": "TRENA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Mede a sala com a trena. → SALA MEDIR TRENA.",
         "A trena tem cinco metros. → TRENA 5 METRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -299,21 +387,29 @@
       "situation": "Na obra, você informa que a parede tem três metros.",
       "translation": "Metro (medida)",
       "librasStructure": "METRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A parede tem três metros. → PAREDE 3 METRO.",
         "A piscina tem dois metros de fundura. → PISCINA FUNDO 2 METRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -324,21 +420,29 @@
       "situation": "Na consulta, a enfermeira mede e anota sua altura.",
       "translation": "Altura",
       "librasStructure": "ALTURA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Qual é a sua altura? → ALTURA SUA QUANTO?",
         "Minha altura é um metro e setenta. → ALTURA MINHA 1,70 METRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=51&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=51&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -349,21 +453,29 @@
       "situation": "Na viagem de carro, você pergunta quantos quilômetros faltam até a cidade.",
       "translation": "Quilômetro",
       "librasStructure": "QUILÔMETRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faltam cinquenta quilômetros. → FALTAR 50 QUILÔMETRO.",
         "Corri cinco quilômetros hoje. → HOJE EU CORRER 5 QUILÔMETRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=53&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -374,21 +486,29 @@
       "situation": "Na aula, você mede um objeto pequeno em centímetros.",
       "translation": "Centímetro",
       "librasStructure": "CENTÍMETRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O lápis tem quinze centímetros. → LÁPIS 15 CENTÍMETRO.",
         "O bebê cresceu dois centímetros. → BEBÊ CRESCER 2 CENTÍMETRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=57&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=57&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -399,21 +519,29 @@
       "situation": "Numa atividade, você mede uma espessura muito fina em milímetros.",
       "translation": "Milímetro",
       "librasStructure": "MILÍMETRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A folha tem menos de um milímetro. → FOLHA MENOS 1 MILÍMETRO.",
         "Choveu vinte milímetros ontem. → ONTEM CHUVA 20 MILÍMETRO."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -424,21 +552,29 @@
       "situation": "No mercado, você coloca as frutas na balança para ver o peso.",
       "translation": "Balança",
       "librasStructure": "BALANÇA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Pesa as bananas na balança. → BANANA PESAR BALANÇA.",
         "Subi na balança e engordei! → EU SUBIR BALANÇA, ENGORDAR!"
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -449,21 +585,29 @@
       "situation": "Em casa, você usa a balança digital, que mostra o peso na tela.",
       "translation": "Balança digital",
       "librasStructure": "BALANÇA-DIGITAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A balança digital é mais precisa. → BALANÇA-DIGITAL PRECISO MAIS.",
         "A bateria da balança digital acabou. → BALANÇA-DIGITAL BATERIA ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=66&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=66&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -474,21 +618,29 @@
       "situation": "No laboratório, você usa a balança semianalítica (Roberval), de dois braços, para pesar a amostra.",
       "translation": "Balança semianalítica (Roberval)",
       "librasStructure": "BALANÇA-SEMIANALÍTICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Pese a amostra na balança semianalítica. → AMOSTRA PESAR BALANÇA-SEMIANALÍTICA.",
         "A balança semianalítica tem dois pratos. → BALANÇA-SEMIANALÍTICA PRATO 2."
       ],
-      "video": "https://www.youtube.com/embed/1mgkzJpIqZU?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1mgkzJpIqZU?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1mgkzJpIqZU",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

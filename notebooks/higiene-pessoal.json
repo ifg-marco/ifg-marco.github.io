@@ -31,15 +31,23 @@
         "Higiene pessoal é importante para a saúde. → HIGIENE PESSOAL SAÚDE IMPORTANTE.",
         "Ensino higiene pessoal ao meu filho. → EU ENSINAR FILHO MEU HIGIENE PESSOAL."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=3&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=3&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -55,16 +63,24 @@
         "Passa álcool no algodão. → ALGODÃO ÁLCOOL PASSAR.",
         "Tem algodão no armário? → ARMÁRIO ALGODÃO TER?"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=10&end=14&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -86,16 +102,24 @@
         "Me passa a tesoura? → TESOURA PASSAR-ME?",
         "A tesoura não corta bem. → TESOURA CORTAR(tesoura) BEM NÃO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=14&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=14&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -117,15 +141,23 @@
         "Acabou a pasta de dente. → PASTA DE DENTE ACABAR.",
         "Coloca pouco creme dental na escova. → ESCOVA DE DENTE CREME DENTAL POUCO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=25&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=25&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -141,16 +173,24 @@
         "Esqueci a escova de dente na viagem. → VIAGEM ESCOVA DE DENTE EU ESQUECER.",
         "Troque a escova de dente a cada três meses. → ESCOVA DE DENTE TROCAR 3 MESES."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=31&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=31&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -172,16 +212,24 @@
         "Não coloque cotonete dentro da orelha. → COTONETE ORELHA DENTRO COLOCAR NÃO.",
         "Cotonete serve para limpar o umbigo do bebê. → COTONETE LIMPAR UMBIGO BEBÊ."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=40&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -203,16 +251,24 @@
         "Cadê a toalha de rosto? → TOALHA DE ROSTO ONDE?",
         "A toalha de rosto está molhada. → TOALHA DE ROSTO MOLHADA."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=45&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -234,15 +290,23 @@
         "Me traz a toalha de banho, por favor! → TOALHA DE BANHO TRAZER-ME, POR-FAVOR!",
         "Pendura a toalha de banho no varal. → TOALHA DE BANHO V-A-R-A-L PENDURAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=49&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -258,16 +322,24 @@
         "Lava a mão com sabonete. → MÃO LAVAR SABONETE.",
         "Esse sabonete tem cheiro bom. → SABONETE ESSE CHEIRO BOM."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=54&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -289,15 +361,23 @@
         "Tem sabonete íntimo? → SABONETE ÍNTIMO TER?",
         "A médica recomendou sabonete íntimo. → MÉDICA RECOMENDAR SABONETE ÍNTIMO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=59&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=59&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -313,15 +393,23 @@
         "Lava a louça com esponja. → LOUÇA LAVAR ESPONJA.",
         "Uso uma esponja macia no banho. → BANHO EU USAR ESPONJA MACIA."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=80&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -337,15 +425,23 @@
         "Cadê o cortador de unhas? → CORTADOR DE UNHAS ONDE?",
         "Corta as unhas do bebê com cortador de unhas pequeno. → BEBÊ UNHA CORTAR CORTADOR DE UNHAS PEQUENO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=88&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=88&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -361,15 +457,23 @@
         "A manicure usa alicate. → MANICURE USAR ALICATE.",
         "Cuidado com o alicate, ele corta! → ALICATE CUIDADO, CORTAR!"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=96&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=96&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -385,15 +489,23 @@
         "Passa a lixa nas unhas. → UNHAS LIXA PASSAR.",
         "Você tem lixa de unha? → VOCÊ LIXA TER?"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=109&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=109&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -409,16 +521,24 @@
         "Limpa a mesa com álcool. → MESA LIMPAR ÁLCOOL.",
         "O álcool acabou. → ÁLCOOL ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=116&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=116&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -440,15 +560,23 @@
         "Tira o esmalte com acetona. → ESMALTE TIRAR ACETONA.",
         "Acetona tem cheiro forte. → ACETONA CHEIRO FORTE."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=120&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -464,15 +592,23 @@
         "Passa álcool em gel nas mãos. → MÃO ÁLCOOL EM GEL PASSAR.",
         "Quer álcool em gel? → ÁLCOOL EM GEL VOCÊ QUERER?"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=125&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=125&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -488,17 +624,25 @@
         "Comprei álcool na farmácia. → EU COMPRAR ÁLCOOL FARMÁCIA.",
         "Álcool pega fogo, cuidado! → ÁLCOOL FOGO PEGAR, CUIDADO!"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=131&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=131&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -514,16 +658,24 @@
         "O shampoo acabou. → SHAMPOO ACABAR.",
         "Uso shampoo para cabelo cacheado. → EU USAR SHAMPOO CABELO CACHEADO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=137&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=137&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -545,16 +697,24 @@
         "Você usou meu condicionador? → CONDICIONADOR MEU VOCÊ USAR?",
         "Depois do shampoo, passa o condicionador. → SHAMPOO DEPOIS, CONDICIONADOR PASSAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=144&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=144&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -576,15 +736,23 @@
         "Passe hidratante na pele seca. → PELE SECA HIDRATANTE PASSAR.",
         "Esse hidratante tem cheiro de coco. → HIDRATANTE ESSE CHEIRO COCO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=154&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=154&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -600,16 +768,24 @@
         "Esqueci de passar desodorante! → DESODORANTE EU ESQUECER PASSAR!",
         "Desodorante sem perfume, por favor. → DESODORANTE PERFUME NÃO-TER, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=164&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=164&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -631,16 +807,24 @@
         "Acabou o papel higiênico! → PAPEL HIGIÊNICO ACABAR!",
         "Compra papel higiênico no mercado. → MERCADO PAPEL HIGIÊNICO COMPRAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=174&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -662,16 +846,24 @@
         "Tira o espinho com a pinça. → ESPINHO TIRAR PINÇA.",
         "Uso a pinça para tirar a sobrancelha. → EU USAR PINÇA TIRAR(sobrancelha)."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=180&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=180&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -693,16 +885,24 @@
         "Você tem absorvente? → VOCÊ ABSORVENTE TER?",
         "Na escola, distribuem absorvente de graça. → ESCOLA ABSORVENTE DAR GRÁTIS."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=186&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=186&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -725,15 +925,23 @@
         "Banho quente ou frio? → BANHO QUENTE OU FRIO?",
         "Dá banho no bebê? → BEBÊ BANHO DAR?"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=191&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=191&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -749,15 +957,23 @@
         "O chuveiro queimou. → CHUVEIRO QUEIMAR.",
         "Liga o chuveiro no quente. → CHUVEIRO QUENTE LIGAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=199&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=199&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -773,15 +989,23 @@
         "Use fio dental todo dia. → FIO DENTAL USAR TODO-DIA.",
         "O dentista mandou usar fio dental. → DENTISTA MANDAR USAR FIO DENTAL."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=204&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=204&end=210&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -797,15 +1021,23 @@
         "Você tem lenço de papel? → VOCÊ LENÇO DE PAPEL TER?",
         "Gripado, uso muito lenço de papel. → GRIPE, EU USAR LENÇO DE PAPEL MUITO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=210&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=210&end=218&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -821,15 +1053,23 @@
         "Que perfume gostoso! → PERFUME CHEIRO GOSTOSO!",
         "Ganhei perfume de aniversário. → ANIVERSÁRIO EU GANHAR PERFUME."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=218&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=218&end=227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -845,15 +1085,23 @@
         "Acabaram as lâminas de barbear. → LÂMINAS DE BARBEAR ACABAR.",
         "Cuidado, a lâmina de barbear corta! → LÂMINAS DE BARBEAR CUIDADO, CORTAR!"
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=227&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=227&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -869,15 +1117,23 @@
         "Meu pai usa barbeador elétrico. → PAI MEU USAR BARBEADOR ELÉTRICO.",
         "O barbeador elétrico está sem bateria. → BARBEADOR ELÉTRICO BATERIA ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=236&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=236&end=246&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -893,15 +1149,23 @@
         "Pingue o colírio duas vezes ao dia. → COLÍRIO PINGAR DIA 2 VEZES.",
         "Meus olhos estão secos, preciso de colírio. → OLHOS MEUS SECO, COLÍRIO PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=246&end=253&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=246&end=253&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -917,15 +1181,23 @@
         "Coloca um band-aid no dedo. → DEDO BAND-AID COLOCAR.",
         "O enfermeiro enrolou a atadura no braço. → ENFERMEIRO ATADURA ENROLAR BRAÇO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=253&end=262&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=253&end=262&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -941,16 +1213,24 @@
         "Me empresta seu pente? → PENTE SEU EMPRESTAR-ME?",
         "Não divida o pente com ninguém. → PENTE DIVIDIR NINGUÉM NÃO."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=262&end=266&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=262&end=266&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -972,15 +1252,23 @@
         "Uso pedra-pomes no calcanhar. → EU USAR PEDRA-POMES CALCANHAR.",
         "A lixa para pés deixa a pele lisa. → LIXA PARA PÉS PELE LISA DEIXAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=266&end=275&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=266&end=275&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -996,15 +1284,23 @@
         "Tira a maquiagem com demaquilante. → MAQUIAGEM TIRAR DEMAQUILANTE.",
         "Acabou o removedor de maquiagem. → REMOVEDOR DE MAQUIAGEM ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=275&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=275&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1020,15 +1316,23 @@
         "Leva lenços umedecidos na bolsa do bebê. → BOLSA BEBÊ LENÇOS UMEDECIDOS LEVAR.",
         "Limpa a mão com lenço umedecido. → MÃO LIMPAR LENÇOS UMEDECIDOS."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=286&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=286&end=291&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1044,15 +1348,23 @@
         "O óleo corporal deixa a pele macia. → ÓLEO CORPORAL PELE MACIA DEIXAR.",
         "Passo óleo corporal depois do banho. → BANHO DEPOIS, EU PASSAR ÓLEO CORPORAL."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=291&end=302&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=291&end=302&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1068,15 +1380,23 @@
         "Lava a roupa com sabão. → ROUPA LAVAR SABÃO.",
         "O sabão em pó acabou. → SABÃO PÓ ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=302&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=302&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1092,17 +1412,25 @@
         "Essa é outra forma de sinalizar absorvente. → ABSORVENTE SINAL OUTRO ESTE.",
         "Comprei absorvente noturno. → EU COMPRAR ABSORVENTE NOITE."
       ],
-      "video": "https://www.youtube.com/embed/Gr8yonmtj0k?start=315&end=319&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Gr8yonmtj0k?start=315&end=319&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Gr8yonmtj0k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:11:54.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

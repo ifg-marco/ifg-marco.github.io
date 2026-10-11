@@ -37,15 +37,23 @@
         "Eu aviso você amanhã. → EU AVISAR-VOCÊ AMANHÃ.",
         "Você me avisa quando chegar? → CHEGAR, VOCÊ AVISAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=19&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -61,15 +69,23 @@
         "Você captou a explicação? → EXPLICAÇÃO VOCÊ CAPTAR?",
         "Ela capta tudo muito rápido. → ELA CAPTAR TUDO RÁPIDO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=21&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=21&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -85,15 +101,23 @@
         "Eu mando o arquivo para você. → ARQUIVO EU MANDAR-VOCÊ.",
         "Ela me mandou uma mensagem. → ELA MANDAR-ME MENSAGEM."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=23&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=23&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -109,15 +133,23 @@
         "Posso perguntar uma coisa? → EU PERGUNTAR-VOCÊ PODER?",
         "Pergunta para a professora. → PROFESSORA PERGUNTAR-ELA."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=24&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -133,16 +165,24 @@
         "Ele está paquerando você! → ELE PAQUERAR-VOCÊ!",
         "Ela me paquerou na festa? → FESTA ELA PAQUERAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ],
@@ -164,15 +204,23 @@
         "Você me empresta uma caneta? → CANETA VOCÊ EMPRESTAR-ME?",
         "Eu empresto meu livro para você. → LIVRO MEU EU EMPRESTAR-VOCÊ."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=28&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=28&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -188,15 +236,23 @@
         "Essa notícia quer enganar você. → NOTÍCIA ESSA ENGANAR-VOCÊ QUERER.",
         "Ele me enganou! → ELE ENGANAR-ME!"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -212,15 +268,23 @@
         "Quero convidar você para meu aniversário. → ANIVERSÁRIO MEU EU CONVIDAR-VOCÊ.",
         "Ela convidou a turma toda. → ELA CONVIDAR TURMA TODA."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -236,15 +300,23 @@
         "Envio o documento para você agora. → DOCUMENTO EU ENVIAR-VOCÊ AGORA.",
         "O banco me enviou o cartão. → BANCO ENVIAR-ME CARTÃO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=34&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=34&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -260,15 +332,23 @@
         "Cuidado, o cachorro morde! → CUIDADO, CACHORRO MORDER!",
         "O gato me mordeu. → GATO MORDER-ME."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=36&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=36&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -284,15 +364,23 @@
         "Eu levo você para casa. → EU LEVAR-VOCÊ CASA.",
         "Leva os documentos para a reunião. → DOCUMENTO LEVAR REUNIÃO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=38&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=38&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -308,15 +396,23 @@
         "Eu telefono para você amanhã. → AMANHÃ EU TELEFONAR-VOCÊ.",
         "Surdo telefona por chamada de vídeo. → SURDO TELEFONAR CHAMADA-DE-VÍDEO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=40&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=40&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -332,15 +428,23 @@
         "As redes sociais influenciam os jovens. → REDES-SOCIAIS INFLUENCIAR JOVEM.",
         "Meu pai me influenciou a estudar. → PAI MEU INFLUENCIAR-ME ESTUDAR."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=42&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=42&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -356,15 +460,23 @@
         "Amanhã vou faltar à aula. → AMANHÃ EU FALTAR AULA.",
         "Falta uma cadeira. → CADEIRA FALTAR UMA."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=44&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=44&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -380,15 +492,23 @@
         "Não provoque seu irmão! → IRMÃO SEU PROVOCAR NÃO!",
         "Ele me provocou primeiro. → ELE PROVOCAR-ME PRIMEIRO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -404,15 +524,23 @@
         "Não acuse ninguém sem provas. → PROVA NÃO-TER, ACUSAR NINGUÉM NÃO.",
         "Ela me acusou de mentir. → ELA ACUSAR-ME MENTIR."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -428,15 +556,23 @@
         "Respondo sua mensagem depois. → MENSAGEM SUA EU RESPONDER-VOCÊ DEPOIS.",
         "Ela não me respondeu. → ELA RESPONDER-ME NÃO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=51&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=51&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -452,15 +588,23 @@
         "Ela vai processar a empresa. → ELA PROCESSAR EMPRESA.",
         "Ele me processou por causa da batida do carro. → CARRO BATER, ELE PROCESSAR-ME."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -476,15 +620,23 @@
         "Eu cuido do bebê hoje. → HOJE EU CUIDAR BEBÊ.",
         "Quem cuida de você? → VOCÊ CUIDAR QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=54&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=54&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -500,15 +652,23 @@
         "Ele traiu a namorada. → ELE TRAIR NAMORADA.",
         "Nunca vou trair você. → EU TRAIR-VOCÊ NUNCA."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -524,15 +684,23 @@
         "Minha avó me aconselha muito. → AVÓ MINHA ACONSELHAR-ME MUITO.",
         "Eu aconselho você a estudar mais. → EU ACONSELHAR-VOCÊ ESTUDAR MAIS."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -548,15 +716,23 @@
         "Eu pago o lanche para você. → LANCHE EU PAGAR-VOCÊ.",
         "Você já me pagou? → VOCÊ PAGAR-ME JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=66&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=66&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -572,15 +748,23 @@
         "Não mexe no meu celular! → CELULAR MEU MEXER NÃO!",
         "Quem mexeu nas minhas coisas? → COISA MINHA MEXER QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=68&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=68&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -596,15 +780,23 @@
         "O chefe me demitiu. → CHEFE DEMITIR-ME.",
         "A empresa demitiu dez funcionários. → EMPRESA DEMITIR FUNCIONÁRIO 10."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=69&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -620,15 +812,23 @@
         "Não pode bater em criança. → CRIANÇA BATER PODER NÃO.",
         "Ele me bateu! → ELE BATER-ME!"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=71&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=71&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -644,15 +844,23 @@
         "Escolhe uma cor. → COR ESCOLHER.",
         "Escolhi você para o meu grupo. → GRUPO MEU EU ESCOLHER-VOCÊ."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -668,15 +876,23 @@
         "Estou procurando meu caderno. → CADERNO MEU EU PROCURAR.",
         "Você me procurou ontem? → ONTEM VOCÊ PROCURAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=75&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=75&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -692,15 +908,23 @@
         "Não briguem! → BRIGAR NÃO!",
         "Ele brigou com o irmão. → ELE BRIGAR IRMÃO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=77&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=77&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -716,15 +940,23 @@
         "Eu ensino Libras para você. → EU ENSINAR-VOCÊ LIBRAS.",
         "Quem te ensinou esse sinal? → SINAL ESSE ENSINAR-VOCÊ QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=83&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=83&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -740,16 +972,24 @@
         "A notícia diz que ele matou o vizinho. → NOTÍCIA: ELE MATAR VIZINHO.",
         "Matar é crime. → MATAR CRIME."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=85&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=85&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -765,15 +1005,23 @@
         "Tira o casaco, está calor. → CALOR, CASACO TIRAR.",
         "Vamos tirar uma foto juntos? → NÓS FOTO TIRAR JUNTO?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=91&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=91&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -789,15 +1037,23 @@
         "Ela beijou o namorado. → ELA BEIJAR NAMORADO.",
         "A avó beija o neto. → AVÓ BEIJAR NETO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -813,15 +1069,23 @@
         "Chama o professor, por favor. → PROFESSOR CHAMAR, POR-FAVOR.",
         "Quem me chamou? → CHAMAR-ME QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -837,15 +1101,23 @@
         "Eu perdoo você. → EU PERDOAR-VOCÊ.",
         "Você me perdoa? → VOCÊ PERDOAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=99&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=99&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -861,15 +1133,23 @@
         "Não pode copiar a resposta do colega. → RESPOSTA COLEGA COPIAR PODER NÃO.",
         "Copia a matéria do quadro. → QUADRO MATÉRIA COPIAR."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=101&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -885,15 +1165,23 @@
         "Eu ajudo você com o trabalho. → TRABALHO EU AJUDAR-VOCÊ.",
         "Você me ajuda? → VOCÊ AJUDAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=103&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=103&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -909,15 +1197,23 @@
         "Posso filmar você sinalizando? → VOCÊ SINALIZAR EU FILMAR PODER?",
         "Ela filmou a festa toda. → ELA FILMAR FESTA TODA."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=104&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -933,15 +1229,23 @@
         "Volto para casa às seis horas. → EU VOLTAR CASA SEIS HORAS.",
         "Quando você volta da viagem? → VIAGEM VOCÊ VOLTAR QUANDO?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=107&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=107&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -957,15 +1261,23 @@
         "Vou contar uma história para você. → HISTÓRIA EU CONTAR-VOCÊ.",
         "Ela me contou um segredo. → ELA CONTAR-ME SEGREDO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=108&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=108&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -981,15 +1293,23 @@
         "Vou mostrar o trabalho para você. → TRABALHO EU MOSTRAR-VOCÊ.",
         "Me mostra a foto? → FOTO MOSTRAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=110&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=110&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1005,16 +1325,24 @@
         "Ele me xingou! → ELE XINGAR-ME!",
         "Não xingue ninguém. → XINGAR NINGUÉM NÃO."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1030,15 +1358,23 @@
         "Eu apoio você! → EU APOIAR-VOCÊ!",
         "A família me apoiou a estudar Libras. → FAMÍLIA APOIAR-ME ESTUDAR LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=115&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=115&end=121&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1054,17 +1390,25 @@
         "Eu respeito você. → EU RESPEITAR-VOCÊ.",
         "Respeite seus pais. → PAIS SEUS RESPEITAR."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=121&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=121&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1080,15 +1424,23 @@
         "O cachorro obedece ao dono. → CACHORRO OBEDECER DONO.",
         "Obedeça às regras de segurança. → REGRA SEGURANÇA OBEDECER."
       ],
-      "video": "https://www.youtube.com/embed/bTWi1hVYwPI?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bTWi1hVYwPI?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bTWi1hVYwPI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

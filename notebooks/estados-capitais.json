@@ -25,20 +25,28 @@
       "situation": "No mapa, você organiza um roteiro pela parte norte do Brasil e comenta os estados da região.",
       "translation": "Região Norte",
       "librasStructure": "REGIÃO-NORTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Região Norte tem a Floresta Amazônica. → REGIÃO-NORTE FLORESTA AMAZÔNIA TER.",
         "Quantos estados tem a Região Norte? → REGIÃO-NORTE ESTADO QUANTOS?"
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -49,20 +57,28 @@
       "situation": "Você pesquisa uma viagem ao Amazonas e identifica Manaus como a capital.",
       "translation": "Amazonas e Manaus",
       "librasStructure": "AMAZONAS-E-MANAUS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Manaus é a capital do Amazonas. → AMAZONAS-E-MANAUS: MANAUS CAPITAL.",
         "Quero conhecer o Amazonas. → AMAZONAS EU QUERER CONHECER."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=29&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=29&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -73,20 +89,28 @@
       "situation": "Ao montar o roteiro, você relaciona o estado do Pará à capital Belém.",
       "translation": "Pará e Belém",
       "librasStructure": "PARÁ-E-BELÉM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Belém é a capital do Pará. → PARÁ-E-BELÉM: BELÉM CAPITAL.",
         "O açaí do Pará é famoso. → PARÁ AÇAÍ FAMOSO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=34&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=34&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -97,21 +121,29 @@
       "situation": "Na aula de geografia, uma colega pergunta qual é a capital do Acre, e você responde Rio Branco.",
       "translation": "Acre e Rio Branco",
       "librasStructure": "ACRE-E-RIO-BRANCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Rio Branco é a capital do Acre. → ACRE-E-RIO-BRANCO: RIO-BRANCO CAPITAL.",
         "O Acre fica longe de Goiás. → ACRE LONGE GOIÁS."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=41&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=41&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -122,21 +154,29 @@
       "situation": "Antes de planejar a viagem, você confere no mapa que Porto Velho é a capital de Rondônia.",
       "translation": "Rondônia e Porto Velho",
       "librasStructure": "RONDÔNIA-E-PORTO-VELHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Porto Velho é a capital de Rondônia. → RONDÔNIA-E-PORTO-VELHO: PORTO-VELHO CAPITAL.",
         "Meu tio mora em Rondônia. → TIO MEU MORAR RONDÔNIA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -147,21 +187,29 @@
       "situation": "Na apresentação, você mostra onde fica o Amapá e indica a capital, Macapá.",
       "translation": "Amapá e Macapá",
       "librasStructure": "AMAPÁ-E-MACAPÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Macapá é a capital do Amapá. → AMAPÁ-E-MACAPÁ: MACAPÁ CAPITAL.",
         "O Amapá fica no extremo norte. → AMAPÁ NORTE EXTREMO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=55&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=55&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -172,21 +220,29 @@
       "situation": "Você explica a uma colega que Palmas é a capital do Tocantins.",
       "translation": "Tocantins e Palmas",
       "librasStructure": "TOCANTINS-E-PALMAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Palmas é a capital do Tocantins. → TOCANTINS-E-PALMAS: PALMAS CAPITAL.",
         "O Tocantins era parte de Goiás. → TOCANTINS ANTES PARTE GOIÁS."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=63&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=63&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -197,20 +253,28 @@
       "situation": "Você planeja férias no Nordeste e conversa sobre os estados e cidades que deseja conhecer.",
       "translation": "Região Nordeste",
       "librasStructure": "REGIÃO-NORDESTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou passar as férias na Região Nordeste. → FÉRIAS EU IR REGIÃO-NORDESTE.",
         "A Região Nordeste tem nove estados. → REGIÃO-NORDESTE ESTADO 9."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=71&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -221,20 +285,28 @@
       "situation": "No mapa do Nordeste, você localiza o Maranhão e sua capital São Luís.",
       "translation": "Maranhão e São Luís",
       "librasStructure": "MARANHÃO-E-SÃO-LUÍS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "São Luís é a capital do Maranhão. → MARANHÃO-E-SÃO-LUÍS: SÃO-LUÍS CAPITAL.",
         "Os Lençóis Maranhenses ficam no Maranhão. → LENÇÓIS-MARANHENSES MARANHÃO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=75&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=75&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -245,20 +317,28 @@
       "situation": "Durante o quiz, você relaciona o Piauí à capital Teresina.",
       "translation": "Piauí e Teresina",
       "librasStructure": "PIAUÍ-E-TERESINA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Teresina é a capital do Piauí. → PIAUÍ-E-TERESINA: TERESINA CAPITAL.",
         "Teresina é muito quente. → TERESINA CALOR MUITO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=82&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=82&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -269,20 +349,28 @@
       "situation": "Você escolhe uma cidade para viajar e informa que Fortaleza é a capital do Ceará.",
       "translation": "Ceará e Fortaleza",
       "librasStructure": "CEARÁ-E-FORTALEZA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Fortaleza é a capital do Ceará. → CEARÁ-E-FORTALEZA: FORTALEZA CAPITAL.",
         "As praias do Ceará são lindas. → CEARÁ PRAIA LINDA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=89&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=89&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -293,20 +381,28 @@
       "situation": "Você pesquisa praias do Rio Grande do Norte e identifica Natal no mapa.",
       "translation": "Rio Grande do Norte e Natal",
       "librasStructure": "RIO-GRANDE-DO-NORTE-E-NATAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Natal é a capital do Rio Grande do Norte. → RIO-GRANDE-DO-NORTE-E-NATAL: NATAL CAPITAL.",
         "Vamos a Natal nas férias? → FÉRIAS NÓS IR NATAL?"
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=97&end=103&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -317,20 +413,28 @@
       "situation": "Na atividade, você apresenta a Paraíba e sua capital João Pessoa para a turma.",
       "translation": "Paraíba e João Pessoa",
       "librasStructure": "PARAÍBA-E-JOÃO-PESSOA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "João Pessoa é a capital da Paraíba. → PARAÍBA-E-JOÃO-PESSOA: JOÃO-PESSOA CAPITAL.",
         "Minha avó nasceu na Paraíba. → AVÓ MINHA NASCER PARAÍBA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=104&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=104&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -341,20 +445,28 @@
       "situation": "Você monta um roteiro e escolhe Recife, capital de Pernambuco, como destino.",
       "translation": "Pernambuco e Recife",
       "librasStructure": "PERNAMBUCO-E-RECIFE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Recife é a capital de Pernambuco. → PERNAMBUCO-E-RECIFE: RECIFE CAPITAL.",
         "O Carnaval de Pernambuco é famoso. → PERNAMBUCO CARNAVAL FAMOSO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=111&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=111&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -365,20 +477,28 @@
       "situation": "Sua colega pergunta qual cidade é a capital de Alagoas durante o planejamento das férias.",
       "translation": "Alagoas e Maceió",
       "librasStructure": "ALAGOAS-E-MACEIÓ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Maceió é a capital de Alagoas. → ALAGOAS-E-MACEIÓ: MACEIÓ CAPITAL.",
         "O mar de Alagoas é verde. → ALAGOAS MAR VERDE."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=117&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=117&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -389,20 +509,28 @@
       "situation": "Você consulta o mapa do Nordeste e localiza Sergipe e sua capital Aracaju.",
       "translation": "Sergipe e Aracaju",
       "librasStructure": "SERGIPE-E-ARACAJU",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Aracaju é a capital de Sergipe. → SERGIPE-E-ARACAJU: ARACAJU CAPITAL.",
         "Sergipe é o menor estado do Brasil. → SERGIPE ESTADO MENOR BRASIL."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=124&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=124&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -413,20 +541,28 @@
       "situation": "Na conversa sobre viagens, você conta que Salvador é a capital da Bahia.",
       "translation": "Bahia e Salvador",
       "librasStructure": "BAHIA-E-SALVADOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Salvador é a capital da Bahia. → BAHIA-E-SALVADOR: SALVADOR CAPITAL.",
         "Você já foi à Bahia? → VOCÊ IR BAHIA JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=134&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=134&end=138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -437,20 +573,28 @@
       "situation": "Você organiza um mapa do Centro-Oeste e identifica os estados dessa região.",
       "translation": "Região Centro-Oeste",
       "librasStructure": "REGIÃO-CENTRO-OESTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Goiás fica na Região Centro-Oeste. → GOIÁS REGIÃO-CENTRO-OESTE.",
         "A Região Centro-Oeste tem o cerrado. → REGIÃO-CENTRO-OESTE CERRADO TER."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=139&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=139&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -461,21 +605,29 @@
       "situation": "Você apresenta seu estado: Goiás, com a capital Goiânia, onde você estuda.",
       "translation": "Goiás e Goiânia",
       "librasStructure": "GOIÁS-E-GOIÂNIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Goiânia é a capital de Goiás. → GOIÁS-E-GOIÂNIA: GOIÂNIA CAPITAL.",
         "Moro em Goiás, estudo em Goiânia. → EU MORAR GOIÁS, ESTUDAR GOIÂNIA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=143&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=143&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -486,20 +638,28 @@
       "situation": "Durante o quiz de geografia, você relaciona Mato Grosso à capital Cuiabá.",
       "translation": "Mato Grosso e Cuiabá",
       "librasStructure": "MATO-GROSSO-E-CUIABÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cuiabá é a capital de Mato Grosso. → MATO-GROSSO-E-CUIABÁ: CUIABÁ CAPITAL.",
         "Mato Grosso faz divisa com Goiás. → MATO-GROSSO DIVISA GOIÁS."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=147&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -510,21 +670,29 @@
       "situation": "Você explica que Campo Grande é a capital de Mato Grosso do Sul, e não de Mato Grosso.",
       "translation": "Mato Grosso do Sul e Campo Grande",
       "librasStructure": "MATO-GROSSO-DO-SUL-E-CAMPO-GRANDE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Campo Grande é a capital de Mato Grosso do Sul. → MATO-GROSSO-DO-SUL-E-CAMPO-GRANDE: CAMPO-GRANDE CAPITAL.",
         "O Pantanal fica em Mato Grosso do Sul. → PANTANAL MATO-GROSSO-DO-SUL."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=155&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=155&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -535,21 +703,29 @@
       "situation": "Na aula, você explica que Brasília fica no Distrito Federal.",
       "translation": "Distrito Federal e Brasília",
       "librasStructure": "DISTRITO-FEDERAL-E-BRASÍLIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Brasília é a capital do Brasil. → DISTRITO-FEDERAL-E-BRASÍLIA: BRASÍLIA CAPITAL BRASIL.",
         "De Goiânia a Brasília são duas horas de carro. → GOIÂNIA ATÉ BRASÍLIA CARRO DUAS HORAS."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=162&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=162&end=166&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -560,20 +736,28 @@
       "situation": "Você compara as regiões do país e localiza o Sudeste no mapa.",
       "translation": "Região Sudeste",
       "librasStructure": "REGIÃO-SUDESTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Região Sudeste tem quatro estados. → REGIÃO-SUDESTE ESTADO 4.",
         "A Região Sudeste é a mais populosa. → REGIÃO-SUDESTE POPULAÇÃO MAIOR."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=167&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=167&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -584,21 +768,29 @@
       "situation": "No trabalho de geografia, você apresenta o Espírito Santo e sua capital, Vitória.",
       "translation": "Espírito Santo e Vitória",
       "librasStructure": "ESPÍRITO-SANTO-E-VITÓRIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vitória é a capital do Espírito Santo. → ESPÍRITO-SANTO-E-VITÓRIA: VITÓRIA CAPITAL.",
         "O Espírito Santo tem praias bonitas. → ESPÍRITO-SANTO PRAIA BONITA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=176&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=176&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -609,20 +801,28 @@
       "situation": "Na conversa sobre estados vizinhos, você relaciona Minas Gerais à capital Belo Horizonte.",
       "translation": "Minas Gerais e Belo Horizonte",
       "librasStructure": "MINAS-GERAIS-E-BELO-HORIZONTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Belo Horizonte é a capital de Minas Gerais. → MINAS-GERAIS-E-BELO-HORIZONTE: BELO-HORIZONTE CAPITAL.",
         "O pão de queijo veio de Minas Gerais. → PÃO-DE-QUEIJO VIR MINAS-GERAIS."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=183&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=183&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -633,20 +833,28 @@
       "situation": "Você diferencia o estado do Rio de Janeiro da cidade que também tem esse nome.",
       "translation": "Rio de Janeiro (estado e capital)",
       "librasStructure": "RIO-DE-JANEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Rio de Janeiro tem o Cristo Redentor. → RIO-DE-JANEIRO CRISTO-REDENTOR TER.",
         "Vou ao Rio de Janeiro no Carnaval. → CARNAVAL EU IR RIO-DE-JANEIRO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=189&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=189&end=194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -657,20 +865,28 @@
       "situation": "No mapa, você explica que São Paulo é o nome do estado e também da capital.",
       "translation": "São Paulo (estado e capital)",
       "librasStructure": "SÃO-PAULO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "São Paulo é a maior cidade do Brasil. → SÃO-PAULO CIDADE MAIOR BRASIL.",
         "Em São Paulo tem muito trânsito. → SÃO-PAULO TRÂNSITO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=195&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=195&end=202&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -681,20 +897,28 @@
       "situation": "Você planeja uma viagem para os estados do Sul e localiza a região no mapa.",
       "translation": "Região Sul",
       "librasStructure": "REGIÃO-SUL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na Região Sul faz frio no inverno. → REGIÃO-SUL INVERNO FRIO.",
         "A Região Sul tem três estados. → REGIÃO-SUL ESTADO 3."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=203&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=203&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -705,20 +929,28 @@
       "situation": "Você pesquisa Curitiba e confirma que ela é a capital do Paraná.",
       "translation": "Paraná e Curitiba",
       "librasStructure": "PARANÁ-E-CURITIBA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Curitiba é a capital do Paraná. → PARANÁ-E-CURITIBA: CURITIBA CAPITAL.",
         "Curitiba é uma cidade fria. → CURITIBA CIDADE FRIA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=206&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=206&end=211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -729,20 +961,28 @@
       "situation": "Durante o roteiro, você identifica Porto Alegre como a capital do Rio Grande do Sul.",
       "translation": "Rio Grande do Sul e Porto Alegre",
       "librasStructure": "RIO-GRANDE-DO-SUL-E-PORTO-ALEGRE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Porto Alegre é a capital do Rio Grande do Sul. → RIO-GRANDE-DO-SUL-E-PORTO-ALEGRE: PORTO-ALEGRE CAPITAL.",
         "No Rio Grande do Sul se toma chimarrão. → RIO-GRANDE-DO-SUL CHIMARRÃO TOMAR."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=212&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=212&end=219&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -753,20 +993,28 @@
       "situation": "Você encerra o trabalho apresentando Santa Catarina e sua capital Florianópolis.",
       "translation": "Santa Catarina e Florianópolis",
       "librasStructure": "SANTA-CATARINA-E-FLORIANÓPOLIS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Florianópolis é a capital de Santa Catarina. → SANTA-CATARINA-E-FLORIANÓPOLIS: FLORIANÓPOLIS CAPITAL.",
         "Florianópolis é uma ilha. → FLORIANÓPOLIS ILHA."
       ],
-      "video": "https://www.youtube.com/embed/mif9ImCstWY?start=220&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mif9ImCstWY?start=220&end=228&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mif9ImCstWY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:17:10.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

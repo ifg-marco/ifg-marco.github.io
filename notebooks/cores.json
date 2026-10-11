@@ -25,20 +25,28 @@
       "situation": "Na loja, você compara vários objetos e explica que quer falar sobre as cores deles.",
       "translation": "Cores",
       "librasStructure": "CORES",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quais cores você prefere? → CORES VOCÊ PREFERIR QUAIS?",
         "A bandeira do Brasil tem quatro cores. → BANDEIRA BRASIL CORES 4."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=13&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=13&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -49,21 +57,29 @@
       "situation": "Na papelaria, você escolhe uma caneta amarela para marcar o material.",
       "translation": "Amarelo",
       "librasStructure": "AMARELO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero a caneta amarela. → CANETA AMARELA EU QUERER.",
         "A banana madura é amarela. → BANANA MADURA AMARELO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=16&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=16&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -74,21 +90,29 @@
       "situation": "Na cozinha, você diz a uma colega que a mesa é marrom.",
       "translation": "Marrom",
       "librasStructure": "MARROM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A mesa é marrom. → MESA MARROM.",
         "Meu cachorro é marrom e branco. → CACHORRO MEU MARROM BRANCO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=20&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=20&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -99,21 +123,29 @@
       "situation": "Uma colega mostra duas camisetas, e você escolhe a roxa para a apresentação.",
       "translation": "Roxo",
       "librasStructure": "ROXO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Prefiro a camiseta roxa. → EU PREFERIR CAMISETA ROXA.",
         "O açaí é roxo. → AÇAÍ ROXO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -124,21 +156,29 @@
       "situation": "No lanche, você comenta que a fruta tem cor laranja (alaranjada).",
       "translation": "Laranja (alaranjado)",
       "librasStructure": "LARANJA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A cenoura é laranja. → CENOURA LARANJA.",
         "Você tem blusa laranja? → VOCÊ TER BLUSA LARANJA?"
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -149,20 +189,28 @@
       "situation": "Na sala, você procura sua garrafa azul entre os materiais da turma.",
       "translation": "Azul",
       "librasStructure": "AZUL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha garrafa é azul. → GARRAFA MINHA AZUL.",
         "O céu está azul hoje. → HOJE CÉU AZUL."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=30&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=30&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -173,21 +221,29 @@
       "situation": "Na atividade, você pede uma folha branca para escrever o nome.",
       "translation": "Branco",
       "librasStructure": "BRANCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Me dá uma folha branca? → FOLHA BRANCA DAR-ME?",
         "Meu avô tem cabelo branco. → AVÔ MEU CABELO BRANCO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -198,20 +254,28 @@
       "situation": "Uma colega trouxe uma mochila lilás e você comenta que a cor é diferente.",
       "translation": "Lilás",
       "librasStructure": "LILÁS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Que mochila lilás bonita! → MOCHILA LILÁS BONITA!",
         "Lilás é mais claro que roxo. → LILÁS CLARO MAIS ROXO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         },
         {
@@ -230,20 +294,28 @@
       "situation": "Na vitrine, você observa um detalhe dourado em um convite de formatura.",
       "translation": "Dourado",
       "librasStructure": "DOURADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O convite tem letras douradas. → CONVITE LETRA DOURADO.",
         "Gostei do relógio dourado. → RELÓGIO DOURADO EU GOSTAR."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -254,20 +326,28 @@
       "situation": "Na loja de roupas, você procura uma camisa bege para usar no trabalho.",
       "translation": "Bege",
       "librasStructure": "BEGE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Procuro uma camisa bege. → EU PROCURAR CAMISA BEGE.",
         "A parede da sala é bege. → SALA PAREDE BEGE."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=46&end=49&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -278,20 +358,28 @@
       "situation": "Para uma festa, você escolhe entre duas roupas e prefere a peça cor de vinho.",
       "translation": "Vinho",
       "librasStructure": "VINHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou de vestido cor de vinho. → EU IR VESTIDO VINHO.",
         "Prefere a blusa vinho ou a preta? → BLUSA VINHO OU PRETO, VOCÊ PREFERIR?"
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -302,21 +390,29 @@
       "situation": "No parque, você aponta para a árvore e diz que as folhas são verdes.",
       "translation": "Verde",
       "librasStructure": "VERDE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "As folhas são verdes. → FOLHA VERDE.",
         "A banana ainda está verde. → BANANA VERDE AINDA."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=54&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -327,20 +423,28 @@
       "situation": "Durante uma conversa sobre joias, você diferencia o material ouro de outras cores.",
       "translation": "Ouro",
       "librasStructure": "OURO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse anel é de ouro? → ANEL ESSE OURO?",
         "Ouro é caro. → OURO CARO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -351,20 +455,28 @@
       "situation": "Antes da aula, o céu está cinza e você comenta que talvez chova.",
       "translation": "Cinza",
       "librasStructure": "CINZA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O céu está cinza, vai chover. → CÉU CINZA, CHUVA VIR.",
         "Meu carro é cinza. → CARRO MEU CINZA."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -375,21 +487,29 @@
       "situation": "Numa conversa sobre identidade, você descreve com respeito uma pessoa negra.",
       "translation": "Negro (pessoa)",
       "librasStructure": "NEGRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho orgulho de ser negro. → EU NEGRO ORGULHO.",
         "A professora negra é surda. → PROFESSORA NEGRA SURDA."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=65&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         },
         {
@@ -408,20 +528,28 @@
       "situation": "Na sala, você procura seu caderno preto sobre a mesa.",
       "translation": "Preto (coisa)",
       "librasStructure": "PRETO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu caderno é preto. → CADERNO MEU PRETO.",
         "Café preto, sem açúcar. → CAFÉ PRETO, AÇÚCAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=68&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=68&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -432,20 +560,28 @@
       "situation": "Na papelaria, uma colega escolhe uma pasta rosa para guardar os documentos.",
       "translation": "Rosa",
       "librasStructure": "ROSA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ela escolheu a pasta rosa. → ELA ESCOLHER PASTA ROSA.",
         "Meu quarto é rosa. → QUARTO MEU ROSA."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=75&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=75&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -456,21 +592,29 @@
       "situation": "No mercado, você vê a placa vermelha da fila de atendimento.",
       "translation": "Vermelho",
       "librasStructure": "VERMELHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A fila é na placa vermelha. → FILA PLACA VERMELHA.",
         "O tomate está vermelho, maduro. → TOMATE VERMELHO, MADURO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -481,21 +625,29 @@
       "situation": "Uma colega mostra um tecido na luz, e você diz que a cor é brilhante.",
       "translation": "Brilhante (cor)",
       "librasStructure": "BRILHANTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Essa cor é brilhante demais. → COR ESSA BRILHANTE DEMAIS.",
         "Gosto de esmalte brilhante. → EU GOSTAR ESMALTE BRILHANTE."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -506,20 +658,28 @@
       "situation": "Na cozinha, você pega um copo transparente para mostrar o que há dentro.",
       "translation": "Transparente",
       "librasStructure": "TRANSPARENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O copo é transparente. → COPO TRANSPARENTE.",
         "Água limpa é transparente. → ÁGUA LIMPA TRANSPARENTE."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=88&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=88&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -530,21 +690,29 @@
       "situation": "Na loja de tintas, você escolhe o tom mais claro para a parede.",
       "translation": "Claro (cor)",
       "librasStructure": "CLARO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero azul-claro. → EU QUERER AZUL CLARO.",
         "Esse verde é claro demais. → VERDE ESSE CLARO DEMAIS."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=93&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=93&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -555,21 +723,29 @@
       "situation": "Você compara duas camisetas e escolhe a de tom mais escuro.",
       "translation": "Escuro (cor)",
       "librasStructure": "ESCURO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Prefiro verde-escuro. → EU PREFERIR VERDE ESCURO.",
         "Essa calça é azul-escura. → CALÇA ESSA AZUL ESCURO."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=96&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=96&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -580,21 +756,29 @@
       "situation": "Numa festa, você comenta a decoração cor de prata.",
       "translation": "Prata",
       "librasStructure": "PRATA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A decoração é prata e branca. → DECORAÇÃO PRATA BRANCO.",
         "Meu celular é prata. → CELULAR MEU PRATA."
       ],
-      "video": "https://www.youtube.com/embed/fuCiLoXqFwY?start=99&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fuCiLoXqFwY?start=99&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fuCiLoXqFwY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:08:11.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

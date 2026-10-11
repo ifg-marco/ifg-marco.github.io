@@ -23,22 +23,30 @@
       "situation": "A aula começa cedo e você encontra a turma reunida. Cumprimente as pessoas com um “Bom dia!” e pergunte se está tudo bem.",
       "translation": "Bom dia!",
       "librasStructure": "BOM-DIA",
-      "notes": "Cumprimento usado pela manhã. Olhe para as pessoas ao sinalizar: o contato visual faz parte da conversa em Libras. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Cumprimento usado pela manhã. Olhe para as pessoas ao sinalizar: o contato visual faz parte da conversa em Libras.",
       "examples": [
         "Bom dia, professora! → BOM-DIA PROFESSORA!",
         "Bom dia! Tudo bem? → BOM-DIA! TUDO-BEM?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=15&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=15&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -49,22 +57,30 @@
       "situation": "Depois do almoço, você encontra seu professor surdo no corredor e começa a conversa com um “Boa tarde!”.",
       "translation": "Boa tarde!",
       "librasStructure": "BOA-TARDE",
-      "notes": "Cumprimento usado à tarde. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Cumprimento usado à tarde.",
       "examples": [
         "Boa tarde, professor! → BOA-TARDE PROFESSOR!",
         "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -75,22 +91,30 @@
       "situation": "Você chega à aula noturna e encontra uma colega na entrada. Cumprimente-a com um “Boa noite!” antes de entrar.",
       "translation": "Boa noite!",
       "librasStructure": "BOA-NOITE",
-      "notes": "Cumprimento usado à noite; também serve para se despedir. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Cumprimento usado à noite; também serve para se despedir.",
       "examples": [
         "Boa noite! Tudo bem? → BOA-NOITE! TUDO-BEM?",
         "Boa noite, turma! → BOA-NOITE TURMA!",
         "Boa noite! Até amanhã. → BOA-NOITE! ATÉ AMANHÃ."
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=43&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=43&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -101,20 +125,28 @@
       "situation": "Você recebe uma chamada de vídeo de madrugada. A pessoa atende e você começa a conversa com um educado “Boa madrugada!”.",
       "translation": "Boa madrugada!",
       "librasStructure": "BOA-MADRUGADA",
-      "notes": "Cumprimento para a madrugada, comum em chamadas de vídeo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Cumprimento para a madrugada, comum em chamadas de vídeo.",
       "examples": [
         "Boa madrugada! Você está bem? → BOA-MADRUGADA! VOCÊ TUDO-BEM?",
         "Boa madrugada! Desculpe ligar agora. → BOA-MADRUGADA! DESCULPA AGORA."
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=53&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=53&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -125,22 +157,30 @@
       "situation": "Você encontra um colega no corredor e percebe que ele está quieto. Pergunte: “Tudo bem?”.",
       "translation": "Tudo bem?",
       "librasStructure": "TUDO-BEM?",
-      "notes": "Pergunta de sim ou não: sobrancelhas levantadas e olhar dirigido à pessoa. Sem a expressão de pergunta, a frase vira afirmação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Pergunta de sim ou não: sobrancelhas levantadas e olhar dirigido à pessoa. Sem a expressão de pergunta, a frase vira afirmação.",
       "examples": [
         "Oi! Tudo bem? → OI! TUDO-BEM?",
         "Bom dia! Tudo bem com você? → BOM-DIA! VOCÊ TUDO-BEM?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -151,22 +191,30 @@
       "situation": "Depois das férias, você reencontra um colega e quer saber como ele está. Pergunte: “Como vai você?”.",
       "translation": "Como vai você?",
       "librasStructure": "COMO-VAI-VOCÊ?",
-      "notes": "Pergunta aberta: sobrancelhas franzidas. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Pergunta aberta: sobrancelhas franzidas.",
       "examples": [
         "Boa tarde! Como vai você? → BOA-TARDE! COMO-VAI-VOCÊ?",
         "Oi, professora! Como vai você? → OI PROFESSORA! COMO-VAI-VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=94&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -177,22 +225,30 @@
       "situation": "Seu colega perguntou como você está, e hoje você está bem. Responda com segurança que está bom.",
       "translation": "Bom / bem",
       "librasStructure": "BOM",
-      "notes": "O mesmo sinal traduz “bom” e “bem”; o contexto define o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "O mesmo sinal traduz “bom” e “bem”; o contexto define o sentido.",
       "examples": [
         "Tudo bem? — Estou bem! → TUDO-BEM? — BOM!",
         "Estou bem, obrigado. E você? → EU BOM, OBRIGADO. VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=84&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=84&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -203,22 +259,30 @@
       "situation": "Seu colega perguntou como você está, mas você está entre bem e mal. Responda “mais ou menos”, sem exagerar.",
       "translation": "Mais ou menos",
       "librasStructure": "MAIS-OU-MENOS",
-      "notes": "A expressão facial acompanha o sentido: neutra, sem sorriso largo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial acompanha o sentido: neutra, sem sorriso largo.",
       "examples": [
         "Como vai você? — Mais ou menos. → COMO-VAI-VOCÊ? — MAIS-OU-MENOS.",
         "Hoje estou mais ou menos. → HOJE EU MAIS-OU-MENOS."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=48&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -229,21 +293,29 @@
       "situation": "É sexta-feira, a aula terminou e você vai embora. Despeça-se da turma desejando “Bom fim de semana!”.",
       "translation": "Bom fim de semana!",
       "librasStructure": "BOM FIM-DE-SEMANA",
-      "notes": "Fim de semana: sábado e domingo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Fim de semana: sábado e domingo.",
       "examples": [
         "Tchau, turma! Bom fim de semana! → TCHAU TURMA! BOM FIM-DE-SEMANA!",
         "Obrigado! Bom fim de semana para você também. → OBRIGADO! BOM FIM-DE-SEMANA VOCÊ TAMBÉM."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=91&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -254,21 +326,29 @@
       "situation": "Depois que uma colega se apresenta, você quer acolhê-la e dizer: “Prazer em conhecer você”.",
       "translation": "Prazer em conhecer você",
       "librasStructure": "PRAZER CONHECER VOCÊ",
-      "notes": "Use depois de saber o nome da pessoa, com expressão amigável. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Use depois de saber o nome da pessoa, com expressão amigável.",
       "examples": [
         "Meu nome é Ana. Prazer em conhecer você! → MEU NOME A-N-A. PRAZER CONHECER VOCÊ!",
         "Prazer em conhecer você também! → PRAZER CONHECER VOCÊ TAMBÉM!"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=65&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=65&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -279,21 +359,29 @@
       "situation": "Uma pessoa nova chegou à turma. Depois de cumprimentá-la, pergunte: “Qual é o seu nome?”.",
       "translation": "Qual é o seu nome?",
       "librasStructure": "NOME VOCÊ QUAL?",
-      "notes": "Pergunta aberta: sobrancelhas franzidas. A resposta costuma vir soletrada no alfabeto manual. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Pergunta aberta: sobrancelhas franzidas. A resposta costuma vir soletrada no alfabeto manual.",
       "examples": [
         "Oi! Qual é o seu nome? → OI! NOME VOCÊ QUAL?",
         "Bom dia! Qual é o seu nome, por favor? → BOM-DIA! NOME VOCÊ QUAL, POR-FAVOR?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=73&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -304,22 +392,30 @@
       "situation": "A nova colega perguntou seu nome. Apresente-se dizendo “Meu nome é…” e soletre como você se chama.",
       "translation": "Meu nome é…",
       "librasStructure": "MEU NOME + nome soletrado",
-      "notes": "Depois do sinal, soletre o seu nome com o alfabeto manual (datilologia), letra por letra. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Depois do sinal, soletre o seu nome com o alfabeto manual (datilologia), letra por letra.",
       "examples": [
         "Meu nome é Marco. → MEU NOME M-A-R-C-O.",
         "Oi! Meu nome é Ana. E o seu? → OI! MEU NOME A-N-A. NOME VOCÊ QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=80&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dp_Vcw-i-Zk?start=80&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dp_Vcw-i-Zk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -330,21 +426,29 @@
       "situation": "A professora está fazendo a lista de presença e pede seu nome completo.",
       "translation": "Nome completo",
       "librasStructure": "NOME COMPLETO",
-      "notes": "O nome completo é soletrado no alfabeto manual. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "O nome completo é soletrado no alfabeto manual.",
       "examples": [
         "Qual é o seu nome completo? → NOME COMPLETO VOCÊ QUAL?",
         "Meu nome completo é Ana Souza. → MEU NOME COMPLETO A-N-A S-O-U-Z-A."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=19&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=19&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -355,22 +459,30 @@
       "situation": "Depois de saber seu nome, uma colega quer conhecer seu sinal pessoal.",
       "translation": "Seu sinal (sinal pessoal)",
       "librasStructure": "SINAL",
-      "notes": "Na comunidade surda, cada pessoa recebe um sinal pessoal, que funciona como nome. Ele é dado por uma pessoa surda, não escolhido por quem o recebe. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Na comunidade surda, cada pessoa recebe um sinal pessoal, que funciona como nome. Ele é dado por uma pessoa surda, não escolhido por quem o recebe.",
       "examples": [
         "Qual é o seu sinal? → SINAL VOCÊ QUAL?",
         "Meu nome é Ana, e este é o meu sinal. → MEU NOME A-N-A. MEU SINAL ESTE.",
         "Você ainda não tem sinal? → VOCÊ SINAL NÃO-TER AINDA?"
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=27&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -381,23 +493,31 @@
       "situation": "Durante a apresentação, você conta que está aprendendo Libras no curso.",
       "translation": "Libras",
       "librasStructure": "LIBRAS",
-      "notes": "Libras é a Língua Brasileira de Sinais, reconhecida pela Lei nº 10.436/2002. É uma língua completa, com gramática própria. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Libras é a Língua Brasileira de Sinais, reconhecida pela Lei nº 10.436/2002. É uma língua completa, com gramática própria.",
       "examples": [
         "Eu estudo Libras. → EU ESTUDAR LIBRAS.",
         "Você sabe Libras? → VOCÊ SABER LIBRAS?",
         "Libras é uma língua bonita. → LIBRAS LÍNGUA BONITA."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=38&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -408,22 +528,30 @@
       "situation": "Você quer pedir ajuda a uma colega durante a aula e começa com “por favor”, mantendo a conversa educada.",
       "translation": "Por favor",
       "librasStructure": "POR-FAVOR",
-      "notes": "Acompanhe com expressão de pedido, sem pressa. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Acompanhe com expressão de pedido, sem pressa.",
       "examples": [
         "Por favor, me ajude. → POR-FAVOR, AJUDAR-ME.",
         "Repete o sinal, por favor? → SINAL REPETIR, POR-FAVOR?"
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=73&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -434,21 +562,29 @@
       "situation": "Uma colega ajudou você a encontrar a sala. Diga “obrigado(a)” para mostrar que reconheceu a ajuda.",
       "translation": "Obrigado(a)",
       "librasStructure": "OBRIGADO",
-      "notes": "Fórmula de agradecimento; o sinal é o mesmo para “obrigado” e “obrigada”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Fórmula de agradecimento; o sinal é o mesmo para “obrigado” e “obrigada”.",
       "examples": [
         "Obrigado pela ajuda! → OBRIGADO AJUDAR!",
         "Estou bem, obrigada. → BOM, OBRIGADA."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=85&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -459,21 +595,29 @@
       "situation": "Você ajudou uma colega com uma informação e ela agradeceu. Responda “de nada” com cordialidade.",
       "translation": "De nada",
       "librasStructure": "DE-NADA",
-      "notes": "Resposta a um agradecimento. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Resposta a um agradecimento.",
       "examples": [
         "Obrigado! — De nada! → OBRIGADO! — DE-NADA!",
         "De nada, até amanhã! → DE-NADA, ATÉ AMANHÃ!"
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=79&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -484,20 +628,28 @@
       "situation": "No fim da apresentação, você quer agradecer à turma pelo acolhimento.",
       "translation": "Agradecer",
       "librasStructure": "AGRADECER",
-      "notes": "Verbo; para simplesmente dizer “obrigado”, use OBRIGADO. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Verbo; para simplesmente dizer “obrigado”, use OBRIGADO.",
       "examples": [
         "Eu agradeço a ajuda de vocês. → EU AGRADECER AJUDAR VOCÊS.",
         "Quero agradecer à professora. → EU QUERER AGRADECER PROFESSORA."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=56&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=56&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -508,21 +660,29 @@
       "situation": "Duas pessoas conversam em Libras na porta, e você precisa passar. Peça “com licença” sem interromper a conversa.",
       "translation": "Com licença",
       "librasStructure": "COM-LICENÇA",
-      "notes": "Passar entre duas pessoas que sinalizam interrompe a conversa; peça licença antes. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Passar entre duas pessoas que sinalizam interrompe a conversa; peça licença antes.",
       "examples": [
         "Com licença, posso passar? → COM-LICENÇA, EU PASSAR PODER?",
         "Com licença, professora! → COM-LICENÇA PROFESSORA!"
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=75&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -533,21 +693,29 @@
       "situation": "Uma colega diz que gosta de Libras, e você quer dizer que também gosta.",
       "translation": "Também",
       "librasStructure": "TAMBÉM",
-      "notes": "Muito usado para concordar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Muito usado para concordar.",
       "examples": [
         "Eu também gosto de Libras! → EU TAMBÉM GOSTAR LIBRAS!",
         "Prazer em conhecer você também. → PRAZER CONHECER VOCÊ TAMBÉM."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=41&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=41&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -558,21 +726,29 @@
       "situation": "Uma colega convidou você para estudar no sábado, mas sua agenda ainda não está definida. Responda “talvez”.",
       "translation": "Talvez",
       "librasStructure": "TALVEZ",
-      "notes": "Expressão facial de dúvida reforça o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Expressão facial de dúvida reforça o sentido.",
       "examples": [
         "Vamos estudar no sábado? — Talvez. → SÁBADO ESTUDAR? — TALVEZ.",
         "Talvez eu vá amanhã. → AMANHÃ EU IR TALVEZ."
       ],
-      "video": "https://www.youtube.com/embed/2VTw0TZ429M?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2VTw0TZ429M?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=2VTw0TZ429M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:52:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

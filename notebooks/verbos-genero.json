@@ -31,20 +31,28 @@
       "situation": "Na praça, você observa várias pessoas caminhando juntas em direção ao evento.",
       "translation": "Andar / caminhar — várias pessoas (forma 1)",
       "librasStructure": "ANDAR/CAMINHAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Muitas pessoas caminham para a praça. → PESSOA MUITO ANDAR(várias) PRAÇA.",
         "A família andou junta até o evento. → FAMÍLIA ANDAR(várias) JUNTO EVENTO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=36&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=36&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -55,21 +63,29 @@
       "situation": "Durante a passeata, um grupo anda (caminha) junto pela rua, e você descreve o movimento.",
       "translation": "Andar / caminhar — várias pessoas (forma 2)",
       "librasStructure": "ANDAR/CAMINHAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Na passeata, todos andavam pela rua. → PASSEATA, PESSOAS ANDAR(várias) RUA.",
         "Os alunos caminharam até o ônibus. → ALUNO ANDAR(várias) ÔNIBUS."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=43&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=43&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:29:06.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -80,20 +96,28 @@
       "situation": "Você vê uma pessoa caminhando sozinha até a escola.",
       "translation": "Andar / caminhar — uma pessoa",
       "librasStructure": "ANDAR/CAMINHAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Ela anda sozinha até a escola. → ELA ANDAR(pessoa) SOZINHA ESCOLA.",
         "Meu avô caminha devagar. → AVÔ MEU ANDAR(pessoa) DEVAGAR."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=50&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=50&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -104,20 +128,28 @@
       "situation": "Na calçada, uma pessoa tropeça enquanto caminha e você conta o que aconteceu.",
       "translation": "Cair — pessoa caminhando (forma 1)",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Ele caiu na calçada. → ELE CAIR(pessoa) CALÇADA.",
         "Cuidado, você vai cair! → CUIDADO, VOCÊ CAIR!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=60&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=60&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -128,20 +160,28 @@
       "situation": "Durante o passeio, alguém perde o equilíbrio e cai no caminho.",
       "translation": "Cair — pessoa caminhando (forma 2)",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Minha avó caiu no passeio. → AVÓ MINHA CAIR(pessoa) PASSEIO.",
         "Ela tropeçou e caiu. → ELA TROPEÇAR CAIR."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=67&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -152,20 +192,28 @@
       "situation": "Na dinâmica da aula, os estudantes ficam de pé formando um círculo.",
       "translation": "Pessoas de pé — em círculo",
       "librasStructure": "PESSOAS-DE-PÉ",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Os alunos ficam de pé em círculo. → ALUNO PESSOAS-DE-PÉ(círculo).",
         "Todos de pé em roda para a dinâmica! → DINÂMICA, PESSOAS-DE-PÉ(círculo)!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=72&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=72&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -176,20 +224,28 @@
       "situation": "Antes de entrar na sala, a turma se organiza em uma fila.",
       "translation": "Pessoas de pé — em fila (forma 1)",
       "librasStructure": "PESSOAS-DE-PÉ",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A turma fez fila na porta. → TURMA PESSOAS-DE-PÉ(fila) PORTA.",
         "Fiquem em fila, por favor. → PESSOAS-DE-PÉ(fila), POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=80&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=80&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -200,20 +256,28 @@
       "situation": "No atendimento, várias pessoas aguardam de pé em uma fila comprida.",
       "translation": "Pessoas de pé — em fila (forma 2)",
       "librasStructure": "PESSOAS-DE-PÉ",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A fila do banco está enorme. → BANCO PESSOAS-DE-PÉ(fila) COMPRIDA.",
         "Esperei de pé na fila uma hora. → EU PESSOAS-DE-PÉ(fila) UMA HORA."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=86&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=86&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -224,20 +288,28 @@
       "situation": "Na roda de conversa, todos se sentam em círculo para enxergar uns aos outros.",
       "translation": "Pessoas sentadas — em círculo",
       "librasStructure": "PESSOAS-SENTADAS",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Vamos sentar em círculo para conversar. → NÓS PESSOAS-SENTADAS(círculo) CONVERSAR.",
         "Na roda, todos se veem. → PESSOAS-SENTADAS(círculo), TODOS VER."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=92&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=92&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -248,20 +320,28 @@
       "situation": "No auditório, a plateia se senta para assistir à apresentação.",
       "translation": "Pessoas sentadas — plateia",
       "librasStructure": "PESSOAS-SENTADAS",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A plateia estava cheia. → PESSOAS-SENTADAS(plateia) CHEIO.",
         "A plateia assistiu em silêncio. → PESSOAS-SENTADAS(plateia) ASSISTIR SILÊNCIO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=99&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=99&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -272,20 +352,28 @@
       "situation": "Na sala de espera, há pessoas sentadas em cadeiras diferentes.",
       "translation": "Pessoas sentadas — várias cadeiras",
       "librasStructure": "PESSOAS-SENTADAS",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Na sala de espera, as pessoas estavam sentadas. → SALA-ESPERA PESSOAS-SENTADAS(cadeiras).",
         "Tinha gente sentada em todas as cadeiras. → CADEIRA TODA PESSOAS-SENTADAS."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=107&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=107&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -296,20 +384,28 @@
       "situation": "No parque, uma criança se senta no balanço e começa a se movimentar.",
       "translation": "Pessoa sentada — balanço",
       "librasStructure": "PESSOA-SENTADA",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A criança está sentada no balanço. → CRIANÇA PESSOA-SENTADA(balanço).",
         "Empurra o balanço para mim? → PESSOA-SENTADA(balanço) EMPURRAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=115&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=115&end=122&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -320,20 +416,28 @@
       "situation": "Durante a brincadeira, a pessoa perde o equilíbrio e cai de joelhos.",
       "translation": "Cair — pessoa de joelho",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Ele caiu de joelhos na quadra. → QUADRA ELE CAIR(joelho).",
         "Machuquei o joelho quando caí. → EU CAIR(joelho), MACHUCAR."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=123&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -344,21 +448,29 @@
       "situation": "Na rua, uma pessoa perde o equilíbrio e vai cair da bicicleta.",
       "translation": "Cair — pessoa de bicicleta",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Meu filho caiu da bicicleta. → FILHO MEU CAIR(bicicleta).",
         "Caí de bicicleta e quebrei o braço. → EU CAIR(bicicleta), BRAÇO QUEBRAR."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=129&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=129&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:29:06.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -369,20 +481,28 @@
       "situation": "Durante a corrida, a pessoa tropeça e cai perto da linha de chegada.",
       "translation": "Cair — pessoa correndo",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Ele caiu correndo na corrida. → CORRIDA ELE CAIR(correndo).",
         "Não corre no corredor, você vai cair! → CORREDOR CORRER NÃO, CAIR(correndo)!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=136&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -393,21 +513,29 @@
       "situation": "No estacionamento, você descreve um carro andando devagar.",
       "translation": "Andar — carro",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O carro anda devagar no estacionamento. → ESTACIONAMENTO CARRO ANDAR(carro) DEVAGAR.",
         "O carro andou e parou no sinal. → CARRO ANDAR(carro) PARAR SINAL."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=149&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=149&end=156&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -418,21 +546,29 @@
       "situation": "Na notícia, você relata que um carro perdeu o controle e bateu numa árvore.",
       "translation": "Bater — carro na árvore",
       "librasStructure": "BATER",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O carro bateu na árvore. → ÁRVORE, CARRO BATER(carro-árvore).",
         "Ninguém se machucou quando o carro bateu. → CARRO BATER, MACHUCAR NINGUÉM."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=156&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=156&end=164&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -443,20 +579,28 @@
       "situation": "Depois da tempestade, uma árvore caiu perto da estrada.",
       "translation": "Cair — árvore",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A árvore caiu na estrada. → ÁRVORE CAIR(árvore) ESTRADA.",
         "Com a ventania, a árvore caiu. → VENTANIA, ÁRVORE CAIR(árvore)."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=164&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=164&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -467,20 +611,28 @@
       "situation": "No outono, você observa folhas se soltando e caindo no chão.",
       "translation": "Cair — folha da árvore",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "As folhas caem no outono. → OUTONO FOLHA CAIR(folha).",
         "Uma folha caiu no meu cabelo. → FOLHA CAIR(folha) CABELO MEU."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=170&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=170&end=177&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -491,20 +643,28 @@
       "situation": "Uma pessoa comenta que percebeu fios de cabelo caindo durante o banho.",
       "translation": "Cair — cabelo",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Meu cabelo está caindo. → CABELO MEU CAIR(cabelo).",
         "Depois da doença, o cabelo caiu. → DOENÇA DEPOIS, CABELO CAIR(cabelo)."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=178&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=178&end=183&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -515,20 +675,28 @@
       "situation": "Na cozinha, um copo escorrega da mesa e cai no chão.",
       "translation": "Cair — copo",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O copo caiu e quebrou. → COPO CAIR(copo) QUEBRAR.",
         "Cuidado para o copo não cair! → CUIDADO, COPO CAIR(copo) NÃO!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=184&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=184&end=190&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -539,20 +707,28 @@
       "situation": "A criança mostra que um dente de leite caiu e conta a novidade.",
       "translation": "Cair — dente",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Meu dente caiu! → DENTE MEU CAIR(dente)!",
         "Caiu o dente de leite do meu filho. → FILHO MEU DENTE-DE-LEITE CAIR(dente)."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=191&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=191&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -563,20 +739,28 @@
       "situation": "Durante o lanche, um pedaço de comida cai da mesa antes de ser servido.",
       "translation": "Cair — comida",
       "librasStructure": "CAIR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O pão caiu no chão. → PÃO CAIR(comida) CHÃO.",
         "A comida caiu da mesa. → COMIDA CAIR(comida) MESA."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=198&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=198&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -587,21 +771,29 @@
       "situation": "Você sai da aula e vai carregar a bolsa cheia de livros.",
       "translation": "Carregar — bolsa",
       "librasStructure": "CARREGAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Eu carrego a bolsa da minha mãe. → BOLSA MÃE MINHA EU CARREGAR(bolsa).",
         "Carregar essa bolsa é pesado. → BOLSA ESSA CARREGAR(bolsa) PESADO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=205&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=205&end=212&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:29:06.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -612,20 +804,28 @@
       "situation": "Na aula de arte, você corta o papel usando a tesoura.",
       "translation": "Cortar — tesoura",
       "librasStructure": "CORTAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Corta o papel com a tesoura. → PAPEL CORTAR(tesoura).",
         "Criança não pode cortar com tesoura sozinha. → CRIANÇA CORTAR(tesoura) SOZINHA PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=213&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=213&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -636,21 +836,29 @@
       "situation": "Você vai costurar uma peça de roupa à mão, com linha e agulha.",
       "translation": "Costurar — agulha",
       "librasStructure": "COSTURAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Minha avó costura à mão. → AVÓ MINHA COSTURAR(agulha).",
         "Você sabe costurar com agulha? → VOCÊ SABER COSTURAR(agulha)?"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=217&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=217&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:29:06.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -661,21 +869,29 @@
       "situation": "Na oficina, uma profissional vai costurar dois tecidos na máquina.",
       "translation": "Costurar — máquina",
       "librasStructure": "COSTURAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Minha tia costura na máquina. → TIA MINHA COSTURAR(máquina).",
         "Ela costurou o vestido na máquina. → ELA VESTIDO COSTURAR(máquina)."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=224&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=224&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:29:06.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -686,21 +902,29 @@
       "situation": "Durante a reforma, o profissional usa a furadeira para furar a parede.",
       "translation": "Furar — furadeira",
       "librasStructure": "FURAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Vou furar a parede para o quadro. → QUADRO, PAREDE EU FURAR(furadeira).",
         "A furadeira faz muito barulho. → FURAR(furadeira) BARULHO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=230&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=230&end=236&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -711,21 +935,29 @@
       "situation": "No aeroporto, você vê o avião voar para outra cidade.",
       "translation": "Voar — avião",
       "librasStructure": "VOAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O avião voou para São Paulo. → AVIÃO VOAR(avião) SÃO-PAULO.",
         "Olha o avião voando! → OLHAR AVIÃO VOAR(avião)!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=237&end=245&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=237&end=245&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -736,21 +968,29 @@
       "situation": "No jardim, você vê uma aranha andar pela parede.",
       "translation": "Andar — aranha",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Tem uma aranha andando na parede! → PAREDE ARANHA ANDAR(aranha)!",
         "A aranha andou até o teto. → ARANHA ANDAR(aranha) TETO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=250&end=258&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=250&end=258&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -761,21 +1001,29 @@
       "situation": "No parque, uma tartaruga anda devagar até a água.",
       "translation": "Andar — tartaruga",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A tartaruga anda devagar. → TARTARUGA ANDAR(tartaruga) DEVAGAR.",
         "A tartaruga andou até o lago. → TARTARUGA ANDAR(tartaruga) LAGO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=258&end=268&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=258&end=268&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -786,21 +1034,29 @@
       "situation": "Durante o passeio, o cachorro anda ao lado do dono.",
       "translation": "Andar — cachorro",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O cachorro anda ao lado do dono. → CACHORRO ANDAR(cachorro) LADO DONO.",
         "Meu cachorro anda e cheira tudo. → CACHORRO MEU ANDAR(cachorro) CHEIRAR TUDO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=269&end=279&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=269&end=279&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -811,21 +1067,29 @@
       "situation": "Você vê uma fileira de formigas andando até um pedaço de comida.",
       "translation": "Andar — formiga",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "As formigas andam até o açúcar. → FORMIGA ANDAR(formiga) AÇÚCAR.",
         "Tem formiga andando na mesa! → MESA FORMIGA ANDAR(formiga)!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=279&end=288&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=279&end=288&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -836,21 +1100,29 @@
       "situation": "O gato anda pela sala em silêncio até a janela.",
       "translation": "Andar — gato",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O gato andou até a janela. → GATO ANDAR(gato) JANELA.",
         "O gato anda devagar e em silêncio. → GATO ANDAR(gato) DEVAGAR SILÊNCIO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=288&end=297&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=288&end=297&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -861,21 +1133,29 @@
       "situation": "No documentário, os pinguins andam juntos sobre o gelo.",
       "translation": "Andar — pinguim",
       "librasStructure": "ANDAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "Os pinguins andam no gelo. → PINGUIM ANDAR(pinguim) GELO.",
         "O pinguim anda engraçado! → PINGUIM ANDAR(pinguim) ENGRAÇADO!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=297&end=303&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=297&end=303&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -886,20 +1166,28 @@
       "situation": "Na fazenda, um cavalo corre pelo campo quando o portão é aberto.",
       "translation": "Correr — cavalo",
       "librasStructure": "CORRER",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O cavalo correu pelo campo. → CAVALO CORRER(cavalo) CAMPO.",
         "O cavalo corre muito rápido! → CAVALO CORRER(cavalo) RÁPIDO!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=303&end=312&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=303&end=312&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -910,20 +1198,28 @@
       "situation": "No aquário, você observa um peixe nadando entre as plantas.",
       "translation": "Nadar — peixe",
       "librasStructure": "NADAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O peixe nada no aquário. → AQUÁRIO PEIXE NADAR(peixe).",
         "Olha o peixe nadando entre as plantas! → OLHAR PEIXE NADAR(peixe) PLANTA!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=313&end=325&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=313&end=325&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -934,21 +1230,29 @@
       "situation": "Durante a trilha, você vê uma cobra rastejar pelo chão.",
       "translation": "Rastejar — cobra",
       "librasStructure": "RASTEJAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "A cobra rastejou para o mato. → COBRA RASTEJAR(cobra) MATO.",
         "Cuidado, tem cobra rastejando ali! → CUIDADO, ALI COBRA RASTEJAR(cobra)!"
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=325&end=341&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=325&end=341&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -959,20 +1263,28 @@
       "situation": "No parque, você vê um pássaro sair da árvore e voar sobre o lago.",
       "translation": "Voar — pássaro",
       "librasStructure": "VOAR",
-      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A configuração de mão representa o tipo de ser (pessoa, veículo, animal) e o movimento mostra a ação.",
       "examples": [
         "O pássaro voou para a árvore. → PÁSSARO VOAR(pássaro) ÁRVORE.",
         "Os pássaros voam sobre o lago. → PÁSSARO VOAR(pássaro) LAGO."
       ],
-      "video": "https://www.youtube.com/embed/sbMtdKyTX5s?start=343&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/sbMtdKyTX5s?start=343&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=sbMtdKyTX5s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:06:39.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

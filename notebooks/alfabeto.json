@@ -42,17 +42,25 @@
         "Qual é o seu nome? Soletre, por favor. → SEU NOME QUAL? SOLETRAR POR-FAVOR.",
         "Pode repetir a última letra, por favor? → ÚLTIMA LETRA REPETIR, POR-FAVOR?"
       ],
-      "video": "https://www.youtube.com/embed/-GGelepjtlk?start=17&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-GGelepjtlk",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-GGelepjtlk?start=17&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-GGelepjtlk",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

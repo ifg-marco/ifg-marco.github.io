@@ -25,21 +25,29 @@
       "situation": "Você consulta o horário e comenta que a primeira aula de amanhã é de História.",
       "translation": "História",
       "librasStructure": "HISTÓRIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Amanhã a primeira aula é História. → AMANHÃ AULA PRIMEIRA HISTÓRIA.",
         "Você gosta de História? → VOCÊ GOSTAR HISTÓRIA?"
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=13&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=13&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -50,21 +58,29 @@
       "situation": "Uma colega pergunta qual língua estrangeira você estuda, e você responde que é Espanhol.",
       "translation": "Espanhol",
       "librasStructure": "ESPANHOL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Estudo Espanhol na terça-feira. → TERÇA-FEIRA EU ESTUDAR ESPANHOL.",
         "Espanhol é parecido com português. → ESPANHOL PARECER PORTUGUÊS."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=16&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=16&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -75,21 +91,29 @@
       "situation": "Você explica ao colega que antes do intervalo tem aula de Física.",
       "translation": "Física",
       "librasStructure": "FÍSICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Antes do intervalo tem Física. → INTERVALO ANTES, FÍSICA.",
         "A prova de Física foi difícil. → PROVA FÍSICA DIFÍCIL."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -100,21 +124,29 @@
       "situation": "A professora pediu um texto, e você conta que vai fazer a Redação em casa.",
       "translation": "Redação",
       "librasStructure": "REDAÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tirei nota boa em Redação. → REDAÇÃO EU NOTA BOA.",
         "A Redação do Enem é importante. → ENEM REDAÇÃO IMPORTANTE."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -125,21 +157,29 @@
       "situation": "Você mostra o horário e aponta para a disciplina de Libras, em que vai praticar sinais.",
       "translation": "Libras (disciplina)",
       "librasStructure": "LIBRAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Libras é minha disciplina favorita. → LIBRAS DISCIPLINA FAVORITA MINHA.",
         "A aula de Libras é na sexta-feira. → AULA LIBRAS SEXTA-FEIRA."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -150,21 +190,29 @@
       "situation": "Sua colega pergunta se depois de Libras vem a aula de Português.",
       "translation": "Português",
       "librasStructure": "PORTUGUÊS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Depois de Libras tem Português? → LIBRAS DEPOIS, PORTUGUÊS?",
         "Para o surdo, Português é segunda língua. → SURDO, PORTUGUÊS LÍNGUA SEGUNDA."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=30&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -175,21 +223,29 @@
       "situation": "Você comenta que na aula de Biologia vai estudar os seres vivos e o corpo.",
       "translation": "Biologia",
       "librasStructure": "BIOLOGIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na Biologia, estudamos o corpo humano. → BIOLOGIA NÓS ESTUDAR CORPO HUMANO.",
         "O professor de Biologia é surdo. → PROFESSOR BIOLOGIA SURDO."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=33&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=33&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -200,20 +256,28 @@
       "situation": "Você compara as aulas de línguas e explica quando estudará inglês.",
       "translation": "Inglês",
       "librasStructure": "INGLÊS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho aula de Inglês na quarta-feira. → QUARTA-FEIRA EU AULA INGLÊS.",
         "Inglês é difícil para você? → INGLÊS VOCÊ DIFÍCIL?"
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -224,21 +288,29 @@
       "situation": "A turma precisa levar tênis e roupa leve para a aula de Educação Física.",
       "translation": "Educação Física",
       "librasStructure": "EDUCAÇÃO-FÍSICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Hoje tem Educação Física, leva o tênis. → HOJE EDUCAÇÃO-FÍSICA, TÊNIS LEVAR.",
         "Eu adoro Educação Física! → EU ADORAR EDUCAÇÃO-FÍSICA!"
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=41&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=41&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -249,21 +321,29 @@
       "situation": "Você consulta o horário e pergunta em que dia tem aula de Ensino Religioso.",
       "translation": "Ensino Religioso",
       "librasStructure": "ENSINO-RELIGIOSO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ensino Religioso é na quinta-feira. → ENSINO-RELIGIOSO QUINTA-FEIRA.",
         "No Ensino Religioso, estudamos várias religiões. → ENSINO-RELIGIOSO NÓS ESTUDAR RELIGIÃO VÁRIAS."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=44&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=44&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -274,21 +354,29 @@
       "situation": "Você avisa que precisa estudar contas para a prova de Matemática.",
       "translation": "Matemática",
       "librasStructure": "MATEMÁTICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Amanhã tem prova de Matemática. → AMANHÃ PROVA MATEMÁTICA.",
         "Matemática é fácil para você? → MATEMÁTICA VOCÊ FÁCIL?"
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=49&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -299,21 +387,29 @@
       "situation": "Na aula de Ciências, a professora pede que você escolha um tema sobre a natureza.",
       "translation": "Ciências",
       "librasStructure": "CIÊNCIAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos fazer uma experiência em Ciências. → CIÊNCIAS NÓS FAZER EXPERIÊNCIA.",
         "Meu trabalho de Ciências é sobre as plantas. → TRABALHO CIÊNCIAS MEU PLANTA."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -324,21 +420,29 @@
       "situation": "Você abre o mapa e comenta que vai estudar os estados na aula de Geografia.",
       "translation": "Geografia",
       "librasStructure": "GEOGRAFIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na Geografia, estudamos o mapa do Brasil. → GEOGRAFIA NÓS ESTUDAR MAPA BRASIL.",
         "A professora de Geografia viaja muito. → PROFESSORA GEOGRAFIA VIAJAR MUITO."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=60&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=60&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -349,21 +453,29 @@
       "situation": "A turma vai conversar sobre a sociedade, e você pergunta quando é a aula de Sociologia.",
       "translation": "Sociologia",
       "librasStructure": "SOCIOLOGIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A aula de Sociologia é amanhã. → AULA SOCIOLOGIA AMANHÃ.",
         "Na Sociologia, falamos sobre a comunidade surda. → SOCIOLOGIA NÓS FALAR COMUNIDADE SURDA."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=68&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -374,21 +486,29 @@
       "situation": "Você explica que a aula de Música trabalha som e ritmo, e que os surdos sentem a vibração.",
       "translation": "Música",
       "librasStructure": "MÚSICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na aula de Música, sinto a vibração. → AULA MÚSICA EU SENTIR VIBRAÇÃO.",
         "Você tem aula de Música? → VOCÊ AULA MÚSICA TER?"
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -399,21 +519,29 @@
       "situation": "Você separa o jaleco e avisa que depois do almoço tem aula de Química no laboratório.",
       "translation": "Química",
       "librasStructure": "QUÍMICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Depois do almoço tem Química. → ALMOÇO DEPOIS, QUÍMICA.",
         "A aula de Química é no laboratório. → AULA QUÍMICA LABORATÓRIO."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=76&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -424,21 +552,29 @@
       "situation": "Uma colega indica um livro, e você conta que vai estudá-lo na aula de Literatura.",
       "translation": "Literatura",
       "librasStructure": "LITERATURA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na Literatura, lemos livros brasileiros. → LITERATURA NÓS LER LIVRO BRASIL.",
         "Existe Literatura surda. → LITERATURA SURDA EXISTIR."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=81&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=81&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -449,21 +585,29 @@
       "situation": "A professora pediu um desenho para a aula de Arte.",
       "translation": "Arte",
       "librasStructure": "ARTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Preciso fazer o desenho de Arte. → DESENHO ARTE EU PRECISAR FAZER.",
         "Na Arte, usamos tinta e pincel. → ARTE NÓS USAR TINTA PINCEL."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=86&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=86&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -474,21 +618,29 @@
       "situation": "Na aula de Matemática, você identifica o conteúdo de Geometria: formas e figuras.",
       "translation": "Geometria",
       "librasStructure": "GEOMETRIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Na Geometria, usamos régua e compasso. → GEOMETRIA NÓS USAR RÉGUA COMPASSO.",
         "Gosto mais de Geometria que de contas. → EU GOSTAR GEOMETRIA MAIS CONTA."
       ],
-      "video": "https://www.youtube.com/embed/ei_YMl5XO9s?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ei_YMl5XO9s?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ei_YMl5XO9s",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

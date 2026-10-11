@@ -26,22 +26,30 @@
       "situation": "A turma recebeu uma notícia boa sobre a apresentação, e você conta que está animado.",
       "translation": "Animado",
       "librasStructure": "ANIMADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Estou animado para a festa! → EU ANIMADO FESTA!",
         "Você está animada com o curso? → VOCÊ ANIMADA CURSO?"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -52,22 +60,30 @@
       "situation": "Depois de uma tentativa difícil, sua colega diz que está desanimada e sem vontade de continuar.",
       "translation": "Desanimado",
       "librasStructure": "DESANIMADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Hoje estou desanimado. → HOJE EU DESANIMADO.",
         "Não fique desanimada, você vai conseguir! → DESANIMADA NÃO, VOCÊ CONSEGUIR!"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=77&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=77&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -78,22 +94,30 @@
       "situation": "A professora confirmou que o trabalho foi entregue, e você sente alívio.",
       "translation": "Alívio",
       "librasStructure": "ALÍVIO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Que alívio! A prova acabou. → ALÍVIO! PROVA ACABAR.",
         "Senti alívio quando o ônibus chegou. → ÔNIBUS CHEGAR, EU ALÍVIO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=83&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=83&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -104,21 +128,29 @@
       "situation": "Sua colega ainda não chegou para a apresentação, e você comenta que está preocupado.",
       "translation": "Preocupado",
       "librasStructure": "PREOCUPADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Estou preocupado com a prova. → EU PREOCUPADO PROVA.",
         "Minha mãe fica preocupada quando chego tarde. → EU CHEGAR TARDE, MÃE MINHA PREOCUPADA."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=90&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=90&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -129,22 +161,30 @@
       "situation": "Antes de começar a prova, você respira fundo e tenta ficar calmo.",
       "translation": "Calmo",
       "librasStructure": "CALMO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Fica calmo, vai dar certo. → CALMO, CERTO VAI.",
         "Meu pai é uma pessoa calma. → PAI MEU PESSOA CALMA."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=95&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=95&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -155,22 +195,30 @@
       "situation": "É sua primeira apresentação em Libras, e você conta que está nervoso.",
       "translation": "Nervoso",
       "librasStructure": "NERVOSO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Estou nervoso com a apresentação. → EU NERVOSO APRESENTAÇÃO.",
         "Por que você está nervosa? → VOCÊ NERVOSA POR-QUÊ?"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=101&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=101&end=105&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -181,22 +229,30 @@
       "situation": "Uma pessoa interrompe a conversa sem pedir licença, e você comenta que ela foi mal-educada.",
       "translation": "Mal-educado",
       "librasStructure": "MAL-EDUCADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ele foi mal-educado com a professora. → ELE MAL-EDUCADO PROFESSORA.",
         "Não pedir licença é mal-educado. → COM-LICENÇA PEDIR NÃO, MAL-EDUCADO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=140&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=140&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -207,22 +263,30 @@
       "situation": "Uma colega espera a vez e agradece pela ajuda. Comente que ela é educada.",
       "translation": "Educado",
       "librasStructure": "EDUCADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Seu filho é muito educado. → FILHO SEU EDUCADO MUITO.",
         "Pessoa educada diz obrigado e por favor. → PESSOA EDUCADA: OBRIGADO, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=144&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=144&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -233,22 +297,30 @@
       "situation": "Depois de receber um elogio, sua colega reconhece a ajuda do grupo. Diga que ela é humilde.",
       "translation": "Humilde",
       "librasStructure": "HUMILDE",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ela é inteligente e humilde. → ELA INTELIGENTE, HUMILDE.",
         "Meu avô é um homem humilde. → AVÔ MEU HOMEM HUMILDE."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -259,22 +331,30 @@
       "situation": "Sua equipe concluiu um trabalho difícil, e você fala do orgulho que sente.",
       "translation": "Orgulho",
       "librasStructure": "ORGULHO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Tenho orgulho de ser surdo. → EU ORGULHO SURDO.",
         "Seus pais têm orgulho de você. → PAIS SEUS ORGULHO VOCÊ."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=155&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=155&end=161&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -285,22 +365,30 @@
       "situation": "A turma se reencontra depois das férias, e você percebe que uma colega está alegre.",
       "translation": "Alegre",
       "librasStructure": "ALEGRE",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ela é uma pessoa alegre. → ELA PESSOA ALEGRE.",
         "A festa foi muito alegre. → FESTA ALEGRE MUITO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=162&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=162&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -311,21 +399,29 @@
       "situation": "Uma amiga conta que foi aprovada, e você pergunta se ela está feliz.",
       "translation": "Feliz",
       "librasStructure": "FELIZ",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Você está feliz? → VOCÊ FELIZ?",
         "Estou feliz com meu novo emprego. → EU FELIZ EMPREGO NOVO MEU."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=167&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=167&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -336,22 +432,30 @@
       "situation": "Uma colega recebeu uma notícia difícil e está triste. Pergunte como ela está.",
       "translation": "Triste",
       "librasStructure": "TRISTE",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Por que você está triste? → VOCÊ TRISTE POR-QUÊ?",
         "Fiquei triste com o término de namoro. → TÉRMINO-DE-NAMORO, EU TRISTE."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=172&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=172&end=176&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -362,22 +466,30 @@
       "situation": "Na conversa sobre família, você fala do amor que sente pela sua mãe.",
       "translation": "Amor",
       "librasStructure": "AMOR",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Tenho muito amor pela minha mãe. → EU AMOR MÃE MINHA MUITO.",
         "Amor de avó é diferente. → AMOR AVÓ DIFERENTE."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=177&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=177&end=182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -388,21 +500,29 @@
       "situation": "Em uma conversa sobre conflitos, você diferencia não gostar muito de sentir ódio.",
       "translation": "Ódio",
       "librasStructure": "ÓDIO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ódio é um sentimento ruim. → ÓDIO SENTIMENTO RUIM.",
         "Não sinto ódio, só tristeza. → EU ÓDIO NÃO, TRISTE SÓ."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=182&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=182&end=186&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -413,22 +533,30 @@
       "situation": "Você decide apresentar mesmo com medo e conta que precisou de coragem.",
       "translation": "Coragem",
       "librasStructure": "CORAGEM",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Precisei de coragem para apresentar. → APRESENTAR, EU PRECISAR CORAGEM.",
         "Você tem coragem de pular de paraquedas? → VOCÊ CORAGEM PARAQUEDAS?"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=187&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=187&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -439,21 +567,29 @@
       "situation": "Uma pessoa ficou irritada durante a conversa, e você pergunta se ela ainda está brava.",
       "translation": "Bravo",
       "librasStructure": "BRAVO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Você ainda está brava comigo? → VOCÊ BRAVA EU AINDA?",
         "Meu pai ficou bravo com o atraso. → PAI MEU BRAVO ATRASO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=217&end=224&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=217&end=224&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -464,22 +600,30 @@
       "situation": "Sua colega terminou a tarefa e sorriu: ela está contente com o resultado.",
       "translation": "Contente",
       "librasStructure": "CONTENTE",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Estou contente com a minha nota. → EU CONTENTE NOTA MINHA.",
         "A professora ficou contente com a turma. → PROFESSORA CONTENTE TURMA."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=233&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=233&end=238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -490,21 +634,29 @@
       "situation": "Durante uma conversa sobre conquistas, você explica que comparar-se demais pode trazer inveja.",
       "translation": "Inveja",
       "librasStructure": "INVEJA",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Inveja não faz bem. → INVEJA BOM NÃO.",
         "Ele tem inveja do carro do vizinho. → ELE INVEJA CARRO VIZINHO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=239&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=239&end=243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -515,21 +667,29 @@
       "situation": "Uma pessoa interrompe a conversa do casal e você explica que isso parece ciúme.",
       "translation": "Ciúme",
       "librasStructure": "CIÚME",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Meu namorado tem ciúme de mim. → NAMORADO MEU CIÚME EU.",
         "Ciúme demais atrapalha o namoro. → CIÚME DEMAIS ATRAPALHAR NAMORO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=256&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=256&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -540,22 +700,30 @@
       "situation": "Uma criança encontrou uma solução criativa, e você elogia: ela é esperta.",
       "translation": "Esperto",
       "librasStructure": "ESPERTO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Seu filho é muito esperto! → FILHO SEU ESPERTO MUITO!",
         "Ela é esperta, aprendeu rápido. → ELA ESPERTA, APRENDER RÁPIDO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=262&end=270&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=262&end=270&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -566,22 +734,30 @@
       "situation": "Uma colega perdeu o ônibus e chegou atrasada. Você diz “coitada!” com empatia.",
       "translation": "Coitado",
       "librasStructure": "COITADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Coitada, perdeu o ônibus! → COITADA, ÔNIBUS PERDER!",
         "Coitado do cachorro, está com fome. → COITADO CACHORRO, FOME."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=270&end=276&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=270&end=276&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -592,22 +768,30 @@
       "situation": "Sua equipe treinou várias vezes para melhorar, e você reconhece o esforço.",
       "translation": "Esforço",
       "librasStructure": "ESFORÇO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Valeu o esforço! → ESFORÇO VALER!",
         "Com esforço, você aprende Libras. → ESFORÇO, VOCÊ APRENDER LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=284&end=289&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=284&end=289&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -618,22 +802,30 @@
       "situation": "Uma pessoa não quer dividir nenhum material com o grupo, e você comenta que ela é egoísta.",
       "translation": "Egoísta",
       "librasStructure": "EGOÍSTA",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Não seja egoísta, divide o lanche. → EGOÍSTA NÃO, LANCHE DIVIDIR.",
         "Ele é egoísta, só pensa nele. → ELE EGOÍSTA, PENSAR ELE SÓ."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=290&end=298&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=290&end=298&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -644,22 +836,30 @@
       "situation": "Alguém espalha uma informação sobre uma pessoa ausente, e você comenta que ele é fofoqueiro.",
       "translation": "Fofoqueiro",
       "librasStructure": "FOFOQUEIRO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Não conta para ele, é fofoqueiro. → ELE CONTAR NÃO, FOFOQUEIRO.",
         "Minha vizinha é muito fofoqueira. → VIZINHA MINHA FOFOQUEIRA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=340&end=345&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=340&end=345&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -670,21 +870,29 @@
       "situation": "A professora explica uma regra importante, e todos percebem que o assunto é sério.",
       "translation": "Sério",
       "librasStructure": "SÉRIO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "O assunto é sério. → ASSUNTO SÉRIO.",
         "Por que você está tão sério? → VOCÊ SÉRIO POR-QUÊ?"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=346&end=351&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=346&end=351&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -695,22 +903,30 @@
       "situation": "Ao comentar uma novela, você diz que o personagem é malvado.",
       "translation": "Malvado",
       "librasStructure": "MALVADO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "O vilão da novela é malvado. → NOVELA VILÃO MALVADO.",
         "Ele não é malvado, só errou. → ELE MALVADO NÃO, ERRAR SÓ."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=351&end=356&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=351&end=356&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -721,21 +937,29 @@
       "situation": "Uma pessoa trata os outros sem cuidado, e você comenta que seu jeito é bruto.",
       "translation": "Bruto",
       "librasStructure": "BRUTO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ele é bruto com os animais. → ELE BRUTO ANIMAL.",
         "Não seja bruto, fala com calma. → BRUTO NÃO, CALMO CONVERSAR."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=357&end=361&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=357&end=361&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -746,22 +970,30 @@
       "situation": "O grupo precisa estudar, mas uma pessoa sempre deixa para depois. Comente que ela é preguiçosa.",
       "translation": "Preguiçoso",
       "librasStructure": "PREGUIÇOSO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Hoje estou preguiçoso. → HOJE EU PREGUIÇOSO.",
         "Meu irmão é preguiçoso para acordar cedo. → IRMÃO MEU PREGUIÇOSO ACORDAR CEDO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=362&end=365&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=362&end=365&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -772,22 +1004,30 @@
       "situation": "Uma estudante nova quase não fala na apresentação porque é tímida.",
       "translation": "Tímido",
       "librasStructure": "TÍMIDO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ela é tímida, mas é legal. → ELA TÍMIDA, MAS LEGAL.",
         "Você é tímido? → VOCÊ TÍMIDO?"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=365&end=370&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=365&end=370&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -798,22 +1038,30 @@
       "situation": "Na divisão dos materiais, uma pessoa tenta ficar com tudo. Comente que ela é gananciosa.",
       "translation": "Ganancioso",
       "librasStructure": "GANANCIOSO",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ele é ganancioso, quer tudo para ele. → ELE GANANCIOSO, QUERER TUDO ELE.",
         "O dono da empresa é ganancioso. → EMPRESA DONO GANANCIOSO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=370&end=376&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=370&end=376&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -824,21 +1072,29 @@
       "situation": "A criança ouviu a conversa, mas não participou do problema; você explica que ela é inocente.",
       "translation": "Inocente",
       "librasStructure": "INOCENTE",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "A criança é inocente. → CRIANÇA INOCENTE.",
         "O juiz disse que ele é inocente. → JUIZ FALAR ELE INOCENTE."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=376&end=381&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=376&end=381&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -849,22 +1105,30 @@
       "situation": "O material ficou espalhado e a tarefa incompleta. Comente que a pessoa foi desleixada.",
       "translation": "Desleixado / desleixada",
       "librasStructure": "DESLEIXADO/DESLEIXADA",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Ele é desleixado com as coisas dele. → ELE DESLEIXADO COISA DELE.",
         "Não seja desleixada com o caderno. → CADERNO DESLEIXADA NÃO."
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=381&end=385&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=381&end=385&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -875,21 +1139,29 @@
       "situation": "Você precisa apresentar para a turma, mas sente vergonha antes de começar.",
       "translation": "Vergonha",
       "librasStructure": "VERGONHA",
-      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "A expressão facial faz parte do sinal: sem ela, sentimentos como triste, bravo ou alegre perdem o sentido.",
       "examples": [
         "Tenho vergonha de apresentar. → EU VERGONHA APRESENTAR.",
         "Não tenha vergonha de sinalizar! → SINALIZAR VERGONHA NÃO!"
       ],
-      "video": "https://www.youtube.com/embed/gGgXIRwPX-M?start=386&end=393&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gGgXIRwPX-M?start=386&end=393&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gGgXIRwPX-M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:03:24.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

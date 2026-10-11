@@ -25,20 +25,28 @@
       "situation": "Na sala, você escolhe uma almofada confortável para colocar no sofá antes da visita chegar.",
       "translation": "Almofada",
       "librasStructure": "ALMOFADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Coloca a almofada no sofá? → ALMOFADA SOFÁ COLOCAR?",
         "Essa almofada é muito macia. → ALMOFADA ESSA MACIA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=14&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=14&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -49,20 +57,28 @@
       "situation": "No quarto, você guarda as roupas no armário e pede ajuda para alcançar a prateleira de cima.",
       "translation": "Armário",
       "librasStructure": "ARMÁRIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Me ajuda a pegar a roupa no armário? → ARMÁRIO ROUPA PEGAR AJUDAR-ME?",
         "O arroz e o feijão ficam no armário da cozinha. → ARROZ FEIJÃO ARMÁRIO COZINHA FICAR."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -73,20 +89,28 @@
       "situation": "Ao organizar a mesa, você coloca uma cadeira para cada pessoa e confere se todos terão lugar.",
       "translation": "Cadeira",
       "librasStructure": "CADEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Falta uma cadeira para o vovô. → AVÔ CADEIRA FALTAR.",
         "Pode sentar nessa cadeira. → CADEIRA ESSA SENTAR PODER."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=23&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -97,20 +121,28 @@
       "situation": "Depois de arrumar o quarto, você coloca os lençóis na cama e avisa que está tudo pronto.",
       "translation": "Cama",
       "librasStructure": "CAMA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A cama já está arrumada. → CAMA ARRUMAR PRONTO.",
         "Hoje vou para a cama cedo. → HOJE EU DEITAR CAMA CEDO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -121,20 +153,28 @@
       "situation": "Na cozinha, você pega uma colher para mexer a sopa e oferece outra à criança.",
       "translation": "Colher",
       "librasStructure": "COLHER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Me passa uma colher para a sopa? → SOPA COLHER PASSAR-ME?",
         "Filho, come com a colher. → FILHO, COMER COLHER."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -145,20 +185,28 @@
       "situation": "Na hora do almoço, você coloca o garfo ao lado do prato e pergunta se a família já pode servir.",
       "translation": "Garfo",
       "librasStructure": "GARFO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Falta garfo na mesa. → MESA GARFO FALTAR.",
         "Macarrão se come com garfo. → MACARRÃO COMER GARFO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -169,20 +217,28 @@
       "situation": "Ao preparar o jantar, você usa a faca para cortar os legumes e pede cuidado à criança.",
       "translation": "Faca",
       "librasStructure": "FACA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cuidado, a faca é afiada! → CUIDADO, FACA AFIADA!",
         "Criança não pode pegar faca. → CRIANÇA FACA PEGAR PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -193,20 +249,28 @@
       "situation": "Antes da refeição, você coloca um copo para cada pessoa e enche a jarra de água.",
       "translation": "Copo",
       "librasStructure": "COPO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Um copo de água, por favor. → COPO ÁGUA, POR-FAVOR.",
         "Quantos copos ponho na mesa? → MESA COPO QUANTOS COLOCAR?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=36&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -217,20 +281,28 @@
       "situation": "De manhã, você abre a cortina para deixar a luz entrar e depois fecha por causa do sol forte.",
       "translation": "Cortina",
       "librasStructure": "CORTINA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Abre a cortina, por favor. → CORTINA ABRIR, POR-FAVOR.",
         "O sol está forte, fecha a cortina. → SOL FORTE, CORTINA FECHAR."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=39&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=39&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -241,20 +313,28 @@
       "situation": "Na cozinha, você acende o fogão para preparar o almoço e verifica se as panelas estão seguras.",
       "translation": "Fogão",
       "librasStructure": "FOGÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O feijão está no fogão. → FEIJÃO FOGÃO.",
         "Você desligou o fogão? → VOCÊ FOGÃO DESLIGAR?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=42&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=42&end=45&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -265,20 +345,28 @@
       "situation": "Na mesa, você enche a jarra de água e pergunta quem gostaria de beber primeiro.",
       "translation": "Jarra",
       "librasStructure": "JARRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Enche a jarra de suco? → JARRA SUCO ENCHER?",
         "A jarra de água está vazia. → JARRA ÁGUA VAZIA."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=46&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=46&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -289,21 +377,29 @@
       "situation": "Na cozinha, você abre a geladeira para pegar frutas e avisa que a porta ficou aberta.",
       "translation": "Geladeira",
       "librasStructure": "GELADEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A cerveja está na geladeira. → CERVEJA GELADEIRA.",
         "Fecha a porta da geladeira! → GELADEIRA PORTA FECHAR!",
         "A geladeira está vazia, vamos ao mercado. → GELADEIRA VAZIA, NÓS IR MERCADO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=49&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=49&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -314,20 +410,28 @@
       "situation": "Ao organizar o quarto, você separa as roupas no guarda-roupa e doa o que não usa mais.",
       "translation": "Guarda-roupa",
       "librasStructure": "GUARDA-ROUPA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minhas roupas não cabem no guarda-roupa. → ROUPA MINHA GUARDA-ROUPA CABER NÃO.",
         "Guarde a roupa no guarda-roupa. → ROUPA GUARDAR GUARDA-ROUPA."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=53&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=53&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -338,20 +442,28 @@
       "situation": "No dia de lavar roupa, você separa as peças e coloca tudo na máquina de lavar roupas.",
       "translation": "Máquina de lavar roupas",
       "librasStructure": "MÁQUINA-DE-LAVAR-ROUPAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Coloca a roupa na máquina de lavar roupas. → ROUPA COLOCAR MÁQUINA-DE-LAVAR-ROUPAS.",
         "A máquina de lavar roupas quebrou. → MÁQUINA-DE-LAVAR-ROUPAS QUEBRAR."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=57&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=57&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -362,20 +474,28 @@
       "situation": "Antes do jantar, você limpa a mesa e coloca os pratos para a família.",
       "translation": "Mesa",
       "librasStructure": "MESA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos pôr a mesa para o jantar. → JANTAR, NÓS MESA ARRUMAR.",
         "O bolo está em cima da mesa. → BOLO EM-CIMA MESA."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=60&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=60&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -386,20 +506,28 @@
       "situation": "Na cozinha, você coloca a comida no micro-ondas e programa alguns minutos para aquecê-la.",
       "translation": "Micro-ondas",
       "librasStructure": "MICRO-ONDAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esquenta a sopa no micro-ondas. → SOPA ESQUENTAR MICRO-ONDAS.",
         "Pipoca de micro-ondas é rápida. → PIPOCA MICRO-ONDAS RÁPIDO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -410,20 +538,28 @@
       "situation": "Ao preparar o almoço, você coloca os legumes na panela e pede para a irmã mexer a receita.",
       "translation": "Panela",
       "librasStructure": "PANELA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O arroz está na panela. → ARROZ PANELA.",
         "Mexe a panela para não queimar. → PANELA MEXER, QUEIMAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=65&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=65&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -434,20 +570,28 @@
       "situation": "Quando a visita chega, você abre a porta e pede para a criança não deixá-la aberta.",
       "translation": "Porta",
       "librasStructure": "PORTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Fecha a porta, por favor. → PORTA FECHAR, POR-FAVOR.",
         "Tem alguém na porta. → PORTA ALGUÉM TER."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -458,20 +602,28 @@
       "situation": "Na hora do almoço, você escolhe um prato fundo para servir a sopa e coloca-o na mesa.",
       "translation": "Prato",
       "librasStructure": "PRATO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Sopa no prato fundo. → SOPA PRATO FUNDO.",
         "Coloca mais arroz no meu prato? → PRATO MEU ARROZ MAIS COLOCAR?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=70&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -482,20 +634,28 @@
       "situation": "Depois do jantar, a família se reúne no sofá para conversar e assistir a um filme.",
       "translation": "Sofá",
       "librasStructure": "SOFÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos ver um filme no sofá? → SOFÁ NÓS FILME ASSISTIR?",
         "O gato dorme no sofá. → GATO DORMIR SOFÁ."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=72&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -506,20 +666,28 @@
       "situation": "Na sala, você percebe que o som da televisão está baixo e pede para aumentar o volume.",
       "translation": "Som",
       "librasStructure": "SOM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Abaixa o som, o bebê está dormindo. → SOM ABAIXAR, BEBÊ DORMIR.",
         "O som da festa está alto demais. → FESTA SOM ALTO DEMAIS."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=76&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=76&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -530,20 +698,28 @@
       "situation": "Durante o café, você liga o rádio para ouvir as notícias e comenta uma informação com a família.",
       "translation": "Rádio",
       "librasStructure": "RÁDIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu avô ouve rádio de manhã. → AVÔ MEU ESCUTAR RÁDIO MANHÃ.",
         "Liga o rádio para ver o jogo? → RÁDIO LIGAR JOGO?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=79&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=79&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -554,20 +730,28 @@
       "situation": "Na noite de filme, você liga o home theater e ajusta o som antes de começar a sessão.",
       "translation": "Home theater",
       "librasStructure": "HOME-THEATER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O home theater deixa o filme mais legal. → HOME-THEATER FILME MELHOR.",
         "Você liga o home theater? → VOCÊ LIGAR HOME-THEATER?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=82&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=82&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -578,20 +762,28 @@
       "situation": "Depois do jantar, a família se reúne para assistir à televisão e escolher um programa.",
       "translation": "Televisão",
       "librasStructure": "TELEVISÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A televisão tem legenda? → TELEVISÃO TER LEGENDA?",
         "Desliga a televisão e vem jantar. → TELEVISÃO DESLIGAR, VIR JANTAR."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=86&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=86&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -602,20 +794,28 @@
       "situation": "Ao organizar os aparelhos antigos, você encontra o aparelho de DVD e mostra um filme guardado.",
       "translation": "Aparelho de DVD",
       "librasStructure": "APARELHO-DE-DVD",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ninguém usa mais aparelho de DVD. → APARELHO-DE-DVD USAR NINGUÉM MAIS.",
         "O aparelho de DVD ainda funciona? → APARELHO-DE-DVD FUNCIONAR AINDA?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=89&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=89&end=93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -626,20 +826,28 @@
       "situation": "No sofá, você procura o controle remoto para mudar o canal e pede ajuda à família.",
       "translation": "Controle remoto",
       "librasStructure": "CONTROLE-REMOTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cadê o controle remoto? → CONTROLE-REMOTO ONDE?",
         "Me passa o controle remoto? → CONTROLE-REMOTO PASSAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -650,20 +858,28 @@
       "situation": "Ao limpar a sala, você tira o tapete e avisa que o chão precisa secar antes de recolocá-lo.",
       "translation": "Tapete",
       "librasStructure": "TAPETE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Não pisa no tapete molhado. → TAPETE MOLHADO PISAR NÃO.",
         "Comprei um tapete novo para a sala. → EU COMPRAR TAPETE NOVO SALA."
       ],
-      "video": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=97&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KtO7fzHx_Gw?start=97&end=101&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KtO7fzHx_Gw",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -674,20 +890,28 @@
       "situation": "Na cozinha, você escolhe uma receita simples e lê cada etapa antes de começar o preparo.",
       "translation": "Receita",
       "librasStructure": "RECEITA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Essa receita de bolo é da vovó. → RECEITA BOLO ESSA AVÓ.",
         "Me passa a receita? → RECEITA PASSAR-ME?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=14&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -698,20 +922,28 @@
       "situation": "Antes de cozinhar, você separa os ingredientes e confere se falta algum item na despensa.",
       "translation": "Ingredientes",
       "librasStructure": "INGREDIENTES",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quais são os ingredientes do bolo? → BOLO INGREDIENTES QUAIS?",
         "Falta um ingrediente: ovo. → INGREDIENTE FALTAR: OVO."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -722,20 +954,28 @@
       "situation": "Ao ensinar a receita, você explica o modo de fazer e demonstra a ordem correta das etapas.",
       "translation": "Modo de fazer",
       "librasStructure": "MODO-DE-FAZER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O modo de fazer é simples. → MODO-DE-FAZER SIMPLES.",
         "Leia o modo de fazer antes de começar. → MODO-DE-FAZER LER ANTES COMEÇAR."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=24&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -746,20 +986,28 @@
       "situation": "Na cozinha, você espera a água ferver antes de colocar o macarrão na panela.",
       "translation": "Ferver",
       "librasStructure": "FERVER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Espera a água ferver. → ÁGUA FERVER ESPERAR.",
         "O leite ferveu e derramou! → LEITE FERVER DERRAMAR!"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=32&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -770,20 +1018,28 @@
       "situation": "No café da tarde, você escolhe uma xícara e serve bebida quente para a visita.",
       "translation": "Xícara",
       "librasStructure": "XÍCARA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Aceita uma xícara de café? → XÍCARA CAFÉ VOCÊ ACEITAR?",
         "A receita pede duas xícaras de farinha. → RECEITA PEDIR FARINHA 2 XÍCARA."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -794,20 +1050,28 @@
       "situation": "Ao dividir o bolo, você corta a metade para a irmã e guarda o restante para depois.",
       "translation": "Metade",
       "librasStructure": "METADE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Metade do bolo é sua. → BOLO METADE SUA.",
         "Quer metade do meu sanduíche? → SANDUÍCHE MEU METADE VOCÊ QUERER?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=48&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=48&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -818,20 +1082,28 @@
       "situation": "Na receita, você mede o óleo com uma colher de sopa antes de misturar os ingredientes.",
       "translation": "Colher de sopa",
       "librasStructure": "COLHER-DE-SOPA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Uma colher de sopa de óleo. → ÓLEO COLHER-DE-SOPA UMA.",
         "Quantas colheres de sopa de açúcar? → AÇÚCAR COLHER-DE-SOPA QUANTAS?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -842,20 +1114,28 @@
       "situation": "Ao preparar o chá, você coloca uma colher de chá de açúcar e prova antes de servir.",
       "translation": "Colher de chá",
       "librasStructure": "COLHER-DE-CHÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Uma colher de chá de sal. → SAL COLHER-DE-CHÁ UMA.",
         "Coloca só uma colher de chá de açúcar. → AÇÚCAR COLHER-DE-CHÁ UMA SÓ."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -866,20 +1146,28 @@
       "situation": "Na cozinha, você frita a cebola para o molho e pede cuidado com o óleo quente.",
       "translation": "Fritar",
       "librasStructure": "FRITAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou fritar a cebola no óleo. → EU FRITAR CEBOLA ÓLEO.",
         "Fritar pastel é perigoso para criança. → PASTEL FRITAR, CRIANÇA PERIGOSO."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=60&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -890,20 +1178,28 @@
       "situation": "Ao seguir a receita, você mede um terço de xícara de leite e confere a quantidade indicada.",
       "translation": "1/3 (um terço)",
       "librasStructure": "1/3",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Coloque um terço de xícara de leite. → LEITE XÍCARA 1/3 COLOCAR.",
         "Um terço do bolo já acabou. → BOLO 1/3 ACABAR JÁ."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=70&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -914,20 +1210,28 @@
       "situation": "Ao preparar a sobremesa, você ferve em banho-maria e acompanha a temperatura para não queimar.",
       "translation": "Ferver em banho-maria",
       "librasStructure": "FERVER-EM-BANHO-MARIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pudim é feito em banho-maria. → PUDIM FERVER-EM-BANHO-MARIA.",
         "Derreta o chocolate em banho-maria. → CHOCOLATE DERRETER FERVER-EM-BANHO-MARIA."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=78&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=78&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -938,20 +1242,28 @@
       "situation": "Antes de oferecer a bebida à criança, você testa e confirma que está morna, não quente.",
       "translation": "Morno",
       "librasStructure": "MORNO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O leite do bebê está morno. → BEBÊ LEITE MORNO.",
         "Prefiro água morna, não gelada. → EU PREFERIR ÁGUA MORNA, GELADA NÃO."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=92&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=92&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -962,20 +1274,28 @@
       "situation": "Ao acompanhar o forno, você confere os graus indicados na receita antes de assar o bolo.",
       "translation": "Graus",
       "librasStructure": "GRAUS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O forno está a quantos graus? → FORNO GRAUS QUANTOS?",
         "Asse o bolo a 180 graus. → BOLO ASSAR 180 GRAUS."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=98&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=98&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -986,20 +1306,28 @@
       "situation": "Antes de colocar o bolo no forno, você lembra a irmã de pré-aquecer o aparelho.",
       "translation": "Pré-aquecer",
       "librasStructure": "PRÉ-AQUECER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Pré-aqueça o forno por dez minutos. → FORNO PRÉ-AQUECER 10 MINUTOS.",
         "Você já pré-aqueceu o forno? → VOCÊ FORNO PRÉ-AQUECER JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=103&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=103&end=111&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1010,20 +1338,28 @@
       "situation": "Ao preparar a receita, você marca quinze minutos no relógio para verificar o forno.",
       "translation": "Minutos",
       "librasStructure": "MINUTOS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O bolo fica pronto em quarenta minutos. → BOLO PRONTO 40 MINUTOS.",
         "Mexa por cinco minutos. → MEXER 5 MINUTOS."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=112&end=115&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1034,20 +1370,28 @@
       "situation": "Na rotina da casa, você combina o horário do jantar e pergunta quantas horas faltam.",
       "translation": "Horas",
       "librasStructure": "HORAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A carne precisa de duas horas no forno. → CARNE FORNO DUAS HORAS PRECISAR.",
         "Quantas horas faltam para o jantar? → JANTAR FALTAR HORAS QUANTAS?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1058,20 +1402,28 @@
       "situation": "Na lavanderia, você coloca as roupas na bacia para deixar de molho antes de lavar.",
       "translation": "Bacia",
       "librasStructure": "BACIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Deixa a roupa de molho na bacia. → ROUPA BACIA MOLHO DEIXAR.",
         "Lava as frutas na bacia. → FRUTA LAVAR BACIA."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=125&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=125&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1082,20 +1434,28 @@
       "situation": "Ao preparar o bolo, você usa a batedeira e pede para a irmã separar os ovos.",
       "translation": "Batedeira",
       "librasStructure": "BATEDEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Bate os ovos na batedeira. → OVO BATER BATEDEIRA.",
         "A batedeira é da minha mãe. → BATEDEIRA MÃE MINHA."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=130&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=130&end=133&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1106,20 +1466,28 @@
       "situation": "No café da manhã, você usa o liquidificador para preparar uma vitamina de banana.",
       "translation": "Liquidificador",
       "librasStructure": "LIQUIDIFICADOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faço vitamina de banana no liquidificador. → EU FAZER VITAMINA BANANA LIQUIDIFICADOR.",
         "O liquidificador faz muito barulho. → LIQUIDIFICADOR BARULHO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1130,20 +1498,28 @@
       "situation": "Antes de colocar a massa, você unta a forma para o bolo não grudar.",
       "translation": "Untar",
       "librasStructure": "UNTAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Unte a forma com manteiga. → FORMA UNTAR MANTEIGA.",
         "Esqueci de untar e o bolo grudou. → EU ESQUECER UNTAR, BOLO GRUDAR."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=138&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=138&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1154,20 +1530,28 @@
       "situation": "Ao escolher a assadeira, você pega uma forma retangular porque vai preparar um bolo maior.",
       "translation": "Forma retangular",
       "librasStructure": "FORMA-RETANGULAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Use a forma retangular para o bolo grande. → BOLO GRANDE FORMA-RETANGULAR USAR.",
         "Tem forma retangular aí? → FORMA-RETANGULAR TER?"
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=145&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=145&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1178,20 +1562,28 @@
       "situation": "Para fazer um bolo de aniversário, você escolhe uma forma redonda e separa a cobertura.",
       "translation": "Forma redonda",
       "librasStructure": "FORMA-REDONDA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Bolo de aniversário na forma redonda. → BOLO ANIVERSÁRIO FORMA-REDONDA.",
         "A forma redonda é pequena para essa receita. → FORMA-REDONDA PEQUENA RECEITA ESSA."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1202,20 +1594,28 @@
       "situation": "Ao finalizar a receita, você explica que o sal deve ser colocado a gosto de cada pessoa.",
       "translation": "A gosto",
       "librasStructure": "A-GOSTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Sal e pimenta a gosto. → SAL PIMENTA A-GOSTO.",
         "Coloque açúcar a gosto. → AÇÚCAR A-GOSTO COLOCAR."
       ],
-      "video": "https://www.youtube.com/embed/t7fb4-J7Isg?start=154&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/t7fb4-J7Isg?start=154&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=t7fb4-J7Isg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:57:44.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

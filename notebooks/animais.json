@@ -25,22 +25,30 @@
       "situation": "No zoológico, você aponta para o leão e comenta sua força.",
       "translation": "Leão",
       "librasStructure": "LEÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O leão é forte! → LEÃO FORTE!",
         "O leão está dormindo. → LEÃO DORMIR."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=16.4&end=19.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=16.4&end=19.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -51,22 +59,30 @@
       "situation": "Na área dos animais grandes, você mostra o rinoceronte, que tem um chifre no nariz.",
       "translation": "Rinoceronte",
       "librasStructure": "RINOCERONTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O rinoceronte tem chifre no nariz. → RINOCERONTE CHIFRE NARIZ.",
         "O rinoceronte é pesado. → RINOCERONTE PESADO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=19.9&end=22.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=19.9&end=22.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -77,22 +93,30 @@
       "situation": "Numa visita noturna, você vê uma coruja acordada e comenta os olhos grandes dela.",
       "translation": "Coruja",
       "librasStructure": "CORUJA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A coruja tem olhos grandes. → CORUJA OLHO GRANDE.",
         "A coruja dorme de dia. → CORUJA DORMIR DIA."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=25.4&end=30.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=25.4&end=30.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -103,22 +127,30 @@
       "situation": "Uma criança vê uma tartaruga andando devagar e pergunta o nome dela.",
       "translation": "Tartaruga",
       "librasStructure": "TARTARUGA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A tartaruga anda devagar. → TARTARUGA ANDAR DEVAGAR.",
         "Minha tartaruga tem vinte anos. → TARTARUGA MINHA IDADE 20."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=31.2&end=34.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=31.2&end=34.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -129,22 +161,30 @@
       "situation": "Na rua, você vê um cachorro com sua dona e comenta que ele parece amigável.",
       "translation": "Cachorro",
       "librasStructure": "CACHORRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Seu cachorro morde? → CACHORRO SEU MORDER?",
         "Meu cachorro é marrom. → CACHORRO MEU MARROM.",
         "Tenho dois cachorros em casa. → CASA EU TER CACHORRO 2."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=35.2&end=37.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=35.2&end=37.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -155,22 +195,30 @@
       "situation": "Ao falar de animais noturnos, você lembra do morcego, que voa mas não é ave.",
       "translation": "Morcego",
       "librasStructure": "MORCEGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O morcego voa à noite. → MORCEGO VOAR NOITE.",
         "Tem morcego no telhado! → TELHADO MORCEGO TER!"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=39.4&end=43.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=39.4&end=43.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -181,22 +229,30 @@
       "situation": "Na casa de uma amiga, o papagaio repete sons e você pergunta sobre ele.",
       "translation": "Papagaio",
       "librasStructure": "PAPAGAIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O papagaio fala! → PAPAGAIO FALAR!",
         "O papagaio é verde. → PAPAGAIO VERDE."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=44.1&end=46.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=44.1&end=46.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -207,21 +263,29 @@
       "situation": "Uma foto mostra um gato dormindo no sofá, e você comenta a cena.",
       "translation": "Gato",
       "librasStructure": "GATO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O gato está dormindo no sofá. → GATO DORMIR SOFÁ.",
         "Você gosta de gato ou de cachorro? → VOCÊ GOSTAR GATO OU CACHORRO?"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=46.8&end=49.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=46.8&end=49.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -232,21 +296,29 @@
       "situation": "No zoológico, você aponta para o elefante e sua tromba comprida.",
       "translation": "Elefante",
       "librasStructure": "ELEFANTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O elefante é muito grande. → ELEFANTE GRANDE MUITO.",
         "O elefante bebe água com a tromba. → ELEFANTE BEBER ÁGUA TROMBA."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=61&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=61&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -257,21 +329,29 @@
       "situation": "Na fazenda, você vê uma vaca no pasto e pergunta se ela dá leite.",
       "translation": "Vaca",
       "librasStructure": "VACA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A vaca dá leite. → VACA DAR LEITE.",
         "Tem muitas vacas na fazenda do meu avô. → FAZENDA AVÔ MEU VACA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=68&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=68&end=72&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -282,22 +362,30 @@
       "situation": "Na fazenda, você vê o porco no chiqueiro e comenta que ele está sujo.",
       "translation": "Porco",
       "librasStructure": "PORCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O porco está sujo de lama. → PORCO SUJO LAMA.",
         "Meu avô cria porcos. → AVÔ MEU CRIAR PORCO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=78.2&end=81.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=78.2&end=81.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -308,21 +396,29 @@
       "situation": "Durante uma trilha, você vê uma cobra e avisa a pessoa que está com você.",
       "translation": "Cobra",
       "librasStructure": "COBRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cuidado, uma cobra! → CUIDADO, COBRA!",
         "Essa cobra é venenosa? → COBRA ESSA VENENO?"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=89.9&end=92.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=89.9&end=92.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -333,22 +429,30 @@
       "situation": "Depois da chuva, você vê um sapo perto da água.",
       "translation": "Sapo",
       "librasStructure": "SAPO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem um sapo no quintal. → QUINTAL SAPO TER.",
         "Tenho medo de sapo! → EU MEDO SAPO!"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=93.7&end=98.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=93.7&end=98.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -359,21 +463,29 @@
       "situation": "Na área dos animais africanos, você reconhece a zebra pelas listras.",
       "translation": "Zebra",
       "librasStructure": "ZEBRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A zebra é preta e branca. → ZEBRA PRETO BRANCO.",
         "A zebra parece um cavalo listrado. → ZEBRA PARECER CAVALO LISTRADO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=99&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=99&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -384,21 +496,29 @@
       "situation": "Na fazenda, você vê uma galinha perto do galinheiro e pergunta se ela botou ovos.",
       "translation": "Galinha",
       "librasStructure": "GALINHA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A galinha botou um ovo. → GALINHA BOTAR OVO.",
         "Minha avó cria galinha. → AVÓ MINHA CRIAR GALINHA."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=113&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=113&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -409,22 +529,30 @@
       "situation": "No parque, você vê a imagem da onça-pintada, animal brasileiro com manchas.",
       "translation": "Onça-pintada",
       "librasStructure": "ONÇA-PINTADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A onça-pintada vive no Pantanal. → ONÇA-PINTADA MORAR PANTANAL.",
         "A onça-pintada está em perigo. → ONÇA-PINTADA PERIGO EXTINÇÃO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=120.4&end=123.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=120.4&end=123.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -435,22 +563,30 @@
       "situation": "Você compara dois felinos e reconhece o tigre pelas listras.",
       "translation": "Tigre",
       "librasStructure": "TIGRE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O tigre tem listras. → TIGRE LISTRADO.",
         "O tigre é maior que a onça? → TIGRE MAIOR-QUE ONÇA?"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=125&end=128.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=125&end=128.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -461,22 +597,30 @@
       "situation": "Na cozinha, você vê um rato e avisa que é preciso limpar tudo.",
       "translation": "Rato",
       "librasStructure": "RATO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem um rato na cozinha! → COZINHA RATO TER!",
         "O gato pegou o rato. → GATO PEGAR RATO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=130.1&end=132.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=130.1&end=132.3&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -487,22 +631,30 @@
       "situation": "Numa imagem da fauna brasileira, você aponta para a arara, grande e colorida.",
       "translation": "Arara",
       "librasStructure": "ARARA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A arara é colorida. → ARARA COLORIDA.",
         "Vi uma arara azul no Pantanal. → PANTANAL EU VER ARARA AZUL."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=133.1&end=137.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=133.1&end=137.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -513,22 +665,30 @@
       "situation": "No documentário, o tamanduá procura formigas com o focinho comprido.",
       "translation": "Tamanduá",
       "librasStructure": "TAMANDUÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O tamanduá come formiga. → TAMANDUÁ COMER FORMIGA.",
         "O tamanduá vive no cerrado. → TAMANDUÁ MORAR CERRADO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=143&end=145.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=143&end=145.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -539,22 +699,30 @@
       "situation": "No parque, você vê um pato nadando no lago com os filhotes.",
       "translation": "Pato",
       "librasStructure": "PATO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pato está nadando no lago. → PATO NADAR LAGO.",
         "Vamos dar pão aos patos? → PATO NÓS DAR PÃO?"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=147.4&end=149.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=147.4&end=149.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -565,22 +733,30 @@
       "situation": "Numa conversa sobre desertos, você lembra do camelo, que anda longas distâncias.",
       "translation": "Camelo",
       "librasStructure": "CAMELO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O camelo vive no deserto. → CAMELO MORAR DESERTO.",
         "O camelo fica muitos dias sem beber água. → CAMELO ÁGUA BEBER NÃO DIA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=151.7&end=155.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=151.7&end=155.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -591,22 +767,30 @@
       "situation": "Na trilha, vocês veem um buraco e conversam sobre o tatu, que cava a terra.",
       "translation": "Tatu",
       "librasStructure": "TATU",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O tatu cava buracos. → TATU CAVAR BURACO.",
         "Olha, um tatu! → OLHAR, TATU!"
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=157.5&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=157.5&end=160&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -617,22 +801,30 @@
       "situation": "Perto do rio, você vê um jacaré na margem e mantém distância.",
       "translation": "Jacaré",
       "librasStructure": "JACARÉ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cuidado, tem jacaré no rio! → CUIDADO, RIO JACARÉ TER!",
         "O jacaré tem dentes grandes. → JACARÉ DENTE GRANDE."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=161.5&end=163.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=161.5&end=163.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -643,22 +835,30 @@
       "situation": "No documentário, você observa um gorila, primata forte que vive em grupo.",
       "translation": "Gorila",
       "librasStructure": "GORILA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O gorila é muito forte. → GORILA FORTE MUITO.",
         "O gorila come frutas e folhas. → GORILA COMER FRUTA FOLHA."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=164.8&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=164.8&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -669,22 +869,30 @@
       "situation": "No aquário, você vê o pinguim, ave que nada e vive no frio.",
       "translation": "Pinguim",
       "librasStructure": "PINGUIM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pinguim não voa, nada. → PINGUIM VOAR NÃO, NADAR.",
         "O pinguim vive no gelo. → PINGUIM MORAR GELO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=169.5&end=172.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=169.5&end=172.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -695,21 +903,29 @@
       "situation": "Numa imagem da fazenda, você reconhece o búfalo, parecido com o boi.",
       "translation": "Búfalo",
       "librasStructure": "BÚFALO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O búfalo é parecido com o boi. → BÚFALO PARECER BOI.",
         "No Marajó, a polícia anda de búfalo. → MARAJÓ POLÍCIA ANDAR BÚFALO."
       ],
-      "video": "https://www.youtube.com/embed/BLmzqWOGCMI?start=174&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BLmzqWOGCMI?start=174&end=179&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BLmzqWOGCMI",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:09:59.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

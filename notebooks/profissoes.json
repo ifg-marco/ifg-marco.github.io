@@ -25,20 +25,28 @@
       "situation": "Na apresentação da turma, você conta que trabalha como administrador e explica uma tarefa da rotina.",
       "translation": "Administrador",
       "librasStructure": "ADMINISTRADOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu trabalho como administrador. → EU TRABALHAR ADMINISTRADOR.",
         "O administrador organiza a empresa. → ADMINISTRADOR ORGANIZAR EMPRESA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=20&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=20&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -49,20 +57,28 @@
       "situation": "Ao falar sobre serviços públicos, você identifica a Polícia Militar e explica sua função de segurança.",
       "translation": "Polícia Militar",
       "librasStructure": "POLÍCIA-MILITAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Polícia Militar cuida da segurança na rua. → POLÍCIA-MILITAR CUIDAR SEGURANÇA RUA.",
         "Chama a Polícia Militar! → POLÍCIA-MILITAR CHAMAR!"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -73,20 +89,28 @@
       "situation": "Na conversa sobre policiamento, você diferencia a Polícia Rotam de outros serviços e descreve sua atuação.",
       "translation": "Polícia Rotam",
       "librasStructure": "POLÍCIA-ROTAM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Polícia Rotam passou na avenida. → POLÍCIA-ROTAM PASSAR A-V-E-N-I-D-A.",
         "A Rotam é da Polícia Militar de Goiás? → POLÍCIA-ROTAM POLÍCIA-MILITAR GOIÁS?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -97,20 +121,28 @@
       "situation": "Na escola, você apresenta a intérprete de Libras e explica como ela facilita a comunicação entre as pessoas.",
       "translation": "Intérprete de Libras",
       "librasStructure": "INTÉRPRETE-DE-LIBRAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A escola contratou uma intérprete de Libras. → ESCOLA CONTRATAR INTÉRPRETE-DE-LIBRAS.",
         "Quero ser intérprete de Libras. → EU QUERER INTÉRPRETE-DE-LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -121,20 +153,28 @@
       "situation": "Ao falar sobre direitos, você procura um advogado para entender um contrato antes de assinar.",
       "translation": "Advogado",
       "librasStructure": "ADVOGADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Preciso de um advogado. → EU PRECISAR ADVOGADO.",
         "Minha tia é advogada. → TIA MINHA ADVOGADA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -145,20 +185,28 @@
       "situation": "Na notícia, você identifica a Polícia Federal e conversa sobre uma investigação de competência federal.",
       "translation": "Polícia Federal",
       "librasStructure": "POLÍCIA-FEDERAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Polícia Federal emite o passaporte. → POLÍCIA-FEDERAL PASSAPORTE FAZER.",
         "A Polícia Federal investiga crimes federais. → POLÍCIA-FEDERAL INVESTIGAR CRIME FEDERAL."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -169,20 +217,28 @@
       "situation": "Ao estudar um processo, você explica que o juiz analisa os argumentos antes de tomar uma decisão.",
       "translation": "Juiz",
       "librasStructure": "JUIZ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O juiz decidiu o caso. → JUIZ DECIDIR CASO.",
         "O juiz pediu um intérprete de Libras. → JUIZ PEDIR INTÉRPRETE-DE-LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -193,20 +249,28 @@
       "situation": "Na delegacia, você identifica a Polícia Civil e explica que ela investiga ocorrências.",
       "translation": "Polícia Civil",
       "librasStructure": "POLÍCIA-CIVIL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A Polícia Civil investiga o roubo. → POLÍCIA-CIVIL INVESTIGAR ROUBO.",
         "Fiz o boletim na Polícia Civil. → BOLETIM EU FAZER POLÍCIA-CIVIL."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=46&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -217,20 +281,28 @@
       "situation": "Na visita à obra, você apresenta o engenheiro responsável e pergunta como o projeto será executado.",
       "translation": "Engenheiro",
       "librasStructure": "ENGENHEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O engenheiro aprovou o projeto da casa. → ENGENHEIRO APROVAR PROJETO CASA.",
         "Meu filho quer ser engenheiro. → FILHO MEU QUERER ENGENHEIRO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=50&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=50&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -241,21 +313,29 @@
       "situation": "Na consulta, você conversa com o médico sobre os sintomas e confirma as orientações do tratamento.",
       "translation": "Médico",
       "librasStructure": "MÉDICO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Preciso ir ao médico. → EU PRECISAR IR MÉDICO.",
         "O médico sabe Libras? → MÉDICO SABER LIBRAS?",
         "A médica me deu atestado. → MÉDICA DAR-ME ATESTADO-MÉDICO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=55&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=55&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -266,20 +346,28 @@
       "situation": "Na empresa, você apresenta a gerente da equipe e explica como ela organiza o trabalho.",
       "translation": "Gerente",
       "librasStructure": "GERENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou falar com a gerente da loja. → GERENTE LOJA EU FALAR.",
         "O gerente do banco me ajudou. → GERENTE BANCO AJUDAR-ME."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=61&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=61&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -290,20 +378,28 @@
       "situation": "Na entrevista, você apresenta a jornalista e pergunta como ela apura as informações da notícia.",
       "translation": "Jornalista",
       "librasStructure": "JORNALISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A jornalista entrevistou o prefeito. → JORNALISTA ENTREVISTAR PREFEITO.",
         "Ele é jornalista surdo. → ELE JORNALISTA SURDO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=67&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -314,20 +410,28 @@
       "situation": "Na consulta, você conversa com a nutricionista sobre uma alimentação que combine com sua rotina.",
       "translation": "Nutricionista",
       "librasStructure": "NUTRICIONISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A nutricionista mandou comer mais verdura. → NUTRICIONISTA MANDAR COMER VERDURA MAIS.",
         "Fui à nutricionista para emagrecer. → EU IR NUTRICIONISTA EMAGRECER."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=71&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=71&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -338,20 +442,28 @@
       "situation": "Ao reformar a sala, você chama um pintor e escolhe com ele a cor das paredes.",
       "translation": "Pintor",
       "librasStructure": "PINTOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pintor vai pintar a sala de branco. → PINTOR PINTAR(parede) SALA BRANCO.",
         "Você conhece um pintor bom? → VOCÊ CONHECER PINTOR BOM?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -362,20 +474,28 @@
       "situation": "Na loja, você conversa com o vendedor e pede ajuda para comparar dois produtos.",
       "translation": "Vendedor",
       "librasStructure": "VENDEDOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O vendedor me deu desconto. → VENDEDOR DAR-ME DESCONTO.",
         "Trabalho como vendedor numa loja de roupas. → EU TRABALHAR VENDEDOR LOJA ROUPA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=77&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=77&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -386,20 +506,28 @@
       "situation": "Ao planejar a reforma, você apresenta o arquiteto e observa a proposta para o novo espaço.",
       "translation": "Arquiteto",
       "librasStructure": "ARQUITETO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O arquiteto desenhou a casa nova. → ARQUITETO DESENHAR CASA NOVA.",
         "Arquiteto é caro? → ARQUITETO CARO?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=81&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -410,20 +538,28 @@
       "situation": "Na escola, você conversa com o pedagogo sobre uma estratégia para apoiar o aprendizado da turma.",
       "translation": "Pedagogo",
       "librasStructure": "PEDAGOGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A pedagoga conversou com meus pais. → PEDAGOGA CONVERSAR PAIS MEUS.",
         "Estudo para ser pedagogo bilíngue. → EU ESTUDAR PEDAGOGO BILÍNGUE."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=85&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=85&end=87&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -434,20 +570,28 @@
       "situation": "Na organização da empresa, você entrega os documentos ao contador e pergunta sobre o prazo da declaração.",
       "translation": "Contador",
       "librasStructure": "CONTADOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O contador faz meu Imposto de Renda. → CONTADOR FAZER IMPOSTO-DE-RENDA MEU.",
         "Entreguei os documentos ao contador. → DOCUMENTOS EU ENTREGAR CONTADOR."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=87&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=87&end=90&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -458,20 +602,28 @@
       "situation": "Na apresentação, você conta que é estudante e explica qual curso está fazendo.",
       "translation": "Estudante",
       "librasStructure": "ESTUDANTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Sou estudante de Letras-Libras. → EU ESTUDANTE LETRAS-LIBRAS.",
         "Estudante paga meia no cinema. → ESTUDANTE PAGAR METADE CINEMA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=90&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=90&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -482,20 +634,28 @@
       "situation": "No hospital, você apresenta o médico cirurgião que acompanhará a equipe durante o procedimento.",
       "translation": "Médico cirurgião",
       "librasStructure": "MÉDICO-CIRURGIÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O médico cirurgião vai operar meu pai. → MÉDICO-CIRURGIÃO OPERAR PAI MEU.",
         "Ele estudou muitos anos para ser médico cirurgião. → ELE ESTUDAR ANO MUITO MÉDICO-CIRURGIÃO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -506,20 +666,28 @@
       "situation": "No posto de saúde, você apresenta o enfermeiro que orientou os cuidados depois do atendimento.",
       "translation": "Enfermeiro",
       "librasStructure": "ENFERMEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O enfermeiro me deu a vacina. → ENFERMEIRO DAR-ME VACINA.",
         "Minha irmã é enfermeira no hospital. → IRMÃ MINHA ENFERMEIRA HOSPITAL."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=97&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=97&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -530,20 +698,28 @@
       "situation": "Na visita à escola, você conhece um bombeiro e pergunta como ele orienta a prevenção de acidentes.",
       "translation": "Bombeiro",
       "librasStructure": "BOMBEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Os bombeiros apagaram o fogo. → BOMBEIRO APAGAR FOGO.",
         "Em emergência, ligue para os bombeiros. → EMERGÊNCIA, BOMBEIRO LIGAR."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=107&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=107&end=110&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -554,20 +730,28 @@
       "situation": "No trabalho, você apresenta seu chefe e explica como a equipe organiza as tarefas do dia.",
       "translation": "Chefe",
       "librasStructure": "CHEFE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu chefe é surdo. → CHEFE MEU SURDO.",
         "O chefe me deu folga amanhã. → CHEFE DAR-ME FOLGA AMANHÃ."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=110&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=110&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -578,20 +762,28 @@
       "situation": "Depois de uma lesão, você conversa com a fisioterapeuta sobre os exercícios recomendados.",
       "translation": "Fisioterapeuta",
       "librasStructure": "FISIOTERAPEUTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A fisioterapeuta me passou exercícios. → FISIOTERAPEUTA PASSAR-ME EXERCÍCIO.",
         "Vou à fisioterapeuta duas vezes por semana. → EU IR FISIOTERAPEUTA SEMANA 2 VEZES."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -602,20 +794,28 @@
       "situation": "No trajeto para a escola, você agradece ao motorista e confirma onde deve descer.",
       "translation": "Motorista",
       "librasStructure": "MOTORISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Obrigado, motorista! → OBRIGADO MOTORISTA!",
         "Meu pai é motorista de ônibus. → PAI MEU MOTORISTA ÔNIBUS."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=117&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=117&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -626,20 +826,28 @@
       "situation": "No aeroporto, você explica que o piloto conduzirá o avião e confere o horário do voo.",
       "translation": "Piloto",
       "librasStructure": "PILOTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O piloto avisou que vamos pousar. → PILOTO AVISAR AVIÃO POUSAR.",
         "Surdo pode ser piloto? → SURDO PILOTO PODER?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=120&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -650,20 +858,28 @@
       "situation": "Na cobertura do evento, você observa a repórter entrevistando pessoas e registrando a notícia.",
       "translation": "Repórter",
       "librasStructure": "REPÓRTER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A repórter está entrevistando o público. → REPÓRTER ENTREVISTAR PÚBLICO.",
         "Vi você na TV com o repórter! → TELEVISÃO EU VER VOCÊ REPÓRTER JUNTO!"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=124&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=124&end=126&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -674,20 +890,28 @@
       "situation": "Antes da consulta, você explica que vai ao dentista para fazer uma avaliação dos dentes.",
       "translation": "Dentista",
       "librasStructure": "DENTISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho dentista amanhã. → AMANHÃ EU DENTISTA.",
         "O dentista tirou meu dente. → DENTISTA TIRAR DENTE MEU."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=126&end=130&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -698,20 +922,28 @@
       "situation": "Ao falar de saúde mental, você explica que o psicólogo pode oferecer escuta e acompanhamento profissional.",
       "translation": "Psicólogo",
       "librasStructure": "PSICÓLOGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faço terapia com uma psicóloga. → EU TERAPIA PSICÓLOGA.",
         "Existe psicólogo que sabe Libras? → PSICÓLOGO SABER LIBRAS EXISTIR?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=131&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=131&end=134&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -722,20 +954,28 @@
       "situation": "Na reforma da casa, você conversa com o pedreiro sobre a parede que precisa ser reparada.",
       "translation": "Pedreiro",
       "librasStructure": "PEDREIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pedreiro vai consertar a parede. → PEDREIRO CONSERTAR PAREDE.",
         "Meu avô foi pedreiro a vida toda. → AVÔ MEU PEDREIRO VIDA TODA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -746,20 +986,28 @@
       "situation": "Na festa, você apresenta o fotógrafo e observa como ele escolhe o melhor momento para registrar a família.",
       "translation": "Fotógrafo",
       "librasStructure": "FOTÓGRAFO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O fotógrafo tirou fotos lindas do casamento. → CASAMENTO FOTÓGRAFO FOTO LINDA TIRAR.",
         "Contratamos um fotógrafo para a formatura. → FORMATURA NÓS CONTRATAR FOTÓGRAFO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=138&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=138&end=141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -770,20 +1018,28 @@
       "situation": "No restaurante, você conversa com o cozinheiro e pergunta qual prato será preparado naquele dia.",
       "translation": "Cozinheiro",
       "librasStructure": "COZINHEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O cozinheiro fez feijoada hoje. → HOJE COZINHEIRO FAZER FEIJOADA.",
         "Meu pai é um ótimo cozinheiro. → PAI MEU COZINHEIRO ÓTIMO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=141&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=141&end=143&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -794,21 +1050,29 @@
       "situation": "Depois da peça de teatro, você conversa com a atriz (ou o ator) sobre a personagem.",
       "translation": "Ator / atriz",
       "librasStructure": "ATOR/ATRIZ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A atriz é surda. → ATRIZ SURDA.",
         "Esse ator trabalha na novela. → ATOR ESSE TRABALHAR NOVELA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=144&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=144&end=146&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -819,20 +1083,28 @@
       "situation": "No salão, você explica ao cabeleireiro o corte que deseja e combina o horário do atendimento.",
       "translation": "Cabeleireiro / cabeleireira",
       "librasStructure": "CABELEIREIRO/CABELEIREIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha cabeleireira cortou meu cabelo curto. → CABELEIREIRA MINHA CORTAR(cabelo) CURTO.",
         "O cabeleireiro abre no sábado? → CABELEIREIRO SÁBADO ABRIR?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=147&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=147&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -843,20 +1115,28 @@
       "situation": "No parque, você conversa com o jardineiro sobre as plantas que precisam de água e cuidado.",
       "translation": "Jardineiro",
       "librasStructure": "JARDINEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O jardineiro cuida das flores. → JARDINEIRO CUIDAR FLOR.",
         "O jardineiro vem toda segunda-feira. → JARDINEIRO VIR SEGUNDA-FEIRA TODA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=156&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=156&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -867,20 +1147,28 @@
       "situation": "Na recepção, você chama a atendente e explica qual serviço precisa solicitar.",
       "translation": "Atendente",
       "librasStructure": "ATENDENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A atendente me deu uma senha. → ATENDENTE DAR-ME SENHA.",
         "Chama a atendente, por favor. → ATENDENTE CHAMAR, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=160&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=160&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -891,20 +1179,28 @@
       "situation": "No condomínio, você conversa com o zelador sobre um problema na área comum do prédio.",
       "translation": "Zelador",
       "librasStructure": "ZELADOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O zelador consertou o portão. → ZELADOR CONSERTAR PORTÃO.",
         "Deixa a chave com o zelador. → CHAVE DEIXAR ZELADOR."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=164&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=164&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -915,20 +1211,28 @@
       "situation": "No restaurante, você chama o garçom e faz o pedido para toda a mesa.",
       "translation": "Garçom",
       "librasStructure": "GARÇOM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Garçom, a conta, por favor! → GARÇOM, CONTA POR-FAVOR!",
         "O garçom trouxe o cardápio. → GARÇOM TRAZER CARDÁPIO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=168&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=168&end=171&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -939,20 +1243,28 @@
       "situation": "Na oficina, você explica ao mecânico o barulho do carro e pergunta quando ficará pronto.",
       "translation": "Mecânico",
       "librasStructure": "MECÂNICO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O mecânico consertou o carro. → MECÂNICO CONSERTAR CARRO.",
         "Meu carro está no mecânico. → CARRO MEU MECÂNICO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=171&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=171&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -963,20 +1275,28 @@
       "situation": "Na escola, você apresenta o fonoaudiólogo e explica como ele acompanha comunicação e voz.",
       "translation": "Fonoaudiólogo",
       "librasStructure": "FONOAUDIÓLOGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A fonoaudióloga trabalha com a criança surda. → FONOAUDIÓLOGA TRABALHAR CRIANÇA SURDA.",
         "Você vai ao fonoaudiólogo? → VOCÊ IR FONOAUDIÓLOGO?"
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=175&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=175&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -987,20 +1307,28 @@
       "situation": "Ao levar o animal à clínica, você conversa com o médico veterinário sobre os cuidados necessários.",
       "translation": "Médico veterinário",
       "librasStructure": "MÉDICO-VETERINÁRIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Levei meu cachorro ao médico veterinário. → CACHORRO MEU LEVAR MÉDICO-VETERINÁRIO.",
         "Ela é médica veterinária de cavalos. → ELA MÉDICA-VETERINÁRIA CAVALO."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=178&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=178&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1011,20 +1339,28 @@
       "situation": "Em casa, você chama o eletricista para verificar uma tomada que parou de funcionar.",
       "translation": "Eletricista",
       "librasStructure": "ELETRICISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Chama o eletricista, a luz acabou. → L-U-Z ACABAR, ELETRICISTA CHAMAR.",
         "O eletricista trocou a tomada. → ELETRICISTA TROCAR TOMADA."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=181&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=181&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1035,20 +1371,28 @@
       "situation": "Ao organizar a rotina da família, você apresenta a babá e combina o horário de cuidado da criança.",
       "translation": "Babá",
       "librasStructure": "BABÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A babá cuida do bebê à tarde. → BABÁ CUIDAR BEBÊ TARDE.",
         "Nossa babá sabe Libras. → BABÁ NOSSA SABER LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/wRYl2GPwmQM?start=185&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wRYl2GPwmQM?start=185&end=188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wRYl2GPwmQM",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:10:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

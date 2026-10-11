@@ -31,21 +31,29 @@
       "situation": "No caixa da padaria, o troco vem com uma moeda de R$ 0,05 (cinco centavos). Confirme o valor com o atendente.",
       "translation": "R$ 0,05 (cinco centavos)",
       "librasStructure": "R$-0,05",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O troco é cinco centavos. → TROCO R$-0,05.",
         "Você tem cinco centavos? → VOCÊ TER R$-0,05?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=18&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=18&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -56,21 +64,29 @@
       "situation": "Na cantina da escola, você pergunta o preço do pão de queijo e o atendente responde: R$ 1,00.",
       "translation": "R$ 1,00",
       "librasStructure": "R$-1,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pão custa um real. → PÃO PREÇO R$-1,00.",
         "Você me empresta um real? → VOCÊ EMPRESTAR-ME R$-1,00?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=26&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -81,21 +97,29 @@
       "situation": "Na feira, você pergunta o preço do pacote de pão e a vendedora diz que custa R$ 5,00.",
       "translation": "R$ 5,00",
       "librasStructure": "R$-5,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quanto custa? — Cinco reais. → PREÇO QUANTO? — R$-5,00.",
         "Tenho só cinco reais. → EU TER R$-5,00 SÓ."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -106,21 +130,29 @@
       "situation": "Seu primo pede dinheiro emprestado para o ônibus da semana. Você empresta R$ 50,00.",
       "translation": "R$ 50,00",
       "librasStructure": "R$-50,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Te empresto cinquenta reais. → EU EMPRESTAR-VOCÊ R$-50,00.",
         "O presente custou cinquenta reais. → PRESENTE PREÇO R$-50,00."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -131,21 +163,29 @@
       "situation": "Você conta para a família que o seu novo salário será de R$ 3.000,00.",
       "translation": "R$ 3.000,00",
       "librasStructure": "R$-3.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu salário é três mil reais. → SALÁRIO MEU R$-3.000,00.",
         "O computador custa três mil reais? → COMPUTADOR PREÇO R$-3.000,00?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=43&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -156,21 +196,29 @@
       "situation": "No caixa do mercado, falta R$ 0,10 (dez centavos) para completar o valor. Pergunte se alguém tem.",
       "translation": "R$ 0,10 (dez centavos)",
       "librasStructure": "R$-0,10",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faltam dez centavos. → FALTAR R$-0,10.",
         "Você tem dez centavos? → VOCÊ TER R$-0,10?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=47&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -181,21 +229,29 @@
       "situation": "Na banca de frutas, o vendedor diz que a banana custa R$ 2,00 o quilo.",
       "translation": "R$ 2,00",
       "librasStructure": "R$-2,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A banana custa dois reais. → BANANA PREÇO R$-2,00.",
         "Dois reais está barato! → R$-2,00 BARATO!"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=50&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -206,21 +262,29 @@
       "situation": "Na lanchonete, você paga o lanche de R$ 10,00 com uma nota e confere o valor.",
       "translation": "R$ 10,00",
       "librasStructure": "R$-10,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O lanche custa dez reais. → LANCHE PREÇO R$-10,00.",
         "Toma, aqui estão dez reais. → R$-10,00 AQUI, PEGAR."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -231,21 +295,29 @@
       "situation": "No caixa do mercado, a compra da semana deu R$ 100,00. Pergunte se pode pagar com uma nota de cem.",
       "translation": "R$ 100,00",
       "librasStructure": "R$-100,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A compra deu cem reais. → COMPRA TOTAL R$-100,00.",
         "Você tem troco para cem reais? → VOCÊ TER TROCO R$-100,00?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=63&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=63&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -256,21 +328,29 @@
       "situation": "Organizando o orçamento de casa, você conta que o aluguel e as contas somam R$ 4.000,00 por mês.",
       "translation": "R$ 4.000,00",
       "librasStructure": "R$-4.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "As contas da casa dão quatro mil reais. → CONTA CASA R$-4.000,00.",
         "Ele ganha quatro mil reais por mês. → ELE GANHAR R$-4.000,00 MÊS."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=67&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=67&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -281,21 +361,29 @@
       "situation": "No caixa, o troco é R$ 0,25 (vinte e cinco centavos), e o atendente entrega uma moeda.",
       "translation": "R$ 0,25 (vinte e cinco centavos)",
       "librasStructure": "R$-0,25",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Seu troco é vinte e cinco centavos. → TROCO SEU R$-0,25.",
         "Não tenho moeda de vinte e cinco centavos. → MOEDA R$-0,25 EU NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=74&end=78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -306,21 +394,29 @@
       "situation": "Na padaria, você pergunta o preço do café e a atendente responde: R$ 1,50.",
       "translation": "R$ 1,50",
       "librasStructure": "R$-1,50",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O café custa um real e cinquenta. → CAFÉ PREÇO R$-1,50.",
         "Um e cinquenta? Barato! → R$-1,50? BARATO!"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -331,21 +427,29 @@
       "situation": "Na lanchonete, o sanduíche com suco custa R$ 12,50. Confirme o valor antes de pagar.",
       "translation": "R$ 12,50",
       "librasStructure": "R$-12,50",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "São doze e cinquenta. → TOTAL R$-12,50.",
         "O sanduíche custa doze e cinquenta? → SANDUÍCHE PREÇO R$-12,50?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=88&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=88&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -356,21 +460,29 @@
       "situation": "Organizando o orçamento, você conta que guardou R$ 1.000,00 para as férias.",
       "translation": "R$ 1.000,00",
       "librasStructure": "R$-1.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Guardei mil reais para as férias. → EU GUARDAR R$-1.000,00 FÉRIAS.",
         "O aluguel é mil reais. → ALUGUEL R$-1.000,00."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=92&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=92&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -381,21 +493,29 @@
       "situation": "Você está pensando em comprar uma moto e conta que ela custa R$ 5.000,00.",
       "translation": "R$ 5.000,00",
       "librasStructure": "R$-5.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A moto custa cinco mil reais. → MOTO PREÇO R$-5.000,00.",
         "Cinco mil reais é caro demais! → R$-5.000,00 CARO DEMAIS!"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=95&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=95&end=99&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -406,21 +526,29 @@
       "situation": "Seu sobrinho quer comprar uma bala que custa R$ 0,50 (cinquenta centavos). Ajude-o a contar as moedas.",
       "translation": "R$ 0,50 (cinquenta centavos)",
       "librasStructure": "R$-0,50",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A bala custa cinquenta centavos. → BALA PREÇO R$-0,50.",
         "Você tem cinquenta centavos? → VOCÊ TER R$-0,50?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=99&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=99&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -431,21 +559,29 @@
       "situation": "Na feira, o vendedor diz que o pastel custa R$ 2,50.",
       "translation": "R$ 2,50",
       "librasStructure": "R$-2,50",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O pastel custa dois e cinquenta. → PASTEL PREÇO R$-2,50.",
         "Dois pastéis dão cinco reais? — Sim, dois e cinquenta cada. → PASTEL 2 R$-5,00? — SIM, CADA R$-2,50."
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=109&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=109&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -456,21 +592,29 @@
       "situation": "Você divide a conta da pizza com os amigos e cada um paga R$ 20,00.",
       "translation": "R$ 20,00",
       "librasStructure": "R$-20,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Cada um paga vinte reais. → CADA-UM PAGAR R$-20,00.",
         "Você me empresta vinte reais? → VOCÊ EMPRESTAR-ME R$-20,00?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=113&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=113&end=116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -481,21 +625,29 @@
       "situation": "Na loja, você pergunta o preço da geladeira e o vendedor responde: R$ 2.000,00.",
       "translation": "R$ 2.000,00",
       "librasStructure": "R$-2.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A geladeira custa dois mil reais. → GELADEIRA PREÇO R$-2.000,00.",
         "Dois mil reais à vista? → R$-2.000,00 PAGAR-À-VISTA?"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -506,21 +658,29 @@
       "situation": "Você conta que um apartamento pequeno na cidade custa R$ 100.000,00.",
       "translation": "R$ 100.000,00",
       "librasStructure": "R$-100.000,00",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O apartamento custa cem mil reais. → APARTAMENTO PREÇO R$-100.000,00.",
         "Ele ganhou cem mil reais na loteria! → ELE GANHAR LOTERIA R$-100.000,00!"
       ],
-      "video": "https://www.youtube.com/embed/erLNgIRUd8M?start=119&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/erLNgIRUd8M?start=119&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=erLNgIRUd8M",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -531,21 +691,29 @@
       "situation": "Uma turista estrangeira pergunta qual é a moeda do Brasil. Explique que pagamos em reais.",
       "translation": "Reais",
       "librasStructure": "REAIS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "No Brasil pagamos em reais. → BRASIL PAGAR REAIS.",
         "Quantos reais custa? → PREÇO QUANTOS REAIS?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -556,21 +724,29 @@
       "situation": "No caixa, o valor é R$ 9,90 e o atendente pergunta se você tem os centavos para facilitar o troco.",
       "translation": "Centavos",
       "librasStructure": "CENTAVOS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Você tem os centavos? → VOCÊ TER CENTAVOS?",
         "Custa nove reais e noventa centavos. → PREÇO 9 REAIS 90 CENTAVOS."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -581,21 +757,29 @@
       "situation": "Na loja, você vê o preço de um tênis e acha muito caro.",
       "translation": "Caro",
       "librasStructure": "CARO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse tênis é muito caro! → TÊNIS ESSE CARO MUITO!",
         "Aqui é mais caro que na feira. → AQUI CARO MAIS FEIRA."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=29&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=29&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -606,21 +790,29 @@
       "situation": "Na feira, você encontra frutas baratas e comenta com sua mãe.",
       "translation": "Barato",
       "librasStructure": "BARATO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A banana está barata hoje. → HOJE BANANA BARATA.",
         "Esse restaurante é barato e bom. → RESTAURANTE ESSE BARATO, BOM."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=36&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=36&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -631,21 +823,29 @@
       "situation": "Na loja, o vendedor oferece desconto se você pagar à vista.",
       "translation": "Pagar à vista",
       "librasStructure": "PAGAR-À-VISTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pagar à vista. → EU PAGAR-À-VISTA.",
         "Se pagar à vista, tem desconto? → PAGAR-À-VISTA, TER DESCONTO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -656,21 +856,29 @@
       "situation": "Você quer comprar uma geladeira cara e pergunta se pode pagar parcelado, em prestações.",
       "translation": "Pagar parcelado (prestação)",
       "librasStructure": "PAGAR-PARCELADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Posso pagar parcelado? → EU PAGAR-PARCELADO PODER?",
         "Vou pagar parcelado em dez vezes. → EU PAGAR-PARCELADO 10 VEZES."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -681,21 +889,29 @@
       "situation": "No caixa do mercado, o atendente pergunta a forma de pagamento. Responda que vai usar o cartão de débito.",
       "translation": "Cartão de débito",
       "librasStructure": "CARTÃO-DE-DÉBITO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pagar no cartão de débito. → EU PAGAR CARTÃO-DE-DÉBITO.",
         "Aceita cartão de débito? → CARTÃO-DE-DÉBITO ACEITAR?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=48&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=48&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -706,21 +922,29 @@
       "situation": "No mercado, você vê uma placa de promoção do café e chama sua amiga.",
       "translation": "Promoção",
       "librasStructure": "PROMOÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O café está em promoção! → CAFÉ PROMOÇÃO!",
         "A promoção vai até sexta-feira? → PROMOÇÃO ATÉ SEXTA-FEIRA?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -731,21 +955,29 @@
       "situation": "Na loja, o atendente pergunta a bandeira do seu cartão. Responda que é cartão Mastercard.",
       "translation": "Cartão Mastercard",
       "librasStructure": "CARTÃO-MASTERCARD",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu cartão é Mastercard. → CARTÃO MEU CARTÃO-MASTERCARD.",
         "Vocês aceitam cartão Mastercard? → CARTÃO-MASTERCARD ACEITAR?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=55&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=55&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -756,21 +988,29 @@
       "situation": "No restaurante, você pergunta se aceitam cartão Visa antes de pedir.",
       "translation": "Cartão Visa",
       "librasStructure": "CARTÃO-VISA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Aceita cartão Visa? → CARTÃO-VISA ACEITAR?",
         "Paguei com o cartão Visa. → EU PAGAR CARTÃO-VISA."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=63&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -781,21 +1021,29 @@
       "situation": "Na farmácia, a máquina não aceita a sua bandeira. Pergunte se aceitam cartão Elo.",
       "translation": "Cartão Elo",
       "librasStructure": "CARTÃO-ELO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Aqui aceita cartão Elo? → AQUI CARTÃO-ELO ACEITAR?",
         "Meu cartão Elo não passou. → CARTÃO-ELO MEU PASSAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -806,21 +1054,29 @@
       "situation": "Na loja, seu avô quer pagar com cheque, e você pergunta se a loja aceita.",
       "translation": "Cheque",
       "librasStructure": "CHEQUE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vocês aceitam cheque? → CHEQUE ACEITAR?",
         "Hoje quase ninguém usa cheque. → HOJE CHEQUE USAR QUASE NINGUÉM."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -831,21 +1087,29 @@
       "situation": "No trabalho, um colega pergunta quando cai o salário. Responda que é no quinto dia do mês.",
       "translation": "Salário",
       "librasStructure": "SALÁRIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O salário cai no dia cinco. → SALÁRIO DIA 5.",
         "Meu salário não é alto. → SALÁRIO MEU ALTO NÃO."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=76&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=76&end=79&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -856,21 +1120,29 @@
       "situation": "Sua tia abriu uma loja de roupas e conta que o negócio vai bem.",
       "translation": "Negócio",
       "librasStructure": "NEGÓCIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O negócio da minha tia vai bem. → NEGÓCIO TIA MINHA BOM.",
         "Você quer abrir um negócio? → VOCÊ QUERER ABRIR NEGÓCIO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=82&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=82&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -881,21 +1153,29 @@
       "situation": "No banco, o atendente pergunta que tipo de conta você quer abrir. Responda que é uma conta corrente.",
       "translation": "Conta corrente",
       "librasStructure": "CONTA-CORRENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero abrir uma conta corrente. → EU QUERER ABRIR CONTA-CORRENTE.",
         "O salário cai na conta corrente. → SALÁRIO CAIR CONTA-CORRENTE."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=86&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=86&end=95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -906,21 +1186,29 @@
       "situation": "Seu sobrinho junta moedas no cofrinho e pergunta quanto dinheiro já tem.",
       "translation": "Dinheiro (moeda)",
       "librasStructure": "DINHEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quanto dinheiro você tem? → VOCÊ DINHEIRO QUANTO?",
         "Estou sem dinheiro. → EU DINHEIRO NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=95&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=95&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -931,21 +1219,29 @@
       "situation": "Você quer guardar dinheiro para as férias e decide abrir uma conta poupança.",
       "translation": "Conta poupança",
       "librasStructure": "CONTA-POUPANÇA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Guardo dinheiro na conta poupança. → EU GUARDAR DINHEIRO CONTA-POUPANÇA.",
         "Você tem conta poupança? → VOCÊ TER CONTA-POUPANÇA?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=102&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=102&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -956,21 +1252,29 @@
       "situation": "Você quer conferir os gastos do mês e pede o extrato bancário no caixa eletrônico.",
       "translation": "Extrato bancário",
       "librasStructure": "EXTRATO-BANCÁRIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou tirar o extrato bancário. → EU TIRAR EXTRATO-BANCÁRIO.",
         "O extrato bancário mostra o salário? → EXTRATO-BANCÁRIO MOSTRAR SALÁRIO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=107&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -981,21 +1285,29 @@
       "situation": "Um colega pergunta onde você tem conta. Responda que é no Banco Itaú.",
       "translation": "Banco Itaú",
       "librasStructure": "BANCO-ITAÚ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha conta é no Banco Itaú. → CONTA MINHA BANCO-ITAÚ.",
         "O Banco Itaú fica perto? → BANCO-ITAÚ PERTO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=113&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1006,21 +1318,29 @@
       "situation": "Você precisa pagar uma conta e pergunta onde fica a agência do Banco do Brasil.",
       "translation": "Banco do Brasil",
       "librasStructure": "BANCO-DO-BRASIL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Onde fica o Banco do Brasil? → BANCO-DO-BRASIL ONDE?",
         "Meu salário cai no Banco do Brasil. → SALÁRIO MEU BANCO-DO-BRASIL."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=117&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=117&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1031,21 +1351,29 @@
       "situation": "Na conversa sobre bancos, sua mãe conta que tem conta no Banco Bradesco há muitos anos.",
       "translation": "Banco Bradesco",
       "librasStructure": "BANCO-BRADESCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha mãe tem conta no Banco Bradesco. → MÃE MINHA TER CONTA BANCO-BRADESCO.",
         "O Banco Bradesco abre sábado? → BANCO-BRADESCO SÁBADO ABRIR?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=121&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=121&end=125&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1056,21 +1384,29 @@
       "situation": "Você precisa sacar o FGTS e pergunta onde fica a Caixa Econômica mais próxima.",
       "translation": "Caixa Econômica",
       "librasStructure": "CAIXA-ECONÔMICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou à Caixa Econômica amanhã. → AMANHÃ EU IR CAIXA-ECONÔMICA.",
         "A Caixa Econômica fica longe? → CAIXA-ECONÔMICA LONGE?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=126&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=126&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1081,21 +1417,29 @@
       "situation": "Você precisa pagar um boleto e procura uma casa lotérica perto de casa.",
       "translation": "Casa lotérica",
       "librasStructure": "CASA-LOTÉRICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pagar a conta na casa lotérica. → EU PAGAR CONTA CASA-LOTÉRICA.",
         "Tem casa lotérica perto daqui? → CASA-LOTÉRICA PERTO AQUI TER?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=129&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=129&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1106,21 +1450,29 @@
       "situation": "Na loja, você pede um desconto porque vai pagar à vista.",
       "translation": "Desconto",
       "librasStructure": "DESCONTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem desconto à vista? → PAGAR-À-VISTA TER DESCONTO?",
         "Ganhei dez por cento de desconto. → EU GANHAR DESCONTO 10%."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=140&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=140&end=145&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1131,21 +1483,29 @@
       "situation": "Um amigo pergunta em qual banco você recebe o salário. Responda que é no Banco Santander.",
       "translation": "Banco Santander",
       "librasStructure": "BANCO-SANTANDER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Recebo no Banco Santander. → EU RECEBER BANCO-SANTANDER.",
         "Você tem conta no Banco Santander? → VOCÊ TER CONTA BANCO-SANTANDER?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=146&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=146&end=151&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1156,21 +1516,29 @@
       "situation": "Você vai ao banco fazer um depósito na conta da sua mãe.",
       "translation": "Depósito",
       "librasStructure": "DEPÓSITO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou fazer um depósito para a minha mãe. → EU DEPÓSITO MÃE MINHA.",
         "O depósito já caiu? → DEPÓSITO CAIR JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=151&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=151&end=158&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1181,21 +1549,29 @@
       "situation": "Você precisa de dinheiro vivo e vai ao caixa eletrônico fazer um saque.",
       "translation": "Saque",
       "librasStructure": "SAQUE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou fazer um saque de cem reais. → EU SAQUE R$-100,00.",
         "O saque no sábado tem limite? → SÁBADO SAQUE TER LIMITE?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=158&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=158&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1206,21 +1582,29 @@
       "situation": "Seu amigo quer comprar um carro e pensa em pedir um empréstimo no banco.",
       "translation": "Empréstimo",
       "librasStructure": "EMPRÉSTIMO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pedir um empréstimo no banco. → EU PEDIR EMPRÉSTIMO BANCO.",
         "O empréstimo tem juros altos? → EMPRÉSTIMO JUROS ALTO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=163&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=163&end=170&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1231,21 +1615,29 @@
       "situation": "No caixa do mercado, você pergunta qual é a soma, o total da compra.",
       "translation": "Soma / total",
       "librasStructure": "SOMA/TOTAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Qual é o total? → TOTAL QUANTO?",
         "A soma deu cinquenta reais. → SOMA R$-50,00."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=176&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=176&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1256,21 +1648,29 @@
       "situation": "O banco pede o número da agência para fazer a transferência. Informe o número da sua agência.",
       "translation": "Agência",
       "librasStructure": "AGÊNCIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Qual é o número da agência? → AGÊNCIA NÚMERO QUAL?",
         "A agência fica no centro. → AGÊNCIA CENTRO."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=180&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=180&end=185&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1281,21 +1681,29 @@
       "situation": "Na promoção, o desconto é dado em porcentagem. Pergunte quantos por cento são.",
       "translation": "Porcentagem",
       "librasStructure": "PORCENTAGEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A porcentagem do desconto é de vinte por cento. → DESCONTO PORCENTAGEM 20%.",
         "Qual é a porcentagem de juros? → JUROS PORCENTAGEM QUANTO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=185&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=185&end=189&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1306,21 +1714,29 @@
       "situation": "No trabalho, você conta para a família que recebeu um aumento de salário.",
       "translation": "Aumento de salário",
       "librasStructure": "AUMENTO-DE-SALÁRIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ganhei aumento de salário! → EU GANHAR AUMENTO-DE-SALÁRIO!",
         "Você vai pedir aumento de salário? → VOCÊ PEDIR AUMENTO-DE-SALÁRIO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=189&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=189&end=193&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1331,21 +1747,29 @@
       "situation": "Na loja, você decide pagar parcelado no cartão de crédito.",
       "translation": "Cartão de crédito",
       "librasStructure": "CARTÃO-DE-CRÉDITO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pagar no cartão de crédito. → EU PAGAR CARTÃO-DE-CRÉDITO.",
         "Débito ou cartão de crédito? → CARTÃO-DE-DÉBITO OU CARTÃO-DE-CRÉDITO?"
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=194&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=194&end=197&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1356,21 +1780,29 @@
       "situation": "No caixa, você paga com uma nota de dinheiro (cédula) e espera o troco.",
       "translation": "Dinheiro (cédula)",
       "librasStructure": "DINHEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou pagar em dinheiro. → EU PAGAR DINHEIRO.",
         "Não tenho dinheiro trocado. → DINHEIRO TROCADO EU NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=197&end=201&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=197&end=201&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1381,21 +1813,29 @@
       "situation": "Antes de parcelar a compra, você pergunta ao vendedor se tem juros.",
       "translation": "Juros",
       "librasStructure": "JUROS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Parcelado tem juros? → PAGAR-PARCELADO TER JUROS?",
         "Sem juros em cinco vezes. → 5 VEZES JUROS NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=202&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=202&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1406,21 +1846,29 @@
       "situation": "Você vai viajar para a Europa e precisa trocar reais por euro.",
       "translation": "Euro",
       "librasStructure": "EURO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Preciso comprar euro para a viagem. → EU PRECISAR COMPRAR EURO VIAGEM.",
         "O euro está caro hoje. → HOJE EURO CARO."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=204&end=208&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=204&end=208&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1431,21 +1879,29 @@
       "situation": "Você vai viajar para os Estados Unidos e pergunta quanto está o dólar.",
       "translation": "Dólar",
       "librasStructure": "DÓLAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quanto está o dólar hoje? → HOJE DÓLAR QUANTO?",
         "O dólar subiu de novo. → DÓLAR SUBIR DE-NOVO."
       ],
-      "video": "https://www.youtube.com/embed/tFF5t18krHc?start=208&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tFF5t18krHc?start=208&end=215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tFF5t18krHc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:55:28.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

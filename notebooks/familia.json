@@ -38,21 +38,29 @@
       "situation": "Durante uma chamada de vídeo, você apresenta sua mãe a uma colega e conta que ela está bem.",
       "translation": "Mãe",
       "librasStructure": "MÃE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esta é a minha mãe. → MÃE MINHA ESTA.",
         "Sua mãe está bem? → MÃE SUA TUDO-BEM?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=8.8&end=11.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=8.8&end=11.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -63,21 +71,29 @@
       "situation": "Ao mostrar uma foto antiga, você aponta para seu pai e explica quem ele é.",
       "translation": "Pai",
       "librasStructure": "PAI",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu pai se chama José. → PAI MEU NOME J-O-S-É.",
         "Seu pai sabe Libras? → PAI SEU SABER LIBRAS?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=12.2&end=15.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=12.2&end=15.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -88,20 +104,28 @@
       "situation": "Sua colega mostra uma foto e você pergunta se a criança é o filho dela.",
       "translation": "Filho",
       "librasStructure": "FILHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ele é seu filho? → ELE FILHO SEU?",
         "Meu filho tem cinco anos. → FILHO MEU IDADE 5."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=22&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=22&end=29&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -112,21 +136,29 @@
       "situation": "Você comenta que seu irmão também estuda e pergunta se a colega tem irmãos.",
       "translation": "Irmão",
       "librasStructure": "IRMÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Irmã”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Irmã”.",
       "examples": [
         "Você tem irmão? → VOCÊ TER IRMÃO?",
         "Meu irmão também estuda Libras. → IRMÃO MEU TAMBÉM ESTUDAR LIBRAS."
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=42.7&end=46.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=42.7&end=46.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -137,21 +169,29 @@
       "situation": "Na conversa sobre família, você apresenta sua irmã e conta que ela mora perto.",
       "translation": "Irmã",
       "librasStructure": "IRMÃ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Irmão”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Irmão”.",
       "examples": [
         "Minha irmã mora perto. → IRMÃ MINHA MORAR PERTO.",
         "Prazer, esta é a minha irmã Ana. → PRAZER! IRMÃ MINHA A-N-A."
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=46.8&end=51.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=46.8&end=51.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -162,21 +202,29 @@
       "situation": "Você mostra uma foto de família e aponta para sua avó (vovó), que está sentada ao seu lado.",
       "translation": "Avó (vovó)",
       "librasStructure": "AVÓ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Avô”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Avô”.",
       "examples": [
         "Esta é a minha avó. → AVÓ MINHA ESTA.",
         "Bom dia, vovó! Tudo bem? → BOM-DIA AVÓ! TUDO-BEM?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=15&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=15&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -187,21 +235,29 @@
       "situation": "Durante a conversa, você identifica seu avô em uma fotografia antiga.",
       "translation": "Avô",
       "librasStructure": "AVÔ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Avó (vovó)”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Avó (vovó)”.",
       "examples": [
         "Meu avô é velho, tem noventa anos. → AVÔ MEU VELHO, IDADE 90.",
         "Seu avô mora com você? → AVÔ SEU MORAR VOCÊ JUNTO?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=36.6&end=40.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=36.6&end=40.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -212,20 +268,28 @@
       "situation": "Uma foto antiga reúne várias gerações, e você explica quem é o bisavô da família.",
       "translation": "Bisavô",
       "librasStructure": "BISAVÔ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Este é o meu bisavô. → BISAVÔ MEU ESTE.",
         "Você conheceu seu bisavô? Eu não. → VOCÊ CONHECER BISAVÔ SEU? EU NÃO."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=83&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=83&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -236,21 +300,29 @@
       "situation": "Sua avó mostra uma foto e apresenta o neto mais novo da família.",
       "translation": "Neto",
       "librasStructure": "NETO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Neta”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Neta”.",
       "examples": [
         "Ele é o neto mais novo da minha avó. → ELE NETO MAIS-NOVO AVÓ MINHA.",
         "Quantos netos a senhora tem? → SENHORA NETO QUANTIDADE?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=114.3&end=117.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=114.3&end=117.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -261,21 +333,29 @@
       "situation": "Você fala sobre sua neta e mostra uma fotografia dela na escola.",
       "translation": "Neta",
       "librasStructure": "NETA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Neto”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Neto”.",
       "examples": [
         "Minha neta estuda Libras. → NETA MINHA ESTUDAR LIBRAS.",
         "A neta da vovó é um bebê. → AVÓ NETA BEBÊ."
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=109.8&end=113.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=109.8&end=113.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -286,21 +366,29 @@
       "situation": "Na foto do almoço de domingo, você aponta para o irmão do seu pai e comenta: “Meu tio mora longe”.",
       "translation": "Tio",
       "librasStructure": "TIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Tia”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Tia”.",
       "examples": [
         "Meu tio mora longe. → TIO MEU MORAR LONGE.",
         "Seu tio é irmão do seu pai? → TIO SEU IRMÃO PAI SEU?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=29.9&end=34.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=29.9&end=34.2&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -311,21 +399,29 @@
       "situation": "Durante a visita à família, você apresenta a irmã da sua mãe e diz: “Minha tia trouxe bolo”.",
       "translation": "Tia",
       "librasStructure": "TIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Tio”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Tio”.",
       "examples": [
         "Minha tia trouxe bolo. → TIA MINHA TRAZER BOLO.",
         "Boa tarde, tia! Como vai você? → BOA-TARDE TIA! COMO-VAI-VOCÊ?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=34.2&end=37.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=34.2&end=37.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -336,20 +432,28 @@
       "situation": "No encontro de família, você apresenta um parente da sua idade e explica: “Meu primo estuda comigo”.",
       "translation": "Primo",
       "librasStructure": "PRIMO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu primo estuda comigo. → PRIMO MEU ESTUDAR JUNTO EU.",
         "Você tem muitos primos? → VOCÊ PRIMO MUITO?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=46&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=46&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -360,20 +464,28 @@
       "situation": "Na festa de aniversário, você mostra uma criança da família e conta: “Meu sobrinho gosta de brincar”.",
       "translation": "Sobrinho",
       "librasStructure": "SOBRINHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu sobrinho gosta de brincar. → SOBRINHO MEU GOSTAR BRINCAR.",
         "Seu sobrinho é filho da sua irmã? → SOBRINHO SEU FILHO IRMÃ SUA?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=37&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=37&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -384,21 +496,29 @@
       "situation": "Ao apresentar sua família, você aponta para sua companheira e explica: “Minha esposa trabalha perto”.",
       "translation": "Esposa",
       "librasStructure": "ESPOSA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Esposo”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Esposo”.",
       "examples": [
         "Minha esposa trabalha perto. → ESPOSA MINHA TRABALHAR PERTO.",
         "Prazer, esta é a minha esposa. → PRAZER! ESPOSA MINHA ESTA."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=57&end=60.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=57&end=60.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -409,21 +529,29 @@
       "situation": "Na conversa sobre a família, sua amiga aponta para o companheiro e conta: “Meu esposo cozinha muito bem”.",
       "translation": "Esposo",
       "librasStructure": "ESPOSO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Esposa”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Esposa”.",
       "examples": [
         "Meu esposo cozinha muito bem. → ESPOSO MEU COZINHAR BEM.",
         "Seu esposo também sabe Libras? → ESPOSO SEU TAMBÉM SABER LIBRAS?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=64.4&end=68.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=64.4&end=68.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -434,20 +562,28 @@
       "situation": "No almoço de família, você apresenta o pai da sua esposa e comenta: “Meu sogro gosta de churrasco”.",
       "translation": "Sogro",
       "librasStructure": "SOGRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Sogra”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Sogra”.",
       "examples": [
         "Meu sogro gosta de churrasco. → SOGRO MEU GOSTAR CHURRASCO.",
         "Seu sogro mora com vocês? → SOGRO SEU MORAR JUNTO VOCÊS?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=66&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=66&end=74&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -458,20 +594,28 @@
       "situation": "Antes da visita, você avisa que sua sogra chegará cedo e pede ajuda para preparar o café.",
       "translation": "Sogra",
       "librasStructure": "SOGRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Sogro”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Sogro”.",
       "examples": [
         "Minha sogra chega cedo. → SOGRA MINHA CHEGAR CEDO.",
         "Você gosta da sua sogra? → VOCÊ GOSTAR SOGRA SUA?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=73&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=73&end=82&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -482,22 +626,30 @@
       "situation": "Na conversa sobre a família, você aponta para o marido da sua filha e explica que ele é seu genro.",
       "translation": "Genro",
       "librasStructure": "GENRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Este é o meu genro. → GENRO MEU ESTE.",
         "Meu genro é marido da minha filha. → GENRO MEU ESPOSO FILHA MINHA."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=79.1&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=79.1&end=83&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -508,22 +660,30 @@
       "situation": "Durante o jantar, sua mãe apresenta aos convidados a nora dela, esposa do seu irmão.",
       "translation": "Nora",
       "librasStructure": "NORA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esta é a minha nora. → NORA MINHA ESTA.",
         "A sua nora também é surda? → NORA SUA TAMBÉM SURDA?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=74.9&end=79.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=74.9&end=79.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -534,21 +694,29 @@
       "situation": "Na foto da festa, você identifica sua cunhada, irmã do seu esposo, e conta que ela mora perto.",
       "translation": "Cunhada",
       "librasStructure": "CUNHADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Cunhado”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Cunhado”.",
       "examples": [
         "Minha cunhada mora perto. → CUNHADA MINHA MORAR PERTO.",
         "Ela é sua irmã? — Não, é minha cunhada. → ELA IRMÃ SUA? — NÃO, CUNHADA MINHA."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=59&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=59&end=66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -559,22 +727,30 @@
       "situation": "Na reunião familiar, você explica a um colega que o irmão da sua esposa é seu cunhado.",
       "translation": "Cunhado",
       "librasStructure": "CUNHADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Cunhada”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Cunhada”.",
       "examples": [
         "Este é o meu cunhado. → CUNHADO MEU ESTE.",
         "Seu cunhado é irmão da sua esposa? → CUNHADO SEU IRMÃO ESPOSA SUA?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=154.4&end=157.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=154.4&end=157.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -585,20 +761,28 @@
       "situation": "Ao montar a árvore da família, você explica que seu padrasto mora com sua mãe.",
       "translation": "Padrasto",
       "librasStructure": "PADRASTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Madrasta”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Madrasta”.",
       "examples": [
         "Meu padrasto mora com a minha mãe. → PADRASTO MEU MORAR JUNTO MÃE MINHA.",
         "Você gosta do seu padrasto? → VOCÊ GOSTAR PADRASTO SEU?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=95&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=95&end=104&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -609,21 +793,29 @@
       "situation": "Na árvore da família, você explica que sua madrasta mora com seu pai e participa dos encontros.",
       "translation": "Madrasta",
       "librasStructure": "MADRASTA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Padrasto”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Padrasto”.",
       "examples": [
         "Minha madrasta é casada com o meu pai. → MADRASTA MINHA CASAR PAI MEU.",
         "Sua madrasta vem à festa? → MADRASTA SUA VIR FESTA?"
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=124&end=128.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=124&end=128.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -634,22 +826,30 @@
       "situation": "Durante a apresentação da família, você conta que seu enteado, filho do seu companheiro, mora com vocês.",
       "translation": "Enteado",
       "librasStructure": "ENTEADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu enteado mora com a gente. → ENTEADO MEU MORAR JUNTO NÓS.",
         "Ele é seu filho? — Não, é meu enteado. → ELE FILHO SEU? — NÃO, ENTEADO MEU."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=91.9&end=95.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=91.9&end=95.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -660,22 +860,30 @@
       "situation": "Comparando fotos antigas, você explica que tem um meio-irmão, que divide com você apenas um dos pais.",
       "translation": "Meio-irmão",
       "librasStructure": "MEIO-IRMÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho um meio-irmão. → EU TER MEIO-IRMÃO.",
         "Meu meio-irmão é filho do meu pai. → MEIO-IRMÃO MEU FILHO PAI MEU."
       ],
-      "video": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=129.9&end=133.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Q1Q3cKS1d8U?start=129.9&end=133.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Q1Q3cKS1d8U",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -686,21 +894,29 @@
       "situation": "Na conversa sobre sua família, você apresenta seu filho adotivo e fala com carinho sobre a chegada dele.",
       "translation": "Filho adotivo",
       "librasStructure": "FILHO-ADOTIVO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu filho adotivo chegou bebê. → FILHO-ADOTIVO MEU CHEGAR BEBÊ.",
         "Ela tem dois filhos adotivos. → ELA TER FILHO-ADOTIVO 2."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=150.3&end=154.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=150.3&end=154.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -711,21 +927,29 @@
       "situation": "No aniversário, você apresenta sua madrinha, que acompanha sua família desde o batizado.",
       "translation": "Madrinha",
       "librasStructure": "MADRINHA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esta é a minha madrinha. → MADRINHA MINHA ESTA.",
         "Quem é a sua madrinha? → MADRINHA SUA QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=142&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=142&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -736,21 +960,29 @@
       "situation": "Na festa, você aponta para seu afilhado, a criança de quem você é padrinho, e conta que ele gosta de brincar.",
       "translation": "Afilhado",
       "librasStructure": "AFILHADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu afilhado gosta de brincar. → AFILHADO MEU GOSTAR BRINCAR.",
         "Seu afilhado tem quantos anos? → AFILHADO SEU IDADE QUANTO?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=133&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=133&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -761,21 +993,29 @@
       "situation": "Ao descrever uma foto de família, você aponta para o homem que está ao lado da sua irmã.",
       "translation": "Homem",
       "librasStructure": "HOMEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Mulher”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Mulher”.",
       "examples": [
         "Quem é aquele homem? → HOMEM AQUELE QUEM?",
         "O homem ao lado da minha irmã é meu tio. → HOMEM LADO IRMÃ MINHA, TIO MEU."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=3.5&end=5.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=3.5&end=5.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -786,21 +1026,29 @@
       "situation": "Na foto da família, você aponta para sua irmã e explica que a mulher trabalha na escola.",
       "translation": "Mulher",
       "librasStructure": "MULHER",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com o cartão “Homem”. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com o cartão “Homem”.",
       "examples": [
         "Aquela mulher é minha tia. → MULHER AQUELA TIA MINHA.",
         "A mulher da foto trabalha na escola. → MULHER FOTO TRABALHAR ESCOLA."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=5.9&end=8.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=5.9&end=8.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -811,22 +1059,30 @@
       "situation": "No encontro da turma, você apresenta um colega próximo e diz que ele é seu amigo.",
       "translation": "Amigo",
       "librasStructure": "AMIGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ele é meu amigo. → ELE AMIGO MEU.",
         "Prazer, este é o meu amigo Pedro. → PRAZER! AMIGO MEU P-E-D-R-O.",
         "Você tem amigos surdos? → VOCÊ TER AMIGO SURDO?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=130.1&end=133.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=130.1&end=133.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -837,20 +1093,28 @@
       "situation": "Na visita à família, você aponta para o recém-nascido e comenta que o bebê está dormindo.",
       "translation": "Bebê",
       "librasStructure": "BEBÊ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Criança. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Criança.",
       "examples": [
         "O bebê está dormindo. → BEBÊ DORMIR.",
         "O bebê é seu filho? → BEBÊ FILHO SEU?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=50&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -861,21 +1125,29 @@
       "situation": "No parque, você observa uma criança brincando e comenta que ela está feliz.",
       "translation": "Criança",
       "librasStructure": "CRIANÇA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Bebê e Adolescente. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Bebê e Adolescente.",
       "examples": [
         "A criança está feliz. → CRIANÇA FELIZ.",
         "Seu sobrinho ainda é criança? → SOBRINHO SEU CRIANÇA AINDA?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=39.7&end=43.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=39.7&end=43.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -886,21 +1158,29 @@
       "situation": "Na escola, você apresenta uma estudante adolescente que participa do grupo de Libras.",
       "translation": "Adolescente",
       "librasStructure": "ADOLESCENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Criança e Adulto. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Criança e Adulto.",
       "examples": [
         "Minha filha é adolescente. → FILHA MINHA ADOLESCENTE.",
         "O grupo de Libras tem muitos adolescentes. → GRUPO LIBRAS ADOLESCENTE MUITO."
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=43.8&end=47.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=43.8&end=47.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -911,20 +1191,28 @@
       "situation": "Na reunião da comunidade, você comenta que um jovem ajudou a organizar o evento.",
       "translation": "Jovem",
       "librasStructure": "JOVEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Velho. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Velho.",
       "examples": [
         "Um jovem ajudou no evento. → JOVEM AJUDAR EVENTO.",
         "Seu tio ainda é jovem? → TIO SEU JOVEM AINDA?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -935,21 +1223,29 @@
       "situation": "Ao organizar a atividade, você separa os participantes adultos das crianças.",
       "translation": "Adulto",
       "librasStructure": "ADULTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Adolescente. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Adolescente.",
       "examples": [
         "Os adultos ficam aqui e as crianças lá. → ADULTO AQUI, CRIANÇA LÁ.",
         "Você já é adulto? → VOCÊ ADULTO JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=47.6&end=50.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=47.6&end=50.4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -960,21 +1256,29 @@
       "situation": "Na conversa sobre gerações, você descreve um homem velho da família com respeito.",
       "translation": "Velho",
       "librasStructure": "VELHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Jovem e Coroa. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Jovem e Coroa.",
       "examples": [
         "Meu avô é velho, mas é forte. → AVÔ MEU VELHO, MAS FORTE.",
         "Ele não é velho, é jovem! → ELE VELHO NÃO, JOVEM!"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=34.7&end=38.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=34.7&end=38.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -985,22 +1289,30 @@
       "situation": "Entre amigos, você usa a gíria informal “coroa” para falar de uma pessoa mais velha da família.",
       "translation": "Coroa (pessoa mais velha)",
       "librasStructure": "COROA",
-      "notes": "Gíria para pessoa mais velha. Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Velho. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Gíria para pessoa mais velha.  Compare com: Velho.",
       "examples": [
         "Meu pai já é coroa. → PAI MEU COROA JÁ.",
         "Aquele coroa é seu tio? → COROA AQUELE TIO SEU?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=27.4&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=27.4&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1011,21 +1323,29 @@
       "situation": "Na conversa depois da aula, sua amiga conta que o namorado vai acompanhá-la à festa.",
       "translation": "Namorado",
       "librasStructure": "NAMORADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Noivo. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Noivo.",
       "examples": [
         "Meu namorado vai à festa comigo. → NAMORADO MEU IR FESTA JUNTO.",
         "Você tem namorado? → VOCÊ TER NAMORADO?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=112.1&end=115.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=112.1&end=115.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1036,21 +1356,29 @@
       "situation": "Durante o café, seu colega anuncia que pretende noivar e pede sua opinião sobre a comemoração.",
       "translation": "Noivar",
       "librasStructure": "NOIVAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorar e Casamento. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Namorar e Casamento.",
       "examples": [
         "Vamos noivar em dezembro! → NÓS NOIVAR DEZEMBRO!",
         "Você pensa em noivar? → VOCÊ PENSAR NOIVAR?"
       ],
-      "video": "https://www.youtube.com/embed/0oBqrDvWgt4?start=13.5&end=17.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0oBqrDvWgt4?start=13.5&end=17.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0oBqrDvWgt4",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1061,21 +1389,29 @@
       "situation": "Na foto da festa, você apresenta o noivo da sua amiga e comenta que ele é simpático.",
       "translation": "Noivo",
       "librasStructure": "NOIVO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorado. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Namorado.",
       "examples": [
         "O noivo da minha amiga é simpático. → AMIGA MINHA NOIVO SIMPÁTICO.",
         "Quem é o noivo? → NOIVO QUEM?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=105.1&end=109.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=105.1&end=109.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1086,21 +1422,29 @@
       "situation": "Você recebe um convite e conta que o casamento será no sábado. Pergunte quem vai.",
       "translation": "Casamento (matrimônio)",
       "librasStructure": "CASAMENTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Solteiro e Divórcio. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Solteiro e Divórcio.",
       "examples": [
         "O casamento é no sábado. → CASAMENTO SÁBADO.",
         "Você vai ao casamento da minha irmã? → VOCÊ IR CASAMENTO IRMÃ MINHA?"
       ],
-      "video": "https://www.youtube.com/embed/dpo-diaTBkc?start=21&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dpo-diaTBkc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dpo-diaTBkc?start=21&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dpo-diaTBkc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1111,20 +1455,28 @@
       "situation": "Na apresentação dos convidados, seu amigo diz que está solteiro e prefere conhecer pessoas novas.",
       "translation": "Solteiro",
       "librasStructure": "SOLTEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Casamento. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Casamento.",
       "examples": [
         "Eu sou solteiro. → EU SOLTEIRO.",
         "Seu primo ainda é solteiro? → PRIMO SEU SOLTEIRO AINDA?"
       ],
-      "video": "https://www.youtube.com/embed/dpo-diaTBkc?start=10&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dpo-diaTBkc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dpo-diaTBkc?start=10&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dpo-diaTBkc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1135,21 +1487,29 @@
       "situation": "Em uma conversa reservada, sua amiga conta que houve término de namoro e pede acolhimento.",
       "translation": "Término de namoro",
       "librasStructure": "TÉRMINO-DE-NAMORO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Namorado e Separar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Namorado e Separar.",
       "examples": [
         "Ela está triste por causa do término de namoro. → ELA TRISTE PORQUE TÉRMINO-DE-NAMORO.",
         "Foi um término de namoro tranquilo. → TÉRMINO-DE-NAMORO TRANQUILO."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=123&end=125.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=123&end=125.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1160,21 +1520,29 @@
       "situation": "Ao falar sobre a decisão do casal, você explica que eles decidiram se separar com respeito.",
       "translation": "Separar",
       "librasStructure": "SEPARAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Divórcio. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Divórcio.",
       "examples": [
         "Meus pais decidiram se separar. → PAIS MEUS DECIDIR SEPARAR.",
         "Eles vão se separar? → ELES SEPARAR?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=120&end=122.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=120&end=122.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1185,21 +1553,29 @@
       "situation": "Na conversa sobre documentos, você explica que o divórcio foi concluído e a família está se reorganizando.",
       "translation": "Divórcio",
       "librasStructure": "DIVÓRCIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Compare com: Separar. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Compare com: Separar.",
       "examples": [
         "O divórcio já saiu. → DIVÓRCIO PRONTO JÁ.",
         "Depois do divórcio, minha mãe casou de novo. → DEPOIS DIVÓRCIO, MÃE MINHA CASAR DE-NOVO."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=126.6&end=129.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=126.6&end=129.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1210,21 +1586,29 @@
       "situation": "Ao conhecer um novo vizinho, você descobre que ele é viúvo e conversa com cuidado.",
       "translation": "Viúvo",
       "librasStructure": "VIÚVO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu vizinho é viúvo. → VIZINHO MEU VIÚVO.",
         "Seu avô é viúvo? → AVÔ SEU VIÚVO?"
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=116&end=119.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=116&end=119.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -1235,21 +1619,29 @@
       "situation": "Em uma conversa sobre relacionamentos, você explica o significado de amante sem expor a vida de ninguém.",
       "translation": "Amante",
       "librasStructure": "AMANTE",
-      "notes": "Pessoa com quem se tem um relacionamento amoroso fora do casamento. Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "Pessoa com quem se tem um relacionamento amoroso fora do casamento.",
       "examples": [
         "Na novela, ele tem uma amante. → NOVELA, ELE TER AMANTE.",
         "Amante é alguém que tem um caso escondido. → AMANTE PESSOA RELAÇÃO ESCONDER."
       ],
-      "video": "https://www.youtube.com/embed/-_mus-BW8Ts?start=109.2&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-_mus-BW8Ts?start=109.2&end=112&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-_mus-BW8Ts",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:53:30.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]

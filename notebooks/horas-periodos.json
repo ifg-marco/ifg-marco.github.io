@@ -31,17 +31,25 @@
         "O almoço é à uma hora. → ALMOÇO UMA HORA.",
         "Você chega à uma hora? → VOCÊ CHEGAR UMA HORA?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=27&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=27&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -57,17 +65,25 @@
         "Vamos estudar às duas horas? → NÓS ESTUDAR DUAS HORAS?",
         "A aula começa às duas horas. → AULA COMEÇAR DUAS HORAS."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -83,17 +99,25 @@
         "Eu chego às três horas. → EU CHEGAR TRÊS HORAS.",
         "Às três horas, não; às duas. → TRÊS HORAS NÃO, DUAS HORAS."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=32&end=33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -109,17 +133,25 @@
         "Café às quatro horas? → CAFÉ QUATRO HORAS?",
         "Meu irmão sai da escola às quatro horas. → IRMÃO MEU SAIR ESCOLA QUATRO HORAS."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=34&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -135,17 +167,25 @@
         "Eu saio do trabalho às cinco horas. → EU SAIR TRABALHO CINCO HORAS.",
         "Às cinco horas você está livre? → CINCO HORAS VOCÊ LIVRE?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=37&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=37&end=39&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -161,17 +201,25 @@
         "Eu estudo de manhã. → EU ESTUDAR MANHÃ.",
         "Você prefere manhã ou tarde? → VOCÊ PREFERIR MANHÃ OU TARDE?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=40&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -187,17 +235,25 @@
         "Hoje à tarde estou em casa. → HOJE TARDE EU CASA.",
         "De tarde eu trabalho, de manhã não. → TARDE EU TRABALHAR, MANHÃ NÃO."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=43&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=43&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -213,17 +269,25 @@
         "Eu estudo Libras à noite. → EU ESTUDAR LIBRAS NOITE.",
         "Vamos sair hoje à noite? → HOJE NOITE NÓS SAIR?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=45&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=45&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -239,17 +303,25 @@
         "Estudei até a madrugada. → EU ESTUDAR ATÉ MADRUGADA.",
         "O bebê acorda de madrugada. → BEBÊ ACORDAR MADRUGADA."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=49&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -265,17 +337,25 @@
         "Amanhã eu chego cedo. → AMANHÃ EU CHEGAR CEDO.",
         "Você acorda cedo? → VOCÊ ACORDAR CEDO?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=52&end=54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -292,17 +372,25 @@
         "O ônibus teve atraso. → ÔNIBUS ATRASO.",
         "Ele nunca chega atrasado. → ELE NUNCA ATRASADO."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=55&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=55&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -318,17 +406,25 @@
         "Sábado eu estudo o dia inteiro. → SÁBADO EU ESTUDAR DIA INTEIRO.",
         "Você trabalhou o dia inteiro? → VOCÊ TRABALHAR DIA INTEIRO?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=59&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=59&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -344,17 +440,25 @@
         "Cheguei adiantado. → EU CHEGAR ADIANTADO.",
         "Meu relógio está adiantado? → RELÓGIO MEU ADIANTADO?"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -370,17 +474,25 @@
         "A aula começa em cinco minutos. → AULA COMEÇAR CINCO MINUTOS.",
         "Espera cinco minutos, por favor. → ESPERAR CINCO MINUTOS, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=65&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=65&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -396,17 +508,25 @@
         "Vamos estudar meia hora? → NÓS ESTUDAR MEIA HORA?",
         "Estou esperando há meia hora! → EU ESPERAR MEIA HORA JÁ!"
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=68&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=68&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -422,17 +542,25 @@
         "O evento durou o dia inteiro. → EVENTO DIA INTEIRO.",
         "Domingo vou ficar em casa o dia inteiro. → DOMINGO EU CASA DIA INTEIRO."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=70&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=70&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -448,17 +576,25 @@
         "Vamos sair ao amanhecer. → NÓS SAIR AMANHECER.",
         "Ao amanhecer, o céu fica bonito. → AMANHECER, CÉU BONITO."
       ],
-      "video": "https://www.youtube.com/embed/OcIZgEAcwpo?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OcIZgEAcwpo?start=72&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OcIZgEAcwpo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -469,22 +605,30 @@
       "situation": "Na agenda da semana, você combina com a turma que o trabalho será entregue na segunda-feira.",
       "translation": "Segunda-feira",
       "librasStructure": "SEGUNDA-FEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A prova é na segunda-feira. → PROVA SEGUNDA-FEIRA.",
         "Segunda-feira você trabalha? → SEGUNDA-FEIRA VOCÊ TRABALHAR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=22&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -495,22 +639,30 @@
       "situation": "Você conta para um amigo que tem aula de Libras toda terça-feira à noite.",
       "translation": "Terça-feira",
       "librasStructure": "TERÇA-FEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho aula de Libras na terça-feira. → TERÇA-FEIRA EU AULA LIBRAS.",
         "Na terça-feira não posso. → TERÇA-FEIRA EU PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=25&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -521,22 +673,30 @@
       "situation": "Ao marcar uma consulta, você pergunta se pode ser na quarta-feira de manhã.",
       "translation": "Quarta-feira",
       "librasStructure": "QUARTA-FEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Pode ser quarta-feira de manhã? → QUARTA-FEIRA MANHÃ PODER?",
         "Quarta-feira eu vou à casa da minha avó. → QUARTA-FEIRA EU IR CASA AVÓ MINHA."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -547,22 +707,30 @@
       "situation": "A turma combina um encontro, e você sugere que seja na quinta-feira à tarde.",
       "translation": "Quinta-feira",
       "librasStructure": "QUINTA-FEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos na quinta-feira à tarde? → QUINTA-FEIRA TARDE NÓS IR?",
         "A reunião foi para quinta-feira. → REUNIÃO MUDAR QUINTA-FEIRA."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=30&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=30&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -573,22 +741,30 @@
       "situation": "É sexta-feira e você convida seus amigos para sair depois da aula.",
       "translation": "Sexta-feira",
       "librasStructure": "SEXTA-FEIRA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Sexta-feira à noite vamos sair? → SEXTA-FEIRA NOITE NÓS SAIR?",
         "Hoje é sexta-feira! Bom fim de semana! → HOJE SEXTA-FEIRA! BOM FIM-DE-SEMANA!"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=34&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -599,22 +775,30 @@
       "situation": "Um amigo convida você para estudar no sábado. Responda se vai ou não.",
       "translation": "Sábado",
       "librasStructure": "SÁBADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "No sábado eu não trabalho. → SÁBADO EU TRABALHAR NÃO.",
         "Vamos estudar no sábado de manhã? → SÁBADO MANHÃ NÓS ESTUDAR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=37&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -625,22 +809,30 @@
       "situation": "Você conta que todo domingo almoça na casa dos seus avós.",
       "translation": "Domingo",
       "librasStructure": "DOMINGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Domingo almoço com a minha família. → DOMINGO EU ALMOÇAR FAMÍLIA MINHA.",
         "No domingo você descansa? → DOMINGO VOCÊ DESCANSAR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=39&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -651,22 +843,30 @@
       "situation": "Você conta para a turma que viajou nas férias de janeiro.",
       "translation": "Janeiro",
       "librasStructure": "JANEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Em janeiro eu viajei. → JANEIRO EU VIAJAR.",
         "Seu aniversário é em janeiro? → ANIVERSÁRIO SEU JANEIRO?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=214&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=214&end=217&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -677,22 +877,30 @@
       "situation": "Os amigos planejam a festa de Carnaval, que neste ano cai em fevereiro.",
       "translation": "Fevereiro",
       "librasStructure": "FEVEREIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Carnaval é em fevereiro. → CARNAVAL FEVEREIRO.",
         "As aulas voltam em fevereiro? → AULA VOLTAR FEVEREIRO?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=217&end=220&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=217&end=220&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -703,22 +911,30 @@
       "situation": "A professora avisa que o curso de Libras começa em março.",
       "translation": "Março",
       "librasStructure": "MARÇO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O curso começa em março. → CURSO COMEÇAR MARÇO.",
         "Em março faz calor? → MARÇO CALOR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=219&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=219&end=223&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -729,22 +945,30 @@
       "situation": "Você convida uma colega para seu aniversário, que é em abril.",
       "translation": "Abril",
       "librasStructure": "ABRIL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu aniversário é em abril. → ANIVERSÁRIO MEU ABRIL.",
         "Abril tem feriado? → ABRIL TER FERIADO?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=222&end=226&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=222&end=226&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -755,22 +979,30 @@
       "situation": "Na conversa sobre família, você lembra que o Dia das Mães é em maio.",
       "translation": "Maio",
       "librasStructure": "MAIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Dia das Mães é em maio. → DIA MÃE MAIO.",
         "Em maio vou visitar minha avó. → MAIO EU VISITAR AVÓ MINHA."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=225&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=225&end=229&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -781,22 +1013,30 @@
       "situation": "A turma organiza uma festa junina, que acontece em junho.",
       "translation": "Junho",
       "librasStructure": "JUNHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A festa junina é em junho. → FESTA-JUNINA JUNHO.",
         "Você vai viajar em junho? → JUNHO VOCÊ VIAJAR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=229&end=232&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=229&end=232&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -807,22 +1047,30 @@
       "situation": "Seu amigo pergunta quando são as férias do meio do ano. Responda que são em julho.",
       "translation": "Julho",
       "librasStructure": "JULHO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "As férias são em julho. → FÉRIAS JULHO.",
         "Em julho faz frio. → JULHO FRIO."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=232&end=235&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=232&end=235&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -833,22 +1081,30 @@
       "situation": "Você conta que o Dia dos Pais é em agosto e pergunta o que a colega vai dar de presente.",
       "translation": "Agosto",
       "librasStructure": "AGOSTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Dia dos Pais é em agosto. → DIA PAI AGOSTO.",
         "Em agosto, as aulas voltam. → AGOSTO AULA VOLTAR."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=236&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=236&end=237&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -859,22 +1115,30 @@
       "situation": "Na escola, a professora lembra que o Dia do Surdo é comemorado em setembro.",
       "translation": "Setembro",
       "librasStructure": "SETEMBRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Dia do Surdo é em setembro. → DIA SURDO SETEMBRO.",
         "Setembro é o mês da comunidade surda. → SETEMBRO MÊS COMUNIDADE SURDA."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=238&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=238&end=240&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -885,22 +1149,30 @@
       "situation": "Seu sobrinho pergunta quando é o Dia das Crianças. Responda que é em outubro.",
       "translation": "Outubro",
       "librasStructure": "OUTUBRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Dia das Crianças é em outubro. → DIA CRIANÇA OUTUBRO.",
         "Em outubro vou fazer a prova. → OUTUBRO EU PROVA."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=239&end=242&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=239&end=242&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -911,22 +1183,30 @@
       "situation": "A coordenação avisa que a formatura do curso será em novembro.",
       "translation": "Novembro",
       "librasStructure": "NOVEMBRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A formatura é em novembro. → FORMATURA NOVEMBRO.",
         "Novembro tem dois feriados. → NOVEMBRO TER FERIADO 2."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=242&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=242&end=244&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -937,22 +1217,30 @@
       "situation": "A família combina onde vai passar o Natal, em dezembro.",
       "translation": "Dezembro",
       "librasStructure": "DEZEMBRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O Natal é em dezembro. → NATAL DEZEMBRO.",
         "Em dezembro você vai viajar? → DEZEMBRO VOCÊ VIAJAR?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=244&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=244&end=247&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -963,22 +1251,30 @@
       "situation": "Seu avô conta que mora na mesma casa há uma década.",
       "translation": "Década",
       "librasStructure": "DÉCADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu avô mora aqui há uma década. → AVÔ MEU MORAR AQUI DÉCADA.",
         "Naquela década, a Libras não era lei. → DÉCADA AQUELA, LIBRAS LEI NÃO."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=342&end=346&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=342&end=346&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -989,22 +1285,30 @@
       "situation": "Na aula de história, a professora explica que a escola de surdos foi fundada no século XIX.",
       "translation": "Século",
       "librasStructure": "SÉCULO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A escola é do século XIX. → ESCOLA SÉCULO 19.",
         "Um século tem cem anos. → SÉCULO TER 100 ANOS."
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=346&end=351&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=346&end=351&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1015,23 +1319,31 @@
       "situation": "Uma colega pergunta o que você vai fazer nas férias.",
       "translation": "Férias",
       "librasStructure": "FÉRIAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Nas férias vou viajar. → FÉRIAS EU VIAJAR.",
         "Quando começam suas férias? → FÉRIAS SUA COMEÇAR QUANDO?",
         "Nas férias não vou estudar! → FÉRIAS EU ESTUDAR NÃO!"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=456&end=459&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=456&end=459&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1042,22 +1354,30 @@
       "situation": "Você pergunta à professora se haverá aula na segunda-feira, que é feriado.",
       "translation": "Feriado",
       "librasStructure": "FERIADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Segunda-feira é feriado. → SEGUNDA-FEIRA FERIADO.",
         "No feriado tem aula? → FERIADO TER AULA?"
       ],
-      "video": "https://www.youtube.com/embed/CcIM385nTgQ?start=466&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CcIM385nTgQ?start=466&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CcIM385nTgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1068,22 +1388,30 @@
       "situation": "Um amigo pergunta com que frequência você pratica Libras. Responda que pratica todo dia.",
       "translation": "Todo dia",
       "librasStructure": "TODO-DIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu estudo Libras todo dia. → EU ESTUDAR LIBRAS TODO-DIA.",
         "Você trabalha todo dia? → VOCÊ TRABALHAR TODO-DIA?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=18&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1100,17 +1428,25 @@
         "A viagem é de três dias. → VIAGEM TRÊS-DIAS.",
         "Fico só um dia na casa da minha tia. → EU FICAR CASA TIA UM-DIA SÓ."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=26&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=26&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1121,22 +1457,30 @@
       "situation": "Você marca uma visita na casa dos avós para a semana que vem.",
       "translation": "Semana que vem",
       "librasStructure": "SEMANA-QUE-VEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Semana que vem vou visitar meus avós. → SEMANA-QUE-VEM EU VISITAR AVÓS MEUS.",
         "A prova é na semana que vem? → PROVA SEMANA-QUE-VEM?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=51&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1147,22 +1491,30 @@
       "situation": "Uma colega pergunta quando você conheceu seu namorado. Responda que foi na semana passada.",
       "translation": "Semana passada",
       "librasStructure": "SEMANA-PASSADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Semana passada eu faltei à aula. → SEMANA-PASSADA EU FALTAR AULA.",
         "Você viajou na semana passada? → SEMANA-PASSADA VOCÊ VIAJAR?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=55&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=55&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1173,22 +1525,30 @@
       "situation": "Seu chefe pergunta quando você pode entregar o trabalho. Responda que entrega esta semana.",
       "translation": "Esta semana",
       "librasStructure": "ESTA-SEMANA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esta semana eu estou muito ocupado. → ESTA-SEMANA EU OCUPADO MUITO.",
         "Esta semana tem feriado? → ESTA-SEMANA TER FERIADO?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1199,22 +1559,30 @@
       "situation": "Você conta que vai ficar uma semana na casa da sua tia nas férias.",
       "translation": "Uma semana",
       "librasStructure": "UMA-SEMANA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou ficar uma semana na praia. → EU FICAR PRAIA UMA-SEMANA.",
         "O curso dura só uma semana? → CURSO UMA-SEMANA SÓ?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=64&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=64&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1225,22 +1593,30 @@
       "situation": "O médico pergunta há quanto tempo você está com tosse. Responda que faz duas semanas.",
       "translation": "Duas semanas",
       "librasStructure": "DUAS-SEMANAS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Estou doente há duas semanas. → EU DOENTE DUAS-SEMANAS.",
         "Faltam duas semanas para as férias! → FÉRIAS FALTAR DUAS-SEMANAS!"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=67&end=71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1251,22 +1627,30 @@
       "situation": "Você conta para a turma que vai mudar de casa no mês que vem.",
       "translation": "Mês que vem",
       "librasStructure": "MÊS-QUE-VEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Mês que vem eu mudo de casa. → MÊS-QUE-VEM EU MUDAR CASA.",
         "Seu aniversário é no mês que vem? → ANIVERSÁRIO SEU MÊS-QUE-VEM?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=80&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=80&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1277,22 +1661,30 @@
       "situation": "Uma amiga pergunta quando você começou a estudar Libras. Responda que foi no mês passado.",
       "translation": "Mês passado",
       "librasStructure": "MÊS-PASSADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Comecei a estudar Libras no mês passado. → MÊS-PASSADO EU COMEÇAR ESTUDAR LIBRAS.",
         "No mês passado choveu muito. → MÊS-PASSADO CHUVA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=85&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=85&end=89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1303,22 +1695,30 @@
       "situation": "Você confere a agenda e diz que este mês tem muitas provas.",
       "translation": "Este mês",
       "librasStructure": "ESTE-MÊS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Este mês tenho muitas provas. → ESTE-MÊS EU PROVA MUITO.",
         "Este mês não tem feriado. → ESTE-MÊS FERIADO NÃO-TER."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=89&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=89&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1329,22 +1729,30 @@
       "situation": "Um colega pergunta quanto tempo dura o curso de férias. Responda que dura um mês.",
       "translation": "Um mês",
       "librasStructure": "UM-MÊS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O curso dura um mês. → CURSO UM-MÊS.",
         "Vou viajar por um mês. → EU VIAJAR UM-MÊS."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=92&end=94&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1355,22 +1763,30 @@
       "situation": "A amiga pergunta a idade do seu sobrinho recém-nascido. Responda que ele tem dois meses.",
       "translation": "Dois meses",
       "librasStructure": "DOIS-MESES",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O bebê tem dois meses. → BEBÊ IDADE DOIS-MESES.",
         "Estudo Libras há dois meses. → EU ESTUDAR LIBRAS DOIS-MESES."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1381,22 +1797,30 @@
       "situation": "Você conta seus planos e diz que vai começar a faculdade no ano que vem.",
       "translation": "Ano que vem",
       "librasStructure": "ANO-QUE-VEM",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ano que vem vou para a faculdade. → ANO-QUE-VEM EU IR FACULDADE.",
         "Vocês vão casar no ano que vem? → VOCÊS CASAR ANO-QUE-VEM?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=112&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=112&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1407,22 +1831,30 @@
       "situation": "Uma colega pergunta quando você se formou. Responda que foi no ano passado.",
       "translation": "Ano passado",
       "librasStructure": "ANO-PASSADO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ano passado eu terminei a escola. → ANO-PASSADO EU TERMINAR ESCOLA.",
         "Você viajou no ano passado? → ANO-PASSADO VOCÊ VIAJAR?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1433,22 +1865,30 @@
       "situation": "Ao preencher um formulário, pedem o ano atual. Informe qual é.",
       "translation": "Ano atual",
       "librasStructure": "ANO-ATUAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Qual é o ano atual? → ANO-ATUAL QUAL?",
         "O ano atual é 2026. → ANO-ATUAL 2026."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=116&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1459,22 +1899,30 @@
       "situation": "Você conta para a turma uma meta pessoal: aprender bem Libras este ano.",
       "translation": "Este ano",
       "librasStructure": "ESTE-ANO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Este ano quero aprender Libras. → ESTE-ANO EU QUERER APRENDER LIBRAS.",
         "Este ano você vai tirar férias? → ESTE-ANO VOCÊ FÉRIAS?"
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=119&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=119&end=123&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1485,22 +1933,30 @@
       "situation": "Seu sobrinho fez aniversário. Conte que ele completou um ano.",
       "translation": "Um ano",
       "librasStructure": "UM-ANO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu sobrinho fez um ano. → SOBRINHO MEU IDADE UM-ANO.",
         "Moro aqui há um ano. → EU MORAR AQUI UM-ANO."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=122&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=122&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1511,22 +1967,30 @@
       "situation": "Na apresentação, você conta há quanto tempo namora: dois anos.",
       "translation": "Dois anos",
       "librasStructure": "DOIS-ANOS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Namoro há dois anos. → EU NAMORAR DOIS-ANOS.",
         "Faz dois anos que não vejo meu primo. → DOIS-ANOS EU VER PRIMO MEU NÃO."
       ],
-      "video": "https://www.youtube.com/embed/wQxColfEaiY?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/wQxColfEaiY?start=126&end=131&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=wQxColfEaiY",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:54:29.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

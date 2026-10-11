@@ -31,16 +31,24 @@
         "Vou fazer exame de sangue. → EU EXAME SANGUE FAZER.",
         "Tenho medo de ver sangue. → SANGUE VER EU MEDO."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=12&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=12&end=18&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -56,16 +64,24 @@
         "O exame de DNA confirmou o pai. → EXAME DNA PAI CONFIRMAR.",
         "O DNA passa de pais para filhos. → DNA PASSAR PAIS FILHOS."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=20&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=20&end=30&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -81,16 +97,24 @@
         "Minha tia venceu o câncer. → TIA MINHA CÂNCER VENCER.",
         "Fumar causa câncer. → FUMAR CÂNCER CAUSAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=32&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=32&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -106,16 +130,24 @@
         "Minha menstruação atrasou. → MENSTRUAÇÃO MINHA ATRASADA.",
         "A menstruação dura uns cinco dias. → MENSTRUAÇÃO 5 DIAS MAIS-OU-MENOS."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=44&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=44&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -131,16 +163,24 @@
         "Estou com cólica. → EU CÓLICA.",
         "O bebê chora por causa da cólica. → BEBÊ CHORAR PORQUE CÓLICA."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=57&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=57&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -156,16 +196,24 @@
         "Estou de TPM hoje. → HOJE EU TPM.",
         "A TPM me deixa irritada. → TPM DEIXAR-ME IRRITADA."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=63&end=68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -181,16 +229,24 @@
         "Ele está com vômito e diarreia. → ELE VÔMITO DIARREIA.",
         "O vômito parou? → VÔMITO PARAR?"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=70&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=70&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -206,16 +262,24 @@
         "Dói quando eu urino. → EU URINAR, DOER.",
         "Preciso urinar, onde é o banheiro? → EU URINAR PRECISAR, BANHEIRO ONDE?"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=78&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -231,16 +295,24 @@
         "Não consigo defecar há três dias. → EU DEFECAR CONSEGUIR NÃO TRÊS-DIAS.",
         "O bebê defecou, troca a fralda. → BEBÊ DEFECAR, FRALDA TROCAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=83&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -256,16 +328,24 @@
         "Estiquei o músculo no treino. → TREINO MÚSCULO ESTICAR.",
         "O coração também é um músculo. → CORAÇÃO MÚSCULO TAMBÉM."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=103&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=103&end=109&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -281,16 +361,24 @@
         "A hanseníase tem cura. → HANSENÍASE CURA TER.",
         "Mancha dormente na pele pode ser hanseníase. → PELE MANCHA DORMENTE, HANSENÍASE PODER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=135&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=135&end=139&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -306,16 +394,24 @@
         "Meu sobrinho pegou caxumba. → SOBRINHO MEU CAXUMBA PEGAR.",
         "Caxumba incha o rosto. → CAXUMBA ROSTO INCHAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=141&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=141&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -331,16 +427,24 @@
         "Estou doente, não vou à aula. → EU DOENTE, AULA IR NÃO.",
         "Ele adoeceu depois da viagem. → VIAGEM DEPOIS, ELE ADOECER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=158&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=158&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -356,16 +460,24 @@
         "Lave as frutas para evitar verminose. → FRUTA LAVAR, VERMINOSE EVITAR.",
         "Criança que anda descalça pega verminose. → CRIANÇA DESCALÇA VERMINOSE PEGAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -381,16 +493,24 @@
         "Estou com gripe, fico em casa. → EU GRIPE, CASA FICAR.",
         "Tome a vacina contra gripe. → VACINA GRIPE TOMAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=176&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=176&end=180&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -406,16 +526,24 @@
         "Parei de fumar! → EU FUMAR PARAR!",
         "Aqui não pode fumar. → AQUI FUMAR PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=190&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=190&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -431,16 +559,24 @@
         "A tuberculose tem tratamento pelo SUS. → TUBERCULOSE TRATAMENTO SUS.",
         "Tosse por três semanas pode ser tuberculose. → TOSSE TRÊS SEMANAS, TUBERCULOSE PODER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=197&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=197&end=204&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -456,16 +592,24 @@
         "Meu filho tem bronquite. → FILHO MEU BRONQUITE.",
         "No tempo seco, a bronquite piora. → TEMPO SECO, BRONQUITE PIORAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=206&end=213&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=206&end=213&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -481,16 +625,24 @@
         "Ela está com febre alta. → ELA FEBRE ALTA.",
         "A febre baixou? → FEBRE BAIXAR?"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=236&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=236&end=241&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -506,16 +658,24 @@
         "Minha avó teve um AVC. → AVÓ MINHA AVC.",
         "Boca torta pode ser AVC: chame ajuda! → BOCA TORTA, AVC PODER: AJUDA CHAMAR!"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=252&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=252&end=255&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -531,16 +691,24 @@
         "Tome o remédio de oito em oito horas. → REMÉDIO TOMAR 8 EM 8 HORAS.",
         "Já tomou o remédio? → TOMAR REMÉDIO JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=257&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=257&end=261&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -556,16 +724,24 @@
         "Hoje é dia de vacina. → HOJE VACINA DIA.",
         "A vacina dói um pouquinho. → VACINA DOER POUQUINHO."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=263&end=272&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=263&end=272&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -581,16 +757,24 @@
         "Tomei a vacina de febre amarela. → VACINA FEBRE AMARELA EU TOMAR.",
         "A febre amarela é transmitida por mosquito. → FEBRE AMARELA MOSQUITO TRANSMITIR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=281&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=281&end=286&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -606,16 +790,24 @@
         "A chikungunya dá dor nas juntas. → CHIKUNGUNYA DOR JUNTAS.",
         "Chikungunya é do mesmo mosquito da dengue. → CHIKUNGUNYA MOSQUITO MESMO DENGUE."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=288&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=288&end=294&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -631,16 +823,24 @@
         "Estou com dengue. → EU DENGUE.",
         "Tire a água parada para evitar a dengue. → ÁGUA PARADA TIRAR, DENGUE EVITAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=304&end=309&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=304&end=309&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -656,16 +856,24 @@
         "Tenho problema na tireoide. → EU TIREOIDE PROBLEMA.",
         "O remédio da tireoide é tomado em jejum. → REMÉDIO TIREOIDE JEJUM TOMAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=311&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=311&end=315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -681,16 +889,24 @@
         "Hipertensão é o mesmo que pressão alta. → HIPERTENSÃO IGUAL PRESSÃO ALTA.",
         "Meu pai controla a hipertensão com remédio. → PAI MEU HIPERTENSÃO CONTROLAR REMÉDIO."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=317&end=326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=317&end=326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -706,16 +922,24 @@
         "Estou com anemia. → EU ANEMIA.",
         "Coma feijão e fígado contra a anemia. → ANEMIA, FEIJÃO FÍGADO COMER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=344&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=344&end=352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -731,16 +955,24 @@
         "Depois do acidente, ele ficou com trauma. → ACIDENTE DEPOIS, ELE TRAUMA.",
         "Tenho trauma de hospital. → EU TRAUMA HOSPITAL."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=354&end=359&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=354&end=359&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -756,16 +988,24 @@
         "Ele teve amnésia e esqueceu tudo. → ELE AMNÉSIA, TUDO ESQUECER.",
         "A amnésia passou depois de uma semana. → AMNÉSIA PASSAR UMA-SEMANA."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=361&end=369&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=361&end=369&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -781,16 +1021,24 @@
         "Sinto fraqueza nas pernas. → PERNA EU FRAQUEZA.",
         "A fraqueza é por falta de comida. → FRAQUEZA PORQUE COMIDA FALTA."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=371&end=375&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=371&end=375&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -806,16 +1054,24 @@
         "Estou com falta de motivação. → EU FALTA DE MOTIVAÇÃO.",
         "Falta de motivação pode ser sinal de depressão. → FALTA DE MOTIVAÇÃO DEPRESSÃO SINAL PODER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=377&end=384&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=377&end=384&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -831,16 +1087,24 @@
         "Setembro Amarelo é o mês de prevenção ao suicídio. → SETEMBRO AMARELO PREVENIR SUICÍDIO.",
         "Falar sobre suicídio ajuda a prevenir. → SUICÍDIO CONVERSAR, PREVENIR AJUDAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=406&end=415&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=406&end=415&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -856,16 +1120,24 @@
         "Peguei COVID-19 em 2021. → 2021 EU COVID-19 PEGAR.",
         "Na COVID-19, usávamos máscara. → COVID-19, NÓS MÁSCARA USAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=428&end=434&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=428&end=434&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -881,16 +1153,24 @@
         "Apareceu uma herpes no meu lábio. → LÁBIO MEU HERPES APARECER.",
         "Herpes passa pelo beijo. → HERPES BEIJAR PASSAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=451&end=465&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=451&end=465&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -906,16 +1186,24 @@
         "A hepatite A vem de água suja. → HEPATITE A ÁGUA SUJA VIR.",
         "Meu filho tomou vacina de hepatite A. → FILHO MEU VACINA HEPATITE A TOMAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=467&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=467&end=470&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -931,16 +1219,24 @@
         "A vacina da hepatite B tem três doses. → VACINA HEPATITE B DOSE 3.",
         "A hepatite B pode passar pelo sangue. → HEPATITE B SANGUE PASSAR PODER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=472&end=476&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=472&end=476&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -956,16 +1252,24 @@
         "Fiz o teste de hepatite C. → EU TESTE HEPATITE C FAZER.",
         "Hepatite C tem cura. → HEPATITE C CURA TER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=478&end=482&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=478&end=482&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -981,16 +1285,24 @@
         "A obesidade aumenta o risco de diabetes. → OBESIDADE DIABETES RISCO AUMENTAR.",
         "Obesidade infantil é um problema sério. → CRIANÇA OBESIDADE PROBLEMA SÉRIO."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=491&end=497&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=491&end=497&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1006,16 +1318,24 @@
         "Tenho alergia a camarão. → EU ALERGIA CAMARÃO.",
         "Você tem alergia a algum remédio? → VOCÊ ALERGIA REMÉDIO ALGUM?"
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=499&end=507&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=499&end=507&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1031,16 +1351,24 @@
         "Estou com afta, dói para comer. → EU AFTA, COMER DOER.",
         "Comida ácida piora a afta. → COMIDA ÁCIDA AFTA PIORAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=509&end=515&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=509&end=515&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1056,16 +1384,24 @@
         "Essa doença é contagiosa? → DOENÇA ESSA PASSAR-PESSOA?",
         "Ele tem uma doença rara. → ELE DOENÇA RARA."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=517&end=521&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=517&end=521&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1081,16 +1417,24 @@
         "Minha pressão está alta. → PRESSÃO MINHA ALTA.",
         "Quem tem pressão alta deve comer pouco sal. → PRESSÃO ALTA, SAL POUCO COMER."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=523&end=529&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=523&end=529&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1106,16 +1450,24 @@
         "Fiquei tonta, é pressão baixa. → EU TONTA, PRESSÃO BAIXA.",
         "Com pressão baixa, deite e levante as pernas. → PRESSÃO BAIXA, DEITAR PERNA LEVANTAR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=531&end=537&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=531&end=537&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1131,16 +1483,24 @@
         "O estresse não me deixa dormir. → ESTRESSE DORMIR DEIXAR-ME NÃO.",
         "Fazer exercício diminui o estresse. → EXERCÍCIO FAZER, ESTRESSE DIMINUIR."
       ],
-      "video": "https://www.youtube.com/embed/KR3DwqQEFgA?start=539&end=541&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KR3DwqQEFgA?start=539&end=541&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KR3DwqQEFgA",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1156,16 +1516,24 @@
         "Higiene evita doenças. → HIGIENE DOENÇA EVITAR.",
         "A higiene das mãos é muito importante. → MÃO HIGIENE IMPORTANTE."
       ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=14&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mRup9pBnDIo?start=14&end=16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1181,16 +1549,24 @@
         "Use pouco creme dental. → CREME DENTAL POUCO USAR.",
         "Criança precisa de creme dental com flúor. → CRIANÇA PRECISAR CREME DENTAL FLÚOR."
       ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=25&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mRup9pBnDIo?start=25&end=26&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1206,16 +1582,24 @@
         "Não divida a toalha com ninguém. → TOALHA DIVIDIR NINGUÉM NÃO.",
         "Coloca a toalha no sol para secar. → TOALHA SOL SECAR."
       ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=34&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mRup9pBnDIo?start=34&end=35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1231,16 +1615,24 @@
         "Me empresta o cortador de unha? → CORTADOR DE UNHA EMPRESTAR-ME?",
         "Lave o cortador de unha depois de usar. → CORTADOR DE UNHA LAVAR USAR DEPOIS."
       ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=47&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mRup9pBnDIo?start=47&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1256,16 +1648,24 @@
         "No frio, uso hidratante de pele. → FRIO EU USAR HIDRATANTE DE PELE.",
         "Esse hidratante de pele é para pele seca. → HIDRATANTE DE PELE ESSE PELE SECA."
       ],
-      "video": "https://www.youtube.com/embed/mRup9pBnDIo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/mRup9pBnDIo?start=62&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=mRup9pBnDIo",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:13:15.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

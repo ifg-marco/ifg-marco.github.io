@@ -25,21 +25,29 @@
       "situation": "No almoço em família, sua avó pergunta o que você quer no prato. Peça arroz.",
       "translation": "Arroz",
       "librasStructure": "ARROZ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero arroz, por favor. → EU QUERER ARROZ, POR-FAVOR.",
         "O arroz está pronto? → ARROZ PRONTO?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=12&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=12&end=15&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -50,22 +58,30 @@
       "situation": "No almoço, sua mãe pergunta se você quer feijão junto com o arroz.",
       "translation": "Feijão",
       "librasStructure": "FEIJÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Arroz com feijão, por favor. → ARROZ FEIJÃO, POR-FAVOR.",
         "Eu não gosto de feijão. → EU GOSTAR FEIJÃO NÃO.",
         "Você comprou feijão no mercado? → VOCÊ COMPRAR FEIJÃO MERCADO?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=15&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=15&end=19&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -76,21 +92,29 @@
       "situation": "Na cozinha, preparando o jantar, você pergunta à família se pode fazer macarrão.",
       "translation": "Macarrão",
       "librasStructure": "MACARRÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Hoje à noite vamos comer macarrão? → HOJE NOITE NÓS COMER MACARRÃO?",
         "Meu filho adora macarrão. → FILHO MEU ADORAR MACARRÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=19&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=19&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -101,22 +125,30 @@
       "situation": "No restaurante, você prova a comida e pede o sal ao garçom.",
       "translation": "Sal",
       "librasStructure": "SAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Me passa o sal, por favor? → SAL PASSAR-ME, POR-FAVOR?",
         "A comida está sem sal. → COMIDA SAL NÃO-TER.",
         "Meu avô não pode comer sal. → AVÔ MEU COMER SAL PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -127,21 +159,29 @@
       "situation": "Preparando o jantar, você percebe que acabou o óleo e pede para alguém comprar.",
       "translation": "Óleo",
       "librasStructure": "ÓLEO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Acabou o óleo. → ÓLEO ACABAR.",
         "Esse pastel tem muito óleo. → PASTEL ESSE ÓLEO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=27&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=27&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -152,21 +192,29 @@
       "situation": "Num dia de calor, você convida seu sobrinho para tomar sorvete na praça.",
       "translation": "Sorvete",
       "librasStructure": "SORVETE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos tomar sorvete? → NÓS TOMAR SORVETE?",
         "Qual sorvete você prefere: chocolate ou morango? → SORVETE VOCÊ PREFERIR CHOCOLATE OU MORANGO?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=31&end=34&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -177,21 +225,29 @@
       "situation": "Na lanchonete, você pede um bauru, o sanduíche quente de queijo, presunto e tomate.",
       "translation": "Bauru",
       "librasStructure": "BAURU",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Um bauru, por favor. → BAURU UM, POR-FAVOR.",
         "O bauru aqui é bom? → AQUI BAURU BOM?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=35&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=35&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -202,21 +258,29 @@
       "situation": "Numa noite fria, sua mãe pergunta se você quer sopa no jantar.",
       "translation": "Sopa",
       "librasStructure": "SOPA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Hoje tem sopa no jantar. → HOJE JANTAR SOPA.",
         "A sopa está quente demais. → SOPA QUENTE DEMAIS."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=38&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -227,21 +291,29 @@
       "situation": "Você prepara o lanche da escola e pergunta ao seu filho se ele quer sanduíche.",
       "translation": "Sanduíche",
       "librasStructure": "SANDUÍCHE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Você quer um sanduíche? → VOCÊ QUERER SANDUÍCHE?",
         "Faço um sanduíche de queijo para você. → EU FAZER SANDUÍCHE QUEIJO VOCÊ."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=43&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -252,21 +324,29 @@
       "situation": "Na feira, você prova um queijo minas e decide comprar um pedaço.",
       "translation": "Queijo",
       "librasStructure": "QUEIJO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse queijo é muito bom! → QUEIJO ESSE BOM MUITO!",
         "Quanto custa o queijo? → QUEIJO PREÇO QUANTO?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=47&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -277,21 +357,29 @@
       "situation": "No café da manhã, você pergunta se ainda tem requeijão para passar no pão.",
       "translation": "Requeijão",
       "librasStructure": "REQUEIJÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem requeijão? → REQUEIJÃO TER?",
         "Eu passo requeijão no pão. → EU PASSAR REQUEIJÃO PÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=52&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=52&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -302,21 +390,29 @@
       "situation": "Na padaria, você pede presunto fatiado para fazer sanduíches.",
       "translation": "Presunto",
       "librasStructure": "PRESUNTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Duzentos gramas de presunto, por favor. → PRESUNTO 200 GRAMAS, POR-FAVOR.",
         "Quer sanduíche com presunto ou só queijo? → SANDUÍCHE PRESUNTO OU QUEIJO SÓ?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=56&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -327,21 +423,29 @@
       "situation": "Na lanchonete da escola, você pede um pão de queijo com café.",
       "translation": "Pão de queijo",
       "librasStructure": "PÃO-DE-QUEIJO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Um pão de queijo e um café, por favor. → PÃO-DE-QUEIJO UM, CAFÉ UM, POR-FAVOR.",
         "O pão de queijo de Goiás é o melhor! → GOIÁS PÃO-DE-QUEIJO MELHOR!"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=60&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=60&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -352,21 +456,29 @@
       "situation": "Antes de ver o filme, você pergunta à família quem quer pipoca.",
       "translation": "Pipoca",
       "librasStructure": "PIPOCA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos fazer pipoca? → NÓS FAZER PIPOCA?",
         "Pipoca doce ou salgada? → PIPOCA DOCE OU SALGADA?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -377,21 +489,29 @@
       "situation": "Na feira de domingo, você pede um pastel de carne e um caldo de cana.",
       "translation": "Pastel",
       "librasStructure": "PASTEL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Um pastel de carne, por favor. → PASTEL CARNE UM, POR-FAVOR.",
         "O pastel da feira é barato. → FEIRA PASTEL BARATO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=70&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=70&end=75&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -402,21 +522,29 @@
       "situation": "No café da tarde na casa da avó, ela oferece uma rosca caseira.",
       "translation": "Rosca",
       "librasStructure": "ROSCA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A vovó fez rosca! → AVÓ FAZER ROSCA!",
         "Essa rosca é de quê? → ROSCA ESSA SABOR QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=75&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=75&end=80&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -427,21 +555,29 @@
       "situation": "Na padaria, seu filho pede um pão doce para o lanche da tarde.",
       "translation": "Pão doce",
       "librasStructure": "PÃO-DOCE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Mãe, compra um pão doce? → MÃE, PÃO-DOCE COMPRAR?",
         "Esse pão doce tem coco. → PÃO-DOCE ESSE TER COCO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=81&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=81&end=86&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -452,22 +588,30 @@
       "situation": "De manhã, sua mãe pede para você comprar pão na padaria.",
       "translation": "Pão",
       "librasStructure": "PÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vou comprar pão. → EU IR COMPRAR PÃO.",
         "O pão está quentinho! → PÃO QUENTE!",
         "Quantos pães você quer? → VOCÊ QUERER PÃO QUANTOS?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=86&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=86&end=91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -478,21 +622,29 @@
       "situation": "Na festa junina, sua tia oferece arroz doce com canela.",
       "translation": "Arroz doce",
       "librasStructure": "ARROZ-DOCE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer arroz doce? → VOCÊ QUERER ARROZ-DOCE?",
         "Minha avó faz arroz doce em junho. → AVÓ MINHA FAZER ARROZ-DOCE JUNHO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=92&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=92&end=96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -503,21 +655,29 @@
       "situation": "No restaurante mineiro, você pede feijão tropeiro para acompanhar a carne.",
       "translation": "Feijão tropeiro",
       "librasStructure": "FEIJÃO-TROPEIRO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero feijão tropeiro com carne. → EU QUERER FEIJÃO-TROPEIRO CARNE.",
         "O feijão tropeiro daqui é famoso. → AQUI FEIJÃO-TROPEIRO FAMOSO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=96&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=96&end=102&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -528,22 +688,30 @@
       "situation": "No café da manhã, você coloca mel no chá e oferece ao seu avô.",
       "translation": "Mel",
       "librasStructure": "MEL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer mel no chá? → CHÁ MEL VOCÊ QUERER?",
         "Eu como pão com mel. → EU COMER PÃO MEL.",
         "Mel é bom para a garganta. → MEL BOM GARGANTA."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=102&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=102&end=108&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -554,21 +722,29 @@
       "situation": "No churrasco de domingo, você ajuda a preparar a salada de maionese.",
       "translation": "Maionese",
       "librasStructure": "MAIONESE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu faço a maionese. → EU FAZER MAIONESE.",
         "Você quer maionese no sanduíche? → SANDUÍCHE MAIONESE VOCÊ QUERER?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=109&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=109&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -579,21 +755,29 @@
       "situation": "No café da manhã, você passa manteiga no pão quente.",
       "translation": "Manteiga",
       "librasStructure": "MANTEIGA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Passa a manteiga, por favor. → MANTEIGA PASSAR-ME, POR-FAVOR.",
         "O bolo leva manteiga? → BOLO TER MANTEIGA?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=114&end=119&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -604,21 +788,29 @@
       "situation": "No churrasco, o primo pergunta se a linguiça já está assada.",
       "translation": "Linguiça",
       "librasStructure": "LINGUIÇA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A linguiça está pronta? → LINGUIÇA PRONTA?",
         "Eu adoro pão com linguiça! → EU ADORAR PÃO LINGUIÇA!"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=120&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=120&end=127&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -629,21 +821,29 @@
       "situation": "No almoço de domingo, sua mãe faz frango assado.",
       "translation": "Frango",
       "librasStructure": "FRANGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Hoje tem frango assado. → HOJE FRANGO ASSADO.",
         "Você prefere frango ou carne? → VOCÊ PREFERIR FRANGO OU CARNE?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=128&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=128&end=132&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -654,21 +854,29 @@
       "situation": "Na feira, você escolhe um peixe fresco para o almoço de sexta-feira.",
       "translation": "Peixe",
       "librasStructure": "PEIXE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse peixe está fresco? → PEIXE ESSE FRESCO?",
         "Na Semana Santa comemos peixe. → SEMANA-SANTA NÓS COMER PEIXE."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=132&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=132&end=136&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -679,21 +887,29 @@
       "situation": "Seu amigo convida você para jantar, mas você avisa que não come carne de porco.",
       "translation": "Carne de porco",
       "librasStructure": "CARNE-DE-PORCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu não como carne de porco. → EU COMER CARNE-DE-PORCO NÃO.",
         "A feijoada tem carne de porco? → FEIJOADA TER CARNE-DE-PORCO?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=137&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=137&end=142&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -704,21 +920,29 @@
       "situation": "Você prepara gelatina de morango para a sobremesa das crianças.",
       "translation": "Gelatina",
       "librasStructure": "GELATINA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A gelatina já está na geladeira. → GELATINA GELADEIRA JÁ.",
         "As crianças querem gelatina de sobremesa. → CRIANÇA QUERER GELATINA SOBREMESA."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=143&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=143&end=148&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -729,21 +953,29 @@
       "situation": "Na Páscoa, você dá uma barra de chocolate para seu sobrinho.",
       "translation": "Chocolate",
       "librasStructure": "CHOCOLATE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer um pedaço de chocolate? → VOCÊ QUERER CHOCOLATE PEDAÇO?",
         "Eu adoro chocolate! → EU ADORAR CHOCOLATE!"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=149&end=154&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -754,21 +986,29 @@
       "situation": "Na festa de aniversário, a mesa está cheia de doces e você oferece aos convidados.",
       "translation": "Doce",
       "librasStructure": "DOCE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Pode pegar um doce. → DOCE PEGAR PODER.",
         "Esse bolo é doce demais. → BOLO ESSE DOCE DEMAIS."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=154&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=154&end=159&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -779,21 +1019,29 @@
       "situation": "Você convida os amigos para um churrasco no sábado.",
       "translation": "Churrasco",
       "librasStructure": "CHURRASCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Sábado vai ter churrasco! → SÁBADO CHURRASCO!",
         "Vamos fazer churrasco na casa do meu tio? → CHURRASCO CASA TIO MEU NÓS FAZER?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=159&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=159&end=162&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -804,21 +1052,29 @@
       "situation": "Depois do almoço, um colega pede um chiclete.",
       "translation": "Chiclete",
       "librasStructure": "CHICLETE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Você tem chiclete? → VOCÊ TER CHICLETE?",
         "Não pode mascar chiclete na aula. → AULA CHICLETE PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=163&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=163&end=169&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -829,21 +1085,29 @@
       "situation": "No restaurante, o garçom pergunta como você prefere a carne.",
       "translation": "Carne",
       "librasStructure": "CARNE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quero a carne bem passada. → CARNE BEM-PASSADA EU QUERER.",
         "Hoje não vou comer carne. → HOJE EU COMER CARNE NÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=169&end=174&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -854,21 +1118,29 @@
       "situation": "Na festa da escola, você vende cachorro-quente para arrecadar dinheiro.",
       "translation": "Cachorro-quente",
       "librasStructure": "CACHORRO-QUENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O cachorro-quente custa cinco reais. → CACHORRO-QUENTE PREÇO R$-5,00.",
         "Quer cachorro-quente com batata? → CACHORRO-QUENTE BATATA VOCÊ QUERER?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=174&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=174&end=178&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -879,21 +1151,29 @@
       "situation": "Na hora do café, você abre um pacote de bolacha (biscoito) e oferece a todos.",
       "translation": "Bolacha / biscoito",
       "librasStructure": "BOLACHA/BISCOITO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer bolacha? → BOLACHA VOCÊ QUERER?",
         "Comprei biscoito de chocolate. → EU COMPRAR BISCOITO CHOCOLATE."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=178&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=178&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -904,21 +1184,29 @@
       "situation": "No aniversário da sua mãe, a família prepara um bolo de chocolate.",
       "translation": "Bolo",
       "librasStructure": "BOLO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu fiz um bolo para você! → EU FAZER BOLO VOCÊ!",
         "Tem bolo no café da tarde? → CAFÉ-TARDE BOLO TER?"
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=185&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=185&end=191&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -929,21 +1217,29 @@
       "situation": "Na fila do banco, sua amiga oferece uma bala.",
       "translation": "Bala",
       "librasStructure": "BALA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer uma bala? → BALA VOCÊ QUERER?",
         "Criança não pode comer muita bala. → CRIANÇA COMER BALA MUITO PODER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=192&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=192&end=195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -954,21 +1250,29 @@
       "situation": "Na salada, você pergunta se pode colocar azeite.",
       "translation": "Azeite",
       "librasStructure": "AZEITE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Coloca azeite na salada? → SALADA AZEITE COLOCAR?",
         "Esse azeite é caro. → AZEITE ESSE CARO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=196&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=196&end=199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -979,21 +1283,29 @@
       "situation": "No café da manhã, sua mãe pergunta quanto açúcar você quer no café.",
       "translation": "Açúcar",
       "librasStructure": "AÇÚCAR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Café sem açúcar, por favor. → CAFÉ AÇÚCAR NÃO, POR-FAVOR.",
         "O bolo leva muito açúcar. → BOLO AÇÚCAR MUITO."
       ],
-      "video": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=200&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/qEzTGhmQxgQ?start=200&end=205&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qEzTGhmQxgQ",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1004,21 +1316,29 @@
       "situation": "Na lanchonete, você pede adoçante em vez de açúcar para o seu café.",
       "translation": "Adoçante",
       "librasStructure": "ADOÇANTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem adoçante? → ADOÇANTE TER?",
         "Meu pai usa adoçante, não açúcar. → PAI MEU USAR ADOÇANTE, AÇÚCAR NÃO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=14&end=17&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1029,21 +1349,29 @@
       "situation": "No restaurante, o garçom pergunta que bebida você quer. Peça água com gás.",
       "translation": "Água com gás",
       "librasStructure": "ÁGUA-COM-GÁS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Uma água com gás, por favor. → ÁGUA-COM-GÁS UMA, POR-FAVOR.",
         "Você prefere água com gás ou sem gás? → VOCÊ PREFERIR ÁGUA-COM-GÁS OU SEM-GÁS?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=19&end=23&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1054,21 +1382,29 @@
       "situation": "Numa tarde fria de julho, você prepara chocolate quente para a família.",
       "translation": "Chocolate quente",
       "librasStructure": "CHOCOLATE-QUENTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Vamos tomar chocolate quente? → NÓS TOMAR CHOCOLATE-QUENTE?",
         "No frio, eu adoro chocolate quente. → FRIO, EU ADORAR CHOCOLATE-QUENTE."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=23&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1079,21 +1415,29 @@
       "situation": "No almoço de domingo, seu tio pergunta se tem Coca-Cola gelada.",
       "translation": "Coca-Cola",
       "librasStructure": "COCA-COLA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tem Coca-Cola gelada? → COCA-COLA GELADA TER?",
         "Uma Coca-Cola e um pastel, por favor. → COCA-COLA UMA, PASTEL UM, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=29&end=32&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1104,21 +1448,29 @@
       "situation": "No jantar com peixe, o garçom sugere um vinho branco.",
       "translation": "Vinho branco",
       "librasStructure": "VINHO-BRANCO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Peixe combina com vinho branco. → PEIXE COMBINAR VINHO-BRANCO.",
         "Você prefere vinho branco? → VOCÊ PREFERIR VINHO-BRANCO?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=33&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=33&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1129,21 +1481,29 @@
       "situation": "No jantar de aniversário dos seus pais, você abre um vinho tinto para brindar.",
       "translation": "Vinho tinto",
       "librasStructure": "VINHO-TINTO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu pai gosta de vinho tinto. → PAI MEU GOSTAR VINHO-TINTO.",
         "Vinho tinto com carne, que delícia! → VINHO-TINTO CARNE, DELÍCIA!"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=38&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=38&end=41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1154,22 +1514,30 @@
       "situation": "Sua amiga está resfriada e você oferece um chá quente com mel.",
       "translation": "Chá",
       "librasStructure": "CHÁ",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer um chá? → CHÁ VOCÊ QUERER?",
         "Chá com mel é bom para gripe. → CHÁ MEL BOM GRIPE.",
         "À noite eu tomo chá, não café. → NOITE EU TOMAR CHÁ, CAFÉ NÃO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1180,21 +1548,29 @@
       "situation": "No café da manhã, você pergunta ao seu filho se ele quer leite.",
       "translation": "Leite",
       "librasStructure": "LEITE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer leite com chocolate? → LEITE CHOCOLATE VOCÊ QUERER?",
         "Acabou o leite. Vou ao mercado. → LEITE ACABAR. EU IR MERCADO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=50&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=50&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1205,21 +1581,29 @@
       "situation": "Na festa de aniversário, você pergunta quem quer refrigerante.",
       "translation": "Refrigerante",
       "librasStructure": "REFRIGERANTE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quem quer refrigerante? → REFRIGERANTE QUEM QUERER?",
         "Eu não tomo refrigerante, prefiro suco. → EU TOMAR REFRIGERANTE NÃO, PREFERIR SUCO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=53&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=53&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1230,22 +1614,30 @@
       "situation": "No churrasco com os amigos, alguém oferece cerveja gelada.",
       "translation": "Cerveja",
       "librasStructure": "CERVEJA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Quer uma cerveja? → CERVEJA VOCÊ QUERER?",
         "Não, obrigado, vou dirigir. Sem cerveja hoje. → NÃO OBRIGADO, EU DIRIGIR. HOJE CERVEJA NÃO.",
         "No bar, a cerveja está barata. → BAR CERVEJA BARATA."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=57&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1256,21 +1648,29 @@
       "situation": "Na lanchonete, seu sobrinho escolhe uma Fanta Uva para o lanche.",
       "translation": "Fanta Uva",
       "librasStructure": "FANTA-UVA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Uma Fanta Uva, por favor. → FANTA-UVA UMA, POR-FAVOR.",
         "Você gosta de Fanta Uva? → VOCÊ GOSTAR FANTA-UVA?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=62&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=62&end=65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1281,21 +1681,29 @@
       "situation": "Depois de jogar bola no calor, você pede um copo de água.",
       "translation": "Água",
       "librasStructure": "ÁGUA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Me dá um copo de água, por favor? → COPO ÁGUA DAR-ME, POR-FAVOR?",
         "Beba muita água no calor. → CALOR, BEBER ÁGUA MUITO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=66&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=66&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1306,21 +1714,29 @@
       "situation": "Na festa junina, alguém oferece pinga no quentão, e você recusa porque vai dirigir.",
       "translation": "Pinga",
       "librasStructure": "PINGA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O quentão tem pinga? → QUENTÃO TER PINGA?",
         "Pinga não, obrigado. → PINGA NÃO, OBRIGADO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1331,21 +1747,29 @@
       "situation": "No lanche da tarde, você pergunta se a criança prefere Fanta Laranja ou suco.",
       "translation": "Fanta Laranja",
       "librasStructure": "FANTA-LARANJA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Você quer Fanta Laranja ou suco? → VOCÊ QUERER FANTA-LARANJA OU SUCO?",
         "A Fanta Laranja acabou. → FANTA-LARANJA ACABAR."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=85&end=88&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1356,21 +1780,29 @@
       "situation": "Depois do jantar de Natal, sua tia oferece um licor caseiro.",
       "translation": "Licor",
       "librasStructure": "LICOR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha tia faz licor de jabuticaba. → TIA MINHA FAZER LICOR JABUTICABA.",
         "Quer um pouco de licor? → LICOR POUCO VOCÊ QUERER?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=94&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1381,21 +1813,29 @@
       "situation": "Na festa, seu tio pede uma dose de uísque com gelo.",
       "translation": "Uísque",
       "librasStructure": "UÍSQUE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu tio só bebe uísque. → TIO MEU BEBER UÍSQUE SÓ.",
         "Uísque com gelo, por favor. → UÍSQUE GELO, POR-FAVOR."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=103&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=103&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1406,21 +1846,29 @@
       "situation": "Na festa de formatura, o garçom serve um coquetel colorido.",
       "translation": "Coquetel",
       "librasStructure": "COQUETEL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse coquetel tem álcool? → COQUETEL ESSE TER ÁLCOOL?",
         "Quero um coquetel sem álcool. → EU QUERER COQUETEL SEM ÁLCOOL."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=111&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=111&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1431,21 +1879,29 @@
       "situation": "No bar com os amigos, você pede uma caipirinha de limão.",
       "translation": "Caipirinha",
       "librasStructure": "CAIPIRINHA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Uma caipirinha de limão, por favor. → CAIPIRINHA LIMÃO UMA, POR-FAVOR.",
         "A caipirinha é uma bebida brasileira. → CAIPIRINHA BEBIDA BRASIL."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=124&end=128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1456,21 +1912,29 @@
       "situation": "Na festa, um amigo prepara um drinque com vodca e suco de laranja.",
       "translation": "Vodca",
       "librasStructure": "VODCA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Esse suco tem vodca? → SUCO ESSE TER VODCA?",
         "Eu não bebo vodca, é muito forte. → EU BEBER VODCA NÃO, FORTE MUITO."
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=134&end=137&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1481,21 +1945,29 @@
       "situation": "No bar, seu avô pede uma Caracu, a cerveja escura de que ele gosta.",
       "translation": "Caracu",
       "librasStructure": "CARACU",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu avô gosta de Caracu com ovo. → AVÔ MEU GOSTAR CARACU OVO.",
         "Tem Caracu gelada? → CARACU GELADA TER?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=138&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=138&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -1506,21 +1978,29 @@
       "situation": "No restaurante mexicano, seu amigo pede uma dose de tequila com sal e limão.",
       "translation": "Tequila",
       "librasStructure": "TEQUILA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tequila se toma com sal e limão. → TEQUILA TOMAR SAL LIMÃO.",
         "Você já provou tequila? → VOCÊ PROVAR TEQUILA JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=149&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/5VQ5YkCsu6k?start=149&end=152&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5VQ5YkCsu6k",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-10T23:56:33.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]

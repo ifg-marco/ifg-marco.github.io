@@ -39,20 +39,28 @@
       "situation": "Na unidade de saúde, você conversa com profissionais da saúde e explica o motivo da sua visita.",
       "translation": "Profissionais da saúde",
       "librasStructure": "PROFISSIONAIS-DA-SAÚDE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Os profissionais da saúde trabalharam muito na pandemia. → PANDEMIA PROFISSIONAIS-DA-SAÚDE TRABALHAR MUITO.",
         "Profissionais da saúde precisam aprender Libras. → PROFISSIONAIS-DA-SAÚDE LIBRAS APRENDER PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=7&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=7&end=10&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -63,20 +71,28 @@
       "situation": "Ao acompanhar um familiar, você informa que ele está no hospital e pergunta como pode ajudar.",
       "translation": "Hospital",
       "librasStructure": "HOSPITAL",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu avô está no hospital. → AVÔ MEU HOSPITAL.",
         "O hospital tem intérprete de Libras? → HOSPITAL INTÉRPRETE-DE-LIBRAS TER?"
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=18&end=21&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -87,20 +103,28 @@
       "situation": "Na aula de saúde pública, você explica como uma epidemia pode afetar muitas pessoas em uma região.",
       "translation": "Epidemia",
       "librasStructure": "EPIDEMIA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "A cidade enfrenta uma epidemia de dengue. → CIDADE EPIDEMIA DENGUE.",
         "Na epidemia, os hospitais ficaram cheios. → EPIDEMIA, HOSPITAL CHEIO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=21&end=25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -111,20 +135,28 @@
       "situation": "Na entrada da unidade, você coloca a máscara e lembra a colega de seguir a orientação do serviço.",
       "translation": "Máscara",
       "librasStructure": "MÁSCARA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Coloque a máscara, por favor. → MÁSCARA COLOCAR, POR-FAVOR.",
         "A máscara atrapalha a leitura labial. → MÁSCARA LER LÁBIOS ATRAPALHAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=25&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=25&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -135,20 +167,28 @@
       "situation": "Durante a campanha, você explica que o contágio pode ser reduzido com higiene e prevenção adequada.",
       "translation": "Contágio",
       "librasStructure": "CONTÁGIO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Lavar as mãos evita o contágio. → MÃO LAVAR, CONTÁGIO EVITAR.",
         "O contágio da gripe é rápido. → GRIPE CONTÁGIO RÁPIDO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=32&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -159,21 +199,29 @@
       "situation": "Ao falar de prevenção, você explica que é possível contrair uma doença sem perceber.",
       "translation": "Contrair (doença)",
       "librasStructure": "CONTRAIR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Ele contraiu dengue na viagem. → VIAGEM ELE DENGUE CONTRAIR.",
         "Como evitar contrair gripe? → GRIPE CONTRAIR EVITAR COMO?"
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=36&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=36&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -184,21 +232,29 @@
       "situation": "Na consulta, você conta as doenças que já teve e pergunta que cuidados manter.",
       "translation": "Doença(s)",
       "librasStructure": "DOENÇA(S)",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Já tive catapora e sarampo. → DOENÇA(S) EU TER: CATAPORA, SARAMPO.",
         "Vacina previne doenças graves. → VACINA DOENÇA(S) GRAVE PREVENIR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=40&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         }
       ]
@@ -209,20 +265,28 @@
       "situation": "Na explicação sobre microrganismos, você mostra como a proliferação aumenta quando não há medidas de prevenção.",
       "translation": "Proliferação",
       "librasStructure": "PROLIFERAÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Água parada ajuda a proliferação do mosquito. → ÁGUA PARADA MOSQUITO PROLIFERAÇÃO AJUDAR.",
         "O calor acelera a proliferação de bactérias. → CALOR BACTÉRIA PROLIFERAÇÃO RÁPIDO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=44&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -233,20 +297,28 @@
       "situation": "Ao marcar uma consulta, você pergunta sobre o exame ginecológico e os cuidados antes do atendimento.",
       "translation": "Exame ginecológico",
       "librasStructure": "EXAME-GINECOLÓGICO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Marquei o exame ginecológico. → EXAME-GINECOLÓGICO EU MARCAR.",
         "Faça o exame ginecológico todo ano. → EXAME-GINECOLÓGICO FAZER ANO TODO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=52&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -257,20 +329,28 @@
       "situation": "Na conversa sobre prevenção, você lembra um familiar de conversar com o profissional sobre o exame de próstata.",
       "translation": "Exame de próstata",
       "librasStructure": "EXAME-DE-PRÓSTATA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Homem acima de 50 anos deve fazer exame de próstata. → HOMEM 50 ANOS MAIS, EXAME-DE-PRÓSTATA FAZER.",
         "Pai, já fez o exame de próstata? → PAI, EXAME-DE-PRÓSTATA FAZER JÁ?"
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -281,20 +361,28 @@
       "situation": "Na orientação de saúde, você monta um prato com alimentação balanceada e conversa sobre escolhas possíveis.",
       "translation": "Alimentação balanceada",
       "librasStructure": "ALIMENTAÇÃO-BALANCEADA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Alimentação balanceada tem arroz, feijão, verdura e carne. → ALIMENTAÇÃO-BALANCEADA: ARROZ, FEIJÃO, VERDURA, CARNE.",
         "A nutricionista recomendou alimentação balanceada. → NUTRICIONISTA ALIMENTAÇÃO-BALANCEADA RECOMENDAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=61&end=64&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -305,20 +393,28 @@
       "situation": "Ao planejar a semana, você inclui atividade física e escolhe uma prática que gosta de fazer.",
       "translation": "Atividade física",
       "librasStructure": "ATIVIDADE-FÍSICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Faça atividade física três vezes por semana. → ATIVIDADE-FÍSICA SEMANA 3 VEZES FAZER.",
         "Qual atividade física você gosta? → ATIVIDADE-FÍSICA VOCÊ GOSTAR QUAL?"
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=65&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=65&end=69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -329,20 +425,28 @@
       "situation": "Na conversa sobre prevenção, você explica os riscos do excesso de bebida alcoólica e respeita escolhas individuais.",
       "translation": "Bebida alcoólica",
       "librasStructure": "BEBIDA-ALCOÓLICA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Bebida alcoólica e direção não combinam. → BEBIDA-ALCOÓLICA DIRIGIR COMBINAR NÃO.",
         "Grávida não deve tomar bebida alcoólica. → GRÁVIDA BEBIDA-ALCOÓLICA BEBER NÃO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -353,20 +457,28 @@
       "situation": "Ao observar a rotina, você percebe sedentarismo e pensa em pequenas mudanças para se movimentar mais.",
       "translation": "Sedentarismo",
       "librasStructure": "SEDENTARISMO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O sedentarismo faz mal ao coração. → SEDENTARISMO CORAÇÃO MAL.",
         "Para sair do sedentarismo, caminhe todo dia. → SEDENTARISMO SAIR, CAMINHAR TODO-DIA."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=82&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -377,21 +489,29 @@
       "situation": "Antes da prova, você reconhece o estresse (formas 1 e 2 do sinal) e decide fazer uma pausa.",
       "translation": "Estresse (formas 1 e 2)",
       "librasStructure": "ESTRESSE (FORMA 1), ESTRESSE (FORMA 2)",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O estresse está me deixando doente. → ESTRESSE DEIXAR-ME DOENTE.",
         "Uma pausa ajuda a diminuir o estresse. → PAUSA ESTRESSE DIMINUIR AJUDAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=87&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=87&end=97&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
             "examples",
-            "situation"
+            "situation",
+            "videos"
           ]
         },
         {
@@ -419,20 +539,28 @@
       "situation": "Na campanha de prevenção, você explica os efeitos do tabagismo e indica onde buscar apoio para parar.",
       "translation": "Tabagismo",
       "librasStructure": "TABAGISMO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O SUS ajuda a combater o tabagismo. → SUS TABAGISMO COMBATER AJUDAR.",
         "O tabagismo causa câncer de pulmão. → TABAGISMO CÂNCER PULMÃO CAUSAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=97&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=97&end=100&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -443,20 +571,28 @@
       "situation": "Na orientação sobre prevenção, você explica que o preservativo ajuda a reduzir o risco de ISTs.",
       "translation": "Preservativo",
       "librasStructure": "PRESERVATIVO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O posto distribui preservativo de graça. → POSTO PRESERVATIVO DAR GRÁTIS.",
         "Use preservativo em toda relação. → RELAÇÃO TODA PRESERVATIVO USAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=102&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=102&end=106&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -467,20 +603,28 @@
       "situation": "Antes da consulta, você leva o cartão de vacinação para conferir se as doses estão atualizadas.",
       "translation": "Cartão de vacinação",
       "librasStructure": "CARTÃO-DE-VACINAÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Trouxe o cartão de vacinação? → CARTÃO-DE-VACINAÇÃO VOCÊ TRAZER?",
         "Meu cartão de vacinação está atualizado. → CARTÃO-DE-VACINAÇÃO MEU ATUALIZADO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=109&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=109&end=113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -491,20 +635,28 @@
       "situation": "Na consulta, você pergunta quais medidas podem aliviar dores sem interromper o tratamento indicado.",
       "translation": "Aliviar dores",
       "librasStructure": "ALIVIAR-DORES",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Compressa quente ajuda a aliviar dores. → COMPRESSA QUENTE ALIVIAR-DORES AJUDAR.",
         "O remédio vai aliviar suas dores. → REMÉDIO ALIVIAR-DORES SUAS."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=114&end=117&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -515,20 +667,28 @@
       "situation": "Ao acompanhar um familiar, você pergunta ao profissional sobre insuficiência cardíaca e os cuidados necessários.",
       "translation": "Insuficiência cardíaca",
       "librasStructure": "INSUFICIÊNCIA-CARDÍACA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu avô tem insuficiência cardíaca. → AVÔ MEU INSUFICIÊNCIA-CARDÍACA.",
         "Insuficiência cardíaca causa cansaço. → INSUFICIÊNCIA-CARDÍACA CANSAÇO CAUSAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=119&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=119&end=124&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -539,20 +699,28 @@
       "situation": "Durante o atendimento, você avisa que está com falta de ar e pede ajuda imediatamente.",
       "translation": "Falta de ar",
       "librasStructure": "FALTA-DE-AR",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Estou com falta de ar! → EU FALTA-DE-AR!",
         "Falta de ar é motivo para ir ao hospital. → FALTA-DE-AR, HOSPITAL IR PRECISAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=124&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=124&end=129&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -563,20 +731,28 @@
       "situation": "Depois das refeições, você descreve refluxo e pergunta ao profissional quais mudanças podem ajudar.",
       "translation": "Refluxo",
       "librasStructure": "REFLUXO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Tenho refluxo depois do jantar. → JANTAR DEPOIS, EU REFLUXO.",
         "Não deite logo depois de comer, por causa do refluxo. → COMER DEPOIS DEITAR NÃO, REFLUXO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=139&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=139&end=140&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -587,20 +763,28 @@
       "situation": "Na consulta, você conversa sobre infertilidade com respeito e pergunta quais avaliações existem.",
       "translation": "Infertilidade",
       "librasStructure": "INFERTILIDADE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O casal faz tratamento para infertilidade. → CASAL TRATAMENTO INFERTILIDADE.",
         "Infertilidade pode afetar homens e mulheres. → INFERTILIDADE HOMEM MULHER AFETAR PODER."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=141&end=144&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -611,20 +795,28 @@
       "situation": "Na aula sobre reprodução, você identifica o espermatozoide no esquema e explica sua função.",
       "translation": "Espermatozoide",
       "librasStructure": "ESPERMATOZOIDE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O espermatozoide encontra o óvulo. → ESPERMATOZOIDE ÓVULO ENCONTRAR.",
         "O espermatozoide é muito pequeno. → ESPERMATOZOIDE PEQUENO MUITO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=146&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=146&end=149&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -635,20 +827,28 @@
       "situation": "Na consulta oftalmológica, você pergunta sobre catarata e os exames necessários para acompanhar a visão.",
       "translation": "Catarata",
       "librasStructure": "CATARATA",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Minha avó operou a catarata. → AVÓ MINHA CATARATA OPERAR.",
         "A catarata deixa a visão embaçada. → CATARATA VISÃO EMBAÇADA DEIXAR."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=160&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=160&end=163&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -659,20 +859,28 @@
       "situation": "Ao organizar o atendimento, você verifica se o plano de saúde cobre o exame indicado.",
       "translation": "Plano de saúde",
       "librasStructure": "PLANO-DE-SAÚDE",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu plano de saúde cobre esse exame? → PLANO-DE-SAÚDE MEU EXAME ESSE COBRIR?",
         "Plano de saúde é caro. → PLANO-DE-SAÚDE CARO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=164&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=164&end=167&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -683,20 +891,28 @@
       "situation": "Na recepção, você informa que usa o Ipasgo e pergunta como autorizar a consulta.",
       "translation": "Ipasgo",
       "librasStructure": "IPASGO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Eu uso o Ipasgo. → EU IPASGO USAR.",
         "Essa clínica atende pelo Ipasgo? → CLÍNICA ESSA IPASGO ATENDER?"
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=169&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=169&end=172&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -707,20 +923,28 @@
       "situation": "Na unidade pública, você apresenta o cartão do SUS e aguarda o atendimento agendado.",
       "translation": "SUS",
       "librasStructure": "SUS",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "O SUS é gratuito para todos. → SUS GRÁTIS TODOS.",
         "Fiz a cirurgia pelo SUS. → FAZER-CIRURGIA EU SUS."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=173&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=173&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -731,20 +955,28 @@
       "situation": "Ao receber notícias do hospital, você entende que o familiar está na UTI e procura informações da equipe.",
       "translation": "UTI",
       "librasStructure": "UTI",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Meu tio está na UTI. → TIO MEU UTI.",
         "Na UTI, a visita é curta. → UTI VISITA CURTA."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=177&end=181&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
@@ -755,20 +987,28 @@
       "situation": "Na consulta, você descreve os sintomas e pergunta se podem indicar uma infecção.",
       "translation": "Infecção",
       "librasStructure": "INFECÇÃO",
-      "notes": "Observe a configuração de mão, o local, o movimento e a expressão facial. Pode haver variação regional deste sinal; confirme o uso com a comunidade surda da sua cidade.",
+      "notes": "",
       "examples": [
         "Estou com infecção na garganta. → GARGANTA EU INFECÇÃO.",
         "O médico deu antibiótico para a infecção. → MÉDICO ANTIBIÓTICO DAR INFECÇÃO."
       ],
-      "video": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=182&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LGRPZf4Y1Mc?start=182&end=184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LGRPZf4Y1Mc",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T00:14:41.000Z",
+          "at": "2026-10-11T01:58:08.000Z",
           "changes": [
             "created",
-            "examples"
+            "examples",
+            "videos"
           ]
         }
       ]
