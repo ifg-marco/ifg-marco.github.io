@@ -532,323 +532,355 @@
     },
     {
       "id": "ines-alimentos-e-bebidas",
-      "hash": "7ee753f720c0251b",
+      "hash": "30717cb73421f459",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Alimentos e bebidas — vídeos direto do site do INES",
       "description": "124 sinais do tema “Alimentos e bebidas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 124,
       "collection": "Dicionário INES",
-      "order": 1
+      "order": 6,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-animais-insetos-peixes-e-aves",
-      "hash": "027fec6b1d7b5b81",
+      "hash": "59bf399ea881bee8",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Animais, insetos, peixes e aves — vídeos direto do site do INES",
       "description": "155 sinais do tema “Animais, insetos, peixes e aves”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 155,
       "collection": "Dicionário INES",
-      "order": 2
+      "order": 9,
+      "difficulty": "basico"
     },
     {
       "id": "ines-ano-sideral-e-calendario",
-      "hash": "3494db61de40c8c2",
+      "hash": "02ecf1fc464b94ee",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Ano sideral e calendário — vídeos direto do site do INES",
       "description": "71 sinais do tema “Ano sideral e calendário”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 71,
       "collection": "Dicionário INES",
-      "order": 3
+      "order": 10,
+      "difficulty": "basico"
     },
     {
       "id": "ines-aparelhos-e-maquinas",
-      "hash": "55812d77f4e13985",
+      "hash": "0c5e9fef7b62123c",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Aparelhos e máquinas — vídeos direto do site do INES",
       "description": "143 sinais do tema “Aparelhos e máquinas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 143,
       "collection": "Dicionário INES",
-      "order": 4
+      "order": 11,
+      "difficulty": "basico"
     },
     {
       "id": "ines-casa",
-      "hash": "14425c51a9fd210f",
+      "hash": "3fe553f607579833",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Casa — vídeos direto do site do INES",
       "description": "107 sinais do tema “Casa”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 107,
       "collection": "Dicionário INES",
-      "order": 5
+      "order": 7,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-cores-e-formas",
-      "hash": "9ba16657987c92be",
+      "hash": "d8caba3146dfa502",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Cores e formas — vídeos direto do site do INES",
       "description": "40 sinais do tema “Cores e formas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 40,
       "collection": "Dicionário INES",
-      "order": 6
+      "order": 2,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-corpo",
-      "hash": "b4d57aef39b29e93",
+      "hash": "5418bc1fc1ba48f7",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Corpo — vídeos direto do site do INES",
       "description": "146 sinais do tema “Corpo”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 146,
       "collection": "Dicionário INES",
-      "order": 7
+      "order": 4,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-esporte-e-diversao",
-      "hash": "45a235352ffea135",
+      "hash": "d97d81d01f69623b",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Esporte e diversão — vídeos direto do site do INES",
       "description": "188 sinais do tema “Esporte e diversão”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 188,
       "collection": "Dicionário INES",
-      "order": 8
+      "order": 12,
+      "difficulty": "basico"
     },
     {
       "id": "ines-familia",
-      "hash": "b1a0cfc6b9b19815",
+      "hash": "2358b1ad5b9eff15",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Família — vídeos direto do site do INES",
       "description": "46 sinais do tema “Família”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 46,
       "collection": "Dicionário INES",
-      "order": 9
+      "order": 1,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-frutas",
-      "hash": "cd1df85f7f8b60c2",
+      "hash": "a5a72c5237dc93a3",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Frutas — vídeos direto do site do INES",
       "description": "37 sinais do tema “Frutas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 37,
       "collection": "Dicionário INES",
-      "order": 10
+      "order": 5,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-higiene-e-saude",
-      "hash": "0328dd97cfffea4a",
+      "hash": "4e53def10755a84f",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Higiene e saúde — vídeos direto do site do INES",
       "description": "165 sinais do tema “Higiene e saúde”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 165,
       "collection": "Dicionário INES",
-      "order": 11
+      "order": 13,
+      "difficulty": "basico"
     },
     {
       "id": "ines-legumes-e-verduras",
-      "hash": "1b79767c284eafb0",
+      "hash": "6b0aa181f4bb1a58",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Legumes e verduras — vídeos direto do site do INES",
       "description": "26 sinais do tema “Legumes e verduras”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 26,
       "collection": "Dicionário INES",
-      "order": 12
+      "order": 14,
+      "difficulty": "basico"
     },
     {
       "id": "ines-materia-e-substancias",
-      "hash": "a36218ee68d6cdf6",
+      "hash": "e019adeea6e89f16",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Matéria e substâncias — vídeos direto do site do INES",
       "description": "96 sinais do tema “Matéria e substâncias”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 96,
       "collection": "Dicionário INES",
-      "order": 13
+      "order": 15,
+      "difficulty": "basico"
     },
     {
       "id": "ines-numerais-e-dinheiro",
-      "hash": "d6e21c84ebde1e87",
+      "hash": "857b47427a748fd0",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Numerais e dinheiro — vídeos direto do site do INES",
       "description": "128 sinais do tema “Numerais e dinheiro”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 128,
       "collection": "Dicionário INES",
-      "order": 14
+      "order": 3,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-outros-a",
-      "hash": "7ab5a5404ba6ec22",
+      "hash": "1e513418f7539538",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, A — vídeos direto do site do INES",
       "description": "487 sinais (sem assunto definido no dicionário, letras A). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 487,
       "collection": "Dicionário INES",
-      "order": 21
+      "order": 21,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-b",
-      "hash": "26dbc46ee459ba47",
+      "hash": "83d4c8fa22235f79",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, B — vídeos direto do site do INES",
       "description": "140 sinais (sem assunto definido no dicionário, letras B). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 140,
       "collection": "Dicionário INES",
-      "order": 22
+      "order": 22,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-c",
-      "hash": "5564d052ccf16eae",
+      "hash": "b2c49af08b8b38cb",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, C — vídeos direto do site do INES",
       "description": "407 sinais (sem assunto definido no dicionário, letras C). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 407,
       "collection": "Dicionário INES",
-      "order": 23
+      "order": 23,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-d",
-      "hash": "82b71d0449c5ad3e",
+      "hash": "1cd1f5dbb684ff26",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, D — vídeos direto do site do INES",
       "description": "260 sinais (sem assunto definido no dicionário, letras D). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 260,
       "collection": "Dicionário INES",
-      "order": 24
+      "order": 24,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-e",
-      "hash": "3df3462325c85682",
+      "hash": "b4e63ecbb057505a",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, E — vídeos direto do site do INES",
       "description": "287 sinais (sem assunto definido no dicionário, letras E). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 287,
       "collection": "Dicionário INES",
-      "order": 25
+      "order": 25,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-f-h",
-      "hash": "6dbe24e1e9f58120",
+      "hash": "3028efcc2c6884e1",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, F a H — vídeos direto do site do INES",
       "description": "275 sinais (sem assunto definido no dicionário, letras F a H). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 275,
       "collection": "Dicionário INES",
-      "order": 26
+      "order": 26,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-i-l",
-      "hash": "c6395e168865fb5e",
+      "hash": "dd4b10b12e05c78c",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, I a L — vídeos direto do site do INES",
       "description": "346 sinais (sem assunto definido no dicionário, letras I a L). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 346,
       "collection": "Dicionário INES",
-      "order": 27
+      "order": 27,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-m-o",
-      "hash": "f87629aac80db499",
+      "hash": "9dfce64f63ca7e56",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, M a O — vídeos direto do site do INES",
       "description": "350 sinais (sem assunto definido no dicionário, letras M a O). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 350,
       "collection": "Dicionário INES",
-      "order": 28
+      "order": 28,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-p",
-      "hash": "326899c21456cc40",
+      "hash": "951ba304a48f26f4",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, P — vídeos direto do site do INES",
       "description": "379 sinais (sem assunto definido no dicionário, letras P). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 379,
       "collection": "Dicionário INES",
-      "order": 29
+      "order": 29,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-q-r",
-      "hash": "da6b8f0977853064",
+      "hash": "da208deee0f3704b",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, Q a R — vídeos direto do site do INES",
       "description": "258 sinais (sem assunto definido no dicionário, letras Q a R). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 258,
       "collection": "Dicionário INES",
-      "order": 30
+      "order": 30,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-s-u",
-      "hash": "038183bb8ec15d47",
+      "hash": "b72e49472a8aa3a1",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, S a U — vídeos direto do site do INES",
       "description": "351 sinais (sem assunto definido no dicionário, letras S a U). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 351,
       "collection": "Dicionário INES",
-      "order": 31
+      "order": 31,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-outros-v-z",
-      "hash": "fa112d8624e4f52b",
+      "hash": "79000f5d3a2479c4",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, V a Z — vídeos direto do site do INES",
       "description": "169 sinais (sem assunto definido no dicionário, letras V a Z). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 169,
       "collection": "Dicionário INES",
-      "order": 32
+      "order": 32,
+      "difficulty": "intermediario"
     },
     {
       "id": "ines-paises-estados-e-cidades",
-      "hash": "8222ce0063c8801b",
+      "hash": "3bdf7613dfbe7540",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Países, estados e cidades — vídeos direto do site do INES",
       "description": "106 sinais do tema “Países, estados e cidades”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 106,
       "collection": "Dicionário INES",
-      "order": 15
+      "order": 16,
+      "difficulty": "basico"
     },
     {
       "id": "ines-plantas-flores-e-natureza",
-      "hash": "84fea108e08a35fb",
+      "hash": "2f3cda9f6786fd5e",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Plantas, flores e natureza — vídeos direto do site do INES",
       "description": "112 sinais do tema “Plantas, flores e natureza”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 112,
       "collection": "Dicionário INES",
-      "order": 16
+      "order": 17,
+      "difficulty": "basico"
     },
     {
       "id": "ines-profissoes-e-trabalho",
-      "hash": "d4022c11c1492906",
+      "hash": "b743021df0b1a3e3",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Profissões e trabalho — vídeos direto do site do INES",
       "description": "176 sinais do tema “Profissões e trabalho”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 176,
       "collection": "Dicionário INES",
-      "order": 17
+      "order": 18,
+      "difficulty": "basico"
     },
     {
       "id": "ines-sentimentos",
-      "hash": "53ce37d0a1321974",
+      "hash": "59a4f018c8d312ee",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Sentimentos — vídeos direto do site do INES",
       "description": "83 sinais do tema “Sentimentos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 83,
       "collection": "Dicionário INES",
-      "order": 18
+      "order": 8,
+      "difficulty": "iniciante"
     },
     {
       "id": "ines-transportes-e-veiculos",
-      "hash": "de4e3f1b6a9e4858",
+      "hash": "deaf350a52a74fff",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Transportes e veículos — vídeos direto do site do INES",
       "description": "71 sinais do tema “Transportes e veículos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 71,
       "collection": "Dicionário INES",
-      "order": 19
+      "order": 19,
+      "difficulty": "basico"
     },
     {
       "id": "ines-vestuario-e-complementos",
-      "hash": "d2ed42beca0f425a",
+      "hash": "5f3bacac2504c13d",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Vestuário e complementos — vídeos direto do site do INES",
       "description": "95 sinais do tema “Vestuário e complementos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
       "cardCount": 95,
       "collection": "Dicionário INES",
-      "order": 20
+      "order": 20,
+      "difficulty": "basico"
     },
     {
       "id": "ist",

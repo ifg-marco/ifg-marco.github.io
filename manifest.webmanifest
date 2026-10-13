@@ -1,8 +1,17 @@
 {
   "name": "Caderno de Libras",
   "short_name": "Caderno de Libras",
+  "id": "./",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": [
+      "navigate-existing",
+      "auto"
+    ]
+  },
   "orientation": "portrait",
   "background_color": "#f7fafc",
   "theme_color": "#46178f",
