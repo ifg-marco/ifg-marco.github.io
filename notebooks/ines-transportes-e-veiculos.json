@@ -1,0 +1,4013 @@
+{
+  "id": "ines-transportes-e-veiculos",
+  "title": "INES: Transportes e veículos — vídeos direto do site do INES",
+  "description": "71 sinais do tema “Transportes e veículos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
+  "section": "Caderno público",
+  "author": "INES (organização: Marco Antônio)",
+  "createdAt": "2026-10-12T12:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-12T12:00:00.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Dicionário INES",
+  "order": 19,
+  "cards": [
+    {
+      "id": "ines-6885",
+      "section": "A",
+      "situation": "Transporte coletivo marítimo, que é mais rápido que os demais, porque desenvolve maior velocidade que eles.",
+      "translation": "Aerobarco (1)",
+      "librasStructure": "AEROBARCO HORÁRIO LOTAD@ !",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Os horários do aerobarco estão lotados! → AEROBARCO HORÁRIO LOTAD@ !"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aerobarco1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6977",
+      "section": "A",
+      "situation": "Transporte coletivo marítimo que desenvolve maior velocidade que os demais.",
+      "translation": "Aerobarco (2)",
+      "librasStructure": "BRASILEIR@ GOVERNO IMPORTAR JAPÃO AEROBARCO 4 NOV@ .",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 37a · Etimologia: Nacional",
+      "examples": [
+        "O governo brasileiro importou 4 novos aerobarcos do Japão. → BRASILEIR@ GOVERNO IMPORTAR JAPÃO AEROBARCO 4 NOV@ ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aerobarco2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "37a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-63",
+      "section": "A",
+      "situation": "Local de partida e chegada de aviões, que possui instalações para atendimento e prestação de serviço aos passageiros e outras pessoas que nele transitem.",
+      "translation": "Aeroporto",
+      "librasStructure": "AEROPORTO INTERNACIONAL FECHAD@ POR-CAUSA FOGO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "O Aeroporto Internacional está fechado por causa do fogo. → AEROPORTO INTERNACIONAL FECHAD@ POR-CAUSA FOGO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aeroportoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6",
+      "section": "A",
+      "situation": "Carro usado no transporte de doentes e feridos, dotado de maca e de medicamentos para tratamento de emergência.",
+      "translation": "Ambulância",
+      "librasStructure": "V-O-V-O M-A-L RÁPIDO 1sTELEFONAR3s LUZ-PISCARcontinuativo^HOSPITAL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Ligue rápido para a ambulância, que vovô está passando mal. → V-O-V-O M-A-L RÁPIDO 1sTELEFONAR3s LUZ-PISCARcontinuativo^HOSPITAL."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6750",
+      "section": "A",
+      "situation": "O que é dotado de um mecanismo que o faz funcionar independente de ajuda.",
+      "translation": "Automático (2)",
+      "librasStructure": "EU COMPRAR CARRO IMPORTAD@ AUTOMÁTIC@.",
+      "notes": "Classe gramatical: Adjetivo · Assunto: Transportes e veículos · Configuração de mão: 33 · Etimologia: Nacional",
+      "examples": [
+        "Comprei um carro importado automático. → EU COMPRAR CARRO IMPORTAD@ AUTOMÁTIC@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/automatico2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "33",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg33.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-550",
+      "section": "A",
+      "situation": "Veículo movido a motor de explosão; auto; carro. .",
+      "translation": "Automóvel",
+      "librasStructure": "EU VONTADE COMPRAR AUTOMÓVEL NOV@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Eu tenho vontade de comprar um automóvel novo. → EU VONTADE COMPRAR AUTOMÓVEL NOV@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/automovelSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-79",
+      "section": "A",
+      "situation": "Aparelho usado como meio de transporte aéreo para passageiros ou cargas. É dotado de motores que possibilitam seu vôo.",
+      "translation": "Avião (1)",
+      "librasStructure": "HOMEM RIC@ TER PRÓPRI@ AVIÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Um homem rico tem seu próprio avião. → HOMEM RIC@ TER PRÓPRI@ AVIÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5176",
+      "section": "A",
+      "situation": "Aparelho usado como meio de transporte aéreo para passageiros ou cargas. É dotado de motores que possibilitam seu vôo.",
+      "translation": "Avião (2)",
+      "librasStructure": "ME@ TI@ AVIÃO-GUERRA PILOTAR JÁ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 36 · Etimologia: Nacional",
+      "examples": [
+        "O meu tio já pilotou avião de guerra. → ME@ TI@ AVIÃO-GUERRA PILOTAR JÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "36",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg36.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5274",
+      "section": "A",
+      "situation": "um tipo de avião a jato usado como meio de transporte aéreo.",
+      "translation": "Avião (3)",
+      "librasStructure": "AVIÃO JATO VOCÊ JÁ VOAR?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Você já andou no avião a jato? → AVIÃO JATO VOCÊ JÁ VOAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao3Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6757",
+      "section": "B",
+      "situation": "Troca de transporte ou veículo.",
+      "translation": "Baldeação",
+      "librasStructure": "LÁ METRÔ ESTAÇÃO^TROCA DEMORARmuito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "A baldeação daquele metrô demora demais. → LÁ METRÔ ESTAÇÃO^TROCA DEMORARmuito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/baldeacaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6266",
+      "section": "B",
+      "situation": "Jangada grande para transporte de cargas em rios; meio de transporte rudimentar, muito usado no interior do Brasil.",
+      "translation": "Balsa",
+      "librasStructure": "EU VIAJAR LÁ AMAZONAS CARRO veículoBALSA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "Eu viajei para Amazonas e fui de carro pela balsa. → EU VIAJAR LÁ AMAZONAS CARRO veículoBALSA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/balsaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-195",
+      "section": "B",
+      "situation": "Embarcação alongada e de tamanho médio, que deslisa sobre a água e pode transportar um número limitado de pessoas.",
+      "translation": "Barca",
+      "librasStructure": "BARCA ENORME PARECER CASA!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Que barca enorme, parece uma casa! → BARCA ENORME PARECER CASA!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/barcaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-196",
+      "section": "B",
+      "situation": "Embarcação pequena e sem cobertura, conduzida com a ajuda de remos.",
+      "translation": "Barco",
+      "librasStructure": "DIVERTIR BARCO PESCAR BO@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "É divertido pescar do barco, é muito bom! → DIVERTIR BARCO PESCAR BO@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/barcoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-253",
+      "section": "B",
+      "situation": "Veículo estruturado sobre duas rodas, movido pelo impulso dos pés sobre pedais laterais.",
+      "translation": "Bicicleta",
+      "librasStructure": "NÓS-3 ADORAR PASSEAR EM-VOLTA BICICLETA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Nós adoramos passear, dando voltas de bicicleta. → NÓS-3 ADORAR PASSEAR EM-VOLTA BICICLETA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bicicletaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4222",
+      "section": "B",
+      "situation": "Tipo de transporte coletivo que anda sobre trilhos, movido por eletricidade.",
+      "translation": "Bondinho",
+      "librasStructure": "ANTIG@ LÁ CIDADE BONDINHO BONIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Antigamente aquela cidade tinha um bondinho bonito. → ANTIG@ LÁ CIDADE BONDINHO BONIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bondinhoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1246",
+      "section": "C",
+      "situation": "Veículo automóvel para transporte de carga, com quatro ou mais rodas.",
+      "translation": "Caminhão",
+      "librasStructure": "CAMINHÃO PEDRA CHEI@ veículoCAIR R-U-A SUJAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 64 · Etimologia: Nacional",
+      "examples": [
+        "O caminhão cheio de pedras caiu e sujou a rua. → CAMINHÃO PEDRA CHEI@ veículoCAIR R-U-A SUJAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/caminhaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "64",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1248",
+      "section": "C",
+      "situation": "Veículo automóvel apropriado para o transporte de passageiros ou de pequenas cargas.",
+      "translation": "Caminhonete",
+      "librasStructure": "AMIG@ ME@ CAMINHONETE VERMELH@ LIND@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 64 · Etimologia: Nacional",
+      "examples": [
+        "Meu amigo tem uma linda caminhonete vermelha. → AMIG@ ME@ CAMINHONETE VERMELH@ LIND@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/caminhoneteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "64",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1279",
+      "section": "C",
+      "situation": "Pequena embarcação sem quilha e sem coberta, composta de um casco.",
+      "translation": "Canoa",
+      "librasStructure": "ÍNDI@ PESCAR CANOA SEMPRE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Os índios sempre usam canoas para pescar. → ÍNDI@ PESCAR CANOA SEMPRE."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1329",
+      "section": "C",
+      "situation": "Espécie de berço com rodinhas e controle manual, para transportar bebês ou crianças pequenas.",
+      "translation": "Carrinho (2)",
+      "librasStructure": "PRAIA EU PASSEAR TODO-DIA BEBÊ CARRINHO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Todo dia eu passeio na praia com meu bebê no carrinho. → PRAIA EU PASSEAR TODO-DIA BEBÊ CARRINHO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carrinho2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1330",
+      "section": "C",
+      "situation": "Veículo automóvel destinado ao transporte de pessoas ou de carga.",
+      "translation": "Carro",
+      "librasStructure": "PRIMO ME@ CARRO NOV@ COMPRAR ANO-PASSADO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Meu primo comprou um carro novo. → PRIMO ME@ CARRO NOV@ COMPRAR ANO-PASSADO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1331",
+      "section": "C",
+      "situation": "Carro rústico de duas ou quatro rodas, puxado por cavalo, burro ou boi, para transporte de cargas, especialmente no campo.",
+      "translation": "Carroça",
+      "librasStructure": "TI@ ME@ FAZENDA CARROÇA BONIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "Na fazenda da minha tia tem uma carroça bonita. → TI@ ME@ FAZENDA CARROÇA BONIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carrocaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1475",
+      "section": "C",
+      "situation": "Faixa para passageiro colocar em torno do corpo antes de o veículo entrar em movimento.",
+      "translation": "Cinto (2)",
+      "librasStructure": "CARRO CINTO NÃO MULTA CAROmuito!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "A multa para quem não usa o cinto de segurança é alta. → CARRO CINTO NÃO MULTA CAROmuito!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cinto2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6158",
+      "section": "E",
+      "situation": "Qualquer veículo flutuante, destinado a navegar no mar, lagos ou rios.",
+      "translation": "Embarcação",
+      "librasStructure": "LÁ PORTO TER MUIT@ EMBARCAÇÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "No porto existem muitas embarcações. → LÁ PORTO TER MUIT@ EMBARCAÇÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/embarcacaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2861",
+      "section": "E",
+      "situation": "Local usado para estacionar veículos; parqueamento.",
+      "translation": "Estacionamento",
+      "librasStructure": "AQUI R-I-O ESTACIONAMENTO DIFÍCIL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "É difícil achar um estacionamento aqui no Rio. → AQUI R-I-O ESTACIONAMENTO DIFÍCIL."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/estacionamentoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2957",
+      "section": "F",
+      "situation": "Grande lanterna situada na parte dianteira dos veículos. Em automóveis e caminhões e similares, dos dois lados; em motocicletas, bicicletas e similares, no centro.",
+      "translation": "Farol (1)",
+      "librasStructure": "CARRO ME@ FAROL QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "O farol do meu carro quebrou. → CARRO ME@ FAROL QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/farol1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3053",
+      "section": "F",
+      "situation": "Veículo que realiza viagens ao espaço, tripulado por pessoas ou máquinas, com as mais diversas finalidades.",
+      "translation": "Foguete",
+      "librasStructure": "EUA RÚSSIA SEMPRE FAZER FOGUETE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "E.U.A e Rússia sempre fazem foguetes. → EUA RÚSSIA SEMPRE FAZER FOGUETE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fogueteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6198",
+      "section": "F",
+      "situation": "Parte do mecanismo do veículo que, ao ser acionado, interrompe imediatamente sua marcha.",
+      "translation": "Freio",
+      "librasStructure": "FREIO CARRO RUIM PRECISAR TROCAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "O freio do meu carro está ruim, preciso trocá-lo. → FREIO CARRO RUIM PRECISAR TROCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/freioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3089",
+      "section": "F",
+      "situation": "Forma de prestação de serviço; aluguel de transporte.",
+      "translation": "Frete",
+      "librasStructure": "MÊS DEPOIS EU CASA MUDAR, PRECISAR PROCURAR FRETE BARAT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Vou mudar de casa no mês que vem e preciso procurar um frete mais barato. → MÊS DEPOIS EU CASA MUDAR, PRECISAR PROCURAR FRETE BARAT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/freteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5092",
+      "section": "G",
+      "situation": "Barra de direção de bicicletas, motocicletas, lambretas e veículos similares; guiador.",
+      "translation": "Guidom",
+      "librasStructure": "BICICLETA GUIDOM QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "O guidom da bicicleta quebrou. → BICICLETA GUIDOM QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/guidomSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3951",
+      "section": "J",
+      "situation": "Plataforma formada de corpos flutuantes geralmente de madeira, ligados entre si por meio de cavilhas ou cordas de fibras especiais.",
+      "translation": "Jangada",
+      "librasStructure": "EU JÁ CEARÁ JANGADA PASSEAR BO@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 52 · Etimologia: Nacional",
+      "examples": [
+        "No Ceará, eu fui passear de jangada. Que bom! → EU JÁ CEARÁ JANGADA PASSEAR BO@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jangadaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "52",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3957",
+      "section": "J",
+      "situation": "Tipo de avião que funciona com propulsão obtida por jato de gases sob pressão, em sentido contrário ao ramo desejado.",
+      "translation": "Jato (2)",
+      "librasStructure": "ONTEM SP R-I-O AVIÃO-JATO RÁPIDO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Ontem vim de avião a jato de São Paulo ao Rio. → ONTEM SP R-I-O AVIÃO-JATO RÁPIDO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jato2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3434",
+      "section": "L",
+      "situation": "Embarcação de pequeno porte movida a motor, para navegação costeira, transporte ou lazer.",
+      "translation": "Lancha",
+      "librasStructure": "LANCHA CAROmuito DIFÍCIL COMPRAR SÓ RIC@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Uma lancha custa muito caro, somente rico pode comprar. → LANCHA CAROmuito DIFÍCIL COMPRAR SÓ RIC@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lanchaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3603",
+      "section": "L",
+      "situation": "Tipo de automóvel de luxo, imponente e espaçoso, usado em cerimônias importantes.",
+      "translation": "Limusine",
+      "librasStructure": "ATOR FAMOSO AQUEL@ TER LIMUSINE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Aquele ator famoso tem uma limusine. → ATOR FAMOSO AQUEL@ TER LIMUSINE."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4649",
+      "section": "M",
+      "situation": "Movimento que o motorista faz com o carro para sair ou entrar em uma vaga, ou durante o trajeto na rua.",
+      "translation": "Manobra",
+      "librasStructure": "ÔNIBUS MOTORISTA MANOBRA BEM EU TRANQÜIL@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "O motorista manobra bem e estou tranqüilo. → ÔNIBUS MOTORISTA MANOBRA BEM EU TRANQÜIL@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/manobraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3280",
+      "section": "M",
+      "situation": "Sistema de transporte urbano de passageiros. Circula em vias exclusivas subterrâneas e/ou superficiais, por tração elétrica dos comboios de veículos.",
+      "translation": "Metrô (1)",
+      "librasStructure": "METRÔ RÁPID@ DO-QUE ÔNIBUS.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "O metrô é mais rápido do que o ônibus. → METRÔ RÁPID@ DO-QUE ÔNIBUS."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/metro1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3281",
+      "section": "M",
+      "situation": "Sistema de transporte urbano de passageiros. Circula em vias exclusivas subterrâneas e/ou superficiais, por tração elétrica dos comboios de veículos.",
+      "translation": "Metrô (2)",
+      "librasStructure": "METRÔ RÁPID@ DO-QUE ÔNIBUS.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "O metrô é mais rápido do que ônibus. → METRÔ RÁPID@ DO-QUE ÔNIBUS."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/metro2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4661",
+      "section": "M",
+      "situation": "Veículo de pequeno porte, utilizado para o transporte de passageiros.",
+      "translation": "Microônibus",
+      "librasStructure": "HOJE MANHÃ VIR MICROÔNIBUS BONIT@ CONFORTO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "Hoje pela manhã, vim em um microônibus bonito, com conforto. → HOJE MANHÃ VIR MICROÔNIBUS BONIT@ CONFORTO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/microoinbusSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4679",
+      "section": "N",
+      "situation": "Veículo capaz de levar o homem a viagens interplanetárias.",
+      "translation": "Nave (1)",
+      "librasStructure": "JÁ CONHECER NOV@ NAVE N-A-S-A?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Você já conhece a nova nave da NASA? → JÁ CONHECER NOV@ NAVE N-A-S-A?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/nave1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-683",
+      "section": "N",
+      "situation": "Embarcação de grande porte.",
+      "translation": "Navio",
+      "librasStructure": "S-I EU VIAJAR EUROPA EU PREFERIR NAVIO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Se eu viajar para Europa vou preferir o navio. → S-I EU VIAJAR EUROPA EU PREFERIR NAVIO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/navioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4880",
+      "section": "O",
+      "situation": "Veículo para o transporte público, movido por contato com cabos elétricos.",
+      "translation": "Ônibus (1)",
+      "librasStructure": "SÃO PAULO ATÉ HOJE TER ÔNIBUS-ELÉTRIC@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "Em São Paulo tem ônibus elétrico até hoje. → SÃO PAULO ATÉ HOJE TER ÔNIBUS-ELÉTRIC@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/onibus2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5603",
+      "section": "O",
+      "situation": "Meio de transporte, especialmente para viagens noturnas, dotado de assentos reclináveis que servem como camas.",
+      "translation": "Ônibus (2)",
+      "librasStructure": "EU SEMPRE VIAJAR MADRUGADA ÔNIBUS-LEITO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Sempre viajo de ônibus leito de madrugada. → EU SEMPRE VIAJAR MADRUGADA ÔNIBUS-LEITO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/onibus3Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1798",
+      "section": "P",
+      "situation": "Defeito que provoca a parada do motor do avião, do carro ou da motocicleta.",
+      "translation": "Pane",
+      "librasStructure": "AVIÃO PANE PROBLEMA+ EU ESPERAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "O avião sofreu uma pane e eu tive que esperar. → AVIÃO PANE PROBLEMA+ EU ESPERAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pane1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4766",
+      "section": "P",
+      "situation": "Vidro protetor que atravessa toda a parte da frente do veículo.",
+      "translation": "Pára-brisa",
+      "librasStructure": "ONTEM NOITE PESSOA QUEBRAR PÁRA-BRISA CARRO ME@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Ontem à noite quebraram o pára-brisa do meu carro. → ONTEM NOITE PESSOA QUEBRAR PÁRA-BRISA CARRO ME@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/para-brisaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1816",
+      "section": "P",
+      "situation": "Espaço definido, muitas vezes com bancos e abrigos, onde os passageiros aguardam a passagem do transporte coletivo para embarque.",
+      "translation": "Parada de ônibus",
+      "librasStructure": "ÔNIBUS PARADA 3 VOCÊ SALTAR PROCURAR CASA PINTAR AMAREL@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 61 · Etimologia: Nacional",
+      "examples": [
+        "Salte do ônibus na terceira parada e procure a casa amarela. → ÔNIBUS PARADA 3 VOCÊ SALTAR PROCURAR CASA PINTAR AMAREL@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parada_de_onibusSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "61",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5844",
+      "section": "P",
+      "situation": "Aquele que viaja em um veículo.",
+      "translation": "Passageiro",
+      "librasStructure": "PASSAGEIR@ ÔNIBUS PESSOA QUANT@?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "Quantos passageiros tem o ônibus? → PASSAGEIR@ ÔNIBUS PESSOA QUANT@?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passageiroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1827",
+      "section": "P",
+      "situation": "Bilhete que dá direito a viajar em avião, trem, ônibus e outros meios de transporte.",
+      "translation": "Passagem (1)",
+      "librasStructure": "PRECISAR URGENTE COMPRAR AVIÃO PASSAGEM V-A-I ACABAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 36 · Etimologia: Nacional",
+      "examples": [
+        "A passagem de avião está quase acabando, precisa comprar, com urgência. → PRECISAR URGENTE COMPRAR AVIÃO PASSAGEM V-A-I ACABAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passagem1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "36",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg36.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1849",
+      "section": "P",
+      "situation": "Quantia cobrada pelas autoridades para que o motorista tenha direito de passagem por uma estrada ou via.",
+      "translation": "Pedágio",
+      "librasStructure": "SÃO-PAULO SANTOS CARRO ENTRAR PAGAR PEDÁGIO VALOR AUMENTAR!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "O carro entrou na São Paulo-Santos e paguei o valor do pedágio com aumento! → SÃO-PAULO SANTOS CARRO ENTRAR PAGAR PEDÁGIO VALOR AUMENTAR!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedagioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5931",
+      "section": "P",
+      "situation": "Peça retangular de metal exposta no veículo, para identificar seu número de licenciamento.",
+      "translation": "Placa",
+      "librasStructure": "POLÍCIA ANOTAR JÁ MULTAR NÚMERO CARRO PLACA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "O policial anotou o número da placa do carro para multar. → POLÍCIA ANOTAR JÁ MULTAR NÚMERO CARRO PLACA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/placaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1948",
+      "section": "P",
+      "situation": "Aros de borracha inflados por ar comprimido, que revestem as rodas de veículos.",
+      "translation": "Pneu",
+      "librasStructure": "CARRO ME@ PNEU NOV@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "O pneu do meu carro é novo. → CARRO ME@ PNEU NOV@!"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6888",
+      "section": "P",
+      "situation": "Parada final do ônibus; local de desembarque de todos os passageiros.",
+      "translation": "Ponto (6)",
+      "librasStructure": "ONIBUS PONTO-FINAL VOCÊ DESCER pessoaANDAR-À-PÉ ATÉ CASA ME@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 61 · Etimologia: Nacional",
+      "examples": [
+        "Você desce no ponto final e anda à pé até minha casa. → ONIBUS PONTO-FINAL VOCÊ DESCER pessoaANDAR-À-PÉ ATÉ CASA ME@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto6Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "61",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6889",
+      "section": "P",
+      "situation": "Parada de ônibus; local onde o ônibus e recebe ou desembarca passageiros.",
+      "translation": "Ponto (7)",
+      "librasStructure": "EU ESPERAR PONTO-ÔNIBUS AMIG@ ME@ CHEGAR NÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "Estou esperando a minha amiga no ponto de ônibus. → EU ESPERAR PONTO-ÔNIBUS AMIG@ ME@ CHEGAR NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto7Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6008",
+      "section": "P",
+      "situation": "Compartimento do carro destinado a volumes como malas, valises, pacotes e outros objetos de grande porte.",
+      "translation": "Porta-malas",
+      "librasStructure": "CARRO SE@ PORTA-MALA GRANDE!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "O porta-mala do seu carro é grande! → CARRO SE@ PORTA-MALA GRANDE!"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6024",
+      "section": "P",
+      "situation": "Região da costa onde o navio pode fundear e estabelecer contato com a terra.",
+      "translation": "Porto",
+      "librasStructure": "NAVIO CHEGAR PORTO R-I-O ESPERAR VIR-MAIS PESSOA IR ARGENTINA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "O navio chegou ao porto do Rio de Janeiro e aguarda mais passageiros para ir à Argentina. → NAVIO CHEGAR PORTO R-I-O ESPERAR VIR-MAIS PESSOA IR ARGENTINA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1980",
+      "section": "P",
+      "situation": "Estabelecimento onde os veículos são abastecidos com gasolina, gás natural, álcool ou óleo diesel e que também presta serviços como lavagem de carros, lubrificação e calibragem de pneus.",
+      "translation": "Posto de gasolina",
+      "librasStructure": "EL@ IR VIAJAR ANTES POSTO-GASOLINA CARRO ENCHER-TANQUE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 42 · Etimologia: Nacional",
+      "examples": [
+        "Antes de viajar, ele vai passar no posto de gasolina para encher o tanque do carro. → EL@ IR VIAJAR ANTES POSTO-GASOLINA CARRO ENCHER-TANQUE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posto-de-gasolinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "42",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg42.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-761",
+      "section": "Q",
+      "situation": "Pequenas elevações instaladas nas ruas pelas autoridades do trânsito, para que o motorista não possa desenvolver velocidade com seu veículo.",
+      "translation": "Quebra-molas",
+      "librasStructure": "EU DIRIGIR CONVERSAR DISTRAIR DE-REPENTE EU CARRO PARAR VER-NÃO QUEBRA-MOLA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Conversava distraído, dirigindo o carro, e de repente tive que parar, pois não vi que havia um quebra-molas. → EU DIRIGIR CONVERSAR DISTRAIR DE-REPENTE EU CARRO PARAR VER-NÃO QUEBRA-MOLA."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5621",
+      "section": "R",
+      "situation": "Marcha à ré; andamento do veículo para trás.",
+      "translation": "Ré",
+      "librasStructure": "EL@ RÉ CARRO DEL@ BATER ME@ CARRO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 25 · Etimologia: Nacional",
+      "examples": [
+        "Ela deu ré e bateu no meu carro. → EL@ RÉ CARRO DEL@ BATER ME@ CARRO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/reSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "25",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-916",
+      "section": "R",
+      "situation": "Carro que possui um guindaste especial para levantar e puxar veículos avariados ou estacionados em local proibido; guincho.",
+      "translation": "Reboque",
+      "librasStructure": "ONTEM EU ESPERARmuit@ REBOQUE CARRO ME@ QUEBRAR!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Ontem eu aguardei o reboque para levar o meu carro quebrado! → ONTEM EU ESPERARmuit@ REBOQUE CARRO ME@ QUEBRAR!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/reboqueSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1001",
+      "section": "R",
+      "situation": "Estação de embarque e desembarque dos passageiros de linhas de ônibus; estação; terminal rodoviário.",
+      "translation": "Rodoviária",
+      "librasStructure": "VOCÊ PODER-NÃO CHEGAR RODOVIÁRIA ATRASAD@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 25 · Etimologia: Nacional",
+      "examples": [
+        "Você não pode chegar atrasado à rodoviária. → VOCÊ PODER-NÃO CHEGAR RODOVIÁRIA ATRASAD@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/rodoviariaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "25",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3741",
+      "section": "T",
+      "situation": "Carro de aluguel com taxímetro, aparelho que marca o preço do percurso efetuado.",
+      "translation": "Táxi",
+      "librasStructure": "HOJE EU IR CASA TÁXI.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Hoje eu vou para casa de táxi. → HOJE EU IR CASA TÁXI."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/taxiSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3747",
+      "section": "T",
+      "situation": "Espécie de ascensor suspenso por cabos, que transporta mercadorias ou passageiros de um monte a outro ou a um ponto mais baixo.",
+      "translation": "Teleférico",
+      "librasStructure": "EU VONTADE NOVA-FRIBURGO VISITAR TELEFÉRICO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Estou com vontade de ir a Nova Friburgo para conhecer o teleférico. → EU VONTADE NOVA-FRIBURGO VISITAR TELEFÉRICO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/telefericoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5493",
+      "section": "T",
+      "situation": "Condução; carro ou outro veículo que serve para levar os passageiros de um lugar para outro.",
+      "translation": "Transporte",
+      "librasStructure": "VOCÊ VIR CARRO^ÔNIBUS^VÁRIOS QUAL?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "Em qual transporte você veio? → VOCÊ VIR CARRO^ÔNIBUS^VÁRIOS QUAL?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/transporteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3830",
+      "section": "T",
+      "situation": "Veículo que se desloca sobre rodas ou esteiras de aço e pode rebocar cargas ou operar equipamentos agrícolas.",
+      "translation": "Trator",
+      "librasStructure": "ALUGUEL TRATOR CAROmuito EU TER-NÃO DINHEIRO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "O aluguel de trator é muito caro, não tenho dinheiro. → ALUGUEL TRATOR CAROmuito EU TER-NÃO DINHEIRO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tratorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3836",
+      "section": "T",
+      "situation": "Comboio ferroviário; série de vagões puxados por uma locomotiva.",
+      "translation": "Trem",
+      "librasStructure": "EU TOD@-DIA TREM CHEGAR CASA RÁPID@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "Todo dia eu pego o trem e chego à casa rápido. → EU TOD@-DIA TREM CHEGAR CASA RÁPID@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tremSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5505",
+      "section": "T",
+      "situation": "Veículo equipado com três rodas.",
+      "translation": "Triciclo",
+      "librasStructure": "EU VER PRIMEIRA-VEZ SÃO-PAULO LÁ MOTO TRICICLO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "Vi uma moto triciclo pela primeira vez em São Paulo. → EU VER PRIMEIRA-VEZ SÃO-PAULO LÁ MOTO TRICICLO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tricicloSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4347",
+      "section": "V",
+      "situation": "Compartimento do trem das estradas de ferro, para o transporte de passageiros, mercadorias ou gado.",
+      "translation": "Vagão",
+      "librasStructure": "TREM AQUELE veículo-enfileiradoTREM DORMIR RESTAURANTE LUX@ TER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "aquele trem tem vagão-dormitório e restaurante de luxo. → TREM AQUELE veículo-enfileiradoTREM DORMIR RESTAURANTE LUX@ TER."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vagaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4358",
+      "section": "V",
+      "situation": "Pequeno carro que presta um serviço alternativo de transporte, mais veloz, com preço mais alto, paradas e itinerário mais livres.",
+      "translation": "Van",
+      "librasStructure": "ÔNIBUS DEMORARmuito RESOLVER VAN IR CIDADE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Resolvi pegar van para cidade, porque o ônibus demorou muito. → ÔNIBUS DEMORARmuito RESOLVER VAN IR CIDADE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vanSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4386",
+      "section": "V",
+      "situation": "Qualquer meio mecânico de transporte de pessoas ou objetos.",
+      "translation": "Veículo",
+      "librasStructure": "LÁ CIDADE TER MUIT@ ÔNIBUS^CARRO^VÁRI@ FÁCIL VOCÊ PEGAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "Na cidade há muito veículo fácil de você pegar. → LÁ CIDADE TER MUIT@ ÔNIBUS^CARRO^VÁRI@ FÁCIL VOCÊ PEGAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/veiculoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4388",
+      "section": "V",
+      "situation": "Qualquer embarcação de velas que navegue com extrema velocidade.",
+      "translation": "Veleiro",
+      "librasStructure": "EU VONTADE COMPRAR VELEIRO AGORA NÃO DEPOIS.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Estou com vontade de comprar um veleiro, mas agora não, só depois. → EU VONTADE COMPRAR VELEIRO AGORA NÃO DEPOIS."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/veleiroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4431",
+      "section": "V",
+      "situation": "Meio de transporte; veículo; modo como são chamados os carros de instituições como a polícia e os bombeiros.",
+      "translation": "Viatura",
+      "librasStructure": "ONTEM NOITE POLÍCIA^LUZES-ACENDENDO CAPOTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "A viatura da polícia capotou ontem à noite. → ONTEM NOITE POLÍCIA^LUZES-ACENDENDO CAPOTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/viaturaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6811",
+      "section": "V",
+      "situation": "Roda que comanda a direção de veículos automotores, instalada na cabine, à esquerda do painel.",
+      "translation": "Volante",
+      "librasStructure": "VOLANTE ME@ DEFEITO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "O volante do meu carro está com defeito. → VOLANTE ME@ DEFEITO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/volanteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4148",
+      "section": "Z",
+      "situation": "Grande aeronave dirigível, com a forma semelhante à de um charuto e uma armação interna de duralumínio.",
+      "translation": "Zepelim",
+      "librasStructure": "coisa-ovalada-comprida^veículoVOAR PERIGOS@ PODER EXPLODIR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Transportes e veículos · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "O zepelim é perigoso, pode explodir. → coisa-ovalada-comprida^veículoVOAR PERIGOS@ PODER EXPLODIR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/zepelimSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}

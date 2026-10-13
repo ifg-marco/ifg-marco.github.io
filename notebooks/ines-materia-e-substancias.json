@@ -1,0 +1,5587 @@
+{
+  "id": "ines-materia-e-substancias",
+  "title": "INES: Matéria e substâncias — vídeos direto do site do INES",
+  "description": "96 sinais do tema “Matéria e substâncias”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
+  "section": "Caderno público",
+  "author": "INES (organização: Marco Antônio)",
+  "createdAt": "2026-10-12T12:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-12T12:00:00.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Dicionário INES",
+  "order": 13,
+  "cards": [
+    {
+      "id": "ines-5228",
+      "section": "A",
+      "situation": "Metal resistente; liga de ferro e carbono.",
+      "translation": "Aço",
+      "librasStructure": "CASA ME@ JANELA A-Ç-O^FERRO DIFÍCIL DE QUEBRAR",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "A janela da minha casa é de aço, difícil de quebrar. → CASA ME@ JANELA A-Ç-O^FERRO DIFÍCIL DE QUEBRAR"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-31",
+      "section": "A",
+      "situation": "Substância doce, solúvel na água, extraída da cana-de-açúcar e da beterraba. É muito utilizada na alimentação.",
+      "translation": "Açúcar",
+      "librasStructure": "BRASIL AQUI CANA TRANSFORMAR AÇÚCAR LÁ EUROPA DIFERENTE BETERRABA TRANSFORMAR AÇÚCAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Aqui no Brasil transforma-se a cana em açúcar. Lá na Europa é diferente, transforma-se a beterraba em açúcar. → BRASIL AQUI CANA TRANSFORMAR AÇÚCAR LÁ EUROPA DIFERENTE BETERRABA TRANSFORMAR AÇÚCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/acucarSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4839",
+      "section": "A",
+      "situation": "Substância que adere ou cola em diversas superfícies; material aderente.",
+      "translation": "Adesivo",
+      "librasStructure": "ME@ ADESIVO SUMIR Q-U-M PEGAR?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 24 · Etimologia: Nacional",
+      "examples": [
+        "O meu adesivo sumiu, quem o pegou? → ME@ ADESIVO SUMIR Q-U-M PEGAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/adesivoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "24",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6722",
+      "section": "A",
+      "situation": "Substância dietética que substitui o açúcar.",
+      "translation": "Adoçante",
+      "librasStructure": "GOSTAR-NÃO CAFÉ ADOÇANTE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 20 · Etimologia: Nacional",
+      "examples": [
+        "Não gosto de café com adoçante. → GOSTAR-NÃO CAFÉ ADOÇANTE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/adocanteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "20",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6727",
+      "section": "A",
+      "situation": "Dispositivo que permite a saída de substâncias em partículas ultramiscroscópicas, sólidas ou fluidas em ar ou gás, tal como na fumaça ou neblina.",
+      "translation": "Aerossol",
+      "librasStructure": "AEROSSOL MATAR MOSQUITO PREÇO CAR@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "O aerossol para matar mosquito está caro! → AEROSSOL MATAR MOSQUITO PREÇO CAR@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aerossolSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-71",
+      "section": "A",
+      "situation": "Líquido incolor, sem sabor e cheiro, presente na natureza, que representa a parte líquida do globo terrestre. É essencial para a vida.",
+      "translation": "Água",
+      "librasStructure": "ADORAR ÁGUA GELAD@ BEBER!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Adoro beber água gelada! → ADORAR ÁGUA GELAD@ BEBER!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aguaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-88",
+      "section": "A",
+      "situation": "Substância incolor, geralmente obtida pela fermentação do açúcar, com inúmeros usos domésticos, médicos e industriais.",
+      "translation": "Álcool",
+      "librasStructure": "ÁLCOOL PERIGOS@ PODER-NÃO CRIANÇ@ BRINCAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Criança não pode brincar com álcool porque é perigoso. → ÁLCOOL PERIGOS@ PODER-NÃO CRIANÇ@ BRINCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/alcoolSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-416",
+      "section": "A",
+      "situation": "Metal branco, leve, com o brilho da prata. Tem amplo emprego na indústria metalúrgica e como componente de muitos outros metais.",
+      "translation": "Alumínio",
+      "librasStructure": "JANELA ME@ CASA FERRO^BRILHAR BO@ FORTE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "A janela da minha casa é de alumínio, boa e forte. → JANELA ME@ CASA FERRO^BRILHAR BO@ FORTE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aluminioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-45",
+      "section": "A",
+      "situation": "Atmosfera; camada gasosa que envolve a Terra, indispensável à sobrevivência da natureza.",
+      "translation": "Ar",
+      "librasStructure": "SÃO-PAULO A-R POLUÍD@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "O ar de São Paulo é muito poluído. → SÃO-PAULO A-R POLUÍD@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/arSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-47",
+      "section": "A",
+      "situation": "Partículas de rochas em desagregação que se apresentam em grãos mais ou menos finos, nas praias, leitos de rio, desertos e outros espaços.",
+      "translation": "Areia",
+      "librasStructure": "PRAIA CEARÁ TERRA A-R-E-I-A BONIT@ BRANC@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Nas praias do Ceará a areia é bonita e muito branca. → PRAIA CEARÁ TERRA A-R-E-I-A BONIT@ BRANC@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/areiaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-510",
+      "section": "A",
+      "situation": "Espécie de betume preto, compacto e quebradiço, com que é coberto o chão das ruas.",
+      "translation": "Asfalto",
+      "librasStructure": "R-U-A CASA ME@ PRET@^LIS@ NOV@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 34 · Etimologia: Nacional",
+      "examples": [
+        "Minha rua está com asfalto novo. → R-U-A CASA ME@ PRET@^LIS@ NOV@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/asfaltoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "34",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg34.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-146",
+      "section": "B",
+      "situation": "Saliva que corre da boca.",
+      "translation": "Baba",
+      "librasStructure": "BABA CACHORRO HORRÍVEL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 64 · Etimologia: Nacional",
+      "examples": [
+        "A baba do cachorro é horrível. → BABA CACHORRO HORRÍVEL."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "64",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6763",
+      "section": "B",
+      "situation": "Mistura de terra e água.",
+      "translation": "Barro",
+      "librasStructure": "FILH@ SE@ BRINCAR SUJ@ CAMISA BARRO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Seu filho estava brincando e sua camisa ficou suja de barro. → FILH@ SE@ BRINCAR SUJ@ CAMISA BARRO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/barroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-307",
+      "section": "B",
+      "situation": "Liga metálica de cobre e estanho, que entre várias utilidades, serve para confeccionar objetos de decoração e de premiação.",
+      "translation": "Bronze",
+      "librasStructure": "IRMÃO DEL@ GANHAR NATAÇÃO 3-LUGAR MEDALHA B-R-O-N-Z-E.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 06 · Etimologia: Nacional",
+      "examples": [
+        "O irmão dele ganhou o terceiro lugar na natação e conquistou a medalha de bronze. → IRMÃO DEL@ GANHAR NATAÇÃO 3-LUGAR MEDALHA B-R-O-N-Z-E."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bronzeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "06",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg06.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7312",
+      "section": "B",
+      "situation": "Preparado que se destina a dar à pele um tom amorenado. Geralmente é usado sob o sol.",
+      "translation": "Bronzeador",
+      "librasStructure": "BRONZEADOR EU PROIBIDO ALERGIA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 53b · Etimologia: Nacional",
+      "examples": [
+        "Sou proibida de usar bronzeador pois tenho alergia. → BRONZEADOR EU PROIBIDO ALERGIA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bronzeadorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1472",
+      "section": "C",
+      "situation": "Pó feito de alumina, sílica, cal, óxido de ferro e magnésio, queimados em forno. Misturado com a água, forma uma massa plástica usada como aglomerante.",
+      "translation": "Cimento",
+      "librasStructure": "CIMENTO ACABAR PRECISAR COMPRAR MAIS 5.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 45 · Etimologia: Nacional",
+      "examples": [
+        "Essa parede precisa de cimento novo. → CIMENTO ACABAR PRECISAR COMPRAR MAIS 5."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cimentoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "45",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg45.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1478",
+      "section": "C",
+      "situation": "Resíduo mineral formado pela completa combustão de certas substâncias combustíveis, como o carvão.",
+      "translation": "Cinza (2)",
+      "librasStructure": "GRUPO AMIG@ PRAIA NOITE FAZER-FOGUEIRA MANHÃ C-E-D-O CINZA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 45 · Etimologia: Nacional",
+      "examples": [
+        "Na praia, à noite, o grupo de amigos fez uma fogueira que de manhã já havia se transformado em cinzas. → GRUPO AMIG@ PRAIA NOITE FAZER-FOGUEIRA MANHÃ C-E-D-O CINZA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cinza2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "45",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg45.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1492",
+      "section": "C",
+      "situation": "Elemento químico usado como alvejante em diversas indústrias e para tratamento de água, como desinfetante.",
+      "translation": "Cloro",
+      "librasStructure": "PISCINA C-L-O-R-O COLOCAR JÁ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 51a · Etimologia: Nacional",
+      "examples": [
+        "Já coloquei o cloro na piscina. → PISCINA C-L-O-R-O COLOCAR JÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cloroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1507",
+      "section": "C",
+      "situation": "Alcalóide cristalino, amargo, incolor e tóxico, obtido das folhas de coca, de efeito estimulante e narcotizante.",
+      "translation": "Cocaína (1)",
+      "librasStructure": "GRUPO JOVEM AQUEL@ VICIAD@ CHEIRAR-COCAÍNA TODO-DIA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Aquele grupo jovem é viciado e cheira cocaína todos os dias. → GRUPO JOVEM AQUEL@ VICIAD@ CHEIRAR-COCAÍNA TODO-DIA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cocaina1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1508",
+      "section": "C",
+      "situation": "Alcalóide cristalino, amargo, incolor e tóxico, obtido das folhas de coca, de efeito estimulante e narcotizante.",
+      "translation": "Cocaína (2)",
+      "librasStructure": "GRUPO JOVEM AQUEL@ VICIAD@ CHEIRAR-COCAÍNA TODO-DIA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Aquele grupo jovem é viciado e cheira cocaína todos os dias. → GRUPO JOVEM AQUEL@ VICIAD@ CHEIRAR-COCAÍNA TODO-DIA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cocaina2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1521",
+      "section": "C",
+      "situation": "Substância líquida, pastosa ou em bastão, usada para aderir duas ou mais superfícies de papel ou outros materiais.",
+      "translation": "Cola (2)",
+      "librasStructure": "EL@ 3sPEDIR1s COMPRAR COLA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 34 · Etimologia: Nacional",
+      "examples": [
+        "Ela me pediu para comprar cola. → EL@ 3sPEDIR1s COMPRAR COLA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cola2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "34",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg34.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6014",
+      "section": "C",
+      "situation": "Substância que produz combustão, usada para acionar o motor do veículo.",
+      "translation": "Combustível",
+      "librasStructure": "CARRO COMBUSTÍVEL ACABAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 11 · Etimologia: Nacional",
+      "examples": [
+        "Acabou o combustível do carro. → CARRO COMBUSTÍVEL ACABAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/combustivelSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "11",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1575",
+      "section": "C",
+      "situation": "Substância medicamentosa reduzida a pó e depois compactada em forma de pastilha.",
+      "translation": "Comprimido (2)",
+      "librasStructure": "ME@ FILH@ TOMAR-COMPRIMIDO TODO-DIA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "Meu filho toma comprimido todo dia. → ME@ FILH@ TOMAR-COMPRIMIDO TODO-DIA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/comprimido2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1710",
+      "section": "C",
+      "situation": "A pele grossa de certos animais, depois de curtida e preparada.",
+      "translation": "Couro",
+      "librasStructure": "MULHER COMPRAR CASACO COURO CHIQUE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "A mulher comprou um casaco de couro chique. → MULHER COMPRAR CASACO COURO CHIQUE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/couroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1723",
+      "section": "C",
+      "situation": "Substância espessa e gordurosa formada na superfície do leite e usada para fazer manteiga e outros alimentos; nata, creme de leite.",
+      "translation": "Creme",
+      "librasStructure": "SORVETE C-R-E-M-E EU ADORAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 51a · Etimologia: Nacional",
+      "examples": [
+        "Eu adoro sorvete de creme. → SORVETE C-R-E-M-E EU ADORAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cremeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2696",
+      "section": "E",
+      "situation": "Característica da substância que libera gaz dentro de um líquido, de modo semelhante à fervura.",
+      "translation": "Efervescente",
+      "librasStructure": "VITAMINA C EFERVESCENTE EL@ TOMAR.",
+      "notes": "Classe gramatical: Adjetivo · Assunto: Matéria e substâncias · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Ela tomou um comprimido efervescente de vitamina C. → VITAMINA C EFERVESCENTE EL@ TOMAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/efervescenteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6441",
+      "section": "E",
+      "situation": "Cordão ou fio dotado de elasticidade, capaz de voltar à posição original depois de esticado.",
+      "translation": "Elástico",
+      "librasStructure": "CHEFE 1sMANDAR3s COMPRAR ELÁSTICO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "O chefe mandou você comprar elástico. → CHEFE 1sMANDAR3s COMPRAR ELÁSTICO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/elasticoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2847",
+      "section": "E",
+      "situation": "Líquido segregado pelo órgão reprodutor masculino, no qual se encontram os espermatozóides.",
+      "translation": "Esperma",
+      "librasStructure": "ESPERMA MÉDIC@ 3sPEDIR1s EXAMINAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "O médico pediu meu esperma para examinar. → ESPERMA MÉDIC@ 3sPEDIR1s EXAMINAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/espermaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2856",
+      "section": "E",
+      "situation": "Agregado de bolhas de ar ou gás formado na superfície de um líquido, devido à fermentação ou à pressão.",
+      "translation": "Espuma",
+      "librasStructure": "M-Ã-E ME@ COLOCAR-SABÃO MUIT@ ROUPA-MÁQUINA ESPUMA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Minha mãe colocou muito sabão na roupa e a máquina fez muita espuma. → M-Ã-E ME@ COLOCAR-SABÃO MUIT@ ROUPA-MÁQUINA ESPUMA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/espumaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7174",
+      "section": "E",
+      "situation": "Ter, haver.",
+      "translation": "Existir (2)",
+      "librasStructure": "AQUI BRASIL EXISTIR PETRÓLEO MUIT@",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Existe muito petróleo no Brasil. → AQUI BRASIL EXISTIR PETRÓLEO MUIT@"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/existir2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7384",
+      "section": "F",
+      "situation": "Pano; tecido.",
+      "translation": "Fazenda (2)",
+      "librasStructure": "3sPEDIR1s COMPRAR 3 FAZENDA PANO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 20 · Etimologia: Nacional",
+      "examples": [
+        "Ele pediu para comprar três tipos de fazendas. → 3sPEDIR1s COMPRAR 3 FAZENDA PANO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fazenda2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "20",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2990",
+      "section": "F",
+      "situation": "Agente capaz de produzir fermentação, como a diástase, que adicionado à massa do pão ou do bolo, provoca seu crescimento.",
+      "translation": "Fermento",
+      "librasStructure": "B-O-L-O FAZER PRECISAR FARINHA^T-R-I-G-O OVO AÇÚCAR F-E-R-M-E-N-T-O^INCHAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Para fazdr um bolo é preciso farinha de trigo, ovo, açucar e fermento. → B-O-L-O FAZER PRECISAR FARINHA^T-R-I-G-O OVO AÇÚCAR F-E-R-M-E-N-T-O^INCHAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fermentoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2991",
+      "section": "F",
+      "situation": "Metal cinzento-azulado, duro e maleável, sem qualquer elasticidade, com inúmeras aplicações na indústria e na arte.",
+      "translation": "Ferro",
+      "librasStructure": "EU COMPRAR ARMÁRIO FERRO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Eu comprei um armário de ferro. → EU COMPRAR ARMÁRIO FERRO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ferroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2994",
+      "section": "F",
+      "situation": "Revestimento poroso, quebradiço e avermelhado, resultante da oxidação formada sobre a superfície do ferro exposto à umidade.",
+      "translation": "Ferrugem",
+      "librasStructure": "CASA ME@ JANELA FERRO FERRUGEM PRECISAR PINTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 46a · Etimologia: Nacional",
+      "examples": [
+        "Preciso pintar a janela de minha casa, que está com ferrugem. → CASA ME@ JANELA FERRO FERRUGEM PRECISAR PINTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ferrugemSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "46a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg46a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3002",
+      "section": "F",
+      "situation": "Excrementos; matéria fecal; resíduos da alimentação, não absorvidos e expelidos pelo organismo.",
+      "translation": "Fezes",
+      "librasStructure": "LÁ SÍTIO R-U-A- FEZES CAVALO MUIT@ .",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Lá na rua do sítio tem muitas fezes de cavalo. → LÁ SÍTIO R-U-A- FEZES CAVALO MUIT@ ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fezesSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3021",
+      "section": "F",
+      "situation": "Rolo de película de celulóide, que pode registrar imagens fotográficas ou cinematográficas.",
+      "translation": "Filme (2)",
+      "librasStructure": "MÁQUINA-FOTOGRÁFICA ENROLARcoisa-retangular-pequena ACABAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Acabou o filme de minha máquina fotográfica. → MÁQUINA-FOTOGRÁFICA ENROLARcoisa-retangular-pequena ACABAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/filme2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3051",
+      "section": "F",
+      "situation": "Desprendimento de luz e calor, resultante da combustão de carvão, gás, madeira ou outras matérias inflamáveis.",
+      "translation": "Fogo",
+      "librasStructure": "ME@ AMIG@ CASA FOGO PERDER TUD@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "A casa do meu amigo pegou fogo, ele perdeu tudo. → ME@ AMIG@ CASA FOGO PERDER TUD@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fogoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3098",
+      "section": "F",
+      "situation": "Vapor que se desprende de corpos em combustão ou muito quentes.",
+      "translation": "Fumaça",
+      "librasStructure": "EL@ CHURRASCO CASA DEL@ GOSTAR-NÃO POR-CAUSA FUMAÇA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Eu não gosto de ir para churrasco na casa dele por causa da fumaça. → EL@ CHURRASCO CASA DEL@ GOSTAR-NÃO POR-CAUSA FUMAÇA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fumacaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6213",
+      "section": "G",
+      "situation": "Substância muito fluída que enche qualquer espaço na qual esteja; gás de iluminação; substância distribuida por meio de encanamento, usada como combustível em fogões, aquecedores e similares.",
+      "translation": "Gás",
+      "librasStructure": "CHEIRO G-Á-S FEDOR!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 09 · Etimologia: Nacional",
+      "examples": [
+        "Está um mal cheiro de gás! → CHEIRO G-Á-S FEDOR!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gasSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "09",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg09.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-602",
+      "section": "G",
+      "situation": "Mistura líquida, volátil e inflamável obtida de petróleo, gás natural ou outras fontes, usada como combustível, especialmente em motores de combustão interna.",
+      "translation": "Gasolina",
+      "librasStructure": "GASOLINA PREÇO AUMENTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 11 · Etimologia: Nacional",
+      "examples": [
+        "O preço da gasolina aumentou. → GASOLINA PREÇO AUMENTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gasolinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "11",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6215",
+      "section": "G",
+      "situation": "Estado da água que decorre da ebulição, quando a pressão de vapor do líquido iguala a pressão atmosférica.",
+      "translation": "Gasoso",
+      "librasStructure": "AULA CIÊNCIAS PROFESSOR@ EXPLICAR ÁGUA FERVER TRANSFORMAR GASOSO.",
+      "notes": "Classe gramatical: Adjetivo · Assunto: Matéria e substâncias · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Na aula de ciências foi explicado como a água que ferve se transforma em gasoso. → AULA CIÊNCIAS PROFESSOR@ EXPLICAR ÁGUA FERVER TRANSFORMAR GASOSO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gasosoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5069",
+      "section": "G",
+      "situation": "Substância de consistência gelatinosa, usada para fixar o cabelo.",
+      "translation": "Gel",
+      "librasStructure": "EL@ G-E-L COLOCAR-CABELO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 09 · Etimologia: Nacional",
+      "examples": [
+        "Ele colocou gel no cabelo. → EL@ G-E-L COLOCAR-CABELO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gelSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "09",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg09.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-608",
+      "section": "G",
+      "situation": "Substância que forma uma geléia mais ou menos consistente, quando dissolvida em água quente. É preparada com a proteína viscosa existente em tecidos fibrosos e ossos de animais.",
+      "translation": "Gelatina",
+      "librasStructure": "GELATINA GOSTOS@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 46a · Etimologia: Nacional",
+      "examples": [
+        "Gelatina é muito gostosa. → GELATINA GOSTOS@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gelatinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "46a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg46a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-609",
+      "section": "G",
+      "situation": "Resultado da solidificação de água ou qualquer outro líquido) pela ação do frio.",
+      "translation": "Gelo",
+      "librasStructure": "BEBER GUARANÁ QUENTE EU QUERER GELO^coisa-pequena-quadrada.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 16 · Etimologia: Nacional",
+      "examples": [
+        "Bebi guaraná quente. Eu quero gelo. → BEBER GUARANÁ QUENTE EU QUERER GELO^coisa-pequena-quadrada."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/geloSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "16",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg16.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5072",
+      "section": "G",
+      "situation": "Massa preparada com sulfato de cálcio hidratado.",
+      "translation": "Gesso",
+      "librasStructure": "GESSO COLOCAR-BRAÇO VERÃO HORRÍVEL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 53b · Etimologia: Nacional",
+      "examples": [
+        "É horrível colocar gesso no verão. → GESSO COLOCAR-BRAÇO VERÃO HORRÍVEL."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gessoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-622",
+      "section": "G",
+      "situation": "Pequeno bastão feito de carbonato ou sulfato de cálcio, usado para escrever em quadro-negro.",
+      "translation": "Giz",
+      "librasStructure": "PROFESSOR@ GOSTAR-NÃO GIZ ALERGIA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "A professora não gosta de giz, pois tem alergia. → PROFESSOR@ GOSTAR-NÃO GIZ ALERGIA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gizSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6966",
+      "section": "G",
+      "situation": "Açúcar cristalizado, incolor, encontrado no sangue.",
+      "translation": "Glicose",
+      "librasStructure": "EU DOCE SANGUE ALT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Eu estou com glicose elevada. → EU DOCE SANGUE ALT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/glicoseSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6233",
+      "section": "G",
+      "situation": "Espécie de borracha desidratada e moída, empastada com açúcar, baunilha, suco de limão e outras substâncias, em forma de tablóides.",
+      "translation": "Goma de mascar",
+      "librasStructure": "GOMA-MASCAR ENGOLIR NÃO CUIDADO!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 19 · Etimologia: Nacional",
+      "examples": [
+        "Cuidado para não engolir a goma de mascar! → GOMA-MASCAR ENGOLIR NÃO CUIDADO!"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "19",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5076",
+      "section": "G",
+      "situation": "Substância constituída de glicérides de ácidos graxos, sólida, semi-sólida ou líquida, insolúvel na água, untuosa ao tato e encontrada nos tecidos animais e vegetais.",
+      "translation": "Gordura",
+      "librasStructure": "GORDURA PERIGOS@ SAÚDE NÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Gordura demais faz mal à saúde. → GORDURA PERIGOS@ SAÚDE NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/gorduraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-822",
+      "section": "I",
+      "situation": "Material como resinas ou madeiras, que ao ser usado queimado, irradia determinado cheiro no ambiente.",
+      "translation": "Incenso",
+      "librasStructure": "ONTEM EU IR CASA AMIG@ EU CHEIRO INCENSO BO@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 20 · Etimologia: Nacional",
+      "examples": [
+        "Fui ontem à casa da minha amiga e havia um cheiro de incenso muito bom. → ONTEM EU IR CASA AMIG@ EU CHEIRO INCENSO BO@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/incensoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "20",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3388",
+      "section": "L",
+      "situation": "Pêlo que reveste o corpo de certos animais, em especial o carneiro.",
+      "translation": "Lã",
+      "librasStructure": "FRIO EU VESTIR-BLUSA L-Ã.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "No frio eu visto blusa de lã. → FRIO EU VESTIR-BLUSA L-Ã."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/laSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3415",
+      "section": "L",
+      "situation": "Lodo; mistura umedecida de terra e água.",
+      "translation": "Lama",
+      "librasStructure": "CUIDADO! LÁ LAMA pessoaESCORREGAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 34 · Etimologia: Nacional",
+      "examples": [
+        "Cuidado! Lá tem lama, você pode escorregar. → CUIDADO! LÁ LAMA pessoaESCORREGAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lamaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "34",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg34.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3449",
+      "section": "L",
+      "situation": "Líquido para borrifar nos cabelos e fixar o penteado.",
+      "translation": "Laquê",
+      "librasStructure": "ANTIGAMENTE MULHER SEMPRE LAQUÊ HOJE ACABAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Antigamente as mulheres usavam laquê, hoje não usam mais. → ANTIGAMENTE MULHER SEMPRE LAQUÊ HOJE ACABAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/laqueSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3477",
+      "section": "L",
+      "situation": "Massa magmática em estado de fusão total ou parcial, em uma erupção vulcânica, que derrama na superfície da Terra.",
+      "translation": "Lava",
+      "librasStructure": "VULCÃO LAVA QUENTEmuito PERIGOS@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 64 · Etimologia: Nacional",
+      "examples": [
+        "O vulcão solta lava quente e é muito perigoso. → VULCÃO LAVA QUENTEmuito PERIGOS@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lavaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "64",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3518",
+      "section": "L",
+      "situation": "Líquido branco e opaco, produzido pelas glândulas mamárias das fêmeas.",
+      "translation": "Leite",
+      "librasStructure": "QUALQUER ANIMAL O-U BEBÊ PRECISAR TOMAR LEITE BOM AJUDAR CONTRA DOENÇA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Os animais e os bebês precisam tomar leite, é bom para ajudar contra as doenças. → QUALQUER ANIMAL O-U BEBÊ PRECISAR TOMAR LEITE BOM AJUDAR CONTRA DOENÇA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/leiteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3617",
+      "section": "L",
+      "situation": "Líquido usado sobre o papel para cobrir ou corrigir escritos indesejáveis.",
+      "translation": "Liquid paper",
+      "librasStructure": "EU ESCREVER ERRAD@! VOCÊ TER LIQUID-PAPER?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Eu escrevi errado. Você tem liquid paper? → EU ESCREVER ERRAD@! VOCÊ TER LIQUID-PAPER?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/liquid-paperSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3641",
+      "section": "L",
+      "situation": "Material abrasivo, próprio para desgastar ou alisar madeiras, metais e outros materiais ásperos.",
+      "translation": "Lixa",
+      "librasStructure": "VOCÊ PRECISAR COMPRAR TINTA LIXA ESPÁTULA HOJE EU CASA PINTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Você precisa comprar tinta, lixa e espátula, pois vou pintar a casa hoje. → VOCÊ PRECISAR COMPRAR TINTA LIXA ESPÁTULA HOJE EU CASA PINTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lixaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5315",
+      "section": "L",
+      "situation": "Artefato de barro, cerâmica ou porcelana para uso doméstico, em especial no serviço de mesa.",
+      "translation": "Louça",
+      "librasStructure": "DEPOIS ACABAR LAVAR LOUÇA GUARDAR ARMÁRIO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Depois de lavar a louça, guarde-a no armário. → DEPOIS ACABAR LAVAR LOUÇA GUARDAR ARMÁRIO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/loucaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3683",
+      "section": "L",
+      "situation": "Lâmina enquadrada em madeira, na qual se escreve ou desenha, muito usada em salas de aula.",
+      "translation": "Lousa",
+      "librasStructure": "AQUEL@ LOUSA RUIM CONSEGUIR-NÃO ESCREVER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 19 · Etimologia: Nacional",
+      "examples": [
+        "Aquela lousa está ruim, não consegui escrever nela. → AQUEL@ LOUSA RUIM CONSEGUIR-NÃO ESCREVER."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lousaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "19",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4301",
+      "section": "L",
+      "situation": "Líquido ou pasta usados em diversos compartimentos de uma máquina, evitando o seu desgaste.",
+      "translation": "Lubrificante",
+      "librasStructure": "MOTOR PROBLEMA PRECISAR COMPRAR ÓLEO^ESCORREGAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "O motor está com problema. Preciso comprar lubrificante. → MOTOR PROBLEMA PRECISAR COMPRAR ÓLEO^ESCORREGAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lubrificanteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3128",
+      "section": "M",
+      "situation": "Folhas e inflorescências do cânhamo, dessecadas e prensadas, com as quais se obtém uma droga alucinógena.",
+      "translation": "Maconha (1)",
+      "librasStructure": "MACONHA BO@ NÃO SAÚDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A maconha não é boa para a saúde. → MACONHA BO@ NÃO SAÚDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/maconha1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3129",
+      "section": "M",
+      "situation": "Folhas e inflorescências do cânhamo, dessecadas e prensadas, com a qual as pessoas fazem cigarros.",
+      "translation": "Maconha (2)",
+      "librasStructure": "EVITAR MACONHA POLÍCIA PRENDER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "Evite a maconha, a polícia prende. → EVITAR MACONHA POLÍCIA PRENDER."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/maconha2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4590",
+      "section": "M",
+      "situation": "Creme à base de óleo e gema de ovo, usado no tempero de saladas, sanduíches e em outras preparações.",
+      "translation": "Maionese",
+      "librasStructure": "IR SUPERMERCADO COMPRAR 1 LATA MAIONESE FAZER SALADA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Vou ao super-mercado comprar uma lata de maionese para fazer salada. → IR SUPERMERCADO COMPRAR 1 LATA MAIONESE FAZER SALADA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/maioneseSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3241",
+      "section": "M",
+      "situation": "Líquido que as abelhas produzem, a partir do suco das flores, e depositam em alvéolos especiais de cera.",
+      "translation": "Mel",
+      "librasStructure": "M-E-L EU GOSTAR-NÃO DOCEmuito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 06 · Etimologia: Nacional",
+      "examples": [
+        "Eu não gosto de mel porque é muito doce. → M-E-L EU GOSTAR-NÃO DOCEmuito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/melSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "06",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg06.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3275",
+      "section": "M",
+      "situation": "Material simples dotado de brilho próprio, bom condutor de calor e de eletricidade.",
+      "translation": "Metais",
+      "librasStructure": "FÁBRICA AQUEL@ TER FERRO VÁRI@S.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 27 · Etimologia: Nacional",
+      "examples": [
+        "Aquela fábrica tem vários metais. → FÁBRICA AQUEL@ TER FERRO VÁRI@S."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/metaisSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "27",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg27.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7450",
+      "section": "M",
+      "situation": "Adição de uma substância no depósito onde há outra susbtância; mesclagem.",
+      "translation": "Mistura",
+      "librasStructure": "LEITE ESS@ BO@ NÃO ESS@ TER MISTURA ÁGUA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Esse leite não é bom, esse tem mistura com água. → LEITE ESS@ BO@ NÃO ESS@ TER MISTURA ÁGUA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/misturaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2062",
+      "section": "O",
+      "situation": "Coisa material; o que é palpável, tangível.",
+      "translation": "Objeto",
+      "librasStructure": "CASA^ESTUDO MATERIAL^VÁRI@S PRECISAR COMPRAR",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Preciso comprar objetos escolares. → CASA^ESTUDO MATERIAL^VÁRI@S PRECISAR COMPRAR"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/objetoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2128",
+      "section": "O",
+      "situation": "Metal precioso, amarelado, brilhante e pesado, usado principalmente na confecção de jóias e moedas.",
+      "translation": "Ouro (1)",
+      "librasStructure": "TI@ ME@ 2sPRESENTEAR1s BRINCO O-U-R-O.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 42 · Etimologia: Nacional",
+      "examples": [
+        "Minha tia me deu brincos de ouro de presente. → TI@ ME@ 2sPRESENTEAR1s BRINCO O-U-R-O."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ouroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "42",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg42.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6635",
+      "section": "O",
+      "situation": "Metal precioso, amarelado, brilhante e pesado, usado principalmente em jóias e moedas.",
+      "translation": "Ouro (2)",
+      "librasStructure": "EU COMPRAR JÁ COLAR OURO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 35a · Etimologia: Nacional",
+      "examples": [
+        "Comprei um colar de ouro. → EU COMPRAR JÁ COLAR OURO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ouro2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "35a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg35a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4907",
+      "section": "O",
+      "situation": "Elemento não metálico, normalmente um tipo de gás, incolor, inodoro, insípido, comburente mas não combustível,o mais abundante dos que existem sobre a Terra.",
+      "translation": "Oxigênio",
+      "librasStructure": "HOSPITAL TER OBRIGAR OXIGÊNIO QUARTO CADAdistributivo.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "No hospital é obrigado ter um tubo de oxigênio em cada quarto. → HOSPITAL TER OBRIGAR OXIGÊNIO QUARTO CADAdistributivo."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/oxigenioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5796",
+      "section": "P",
+      "situation": "Haste seca do milho e de outros cereais, despojada dos grãos, usada na indústria ou como forragem.",
+      "translation": "Palha",
+      "librasStructure": "N-O-R-D-E-S-T-E PRAIA QUIOSQUE PALHA BONIT@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Nas praias do nordeste, os quiosques de palha são lindos. → N-O-R-D-E-S-T-E PRAIA QUIOSQUE PALHA BONIT@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palhaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1805",
+      "section": "P",
+      "situation": "Material fino e flexível, usado para escrever, imprimir, desenhar, embrulhar e outros fins.",
+      "translation": "Papel",
+      "librasStructure": "TER PAPEL BRANC@ ONDE?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Onde tem papel branco? → TER PAPEL BRANC@ ONDE?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papelSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1843",
+      "section": "P",
+      "situation": "Qualquer pedaço ou fragmento de madeira: lasca, tábua, bastão, cajado.",
+      "translation": "Pau",
+      "librasStructure": "PAU TER PREGO MUIT@ CUIDADO!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Esse pau tem muito prego, cuidado! → PAU TER PREGO MUIT@ CUIDADO!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pauSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1853",
+      "section": "P",
+      "situation": "Fragmento de vários tamanhos de um mineral da natureza das rochas, duro e sólido.",
+      "translation": "Pedra",
+      "librasStructure": "CASA ME@ OBRAR PEDRA SACO ACABAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Minha casa está em obra e o saco de pedra já acabou. → CASA ME@ OBRAR PEDRA SACO ACABAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1883",
+      "section": "P",
+      "situation": "Substância preparada com essências aromáticas, para perfumar a pele, os cabelos, a roupa; cheiro agradável.",
+      "translation": "Perfume",
+      "librasStructure": "PERFUME FRANCÊS NAMORAD@ 3sPRESENTEAR1s.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 39 · Etimologia: Nacional",
+      "examples": [
+        "Ganhei presente do meu namorado um perfume francês. → PERFUME FRANCÊS NAMORAD@ 3sPRESENTEAR1s."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perfumeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "39",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg39.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4923",
+      "section": "P",
+      "situation": "Nódulo brilhante e nacarado, que se forma nas conchas de alguns moluscos. É muito valorizada como jóia.",
+      "translation": "Pérola",
+      "librasStructure": "IRM@ ME@ ANEL CONCHA^coisa-redonda CAR@muito!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 19 · Etimologia: Nacional",
+      "examples": [
+        "O anel de pérola da minha irmã custou muito caro! → IRM@ ME@ ANEL CONCHA^coisa-redonda CAR@muito!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perolaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "19",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1944",
+      "section": "P",
+      "situation": "Material sintético usado como matéria-prima para a fabricação de diversos tipos de objeto.",
+      "translation": "Plástico",
+      "librasStructure": "MELHOR COMPRAR PLÁSTICO PRATO. VIDRO BO@ NÃO coisa redondaCAIR PODER QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "É melhor comprar pratos de plástico. O vidro não é bom, pode cair e quebrar. → MELHOR COMPRAR PLÁSTICO PRATO. VIDRO BO@ NÃO coisa redondaCAIR PODER QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/plasticoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1949",
+      "section": "P",
+      "situation": "Poeira; partículas minúsculas de terra seca ou de outra substância que sujam o chão, ficam depositadas sobre objetos ou se elevam no ar.",
+      "translation": "Pó (1)",
+      "librasStructure": "EU VARRER CASA PÓ ESPALHAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Uma ventania espalhou o pó pela sala. → EU VARRER CASA PÓ ESPALHAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1989",
+      "section": "P",
+      "situation": "Elemento químico, metálico, usado em várias ligas preciosas.",
+      "translation": "Prata",
+      "librasStructure": "ME@ NAMORAD@ 3sDAR1s COLAR PRATA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Meu namorado me deu um colar de prata. → ME@ NAMORAD@ 3sDAR1s COLAR PRATA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prataSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-945",
+      "section": "R",
+      "situation": "Medicamento; substância para a cura de algum mal.",
+      "translation": "Remédio",
+      "librasStructure": "MÊS PRÓXIMO REMÉDIO DINHEIRO AUMENTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "No próximo mês aumentará o valor dos remédios. → MÊS PRÓXIMO REMÉDIO DINHEIRO AUMENTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/remedioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1016",
+      "section": "S",
+      "situation": "Produto que contém sais de sódio e potássio e ácidos graxos, usado para lavar roupa, utensílios e superfícies.",
+      "translation": "Sabão",
+      "librasStructure": "AMANHÃ EU COMPRAR SABÃO CÔCO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 52 · Etimologia: Nacional",
+      "examples": [
+        "Vou comprar sabão de côco amanhã. → AMANHÃ EU COMPRAR SABÃO CÔCO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/sabaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "52",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1027",
+      "section": "S",
+      "situation": "Cloreto de sódio; composto cristalino de sódio, usado como condimento, na conserva de carnes e, de modo geral, na indústria.",
+      "translation": "Sal (1)",
+      "librasStructure": "COMIDA EST@ FALTAR S-A-L.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Falta sal nesta comida. → COMIDA EST@ FALTAR S-A-L."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/salSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7495",
+      "section": "S",
+      "situation": "Cloreto de sódio; composto cristalino de sódio, usado como condimento, na conserva de carnes e, de modo geral, na indústria.",
+      "translation": "Sal (2)",
+      "librasStructure": "SAL ACABAR PRECISAR SUPERMERCADO COMPRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "O sal acabou. Precisa comprar no supermercado. → SAL ACABAR PRECISAR SUPERMERCADO COMPRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/sal2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6541",
+      "section": "S",
+      "situation": "Líquido incolor e salgado, de cheiro característico, que se desprende do corpo através dos poros da pele.",
+      "translation": "Suor",
+      "librasStructure": "CASACO LÃ QUENTE SUORmuito RÁPID@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "O casaco de lã é quente e provoca muito suor rapidamente. → CASACO LÃ QUENTE SUORmuito RÁPID@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/suorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3723",
+      "section": "T",
+      "situation": "Pó geralmente perfumado, suave ao tato, usado na higiene pessoal.",
+      "translation": "Talco",
+      "librasStructure": "FAVOR VOCÊ IR SUPERMERCADO COMPRAR TALCO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 51a · Etimologia: Nacional",
+      "examples": [
+        "Por favor, vá ao supermercado comprar um talco. → FAVOR VOCÊ IR SUPERMERCADO COMPRAR TALCO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/talcoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3791",
+      "section": "T",
+      "situation": "Líquido colorido que, entre outras utilidades, serve para pintar, escrever, imprimir.",
+      "translation": "Tinta",
+      "librasStructure": "EU COMPRAR TINTA CASA EU PRECISAR PINTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Eu comprei tinta, pois preciso pintar a casa. → EU COMPRAR TINTA CASA EU PRECISAR PINTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tintaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2668",
+      "section": "U",
+      "situation": "Líquido eliminado pelo organismo, que é produzido nos rins. Vai à bexiga pelos ureteres e segue para fora do corpo por meio da uretra.",
+      "translation": "Urina",
+      "librasStructure": "S-I VOCÊ URINA COR AMAREL@-ESCUR@ VOCÊ PRECISAR MÉDICO URGENTE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Se a sua urina estiver na cor amarelo-escuro, você precisa ir ao médico com urgência. → S-I VOCÊ URINA COR AMAREL@-ESCUR@ VOCÊ PRECISAR MÉDICO URGENTE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/urinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2533",
+      "section": "V",
+      "situation": "Espécie de fumaça que se desprende dos corpos úmidos, pela ação do calor.",
+      "translation": "Vapor",
+      "librasStructure": "S-I TER VAPOR-PANELA PRESSÃO APAGAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Quando o vapor sair na panela de pressão, apague logo. → S-I TER VAPOR-PANELA PRESSÃO APAGAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vaporSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2561",
+      "section": "V",
+      "situation": "Substância nociva à saúde, capaz de alterar ou eliminar as funções vitais.",
+      "translation": "Veneno",
+      "librasStructure": "CUIDADO ! L-A-T-A REMÉDIO MATAR BARATA. VENENO!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "Cuidado! Esta lata tem remédio contra barata. É veneno! → CUIDADO ! L-A-T-A REMÉDIO MATAR BARATA. VENENO!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/venenoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4414",
+      "section": "V",
+      "situation": "Resultado de diversas combinações de resinas e óleos dissolvidos, usado para polir, amaciar ou preservar madeiras, metais e pinturas da umidade.",
+      "translation": "Verniz",
+      "librasStructure": "LATA VERNIZ VOCÊ COMPRAR JÁ?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Você compróu a lata de verniz? → LATA VERNIZ VOCÊ COMPRAR JÁ?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vernizSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2602",
+      "section": "V",
+      "situation": "Material quebradiço, transparente ou translúcido, que resulta da fusão de quartzo, carbonato de cálcio e carbonato de sódio. É usado em janelas, vitrines, vasos e diversas outras peças.",
+      "translation": "Vidro",
+      "librasStructure": "JANELA VIDRO QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "O vidro da janela se quebrou. → JANELA VIDRO QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vidroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2606",
+      "section": "V",
+      "situation": "Produto de sabor muito acre, usado como tempero. É originado da fermentação e transformação do álcool em ácido acético.",
+      "translation": "Vinagre",
+      "librasStructure": "EMPREGAD@ ESQUECER COMPRAR VINAGRE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "A empregada esqueceu de comprar vinagre. → EMPREGAD@ ESQUECER COMPRAR VINAGRE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vinagreSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2610",
+      "section": "V",
+      "situation": "Bebida alcoólica produzida com a fermentação da uva.",
+      "translation": "Vinho",
+      "librasStructure": "VINHO QUERER COMPRAR ITALIAN@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "Eu quero comprar um vinho italiano. → VINHO QUERER COMPRAR ITALIAN@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vinhoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2621",
+      "section": "V",
+      "situation": "Substâncias nutritivas e vitais, que desempenham papel importante no organismo. Estão presentes em alimentos ou em medicamentos.",
+      "translation": "Vitamina",
+      "librasStructure": "VITAMINA BEBER-COPO TODO@-DIA BO@ SAÚDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "Tomar vitamina todos os dias é bom para a saúde. → VITAMINA BEBER-COPO TODO@-DIA BO@ SAÚDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vitaminaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-578",
+      "section": "X",
+      "situation": "Solução aquosa e concentrada, que contém açúcar, mel e componentes medicamentosos, destinada a aliviar os males provocados pela tosse.",
+      "translation": "Xarope",
+      "librasStructure": "CRIANÇA RESFRIAD@ PRECISAR XAROPE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A criança resfriada precisa tomar xarope. → CRIANÇA RESFRIAD@ PRECISAR XAROPE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/xaropeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-584",
+      "section": "X",
+      "situation": "Urina; líquido produzido pela bexiga.",
+      "translation": "Xixi",
+      "librasStructure": "EU GOSTAR-NÃO CACHORRO PORQUE SEMPRE CAMA XIXI.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Matéria e substâncias · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "Eu não gosto do cachorro porque ele sempre faz xixi na cama. → EU GOSTAR-NÃO CACHORRO PORQUE SEMPRE CAMA XIXI."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/xixiSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}

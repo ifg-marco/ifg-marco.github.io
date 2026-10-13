@@ -1,0 +1,2139 @@
+{
+  "id": "ines-frutas",
+  "title": "INES: Frutas — vídeos direto do site do INES",
+  "description": "37 sinais do tema “Frutas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
+  "section": "Caderno público",
+  "author": "INES (organização: Marco Antônio)",
+  "createdAt": "2026-10-12T12:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-12T12:00:00.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Dicionário INES",
+  "order": 10,
+  "cards": [
+    {
+      "id": "ines-3930",
+      "section": "A",
+      "situation": "O fruto do abacateiro. Comestível, tem a polpa amarelada e macia. É consumido puro, com açúcar, em pratos salgados ou em vitaminas.",
+      "translation": "Abacate",
+      "librasStructure": "VOCÊ GOSTAR ABACATE LEITE JUNTO?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Você gosta de abacate com leite? → VOCÊ GOSTAR ABACATE LEITE JUNTO?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/abacateSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5",
+      "section": "A",
+      "situation": "Fruta de casca grossa e áspera. Sua polpa pode ser consumida pura, em forma de sucos, doces e sorvetes.",
+      "translation": "Abacaxi",
+      "librasStructure": "HOJE S-U-C-O ABACAXI BEBER ÁCID@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Hoje tomei suco de abacaxi, ele estava ácido. → HOJE S-U-C-O ABACAXI BEBER ÁCID@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/abacaxiSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-29",
+      "section": "A",
+      "situation": "Fruta que vem de uma palmeira. É consumida ao natural e utilizada para fazer doces, sorvetes e sucos.",
+      "translation": "Açaí",
+      "librasStructure": "AÇAÍ BEBER-CORPO-INTEIRO FORTE SAÚDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Eu bebo um copo cheio de suco de açaí. É forte e saudável. → AÇAÍ BEBER-CORPO-INTEIRO FORTE SAÚDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/acaiSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7",
+      "section": "A",
+      "situation": "Frutos alimentícios de uma planta herbácea, dos quais também se extrai o óleo.",
+      "translation": "Amendoim",
+      "librasStructure": "AMENDOIM, ELEFANTE ADORAR COMER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 17 · Etimologia: Nacional",
+      "examples": [
+        "Amendoim, elefante adora comer! → AMENDOIM, ELEFANTE ADORAR COMER."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/amendoimSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "17",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg17.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5123",
+      "section": "A",
+      "situation": "Fruto da amoreira e de algumas espécies de silvas. Suculento e doce, costuma ter as cores preto ou vermelho-escuro.",
+      "translation": "Amora",
+      "librasStructure": "PRIM@ ME@ COMER N-U-N-C-A AMORA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 45 · Etimologia: Nacional",
+      "examples": [
+        "Meu primo nunca comeu amora. → PRIM@ ME@ COMER N-U-N-C-A AMORA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/amoraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "45",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg45.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-558",
+      "section": "A",
+      "situation": "Fruto da oliveira, do qual se extrai o azeite. Costuma ser consumido ao natural ou em diversas preparações culinárias.",
+      "translation": "Azeitona",
+      "librasStructure": "FILH@ ME@ ADORAR COMER VERDE^objeto-redondo-pequeno.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 19 · Etimologia: Nacional",
+      "examples": [
+        "Meu filho adora comer azeitona verde. → FILH@ ME@ ADORAR COMER VERDE^objeto-redondo-pequeno."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/azeitonaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "19",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-152",
+      "section": "B",
+      "situation": "Fruto da árvore que tem o mesmo nome. Muito saborosa ao natural, também é usada para doces e sucos. Mais comum nas regiões norte e nordeste.",
+      "translation": "Bacuri",
+      "librasStructure": "PESSOA LÁ MARANHÃO ADORAR S-U-C-O B-A-C-U-R-I.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "As pessoas do Maranhão adoram suco de bacuri. → PESSOA LÁ MARANHÃO ADORAR S-U-C-O B-A-C-U-R-I."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bacuriSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-174",
+      "section": "B",
+      "situation": "O fruto da bananeira, comestível, saboroso e muito nutritivo. Pode ser consumido ao natural e usado no preparo de doces e vitaminas.",
+      "translation": "Banana",
+      "librasStructure": "BANANA COMER IMPORTANTE SAÚDE BO@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Comer banana é importante para a saúde. → BANANA COMER IMPORTANTE SAÚDE BO@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bananaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6353",
+      "section": "C",
+      "situation": "O fruto e a semente do cacaueiro.",
+      "translation": "Cacau",
+      "librasStructure": "LUGAR BAHIA CACAU MUIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "Na Bahia tem muito cacau. → LUGAR BAHIA CACAU MUIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cacauSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1205",
+      "section": "C",
+      "situation": "O fruto do cafeeiro, arbusto da família das rubiáceas, muito cultivado no Sul do Brasil. De sua semente, torrada e moida, é feita uma infusão de cor marrom-escura, bastante apreciada.",
+      "translation": "Café",
+      "librasStructure": "BRASIL CAFÉ PLANTAÇÃO MUIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 55 · Etimologia: Nacional",
+      "examples": [
+        "O Brasil tem muitas plantações de café. → BRASIL CAFÉ PLANTAÇÃO MUIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cafeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "55",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1214",
+      "section": "C",
+      "situation": "Fruto comestível do cajueiro, cuja polpa é muito utilizada para sucos, doces e geléias. Sua castanha também é muito apreciada. É rico em vitamina C.",
+      "translation": "Caju",
+      "librasStructure": "SÍTIO ME@ VOV@ TER MUITO CAJU.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 16 · Etimologia: Nacional",
+      "examples": [
+        "O sítio de minha avó tem muito caju. → SÍTIO ME@ VOV@ TER MUITO CAJU."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cajuSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "16",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg16.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6394",
+      "section": "C",
+      "situation": "Fruto da cerejeira. Vermelho, pequeno e redondo, é muito usado na preparação de geléias.",
+      "translation": "Cereja",
+      "librasStructure": "VERMELH@ coisa-redondaPEGAR GOSTOS@ MAS CAR@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "A cereja é gostosa, mas é cara. → VERMELH@ coisa-redondaPEGAR GOSTOS@ MAS CAR@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cerejaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1512",
+      "section": "C",
+      "situation": "Fruto do coqueiro, em especial o do coqueiro-da-baía, do qual são retiradas a polpa e a chamada água-de-coco, bastante consumidas ao natural ou em preparações.",
+      "translation": "Côco",
+      "librasStructure": "PRAIA MACEIÓ CÔCO MUIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Na praia de Maceió há muito côco. → PRAIA MACEIÓ CÔCO MUIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cocoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7354",
+      "section": "C",
+      "situation": "Fruto típico da região norte, de casca grossa, lenhosa e reticulada, que contém uma polpa doce e aromática. Suas sementes podem substituir o cacau verdadeiro na fabricação de chocolate.",
+      "translation": "Cupuaçu",
+      "librasStructure": "AQUI R-I-O DIFICIL VENDER CUPUAÇU.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 32 · Etimologia: Nacional",
+      "examples": [
+        "Aqui no Rio é difícil vender Cupuaçu. → AQUI R-I-O DIFICIL VENDER CUPUAÇU."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cupuacuSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "32",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5822",
+      "section": "F",
+      "situation": "Fruto da figueira. Pode ser consumido ao natural, seco ou usado na preparação de doces e geléias.",
+      "translation": "Figo",
+      "librasStructure": "FIGO EL@ GOSTAR-NÃO.",
+      "notes": "Classe gramatical: Adjetivo · Assunto: Frutas · Configuração de mão: 45 · Etimologia: Nacional",
+      "examples": [
+        "De figo, le não gosta. → FIGO EL@ GOSTAR-NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/figoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "45",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg45.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3095",
+      "section": "F",
+      "situation": "Órgão produzido pelos vegetais floríferos, comestível, geralmente adocicado e suculento.",
+      "translation": "Fruta",
+      "librasStructure": "MÃE HOJE FEIRA COMPRAR MAÇÃ^VÁRI@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Mamãe hoje comprou frutas na feira. → MÃE HOJE FEIRA COMPRAR MAÇÃ^VÁRI@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/frutaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-625",
+      "section": "G",
+      "situation": "Fruto da goiabeira, de polpa carnosa, vermelha ou branca. É consumida ao natural, em sucos, doces ou geléias.",
+      "translation": "Goiaba",
+      "librasStructure": "M-Ã-E ME@ FAZER DOCE GOIABA DELICIOS@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Minha mãe faz um doce de goiaba delicioso. → M-Ã-E ME@ FAZER DOCE GOIABA DELICIOS@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/goiabaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6241",
+      "section": "G",
+      "situation": "Fruto da graviola-do-norte, muito consumido ao natural, em sucos e sorvetes.",
+      "translation": "Graviola",
+      "librasStructure": "M-A-E IR FEIRA COMPRAR GRAVIOLA",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 20 · Etimologia: Nacional",
+      "examples": [
+        "Mamãe foi à feira comprar graviola. → M-A-E IR FEIRA COMPRAR GRAVIOLA"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/graviolaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "20",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2141",
+      "section": "J",
+      "situation": "Fruto da jabuticabeira. É pequeno e suculento. Pode ser consumido ao natural (sem a casca) e em forma de doces, geléias, sucos e licores.",
+      "translation": "Jabuticaba",
+      "librasStructure": "VIZINH@ ME@ TER ÁRVORÉ-JABUTICABA+.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "Meu vizinho tem pé de jabuticaba que está carregado de jabuticabas. → VIZINH@ ME@ TER ÁRVORÉ-JABUTICABA+."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jabuticabaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5283",
+      "section": "J",
+      "situation": "Fruto grande e de casca áspera, da jaqueira. Tem gomos viscosos e amarelados, muito doces. É consumido ao natural ou em forma de doces.",
+      "translation": "Jaca",
+      "librasStructure": "JACA COMER GOSTAR-NÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 46a · Etimologia: Nacional",
+      "examples": [
+        "Não gosto de comer jaca. → JACA COMER GOSTAR-NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jacaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "46a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg46a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3451",
+      "section": "L",
+      "situation": "Fruto da laranjeira, conhecido por conter vitamina C. Tem casca grossa e polpa em gomos. Pode ser consumido ao natural e em forma de sucos, doces, bolos e geléias.",
+      "translation": "Laranja",
+      "librasStructure": "LARANJA BO@ SAÚDE VITAMINA C.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Chupar laranja faz bem à saúde, ela tem vitamina C. → LARANJA BO@ SAÚDE VITAMINA C."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/laranjaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3867",
+      "section": "L",
+      "situation": "Fruto do limoeiro, bastante usado em sucos, doces, geléias, temperos, molhos e chás. Tem casca grossa, polpa em gomos e sabor ácido.",
+      "translation": "Limão",
+      "librasStructure": "FEIRA LÁ LIMÃO COMPRAR POR-FAVOR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Por favor, compre limão na feira. → FEIRA LÁ LIMÃO COMPRAR POR-FAVOR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/limaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3120",
+      "section": "M",
+      "situation": "Fruto da macieira, de casca vermelha ou verde. Muito saborosa, é consumida ao natural ou em doces, bolos, geléias e sucos.",
+      "translation": "Maçã",
+      "librasStructure": "MAÇÃ BONI@ 2sVER3s! V-O-U COMPRAR 6.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 51a · Etimologia: Nacional",
+      "examples": [
+        "Veja que maçãs bonitas!Vou comprar seis. → MAÇÃ BONI@ 2sVER3s! V-O-U COMPRAR 6."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "51a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3163",
+      "section": "M",
+      "situation": "Fruto do mamoeiro. Pode ser consumido ao natural, em sucos e saladas de fruta. Antes de amadurecer, é usado para fazer doces.",
+      "translation": "Mamão",
+      "librasStructure": "POR-FAVOR COMPRAR MAMÃO LARANJA BANANA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Favor compre mamão, laranja e banana para mim. → POR-FAVOR COMPRAR MAMÃO LARANJA BANANA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/mamao1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3182",
+      "section": "M",
+      "situation": "Fruto do maracujazeiro. Tem casca amarelada e rugosa, polpa de sabor ácido e é rica de sementes comestíveis. Usada na preparação de sucos, licores e doces e ao natural.",
+      "translation": "Maracujá",
+      "librasStructure": "VOCÊ TOMAR S-U-C-O MARACUJÁ BO@ ACALMAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 61 · Etimologia: Nacional",
+      "examples": [
+        "Tome suco de maracujá que é bom para acalmar. → VOCÊ TOMAR S-U-C-O MARACUJÁ BO@ ACALMAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/maracujaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "61",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3242",
+      "section": "M",
+      "situation": "Fruto comestível da melancia, planta herbácea rasteira. Grande e suculenta, tem casca verde e polpa vermelha. É consumida ao natural, em saladas de frutas e sucos.",
+      "translation": "Melancia",
+      "librasStructure": "N-U-N-C-A VER MELANCIA GRANDEmuito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Nunca vi uma melancia tão grande. → N-U-N-C-A VER MELANCIA GRANDEmuito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/melanciaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3244",
+      "section": "M",
+      "situation": "Fruto do meloeiro. Tem casca amarela e grossa e polpa doce e esverdeada. É consumido ao natural, em saladas de frutas e sucos.",
+      "translation": "Melão",
+      "librasStructure": "VOCÊ PRECISAR TOMAR SUCO MELÃO BO@ SAÚDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Você precisa tomar suco de melão, é bom para a saúde. → VOCÊ PRECISAR TOMAR SUCO MELÃO BO@ SAÚDE."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3285",
+      "section": "M",
+      "situation": "Fruto da mexeriqueira, muito consumido no Brasil. Também é conhecido, em algumas regiões, como bergamota ou tangerina.",
+      "translation": "Mexerica",
+      "librasStructure": "MEXERICA GOSTOS@ CHEIRO FORTE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "A mexerica é gostosa e tem um cheiro forte. → MEXERICA GOSTOS@ CHEIRO FORTE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/mexericaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3338",
+      "section": "M",
+      "situation": "Fruto do morangueiro, muito apreciado pelo sabor delicado. Também é usado na preparação de doces, geléias e vitaminas.",
+      "translation": "Morango",
+      "librasStructure": "COMPRAR MORANGO GOSTOS@ CAR@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Eu comprei uns morangos gostosos, mas caros. → COMPRAR MORANGO GOSTOS@ CAR@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/morangoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4635",
+      "section": "N",
+      "situation": "O fruto da nogueira; fruto seco com uma só semente.",
+      "translation": "Noz",
+      "librasStructure": "FILH@ ME@ GOSTAR-NÃO NOZ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 46b · Etimologia: Nacional",
+      "examples": [
+        "Meu filho não gosta de noz. → FILH@ ME@ GOSTAR-NÃO NOZ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/nozSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "46b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg46b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1875",
+      "section": "P",
+      "situation": "Fruto da pereira,comestível e muito apreciado ao natural, em doces e compotas.",
+      "translation": "Pêra",
+      "librasStructure": "EU LEVAR P-Ê-R-A COMER LÁ TRABALHO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Vou levar pêra para comer no meu trabalho. → EU LEVAR P-Ê-R-A COMER LÁ TRABALHO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1899",
+      "section": "P",
+      "situation": "O fruto do pessegueiro. Comestível e saboroso, serve como alimento ao natural ou em forma de sucos, doces, compotas e geléias.",
+      "translation": "Pêssego",
+      "librasStructure": "FILH@ ME@ COMER PÊSSEGO CALDA ADORAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "A minha filha adora comer pêssego em calda. → FILH@ ME@ COMER PÊSSEGO CALDA ADORAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pessegoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5723",
+      "section": "Q",
+      "situation": "Fruto de uma trepadeira do mesmo nome, originária da China, de casca macia, polpa verde e suculenta. Pode ser consumida ao natural, em sucos, sorvetes e saladas.",
+      "translation": "Quiuí",
+      "librasStructure": "QUIUÍ^VERDE VOCÊ COMER EXPERIMENTAR JÁ?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Você já experimentou comer o quiuí? → QUIUÍ^VERDE VOCÊ COMER EXPERIMENTAR JÁ?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quiuiSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3730",
+      "section": "T",
+      "situation": "Fruta cítrica, que também pode ser chamada de mexerica ou bergamota. É produzida pela árvore conhecida como tangerineira.",
+      "translation": "Tangerina",
+      "librasStructure": "FRUTA EU DETESTAR TANGERINA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 52 · Etimologia: Nacional",
+      "examples": [
+        "Tangerina é uma fruta que eu detesto. → FRUTA EU DETESTAR TANGERINA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tangerinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "52",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3802",
+      "section": "T",
+      "situation": "Fruto do tomateiro, de cor vermelha, muito usado em saladas e outras preparações culinárias.",
+      "translation": "Tomate",
+      "librasStructure": "EU GOSTAR SALADA TOMATE ALFACE SÓ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 11 · Etimologia: Nacional",
+      "examples": [
+        "Eu gosto somente de salada de tomate e alface. → EU GOSTAR SALADA TOMATE ALFACE SÓ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tomateSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "11",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2685",
+      "section": "U",
+      "situation": "O fruto da videira. Pode ser consumido ao natural ou seco. Dele também se obtém sucos e vinhos.",
+      "translation": "Uva",
+      "librasStructure": "LÁ RIO-GRANDE-DO-SUL UVA MUIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "No Rio Grande do Sul há muita uva. → LÁ RIO-GRANDE-DO-SUL UVA MUIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/uvaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4992",
+      "section": "V",
+      "situation": "Fruto da bergamota, também conhecido como mexerica, bergamota, tangerina e laranja-cravo. Consumida ao natural, também é usada para doces, sucos e geléias.",
+      "translation": "Vergamota",
+      "librasStructure": "CRIANÇA+ GOSTAR-NÃO VERGAMOTA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Frutas · Configuração de mão: 44 · Etimologia: Nacional",
+      "examples": [
+        "Muitas crianças não gostam de vergamota. → CRIANÇA+ GOSTAR-NÃO VERGAMOTA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vergamotaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "44",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}

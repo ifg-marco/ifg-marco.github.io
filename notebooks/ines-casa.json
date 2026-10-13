@@ -1,0 +1,6038 @@
+{
+  "id": "ines-casa",
+  "title": "INES: Casa — vídeos direto do site do INES",
+  "description": "107 sinais do tema “Casa”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
+  "section": "Caderno público",
+  "author": "INES (organização: Marco Antônio)",
+  "createdAt": "2026-10-12T12:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-12T12:00:00.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Dicionário INES",
+  "order": 5,
+  "cards": [
+    {
+      "id": "ines-4442",
+      "section": "A",
+      "situation": "Quebra-luz; peça usada para oferecer iluminação indireta em ambientes.",
+      "translation": "Abajur",
+      "librasStructure": "coisa-cônicaLÂMPADA LÂMPADA-QUEIMAR .",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "A lâmpada do abajur queimou. → coisa-cônicaLÂMPADA LÂMPADA-QUEIMAR ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/abajurSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-412",
+      "section": "A",
+      "situation": "Pequeno quadrado estofado usado na decoração.",
+      "translation": "Almofada",
+      "librasStructure": "CAMA SE@ BO@ ALMOFADA!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 50 · Etimologia: Nacional",
+      "examples": [
+        "Na sua cama tem uma boa almofada! → CAMA SE@ BO@ ALMOFADA!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/almofadaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "50",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg50.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-10",
+      "section": "A",
+      "situation": "Cada um dos pavimentos superiores nas casas acima do térreo.",
+      "translation": "Andar (1)",
+      "librasStructure": "EU MORAR 2º ANDAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Eu moro no segundo andar. → EU MORAR 2º ANDAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/andar1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-40",
+      "section": "A",
+      "situation": "Cada uma das unidades residenciais de um prédio.",
+      "translation": "Apartamento",
+      "librasStructure": "EL@ MORAR PRÉDIO APARTAMENTO NÚMERO 102.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 52 · Etimologia: Nacional",
+      "examples": [
+        "Ela mora no apartamento de número 102. → EL@ MORAR PRÉDIO APARTAMENTO NÚMERO 102."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/apartamentoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "52",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4819",
+      "section": "A",
+      "situation": "Espaço físico geralmente destinado à guarda de material de limpeza e serviços, como lavagem e passagem de roupas.",
+      "translation": "Área (1)",
+      "librasStructure": "PRECISAR REFORMAR QUADRADO ROUPA-LAVAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "É preciso reformar a área para lavar roupas. → PRECISAR REFORMAR QUADRADO ROUPA-LAVAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/area1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-49",
+      "section": "A",
+      "situation": "Móvel de madeira, metal, bambu e outros materiais, usado para guardar roupas, papéis, louças, remédios ou outros objetos de uso pessoal.",
+      "translation": "Armário",
+      "librasStructure": "objeto-retangular-volumosoABRIR SE@ BAGUNÇAD@ FEI@ PRECISAR ARRUMAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Seu armário está bagunçado e feio, é preciso arrumá-lo. → objeto-retangular-volumosoABRIR SE@ BAGUNÇAD@ FEI@ PRECISAR ARRUMAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/armarioSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-522",
+      "section": "A",
+      "situation": "Revestimento de madeira no chão.",
+      "translation": "Assoalho",
+      "librasStructure": "EMPREGAD@ MADEIRA^CHÃO ENCERAR JÁ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "A empregada já encerou o assoalho. → EMPREGAD@ MADEIRA^CHÃO ENCERAR JÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/assoalhoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-151",
+      "section": "B",
+      "situation": "Recipiente redondo e côncavo, geralmente de metal ou plástico, usado para banhos, limpeza e outros fins.",
+      "translation": "Bacia",
+      "librasStructure": "FAVOR PROCURAR BACIA EU ACHAR NÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "Por favor, procure a bacia, eu não achei. → FAVOR PROCURAR BACIA EU ACHAR NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/baciaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-167",
+      "section": "B",
+      "situation": "Recipiente cilíndrico, aberto e com alça, de metal ou plástico.",
+      "translation": "Balde",
+      "librasStructure": "EU COMPRAR BALDE PRECISAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Preciso comprar um balde. → EU COMPRAR BALDE PRECISAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/baldeSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-181",
+      "section": "B",
+      "situation": "Tabuleiro plano, confeccionado em diversos materiais e usado para transportar utensílios e alimentos.",
+      "translation": "Bandeja",
+      "librasStructure": "VOCÊ TER BANDEJA PRATA OU MADEIRA.QUAL?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "Você tem uma bandeja de prata ou de madeira? → VOCÊ TER BANDEJA PRATA OU MADEIRA.QUAL?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bandejaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4198",
+      "section": "B",
+      "situation": "Peça onde se toma banho, com espaço suficiente para a água cobrir todo o corpo.",
+      "translation": "Banheira",
+      "librasStructure": "CASA MÃE BANHEIRA ANTIGA, ADORAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Na casa da minha mãe tem banheira antiga, que eu adoro. → CASA MÃE BANHEIRA ANTIGA, ADORAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/banheiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6767",
+      "section": "B",
+      "situation": "Caixa ou mala de couro ou madeira, em geral antiga, com uma tampa abaulada e fechadura.",
+      "translation": "Baú",
+      "librasStructure": "CASA CIMA TER B-A-Ú ANTIG@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "No andar de cima da casa há um baú antigo. → CASA CIMA TER B-A-Ú ANTIG@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bauSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-234",
+      "section": "B",
+      "situation": "Conjunto de camas superpostas, com vigas laterais comuns.",
+      "translation": "Beliche",
+      "librasStructure": "L-O-J-A VENDER PROMOÇÃO CAMA^BELICHEcoisa-retangular BONIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 37a · Etimologia: Nacional",
+      "examples": [
+        "Aquela loja está em promoção, vendendo um beliche muito bonito. → L-O-J-A VENDER PROMOÇÃO CAMA^BELICHEcoisa-retangular BONIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/belicheSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "37a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-242",
+      "section": "B",
+      "situation": "Pequeno leito para criança de colo, geralmente cercado de grades.",
+      "translation": "Berço",
+      "librasStructure": "EU QUERER DOAR BERÇO QUALQUER PESSOA POBRE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 37a · Etimologia: Nacional",
+      "examples": [
+        "Eu quero doar o berço para uma pessoa pobre. → EU QUERER DOAR BERÇO QUALQUER PESSOA POBRE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bercoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "37a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6779",
+      "section": "B",
+      "situation": "Esfera de vidro transparente, com uma abertura na parte inferior, que serve de base para a colocação de flores, pedras ou outros objetos decorativos.",
+      "translation": "Bola (5)",
+      "librasStructure": "MULHER AQUEL@ NERVOS@ BOLA VIDRO QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Aquela mulher está nervosa porque quebrou a bola de cristal. → MULHER AQUEL@ NERVOS@ BOLA VIDRO QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bola5Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4232",
+      "section": "B",
+      "situation": "Recipiente especialmente fabricado para armazenar e liberar o gás de uso doméstico.",
+      "translation": "Botijao de gás",
+      "librasStructure": "ME@ CASA TER coisa-arrendonda-volumosaG-Á-S 2.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Minha casa tem dois botijões de gás. → ME@ CASA TER coisa-arrendonda-volumosaG-Á-S 2."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1167",
+      "section": "C",
+      "situation": "Pequena casa rústica.",
+      "translation": "Cabana",
+      "librasStructure": "ÁRVORE+ CABANA NÓS ENCONTRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Nós encontramos uma cabana na floresta. → ÁRVORE+ CABANA NÓS ENCONTRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cabanaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1180",
+      "section": "C",
+      "situation": "Peça em que se penduram roupas, chapéus e outros objetos de uso pessoal.",
+      "translation": "Cabide",
+      "librasStructure": "ARMÁRIO ME@ CABIDE POUC@ PRECISAR COMPRAR MAIS.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 15 · Etimologia: Nacional",
+      "examples": [
+        "Meu armário tem poucos cabides, prewciso comprar mais. → ARMÁRIO ME@ CABIDE POUC@ PRECISAR COMPRAR MAIS."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cabideSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "15",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1195",
+      "section": "C",
+      "situation": "Fechadura portátil. Dotada de aro móvel que passa dentro de duas argolas presas às peças que se quer unir ou fechar.",
+      "translation": "Cadeado",
+      "librasStructure": "CASA ME@ PORTÃO CADEADO VELH@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 49 · Etimologia: Nacional",
+      "examples": [
+        "O portão da minha casa está com um cadeado velho. → CASA ME@ PORTÃO CADEADO VELH@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cadeadoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "49",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1211",
+      "section": "C",
+      "situation": "Reservatório da água destinada ao abastecimento de uma cidade, bairro, edifício ou casa.",
+      "translation": "Caixa d´água",
+      "librasStructure": "ÁGUA^QUADRAD@ CASA ME@ QUEBRAR PRECISAR OUTR@ NOV@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "A caixa d´água de minha casa quebrou. Preciso de outra nova. → ÁGUA^QUADRAD@ CASA ME@ QUEBRAR PRECISAR OUTR@ NOV@."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1209",
+      "section": "C",
+      "situation": "Recipiente de qualquer material, com ou sem tampa, de diversos formatos, tamanhos e formas de uso.",
+      "translation": "Caixa (1)",
+      "librasStructure": "PRESENTE CAIXA TER-NÃO SÓ PAPEL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Não tenho caixa para o presente, só tenho papel. → PRESENTE CAIXA TER-NÃO SÓ PAPEL."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/caixaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1236",
+      "section": "C",
+      "situation": "Móvel em que as pessoas se deitam para dormir ou repousar.",
+      "translation": "Cama",
+      "librasStructure": "CAMA FERRO O-U MADEIRA VOCÊ PREFERIR?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 37a · Etimologia: Nacional",
+      "examples": [
+        "Você prefere cama de ferro ou de madeira? → CAMA FERRO O-U MADEIRA VOCÊ PREFERIR?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/camaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "37a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1271",
+      "section": "C",
+      "situation": "Recipiente de pequeno porte, com uma asa lateral de apoio para os dedos, próprio para o consumo de líquidos.",
+      "translation": "Caneca",
+      "librasStructure": "objeto-volumosoBEBER PLÁSTICO EU COMPRAR LÁ EUROPA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Na Europa eu comprei uma caneca de plástico. → objeto-volumosoBEBER PLÁSTICO EU COMPRAR LÁ EUROPA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/canecaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1346",
+      "section": "C",
+      "situation": "Construção de um ou de poucos andares, geralmente destinada à moradia, que também costuma abrigar empresas, escolas e clínicas.",
+      "translation": "Casa",
+      "librasStructure": "EU SONHAR QUERER GANHAR CASA GRANDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Meu sonho é ganhar uma casa enorme. → EU SONHAR QUERER GANHAR CASA GRANDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/casaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1386",
+      "section": "C",
+      "situation": "Muro; estacaria; separação.",
+      "translation": "Cerca",
+      "librasStructure": "GOSTAR VER CASA CERCA GOSTAR-NÃO MURO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 58 · Etimologia: Nacional",
+      "examples": [
+        "Gosto de ver casa com cerca, não gosto de muro. → GOSTAR VER CASA CERCA GOSTAR-NÃO MURO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cercaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "58",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg58.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1393",
+      "section": "C",
+      "situation": "Recipiente usado para depositar o lixo.",
+      "translation": "Cesta de lixo",
+      "librasStructure": "PROFESSOR@ 1sAVISAR3p PAPEL JOGAR coisa-redondaLIXO.",
+      "notes": "Classe gramatical: Locução substantiva · Assunto: Casa · Configuração de mão: 16 · Etimologia: Nacional",
+      "examples": [
+        "A professora avisou para jogar o papel na cesta de lixo. → PROFESSOR@ 1sAVISAR3p PAPEL JOGAR coisa-redondaLIXO."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "16",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg16.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6398",
+      "section": "C",
+      "situation": "Recipente feito de material fibroso, trançado, para guardar frutas, legumes e outros objetos.",
+      "translation": "Cesta",
+      "librasStructure": "EU COMPRAR CESTA 3.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Eu comprei três cestas. → EU COMPRAR CESTA 3."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cestaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6399",
+      "section": "C",
+      "situation": "Tubo que comunica a fornalha para o exterior da casa levando, geralmente pelo telhado, o ar e os resíduos da combustão.",
+      "translation": "Chaminé",
+      "librasStructure": "AQUI RIO DE JANEIRO DIFÍCIL CASA CHAMINÉ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "Aqui no Rio de Janeiro, é difícil achar uma casa com chaminé. → AQUI RIO DE JANEIRO DIFÍCIL CASA CHAMINÉ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/chamineSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1407",
+      "section": "C",
+      "situation": "Solo, piso, superfície sobre a qual se anda.",
+      "translation": "Chão",
+      "librasStructure": "BANHEIRO AQUI CHÃO LIMP@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "O chão do banheiro está limpo. → BANHEIRO AQUI CHÃO LIMP@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/chaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1413",
+      "section": "C",
+      "situation": "Peça geralmente de metal, que deve ser introduzida na fechadura para remover a lingueta que a trava, e assim abri-la ou fechá-la.",
+      "translation": "Chave",
+      "librasStructure": "ME@ CASA CHAVE SUMIR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A chave da minha casa sumiu. → ME@ CASA CHAVE SUMIR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/chaveSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1496",
+      "section": "C",
+      "situation": "Retângulo de lã, algodão ou outro tecido encorpado, usado como agasalho.",
+      "translation": "Coberta",
+      "librasStructure": "NOITE DORMIR EL@ SEMPRE COBERTA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "À noite, ele sempre usa coberta para dormir. → NOITE DORMIR EL@ SEMPRE COBERTA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cobertaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7337",
+      "section": "C",
+      "situation": "Grande peça de lã, flanela ou tecido que aquece, usada no inverno como roupa de cama.",
+      "translation": "Cobertor",
+      "librasStructure": "CACHORR@ XIXI COBERTOR ME@ BATER!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 50 · Etimologia: Nacional",
+      "examples": [
+        "Eu bati no cachorro que fez xixi no meu cobertor! → CACHORR@ XIXI COBERTOR ME@ BATER!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cobertorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "50",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg50.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1524",
+      "section": "C",
+      "situation": "Grande almofada de espuma, crina, algodão ou outros materiais, para ser colocada sobre toda a extensão do estrado da cama.",
+      "translation": "Colchão (1)",
+      "librasStructure": "coisa-fofaCAMA NOV@ VOCÊ PRECISAR COMPRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Você precisa comprar um colchão novo. → coisa-fofaCAMA NOV@ VOCÊ PRECISAR COMPRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/colchao1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1525",
+      "section": "C",
+      "situation": "Grande almofada de espuma, crina, algodão ou outros materiais, para ser colocada sobre toda a extensão do estrado da cama.",
+      "translation": "Colchão (2)",
+      "librasStructure": "coisa-fofaDORMIR VELH@ PESSOA POBRE M-Ã-E DOAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "A mãe doou o colchão velho para um pessoa pobre. → coisa-fofaDORMIR VELH@ PESSOA POBRE M-Ã-E DOAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/colchao2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1527",
+      "section": "C",
+      "situation": "Peça de superfície côncava, com um cabo, usada para servir, misturar e levar o alimento à boca.",
+      "translation": "Colher (1)",
+      "librasStructure": "PROCURAR COLHER BEBÊ PRECISAR COMER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Procuro a colher, pois o bebê precisa comer. → PROCURAR COLHER BEBÊ PRECISAR COMER."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/colher1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1558",
+      "section": "C",
+      "situation": "Móvel de altura média, em geral de madeira, com gavetas ou gavetões.",
+      "translation": "Cômoda",
+      "librasStructure": "EU VONTADE COMPRAR coisa-retangular-grandeABRIR-GAVETA ANTIG@ LIND@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Eu estou querendo comprar uma cômoda antiga, linda! → EU VONTADE COMPRAR coisa-retangular-grandeABRIR-GAVETA ANTIG@ LIND@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/comodaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6051",
+      "section": "C",
+      "situation": "Espaço geralmente longo e estreito da casa, que funciona como passagem ou ponto de ligação entre os demais.",
+      "translation": "Corredor",
+      "librasStructure": "APARTAMENTO ME@ PRIM@ CORREDOR ESTREIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "O apartamento do meu primo tem um corredor estreito. → APARTAMENTO ME@ PRIM@ CORREDOR ESTREIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/corredorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1696",
+      "section": "C",
+      "situation": "Peça de pano ou de outros materiais, colocada na janela, que decora o ambiente e também o protege de luz e calor.",
+      "translation": "Cortina",
+      "librasStructure": "CORTINA ME@ CASA BONIT@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 58 · Etimologia: Nacional",
+      "examples": [
+        "Na minha casa tem uma cortina muito bonita. → CORTINA ME@ CASA BONIT@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cortinaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "58",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg58.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1717",
+      "section": "C",
+      "situation": "Espaço da casa onde são preparados e geralmente guardados os alimentos.",
+      "translation": "Cozinha",
+      "librasStructure": "COZINHA ME@ CASA PEQUEN@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A cozinha da minha casa é pequena. → COZINHA ME@ CASA PEQUEN@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cozinhaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2800",
+      "section": "E",
+      "situation": "Série de degraus em torno de um eixo e em forma de espiral, que dá acesso aos diferentes planos de um edifício.",
+      "translation": "Escada de caracol",
+      "librasStructure": "CASA ME@ TI@ TER ESCADA-CARACOL LIND@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 28 · Etimologia: Nacional",
+      "examples": [
+        "A casa do meu tio tem uma linda escada de caracol. → CASA ME@ TI@ TER ESCADA-CARACOL LIND@!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/escada_de_caracolSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "28",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg28.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2799",
+      "section": "E",
+      "situation": "Utensílio para uso doméstico ou profissional, de madeira ou alumínio, composto por duas barras verticais paralelas que ao serem separadas passam a formar degraus.",
+      "translation": "Escada",
+      "librasStructure": "HOMEM PINTAR PAREDE PRECISAR ESCADA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 29a · Etimologia: Nacional",
+      "examples": [
+        "Para pintar a parede, o homem precisa de uma escada. → HOMEM PINTAR PAREDE PRECISAR ESCADA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/escada1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "29a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg29a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2844",
+      "section": "E",
+      "situation": "Superfície de vidro recoberta por uma película metálica, que reflete as imagens.",
+      "translation": "Espelho",
+      "librasStructure": "VOCÊ TER ESPELHO EU PRECISAR PASSAR-BATOM VER ESPELHO?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Eu preciso do espelho para passar batom. → VOCÊ TER ESPELHO EU PRECISAR PASSAR-BATOM VER ESPELHO?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/espelhoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6475",
+      "section": "E",
+      "situation": "Pequena peça de material áspero, para ser usada na limpeza de louças e outros utensílios, com sabão ou detergente.",
+      "translation": "Esponja",
+      "librasStructure": "ME@ IRM@ LAVAR PRATO SEMPRE ESPONJA AZUL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Minha irmã sempre lava os pratos com esponja zul. → ME@ IRM@ LAVAR PRATO SEMPRE ESPONJA AZUL."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/esponjaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6476",
+      "section": "E",
+      "situation": "Cadeira reclinável, própria para o relaxamento físico.",
+      "translation": "Espreguiçadeira",
+      "librasStructure": "EU GOSTAR SOL ESPREGUIÇADEIRA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 24 · Etimologia: Nacional",
+      "examples": [
+        "Eu gosto de tomar sol na espreguiçadeira. → EU GOSTAR SOL ESPREGUIÇADEIRA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/espreguicadeiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "24",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2926",
+      "section": "F",
+      "situation": "Instrumento cortante, constituído por lâmina e cabo.",
+      "translation": "Faca",
+      "librasStructure": "ONDE FACA PRÓPRI@ CHURRASCO? VOCÊ 2sVER3s?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 24 · Etimologia: Nacional",
+      "examples": [
+        "Onde está a faca para churrasco? Você a viu? → ONDE FACA PRÓPRI@ CHURRASCO? VOCÊ 2sVER3s?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/facaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "24",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5027",
+      "section": "F",
+      "situation": "Jogo com todos os talheres de uso na mesa, embalado em caixa ou estojo.",
+      "translation": "Faqueiro",
+      "librasStructure": "EU COMPRAR coisa-quadrada^FACA^GARFO^VÁRI@ ME@ NOIV@.1sPRESENTEAR3s.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 24 · Etimologia: Nacional",
+      "examples": [
+        "Comprei um faqueiro para dar de presente para minha noiva. → EU COMPRAR coisa-quadrada^FACA^GARFO^VÁRI@ ME@ NOIV@.1sPRESENTEAR3s."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/faqueiroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "24",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2974",
+      "section": "F",
+      "situation": "Peça metálica para trancar portas, gavetas e outras partes da casa ou dos móveis. Seu mecanismo se baseia no movimento que a chave provoca na lingüeta.",
+      "translation": "Fechadura",
+      "librasStructure": "CASA ME@ PORTA FECHADURA QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A fechadura da minha casa quebrou. → CASA ME@ PORTA FECHADURA QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fechaduraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3050",
+      "section": "F",
+      "situation": "Aparelho de metal ou alvenaria, com funcionamento à base de eletricidade, gás, carvão ou lenha, usado para cozinhar e assar alimentos.",
+      "translation": "Fogão",
+      "librasStructure": "EU COMPRAR FOGÃO NOV@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Eu comprei um fogão novo. → EU COMPRAR FOGÃO NOV@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fogaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3067",
+      "section": "F",
+      "situation": "Uma das partes do fogão, na qual são preparados os assados.",
+      "translation": "Forno",
+      "librasStructure": "B-O-L-O VOVÓ ESQUECER FORNO B-O-L-O QUEIMAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Vovó esqueceu o bolo no forno e ele queimou. → B-O-L-O VOVÓ ESQUECER FORNO B-O-L-O QUEIMAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fornoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3090",
+      "section": "F",
+      "situation": "Utensílio de cozinha usado para fazer frituras.",
+      "translation": "Frigideira",
+      "librasStructure": "POR-FAVOR PEGAR coisa-arredondadaFRIGIDEIRA EU CARNE FRITAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "Por favor, pegue a frigideira para eu fritar a carne. → POR-FAVOR PEGAR coisa-arredondadaFRIGIDEIRA EU CARNE FRITAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/frigideiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-597",
+      "section": "G",
+      "situation": "Local onde são guardados os veículos.",
+      "translation": "Garagem",
+      "librasStructure": "CASA ME@ GARAGEM GRANDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 31 · Etimologia: Nacional",
+      "examples": [
+        "A garagem da minha casa é grande. → CASA ME@ GARAGEM GRANDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/garagemSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "31",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-599",
+      "section": "G",
+      "situation": "Talher com três ou quatro dentes, usado para levar o alimento à boca, ou para firmar aquele que deve ser cortado.",
+      "translation": "Garfo",
+      "librasStructure": "V-O-V-Ó ME@ TER GARFO PRATA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 59a · Etimologia: Nacional",
+      "examples": [
+        "Minha avó tem garfos de prata. → V-O-V-Ó ME@ TER GARFO PRATA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/garfoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "59a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg59a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-606",
+      "section": "G",
+      "situation": "Móvel com isolamento térmico, próprio para refrigerar e conservar alimentos.",
+      "translation": "Geladeira",
+      "librasStructure": "P-A-I ME@ COMPRAR FRIO^ABRIR-PORTA 3sPRESENTEAR3s M-Ã-E ME@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 16 · Etimologia: Nacional",
+      "examples": [
+        "Meu pai comprou uma geladeira de presente para a minha mãe. → P-A-I ME@ COMPRAR FRIO^ABRIR-PORTA 3sPRESENTEAR3s M-Ã-E ME@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/geladeiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "16",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg16.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-637",
+      "section": "G",
+      "situation": "Armação de tiras de ferro, madeira ou outro material, dispostas lado a lado ou cruzadas, usada para proteger ou isolar uma área.",
+      "translation": "Grade (1)",
+      "librasStructure": "GRADE CASA ME@ PRECISAR PINTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 58 · Etimologia: Nacional",
+      "examples": [
+        "A grade da minha casa precisa ser pintada. → GRADE CASA ME@ PRECISAR PINTAR."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "58",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg58.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7400",
+      "section": "G",
+      "situation": "Armação de tiras de ferro, madeira ou outro material, dispostas lado a lado ou cruzadas, usada para proteger ou isolar uma área.",
+      "translation": "Grade (2)",
+      "librasStructure": "GRADE JANELA CASA ME@ PRECISAR PINTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 46a · Etimologia: Nacional",
+      "examples": [
+        "Preciso pintar a grade da janela da minha casa. → GRADE JANELA CASA ME@ PRECISAR PINTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/grade2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "46a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg46a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-664",
+      "section": "G",
+      "situation": "Armário com gavetas e cabides, onde se guarda a roupa.",
+      "translation": "Guarda-roupa",
+      "librasStructure": "V-O-V-Ó COMPRAR coisa-retangurar-grandeROUPA 3sPRESENTE3s N-E-T-O.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 55 · Etimologia: Nacional",
+      "examples": [
+        "Vovó comprou um guarda-roupa de presente para o neto. → V-O-V-Ó COMPRAR coisa-retangurar-grandeROUPA 3sPRESENTE3s N-E-T-O."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/guarda-roupaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "55",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2153",
+      "section": "J",
+      "situation": "Vaso alto e geralmente bojudo, próprio para colocar flores ou para guardar e servir líquidos; jarro.",
+      "translation": "Jarra",
+      "librasStructure": "VOCÊ 2sVER3s ME@ JARRA coisa-alongadaCAIR QUEBRAR?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Você viu que a minha jarra caiu e quebrou? → VOCÊ 2sVER3s ME@ JARRA coisa-alongadaCAIR QUEBRAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jarraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3454",
+      "section": "L",
+      "situation": "Espécie de fornalha de tijolos ou pedra, onde o fogo é aceso, para aquecer o interior da casa.",
+      "translation": "Lareira",
+      "librasStructure": "CASA ME@ PRECISAR LAREIRA LÁ FRI@muito.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Preciso de uma lareira na minha casa, pois aqui é muito frio. → CASA ME@ PRECISAR LAREIRA LÁ FRI@muito."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lareiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3531",
+      "section": "L",
+      "situation": "Peça de linho, algodão, tergal e outros tecidos, que é usada na cama, seja para cobrir o colchão ou para agasalhar quem está deitado.",
+      "translation": "Lençol",
+      "librasStructure": "AMANHÃ EU IR COMPRAR LENÇOL NOV@ PORQUE ME@ CASA FURAD@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 55 · Etimologia: Nacional",
+      "examples": [
+        "Amanhã vou comprar um lençol novo, porque o da minha casa está furado. → AMANHÃ EU IR COMPRAR LENÇOL NOV@ PORQUE ME@ CASA FURAD@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lencolSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "55",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3706",
+      "section": "L",
+      "situation": "Luminária com peças de vidro, cristal ou louça, presa ao teto. Geralmente possui vários braços, nos quais são colocadas as lâmpadas.",
+      "translation": "Lustre",
+      "librasStructure": "CASA ME@ PRECISAR LUSTRE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 57 · Etimologia: Nacional",
+      "examples": [
+        "Minha casa precisa de um lustre. → CASA ME@ PRECISAR LUSTRE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lustreSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "57",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3269",
+      "section": "M",
+      "situation": "Móvel, em geral de madeira, sobre o qual são feitas as refeições, trabalhos, jogos e outras atividades.",
+      "translation": "Mesa (1)",
+      "librasStructure": "EU PRECISAR MESA GRANDE PORQUE AMANHÃ FAMÍLIA VIR VISITAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Eu preciso de uma mesa grande porque amanhã a família vem me visitar. → EU PRECISAR MESA GRANDE PORQUE AMANHÃ FAMÍLIA VIR VISITAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/mesaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-7013",
+      "section": "M",
+      "situation": "Móvel, em geral de madeira, usado como apoio para fazer refeições, trabalhar e desenvolver outras diversas atividades.",
+      "translation": "Mesa (2)",
+      "librasStructure": "EU PRECISAR MESA GRANDE PORQUE AMANHÃ FAMÍLIA VIR VISITAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Eu preciso de uma mesa grande porque amanhã a família vem me visitar. → EU PRECISAR MESA GRANDE PORQUE AMANHÃ FAMÍLIA VIR VISITAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/mesa2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3313",
+      "section": "M",
+      "situation": "Conjunto dos móveis necessários para as atividades sociais, de lazer, descanso, alimentação e outras; mobiliário.",
+      "translation": "Mobília",
+      "librasStructure": "CASA MATERIAL VÁRI@S CHEGAR NÃO EU JÁ 1 MÊS ESPERAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "As mobílias ainda não chegaram, estou esperando há um mês. → CASA MATERIAL VÁRI@S CHEGAR NÃO EU JÁ 1 MÊS ESPERAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/mobiliaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3359",
+      "section": "M",
+      "situation": "Mobília; as peças com que são montadas as casas ou escritórios, como armários, estantes, mesas, cadeiras e outras.",
+      "translation": "Móveis",
+      "librasStructure": "OBRA CASA PRONT@ JÁ FALTAR AGORA COMPRAR MÓVEIS.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "A obra da casa já está pronta, agora falta comprar os móveis. → OBRA CASA PRONT@ JÁ FALTAR AGORA COMPRAR MÓVEIS."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/moveisSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3381",
+      "section": "M",
+      "situation": "Parede de alvenaria que cerca uma casa ou qualquer outro espaço; o que separa um lugar de outro.",
+      "translation": "Muro",
+      "librasStructure": "ME@ GAT@ SEMPRE MURO animalPULAR R-U-A PASSEAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Minha gata sempre pula o muro para passear na rua. → ME@ GAT@ SEMPRE MURO animalPULAR R-U-A PASSEAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/muroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1799",
+      "section": "P",
+      "situation": "Peça de barro, ferro, alumínio ou outros materiais, usada para cozinhar alimentos.",
+      "translation": "Panela",
+      "librasStructure": "PANELA ME@ VELH@muito EU COMPRAR NOV@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "A minha panela está muito velha e vou comprar nova. → PANELA ME@ VELH@muito EU COMPRAR NOV@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/panelaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1800",
+      "section": "P",
+      "situation": "Retângulo de tecido de algodão ou de outro material absorvente, usado para limpar e enxugar o chão.",
+      "translation": "Pano (1)",
+      "librasStructure": "VOCÊ ESQUECER NÃO COMPRAR SUPERMERCADO PANO LIMPAR-CHÃO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 05 · Etimologia: Nacional",
+      "examples": [
+        "Não esqueça de comprar o pano de chão no supermercado. → VOCÊ ESQUECER NÃO COMPRAR SUPERMERCADO PANO LIMPAR-CHÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pano1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "05",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1801",
+      "section": "P",
+      "situation": "Retãngulo de tecido utilizado para secar pratos e outros utensílios de cozinha.",
+      "translation": "Pano (2)",
+      "librasStructure": "EU IR CIDADE L-O-J-A COMPRAR PANO LAVAR-PRATO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 21 · Etimologia: Nacional",
+      "examples": [
+        "Eu fui à loja na cidade comprar pano de prato. → EU IR CIDADE L-O-J-A COMPRAR PANO LAVAR-PRATO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pano2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "21",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg21.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5878",
+      "section": "P",
+      "situation": "Utensílio usado para peneirar; peça que tem uma superfície com furos e separa as substâncias mais finas das mais grossas.",
+      "translation": "Peneira",
+      "librasStructure": "PENEIRA EU TER-NÃO PODER EMPRESTAR?",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Não tenho a peneira e você pode me emprestar? → PENEIRA EU TER-NÃO PODER EMPRESTAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peneiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5882",
+      "section": "P",
+      "situation": "Urinol; peça muito usada no passado, usada como hoje é usado o vaso sanitério.",
+      "translation": "Penico",
+      "librasStructure": "HOMEM VELH@ SEMPRE PENICO CAMA EMBAIXO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "O velho sempre deixa o penico embaixo da cama. → HOMEM VELH@ SEMPRE PENICO CAMA EMBAIXO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/penicoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4925",
+      "section": "P",
+      "situation": "Conjunto de peças longas de madeira, plástico e material similar, que impede a passagem da claridade, mas permite a passagem de ar pela janela.",
+      "translation": "Persiana",
+      "librasStructure": "EU QUERER-NÃO CORTINA PREFERIR PERSIANA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Não quero cortina, prefiro persiana. → EU QUERER-NÃO CORTINA PREFERIR PERSIANA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/persianaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1936",
+      "section": "P",
+      "situation": "Pequeno prato sobre o qual é colocada a xícara.",
+      "translation": "Pires",
+      "librasStructure": "EU 1sPEDIR3s EMPREGAD@ ME@ PIRES XÍCARA coisa-redonda COLOCAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Pedi à minha empregada para colocar as xícaras e os pires na mesa. → EU 1sPEDIR3s EMPREGAD@ ME@ PIRES XÍCARA coisa-redonda COLOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/piresSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5946",
+      "section": "P",
+      "situation": "O que foi lustrado; brilhante.",
+      "translation": "Polido",
+      "librasStructure": "MESA CADEIRA POLID@ JÁ.",
+      "notes": "Classe gramatical: Adjetivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "A mesa e as cadeiras estão polidas. → MESA CADEIRA POLID@ JÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/polidoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4939",
+      "section": "P",
+      "situation": "Grande cadeira de braços, revestida por tecido macio.",
+      "translation": "Poltrona",
+      "librasStructure": "POLTRONA AQUEL@ TV ASSISTIR PERFEIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 14 · Etimologia: Nacional",
+      "examples": [
+        "Aquela poltrona é perfeita para assistir televisão. → POLTRONA AQUEL@ TV ASSISTIR PERFEIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poltronaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "14",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1974",
+      "section": "P",
+      "situation": "Peça de madeira, metal ou outro material, revestida de vidro, em que são colocadas fotos.",
+      "translation": "Porta-retrato",
+      "librasStructure": "CASA ME@ TER PORTA-RETRATO MUIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Em minha casa tem muitos porta-retratos. → CASA ME@ TER PORTA-RETRATO MUIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porta-retratoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1972",
+      "section": "P",
+      "situation": "Grande peça de madeira, metal, vidro e outros materiais, instalada numa abertura da parede, de modo que esta possa ficar aberta ou fechada.",
+      "translation": "Porta (1)",
+      "librasStructure": "SALA FAVOR ABRIR-PORTA!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 61 · Etimologia: Nacional",
+      "examples": [
+        "Por favor, abra a porta da sala! → SALA FAVOR ABRIR-PORTA!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "61",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6018",
+      "section": "P",
+      "situation": "Portão da casa ou edifício, manejado por controle remoto pelo porteiro ou pelo próprio morador.",
+      "translation": "Portão automático",
+      "librasStructure": "CASA ME@ M-A-E TER CONTROLE-REMOTO ABRIR-PORTÃO-AUTOMÁTICO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 40 · Etimologia: Nacional",
+      "examples": [
+        "A minha mãe tem o controle remoto para abrir o portão automático da casa. → CASA ME@ M-A-E TER CONTROLE-REMOTO ABRIR-PORTÃO-AUTOMÁTICO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portao_automaticoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "40",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1973",
+      "section": "P",
+      "situation": "Grande porta de ferro, madeira ou outros materiais, que dá acesso do jardim, quintal ou pátio de uma casa para a rua.",
+      "translation": "Portão",
+      "librasStructure": "CASA V-O-V-O TER PORTÃO GRANDE COR AZUL.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 58 · Etimologia: Nacional",
+      "examples": [
+        "Na casa da vovó tem o portão grande, cor azul. → CASA V-O-V-O TER PORTÃO GRANDE COR AZUL."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portaoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "58",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg58.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6058",
+      "section": "P",
+      "situation": "Móvel apropriado para a exposição de livros, discos, CDs e outros objetos.",
+      "translation": "Prateleira",
+      "librasStructure": "EU CHAMAR ME@ FILH@ 2sAJUDAR1s PRATELEIRA COISA COLOCAR QUARTO DEL@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 61 · Etimologia: Nacional",
+      "examples": [
+        "Chamei o meu filho para me ajudar a colocar coisas na prateleira do quarto dele. → EU CHAMAR ME@ FILH@ 2sAJUDAR1s PRATELEIRA COISA COLOCAR QUARTO DEL@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prateleiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "61",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1990",
+      "section": "P",
+      "situation": "Peça de louça ou vidro de uso individual, onde é colocado o alimento a ser consumido.",
+      "translation": "Prato",
+      "librasStructure": "ME@ CASAMENTO EU GANHAR PRESENTE CONJUNTO PRATO AZUL LINDO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 11 · Etimologia: Nacional",
+      "examples": [
+        "No meu casamento ganhei de presente um lindo conjunto de pratos azuis. → ME@ CASAMENTO EU GANHAR PRESENTE CONJUNTO PRATO AZUL LINDO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pratoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "11",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6078",
+      "section": "P",
+      "situation": "Pequena peça de madeira ou plástico, composta de duas partes unidas por uma mola de metal, que prende as peças de roupa no varal.",
+      "translation": "Prendedor de roupas",
+      "librasStructure": "CAIXA PRENDEDOR-ROUPA VOCÊ JÁ VER? EU PROCURAR!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 23 · Etimologia: Nacional",
+      "examples": [
+        "Você viu a caixa do prendedor de roupas? Eu estou procurando! → CAIXA PRENDEDOR-ROUPA VOCÊ JÁ VER? EU PROCURAR!"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "23",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg23.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-743",
+      "section": "Q",
+      "situation": "Disposição de uma pintura, gravura, colagem, foto ou outros tipo de imagem sobre uma superfície emoldurada.",
+      "translation": "Quadro",
+      "librasStructure": "EU COMPRAR QUADRO BONIT@ ME@ CASA S-A-L-A coisa-quadrada COLOCARparede.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "Comprei um quadro bonito para colocar na parede de minha sala. → EU COMPRAR QUADRO BONIT@ ME@ CASA S-A-L-A coisa-quadrada COLOCARparede."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quadroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-756",
+      "section": "Q",
+      "situation": "Dependência da casa; local onde geralmente ficam a cama e os armários de roupas.",
+      "translation": "Quarto (2)",
+      "librasStructure": "ME@ APARTAMENTO TER QUARTO 4 GRANDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Meu apartamento tem quatro quartos grandes. → ME@ APARTAMENTO TER QUARTO 4 GRANDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quarto2Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6641",
+      "section": "Q",
+      "situation": "Dependência da casa; local para dormir.",
+      "translation": "Quarto (3)",
+      "librasStructure": "1sDORMIR3s QUARTO DEL@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Vou dormir no quarto dela. → 1sDORMIR3s QUARTO DEL@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quarto3Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6949",
+      "section": "Q",
+      "situation": "Dependência da casa; local onde geralmente ficam a cama e os armários de roupas.",
+      "translation": "Quarto (4)",
+      "librasStructure": "ME@ APARTAMENTO TER QUADRAD@^DORMIR 4 GRANDE.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Meu apartamento tem quatro quartos grandes. → ME@ APARTAMENTO TER QUADRAD@^DORMIR 4 GRANDE."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quarto4Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5701",
+      "section": "Q",
+      "situation": "Terreno que geralmente fica nos fundos da casa.",
+      "translation": "Quintal",
+      "librasStructure": "ME@ CASA QUINTAL GRANDEmuito TER FLOR MUIT@ BONIT@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 64 · Etimologia: Nacional",
+      "examples": [
+        "O quintal da minha casa é grande e tem muitas flores bonitas. → ME@ CASA QUINTAL GRANDEmuito TER FLOR MUIT@ BONIT@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/quintalSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "64",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5617",
+      "section": "R",
+      "situation": "Utensílio doméstico que consiste em uma lâmina recurvada e cheia de pequenos furos com os rebordos salientes. Tem a função de reduzir a fiapos alimentos como o queijo, o coco, a cenoura e outros.",
+      "translation": "Ralador",
+      "librasStructure": "RALADOR VOCÊ TER?EMPRESTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Você tem um ralador para me emprestar? → RALADOR VOCÊ TER?EMPRESTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/raladorSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-928",
+      "section": "R",
+      "situation": "Peça de tecido resistente usada para descansar ou dormir. Fica suspensa por meio de hastes metálicas presas à parede ou a árvores.",
+      "translation": "Rede (1)",
+      "librasStructure": "EU COMPRAR REDE BONIT@ LEVAR FAZENDA ME@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 24 · Etimologia: Nacional",
+      "examples": [
+        "Comprei uma rede bonita para levar para a minha fazenda. → EU COMPRAR REDE BONIT@ LEVAR FAZENDA ME@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/rede1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "24",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4741",
+      "section": "R",
+      "situation": "Lugar de moradia; morada habitual; local onde uma pessoa vive.",
+      "translation": "Residência",
+      "librasStructure": "FAVOR VOCÊ PREENCHER FICHA RESIDÊNCIA RUA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Favor preencher essa ficha, qual a sua residência? → FAVOR VOCÊ PREENCHER FICHA RESIDÊNCIA RUA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/residenciaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4771",
+      "section": "S",
+      "situation": "Compartimento da casa onde as pessoas costumam fazer as refeições.",
+      "translation": "Sala de jantar",
+      "librasStructure": "CASA ME@ TER-NÃO S-A-L-A COMER.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 52 · Etimologia: Nacional",
+      "examples": [
+        "A minha casa não tem sala de jantar. → CASA ME@ TER-NÃO S-A-L-A COMER."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "52",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4773",
+      "section": "S",
+      "situation": "Compartimento da casa onde as pessoas assistem os programas de televisão.",
+      "translation": "Sala de tv",
+      "librasStructure": "S-A-L-A TV PEQUEN@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "A sala de TV da minha casa é pequena. → S-A-L-A TV PEQUEN@."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4772",
+      "section": "S",
+      "situation": "Espaço da casa onde são recebidas as visitas.",
+      "translation": "Sala de visita",
+      "librasStructure": "CASA AMIG@ DEL@ S-A-L-A VISITA BONIT@!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 11 · Etimologia: Nacional",
+      "examples": [
+        "A sala de visitas da casa de meu amigo é bonita! → CASA AMIG@ DEL@ S-A-L-A VISITA BONIT@!"
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "11",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1028",
+      "section": "S",
+      "situation": "Um dos compartimentos da casa; local de encontro dos membros da família.",
+      "translation": "Sala",
+      "librasStructure": "DESCULPAR S-A-L-A BAGUNÇA.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 02 · Etimologia: Nacional",
+      "examples": [
+        "Desculpe-me, a sala está uma bagunça. → DESCULPAR S-A-L-A BAGUNÇA."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/salaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "02",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4799",
+      "section": "S",
+      "situation": "Móvel de madeira com encosto e braços, no qual podem sentar-se duas ou mais pessoas.",
+      "translation": "Sofá de madeira",
+      "librasStructure": "CASA ME@ AMIG@ SOFÁ MADEIRA BONIT@muito!",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 51b · Etimologia: Nacional",
+      "examples": [
+        "Na casa de meu amigo tem um sofá de madeira lindo! → CASA ME@ AMIG@ SOFÁ MADEIRA BONIT@muito!"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/sofa_de_madeiraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "51b",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-1114",
+      "section": "S",
+      "situation": "Móvel em geral estofado com encosto e braços, no qual podem sentar-se duas ou mais pessoas.",
+      "translation": "Sofá",
+      "librasStructure": "M-Ã-E ME@ JÁ COMPRAR CADEIRA^MACI@ NOV@",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 50 · Etimologia: Nacional",
+      "examples": [
+        "Minha mãe comprou um sofá novo. → M-Ã-E ME@ JÁ COMPRAR CADEIRA^MACI@ NOV@"
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/sofaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "50",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg50.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5437",
+      "section": "T",
+      "situation": "Pequena peça de madeira, própria para apoiar carnes durante o corte.",
+      "translation": "Tábua",
+      "librasStructure": "POR-FAVOR PEGAR TÁBUA EU PRECISAR CORTAR-COM-FACA CARNE CHURRASCO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 18a · Etimologia: Nacional",
+      "examples": [
+        "Por favor, pegue a tábua, preciso cortar a carne do churrasco. → POR-FAVOR PEGAR TÁBUA EU PRECISAR CORTAR-COM-FACA CARNE CHURRASCO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tabuaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "18a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5439",
+      "section": "T",
+      "situation": "Vaso para bebida, geralmente largo, pouco fundo e com pé.",
+      "translation": "Taça (1)",
+      "librasStructure": "FESTA 15 IDADE GARÇOM ACIDENTE TAÇA 7 QUEBRAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 01 · Etimologia: Nacional",
+      "examples": [
+        "Na festa de 15 anos, o garçom, por acidente, quebrou sete taças. → FESTA 15 IDADE GARÇOM ACIDENTE TAÇA 7 QUEBRAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/taca1Sm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "01",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-6573",
+      "section": "T",
+      "situation": "Peça de barro, bojuda, para manter a água fresca.",
+      "translation": "Talha",
+      "librasStructure": "ÁGUA-objeto-arredondado VELH@ GOSTO DIFERENTE PRECISAR TROCAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 08a · Etimologia: Nacional",
+      "examples": [
+        "A talha está velha, precisa ser trocada, a água está com gosto diferente. → ÁGUA-objeto-arredondado VELH@ GOSTO DIFERENTE PRECISAR TROCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/talhaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "08a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-5573",
+      "section": "T",
+      "situation": "Utensílio redondo e plano, de alumínio, ferro ou esmaltado, com uma pequena alça de apoio na parte superior. Serve para tampar panelas e outras peças.",
+      "translation": "Tampa",
+      "librasStructure": "PANELA TAMPA CADÊ? POR-FAVOR PROCURAR EU PRECISAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Cadê a tampa da panela? Por favor, procure, preciso dela. → PANELA TAMPA CADÊ? POR-FAVOR PROCURAR EU PRECISAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tampaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3733",
+      "section": "T",
+      "situation": "Peça grossa de lã, fibras e diversos materiais, usada para cobrir ou decorar pisos, escadas e outros espaços.",
+      "translation": "Tapete",
+      "librasStructure": "TI@ ME@ COMPRAR TAPETE S-A-L-A LIND@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 63 · Etimologia: Nacional",
+      "examples": [
+        "Minha tia comprou um tapete lindo para a sala. → TI@ ME@ COMPRAR TAPETE S-A-L-A LIND@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tapeteSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "63",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3753",
+      "section": "T",
+      "situation": "Cobertura da parte superior externa de uma casa ou edifício.",
+      "translation": "Telhado (1)",
+      "librasStructure": "EU VER TELHADO QUEBRAR PRECISAR CONSERTAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 07 · Etimologia: Nacional",
+      "examples": [
+        "Eu vi que o telhado está quebrado e precisa consertar . → EU VER TELHADO QUEBRAR PRECISAR CONSERTAR."
+      ],
+      "videos": [],
+      "handShape": {
+        "code": "07",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3783",
+      "section": "T",
+      "situation": "Face superior interna de uma casa ou de um compartimento.",
+      "translation": "Teto",
+      "librasStructure": "CASA ME@ PROBLEMA TETO ÁGUA PINGAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "O teto de minha casa está com problema, pingando água. → CASA ME@ PROBLEMA TETO ÁGUA PINGAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tetoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3786",
+      "section": "T",
+      "situation": "Peça funda e de boca larga, com um pequeno pé, confeccionada em barro, louça, metal e outros materiais. Entre outras finalidades, é usada na preparação de bolos e saladas.",
+      "translation": "Tigela",
+      "librasStructure": "FAVOR PEGAR TIGELA MESA COZINHA LÁ.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Por favor, pegue a tigela em cima da mesa da cozinha. → FAVOR PEGAR TIGELA MESA COZINHA LÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tigelaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-3832",
+      "section": "T",
+      "situation": "Almofada retangular na qual a pessoa deitada apóia a cabeça.",
+      "translation": "Travesseiro",
+      "librasStructure": "TRAVESSEIRO DUR@ GOSTAR-NÃO EU PREFERIR MACI@.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 53a · Etimologia: Nacional",
+      "examples": [
+        "Não gosto de travesseiro duro, prefiro o macio. → TRAVESSEIRO DUR@ GOSTAR-NÃO EU PREFERIR MACI@."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/travesseiroSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "53a",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-4366",
+      "section": "V",
+      "situation": "Terraço com coberta que fica na frente das casas; alpendre.",
+      "translation": "Varanda",
+      "librasStructure": "FLOR MUIT@ VARANDA 1sVER3s ADORAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 62 · Etimologia: Nacional",
+      "examples": [
+        "Adora ver uma varanda com muitas flores. → FLOR MUIT@ VARANDA 1sVER3s ADORAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/varandaSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "62",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-2540",
+      "section": "V",
+      "situation": "Peça de barro, metal, cristal ou outro material, própria para flores e folhagens, geralmente usada na decoração de ambientes.",
+      "translation": "Vaso",
+      "librasStructure": "DESCULPE. FILH@ ME@ QUEBROU VASO SE@ AMANHÃ COMPRAR OUTRO.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 47 · Etimologia: Nacional",
+      "examples": [
+        "Desculpe. O meu filho quebrou o seu vaso. Amanhã compro outro. → DESCULPE. FILH@ ME@ QUEBROU VASO SE@ AMANHÃ COMPRAR OUTRO."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vasoSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "47",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ines-582",
+      "section": "X",
+      "situation": "Pequeno recipiente de louça, alumínio, vidro e outros materiais, com uma asa lateral, em que se toma leite, café, chá e outros líquidos quentes.",
+      "translation": "Xícara",
+      "librasStructure": "ONTEM XÍCARA ANTIG@ coisa-redondaCAIR QUEBRARcontinuativo M-Ã-E CHORAR.",
+      "notes": "Classe gramatical: Substantivo · Assunto: Casa · Configuração de mão: 55 · Etimologia: Nacional",
+      "examples": [
+        "A mãe chorou porque as xícaras antigas caíram e quebraram. → ONTEM XÍCARA ANTIG@ coisa-redondaCAIR QUEBRARcontinuativo M-Ã-E CHORAR."
+      ],
+      "videos": [
+        {
+          "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/xicaraSm_Prog001.mp4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "handShape": {
+        "code": "55",
+        "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-12T12:00:00.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}
