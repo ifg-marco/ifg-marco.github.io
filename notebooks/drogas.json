@@ -1,7 +1,7 @@
 {
   "id": "drogas",
   "title": "Drogas",
-  "description": "Drogas lícitas e ilícitas, tráfico e prevenção.",
+  "description": "Drogas lícitas e ilícitas, tráfico e prevenção. Fonte: vídeos do NAS.",
   "section": "Caderno público",
   "author": "Marco Antônio",
   "createdAt": "2026-10-09T05:00:00.000Z",
@@ -53,19 +53,16 @@
       ]
     },
     {
-      "id": "drogas-02",
+      "id": "drogas-25",
       "section": "Drogas",
-      "situation": "No debate, você diferencia drogas lícitas de drogas ilícitas, proibidas pela lei.",
-      "translation": "Drogas ilícitas",
-      "librasStructure": "DROGAS-ILÍCITAS",
+      "situation": "No debate, você diferencia drogas lícitas das drogas ilícitas.",
+      "translation": "Drogas lícitas",
+      "librasStructure": "DROGAS LÍCITAS",
       "notes": "",
-      "examples": [
-        "Maconha e cocaína são drogas ilícitas. → MACONHA COCAÍNA DROGAS-ILÍCITAS.",
-        "Vender drogas ilícitas é crime. → DROGAS-ILÍCITAS VENDER CRIME."
-      ],
+      "examples": [],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=17&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=77.7&end=81.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -73,13 +70,95 @@
       ],
       "changeLog": [
         {
-          "action": "edited",
+          "action": "created",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-14T21:57:24.000Z",
           "changes": [
             "created",
-            "examples",
-            "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-21",
+      "section": "Drogas",
+      "situation": "Em uma atividade de prevenção, você identifica uma bebida alcoólica.",
+      "translation": "Bebida alcoólica",
+      "librasStructure": "BEBIDA ALCOÓLICA",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=19.25&end=24.25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-20",
+      "section": "Drogas",
+      "situation": "Ao comentar o vídeo, você identifica o termo usado para uma pessoa com dependência de álcool.",
+      "translation": "Alcoólatra",
+      "librasStructure": "ALCOÓLATRA",
+      "notes": "Termo usado na legenda do vídeo.",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=9.93&end=13.96&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-34",
+      "section": "Drogas",
+      "situation": "Ao falar sobre o cigarro, você menciona o tabaco.",
+      "translation": "Tabaco",
+      "librasStructure": "TABACO",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=163.77&end=170.65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -102,6 +181,12 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=51.54&end=56.16&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
@@ -112,6 +197,129 @@
           "changes": [
             "created",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-24",
+      "section": "Drogas",
+      "situation": "Na conversa sobre tabagismo, você identifica um cigarro eletrônico.",
+      "translation": "Cigarro eletrônico",
+      "librasStructure": "CIGARRO ELETRÔNICO",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=45.66&end=51.54&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-22",
+      "section": "Drogas",
+      "situation": "Ao ler o rótulo de uma bebida, você encontra a palavra cafeína.",
+      "translation": "Cafeína",
+      "librasStructure": "CAFEÍNA",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=34.25&end=39.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-26",
+      "section": "Drogas",
+      "situation": "Ao ler o cardápio, você identifica uma bebida energética.",
+      "translation": "Energético",
+      "librasStructure": "ENERGÉTICO",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=81.7&end=85.91&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-02",
+      "section": "Drogas",
+      "situation": "No debate, você diferencia drogas lícitas de drogas ilícitas, proibidas pela lei.",
+      "translation": "Drogas ilícitas",
+      "librasStructure": "DROGAS-ILÍCITAS",
+      "notes": "",
+      "examples": [
+        "Maconha e cocaína são drogas ilícitas. → MACONHA COCAÍNA DROGAS-ILÍCITAS.",
+        "Vender drogas ilícitas é crime. → DROGAS-ILÍCITAS VENDER CRIME."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=17&end=22&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=73.37&end=77.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "situation",
             "videos"
           ]
         }
@@ -131,6 +339,12 @@
       "videos": [
         {
           "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=28&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=117.11&end=128.61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -166,101 +380,9 @@
           "states": [
             "GO"
           ]
-        }
-      ],
-      "changeLog": [
+        },
         {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-06",
-      "section": "Drogas",
-      "situation": "No material de prevenção, você lê sobre o ecstasy, droga comum em festas.",
-      "translation": "Ecstasy",
-      "librasStructure": "ECSTASY",
-      "notes": "",
-      "examples": [
-        "O ecstasy aparece em festas. → FESTA ECSTASY APARECER.",
-        "O ecstasy desidrata o corpo. → ECSTASY CORPO DESIDRATAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=33&end=37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
-          "states": [
-            "GO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "situation",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-07",
-      "section": "Drogas",
-      "situation": "Numa orientação de segurança, você aprende a reconhecer o golpe “Boa noite, Cinderela”, com droga na bebida.",
-      "translation": "Boa noite, Cinderela (golpe)",
-      "librasStructure": "BOA-NOITE,-CINDERELA",
-      "notes": "",
-      "examples": [
-        "Cuidado com o golpe Boa noite, Cinderela! → CUIDADO GOLPE BOA-NOITE,-CINDERELA!",
-        "Não aceite bebida de estranho: pode ser Boa noite, Cinderela. → ESTRANHO BEBIDA ACEITAR NÃO: BOA-NOITE,-CINDERELA PODER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=36&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
-          "states": [
-            "GO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "situation",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-08",
-      "section": "Drogas",
-      "situation": "A professora apresenta diferentes substâncias e explica por que a heroína exige atenção e prevenção.",
-      "translation": "Heroína",
-      "librasStructure": "HEROÍNA",
-      "notes": "",
-      "examples": [
-        "A heroína é injetada na veia. → HEROÍNA VEIA INJETAR.",
-        "A heroína causa muita dependência. → HEROÍNA DEPENDÊNCIA MUITO CAUSAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=56.16&end=61.33&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -292,7 +414,79 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=45&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=46.1&end=52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=67.62&end=73.37&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T19:17:34.176Z",
+          "changes": [
+            "created",
+            "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-29",
+      "section": "Drogas",
+      "situation": "Em um glossário sobre drogas, você encontra o termo merla.",
+      "translation": "Merla",
+      "librasStructure": "MERLA",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=132.78&end=138.61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-08",
+      "section": "Drogas",
+      "situation": "A professora apresenta diferentes substâncias e explica por que a heroína exige atenção e prevenção.",
+      "translation": "Heroína",
+      "librasStructure": "HEROÍNA",
+      "notes": "",
+      "examples": [
+        "A heroína é injetada na veia. → HEROÍNA VEIA INJETAR.",
+        "A heroína causa muita dependência. → HEROÍNA DEPENDÊNCIA MUITO CAUSAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=42&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=94.03&end=98.95&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -312,6 +506,406 @@
       ]
     },
     {
+      "id": "drogas-30",
+      "section": "Drogas",
+      "situation": "Em uma palestra de saúde, você encontra o termo opioides.",
+      "translation": "Opioides",
+      "librasStructure": "OPIOIDES",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=138.61&end=145.57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-27",
+      "section": "Drogas",
+      "situation": "Na aula de prevenção, você encontra o termo LSD no material informativo.",
+      "translation": "LSD",
+      "librasStructure": "LSD",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=106.7&end=117.11&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-06",
+      "section": "Drogas",
+      "situation": "No material de prevenção, você lê sobre o ecstasy, droga comum em festas.",
+      "translation": "Ecstasy",
+      "librasStructure": "ECSTASY",
+      "notes": "",
+      "examples": [
+        "O ecstasy aparece em festas. → FESTA ECSTASY APARECER.",
+        "O ecstasy desidrata o corpo. → ECSTASY CORPO DESIDRATAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=34.7&end=37.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=85.91&end=94.03&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T19:15:11.657Z",
+          "changes": [
+            "created",
+            "examples",
+            "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-31",
+      "section": "Drogas",
+      "situation": "Em um glossário de substâncias, você encontra o termo cetamina.",
+      "translation": "Cetamina (ketamina)",
+      "librasStructure": "KETAMINA",
+      "notes": "A legenda do vídeo usa a grafia “ketamina”.",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=149.27&end=155.81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-15",
+      "section": "Drogas",
+      "situation": "Na academia, uma pessoa pergunta sobre anabolizantes e você recomenda orientação profissional.",
+      "translation": "Anabolizantes",
+      "librasStructure": "ANABOLIZANTES",
+      "notes": "",
+      "examples": [
+        "Anabolizantes fazem mal ao coração. → ANABOLIZANTES CORAÇÃO MAL.",
+        "Não use anabolizantes sem médico. → ANABOLIZANTES MÉDICO SEM USAR NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=13.96&end=19.25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-28",
+      "section": "Drogas",
+      "situation": "Ao organizar a caixa de primeiros cuidados, você identifica os medicamentos.",
+      "translation": "Medicamentos",
+      "librasStructure": "MEDICAMENTOS",
+      "notes": "A legenda do vídeo diz “medicamentos”; a descrição do vídeo menciona “medicamentos não prescritos”.",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=128.61&end=132.78&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-23",
+      "section": "Drogas",
+      "situation": "Em uma conversa sobre substâncias, você menciona o chá de ayahuasca.",
+      "translation": "Chá de ayahuasca",
+      "librasStructure": "CHÁ DE AYAHUASCA",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=39.5&end=45.66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-33",
+      "section": "Drogas",
+      "situation": "Em uma aula sobre produtos químicos, você identifica um solvente.",
+      "translation": "Solvente",
+      "librasStructure": "SOLVENTE",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=159.52&end=163.77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-14",
+      "section": "Drogas",
+      "situation": "Na aula de saúde, você aprende por que a cola de sapateiro, produto inalável, é perigosa.",
+      "translation": "Cola de sapateiro",
+      "librasStructure": "COLA-DE-SAPATEIRO",
+      "notes": "",
+      "examples": [
+        "Cheirar cola de sapateiro faz mal ao cérebro. → COLA-DE-SAPATEIRO CHEIRAR CÉREBRO MAL.",
+        "Crianças de rua usam cola de sapateiro. → CRIANÇA RUA COLA-DE-SAPATEIRO USAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=61.33&end=67.62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-16",
+      "section": "Drogas",
+      "situation": "Em uma orientação para festas, você conversa sobre os riscos de inalar lança-perfume.",
+      "translation": "Lança-perfume",
+      "librasStructure": "LANÇA-PERFUME",
+      "notes": "",
+      "examples": [
+        "O lança-perfume é proibido. → LANÇA-PERFUME PROIBIDO.",
+        "No Carnaval, cuidado com o lança-perfume. → CARNAVAL LANÇA-PERFUME CUIDADO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=98.95&end=106.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-07",
+      "section": "Drogas",
+      "situation": "Numa orientação de segurança, você aprende a reconhecer o golpe “Boa noite, Cinderela”, com droga na bebida.",
+      "translation": "Boa noite, Cinderela (golpe)",
+      "librasStructure": "BOA-NOITE,-CINDERELA",
+      "notes": "",
+      "examples": [
+        "Cuidado com o golpe Boa noite, Cinderela! → CUIDADO GOLPE BOA-NOITE,-CINDERELA!",
+        "Não aceite bebida de estranho: pode ser Boa noite, Cinderela. → ESTRANHO BEBIDA ACEITAR NÃO: BOA-NOITE,-CINDERELA PODER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=36&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=24.25&end=34.25&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-17",
+      "section": "Drogas",
+      "situation": "Em casa, você encontra um veneno e avisa que ele deve ficar longe das crianças.",
+      "translation": "Veneno",
+      "librasStructure": "VENENO",
+      "notes": "",
+      "examples": [
+        "Guarde o veneno longe das crianças. → VENENO GUARDAR LONGE CRIANÇA.",
+        "Esse produto é veneno para rato. → PRODUTO ESSE VENENO RATO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=77&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=182.69&end=188.85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T01:58:08.000Z",
+          "changes": [
+            "created",
+            "examples",
+            "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
       "id": "drogas-10",
       "section": "Drogas",
       "situation": "No noticiário, você acompanha uma conversa sobre crime, segurança e prevenção ao tráfico.",
@@ -324,7 +918,13 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=51&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=52.1&end=55.7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=177.52&end=182.69&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -334,7 +934,7 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-14T19:15:11.657Z",
           "changes": [
             "created",
             "examples",
@@ -357,6 +957,12 @@
       "videos": [
         {
           "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=55&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=170.65&end=176.52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -410,6 +1016,34 @@
       ]
     },
     {
+      "id": "drogas-35",
+      "section": "Drogas",
+      "situation": "Em uma conversa sobre dependência, você encontra a palavra vício.",
+      "translation": "Vício",
+      "librasStructure": "VÍCIO",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=188.85&end=193.71&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
       "id": "drogas-13",
       "section": "Drogas",
       "situation": "A equipe conversa sobre a palavra “viciado” e prefere falar em dependência, sem rotular.",
@@ -443,19 +1077,16 @@
       ]
     },
     {
-      "id": "drogas-14",
+      "id": "drogas-32",
       "section": "Drogas",
-      "situation": "Na aula de saúde, você aprende por que a cola de sapateiro, produto inalável, é perigosa.",
-      "translation": "Cola de sapateiro",
-      "librasStructure": "COLA-DE-SAPATEIRO",
+      "situation": "Ao descrever uma pessoa que não está sob efeito de álcool, você usa a palavra sóbrio.",
+      "translation": "Sóbrio",
+      "librasStructure": "SÓBRIO",
       "notes": "",
-      "examples": [
-        "Cheirar cola de sapateiro faz mal ao cérebro. → COLA-DE-SAPATEIRO CHEIRAR CÉREBRO MAL.",
-        "Crianças de rua usam cola de sapateiro. → CRIANÇA RUA COLA-DE-SAPATEIRO USAR."
-      ],
+      "examples": [],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=65&end=70&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=155.81&end=159.52&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
           "states": [
             "GO"
           ]
@@ -463,110 +1094,11 @@
       ],
       "changeLog": [
         {
-          "action": "edited",
+          "action": "created",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-14T21:57:24.000Z",
           "changes": [
             "created",
-            "examples",
-            "situation",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-15",
-      "section": "Drogas",
-      "situation": "Na academia, uma pessoa pergunta sobre anabolizantes e você recomenda orientação profissional.",
-      "translation": "Anabolizantes",
-      "librasStructure": "ANABOLIZANTES",
-      "notes": "",
-      "examples": [
-        "Anabolizantes fazem mal ao coração. → ANABOLIZANTES CORAÇÃO MAL.",
-        "Não use anabolizantes sem médico. → ANABOLIZANTES MÉDICO SEM USAR NÃO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=70&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
-          "states": [
-            "GO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-16",
-      "section": "Drogas",
-      "situation": "Em uma orientação para festas, você conversa sobre os riscos de inalar lança-perfume.",
-      "translation": "Lança-perfume",
-      "librasStructure": "LANÇA-PERFUME",
-      "notes": "",
-      "examples": [
-        "O lança-perfume é proibido. → LANÇA-PERFUME PROIBIDO.",
-        "No Carnaval, cuidado com o lança-perfume. → CARNAVAL LANÇA-PERFUME CUIDADO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=73&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
-          "states": [
-            "GO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "videos"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "drogas-17",
-      "section": "Drogas",
-      "situation": "Em casa, você encontra um veneno e avisa que ele deve ficar longe das crianças.",
-      "translation": "Veneno",
-      "librasStructure": "VENENO",
-      "notes": "",
-      "examples": [
-        "Guarde o veneno longe das crianças. → VENENO GUARDAR LONGE CRIANÇA.",
-        "Esse produto é veneno para rato. → PRODUTO ESSE VENENO RATO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/chRf3GpVDt4?start=77&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=chRf3GpVDt4",
-          "states": [
-            "GO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
-          "changes": [
-            "created",
-            "examples",
-            "situation",
             "videos"
           ]
         }
@@ -589,6 +1121,12 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=145.57&end=149.27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
@@ -600,6 +1138,34 @@
             "created",
             "examples",
             "situation",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drogas-19",
+      "section": "Drogas",
+      "situation": "Em uma conversa sobre apoio para quem quer parar de beber, você menciona o grupo Alcoólicos Anônimos.",
+      "translation": "Alcoólicos Anônimos (AA)",
+      "librasStructure": "ALCOÓLICOS ANÔNIMOS",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rhZPFDOqSrg?start=5.53&end=9.93&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rhZPFDOqSrg",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-14T21:57:24.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
