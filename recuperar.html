@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recuperar estudos — Caderno de Libras</title>
+  <style>
+    body{font:1rem/1.5 system-ui,sans-serif;margin:0;background:#f8fafc;color:#1e1b4b}
+    main{max-width:42rem;margin:auto;padding:2rem 1rem}
+    h1{font-size:1.7rem;line-height:1.2}section{background:white;border:1px solid #cbd5e1;border-radius:1rem;padding:1rem;margin:1rem 0}
+    button,a.botao{display:inline-block;border:0;border-radius:.75rem;background:#46178f;color:white;font:inherit;font-weight:700;padding:.65rem 1rem;cursor:pointer;text-decoration:none}
+    button:focus-visible,a:focus-visible{outline:3px solid #f59e0b;outline-offset:2px}
+    .erro{color:#991b1b}.ajuda{color:#334155}li{margin:.8rem 0}
+  </style>
+  <script src="./recuperar.js" defer></script>
+</head>
+<body><main>
+  <h1>Recuperar seus estudos</h1>
+  <p>Esta página funciona sem a interface principal. Ela procura cópias salvas neste navegador e permite baixá-las. Não limpe os dados do site antes de baixar o arquivo.</p>
+  <p id="estado" role="status">Procurando cópias…</p>
+  <section aria-labelledby="titulo-copias"><h2 id="titulo-copias">Cópias disponíveis</h2><ol id="copias"></ol></section>
+  <p class="ajuda">Depois de baixar o arquivo, abra o aplicativo e use <strong>Importar backup</strong>. Se ele continuar sem abrir, guarde o arquivo para usar em outro dispositivo. Cópias neste navegador não sobrevivem à limpeza dos dados do site.</p>
+  <p><a class="botao" href="./">Voltar ao aplicativo</a></p>
+</main></body>
+</html>

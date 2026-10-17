@@ -1,0 +1,1 @@
+import"../chunks/B9zqj4F7.js";import{p as r,a as i,g as m,u as n}from"../chunks/uthnZCK_.js";import{s as g,a as u}from"../chunks/8WxuhbYh.js";import{p as $}from"../chunks/D41P1Gg3.js";import{_}from"../chunks/xsOosOVP.js";function k(o,e){r(e,!0);const t=()=>u($,"$page",s),[s,a]=g();let p=n(()=>t().params.id);_(o,{get initialNotebook(){return m(p)}}),i(),a()}export{k as component};
