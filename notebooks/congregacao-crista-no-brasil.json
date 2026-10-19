@@ -4773,14 +4773,14 @@
       "situation": "A irmã abre a Bíblia em Mateus para ler o Sermão do Monte.",
       "translation": "MATEUS",
       "librasStructure": "",
-      "notes": "",
+      "notes": "Dinheiro Bolso ",
       "examples": [
         "O Sermão do Monte está em Mateus 5 a 7. → MONTE SERMÃO: MATEUS 5 ATÉ 7.",
         "Bem-aventurados os mansos (Mateus 5:5). → PESSOA MANSA FELIZ, ABENÇOAR."
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/AcBtLL-pSPo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AcBtLL-pSPo",
+          "url": "https://www.youtube.com/embed/AcBtLL-pSPo?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=AcBtLL-pSPo",
           "states": [
             "AC",
             "AL",
@@ -4816,13 +4816,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T18:45:50.000Z",
+          "at": "2026-10-19T17:35:26.947Z",
           "changes": [
             "card",
+            "examples",
+            "notes",
             "regionalismo",
             "situation",
-            "examples",
-            "notes"
+            "videos"
           ]
         }
       ]
@@ -5313,14 +5314,14 @@
       "situation": "O jovem abre a Bíblia em Provérbios para ler um conselho.",
       "translation": "PROVÉRBIOS",
       "librasStructure": "",
-      "notes": "",
+      "notes": "Sabedoria+ Provérbios ",
       "examples": [
         "O temor do Senhor é o princípio da sabedoria (Provérbios 9:10). → DEUS TEMER, SABEDORIA COMEÇAR.",
         "A resposta branda desvia o furor (Provérbios 15:1). → RESPONDER CALMO, RAIVA ACABAR."
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/fPIzNzTazgE?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fPIzNzTazgE",
+          "url": "https://www.youtube.com/embed/fPIzNzTazgE?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=fPIzNzTazgE",
           "states": [
             "AC",
             "AL",
@@ -5356,13 +5357,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T18:45:50.000Z",
+          "at": "2026-10-19T17:11:08.288Z",
           "changes": [
             "card",
+            "examples",
+            "notes",
             "regionalismo",
             "situation",
-            "examples",
-            "notes"
+            "videos"
           ]
         }
       ]

@@ -530,7 +530,7 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/HitEI1ZtiT4?start=26&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HitEI1ZtiT4",
+          "url": "https://www.youtube.com/embed/HitEI1ZtiT4?start=26.1&end=32.6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=HitEI1ZtiT4",
           "states": [
             "GO"
           ]
@@ -540,7 +540,7 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-19T16:24:45.103Z",
           "changes": [
             "created",
             "examples",
