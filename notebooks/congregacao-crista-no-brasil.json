@@ -9,13 +9,15 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-11T03:39:17.857Z",
+      "at": "2026-10-19T12:00:00.000Z",
       "changes": [
         "notebook",
         "regionalismo",
         "situation",
         "examples",
-        "notes"
+        "notes",
+        "cards",
+        "videos"
       ]
     }
   ],
@@ -11612,13 +11614,17 @@
     {
       "id": "congregacao-crista-no-brasil-194",
       "section": "Outros Sinais",
-      "situation": "Os irmãos se reúnem para adorar a Deus.",
-      "translation": "ADORAR A DEUS 1",
+      "situation": "Os irmãos, as crianças e a irmã surda se reúnem para adorar a Deus.",
+      "translation": "ADORAR A DEUS",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Os verdadeiros adoradores adorarão o Pai em espírito e em verdade (João 4:23). → ADORADOR VERDADEIRO PAI ADORAR, ESPÍRITO, VERDADE.",
-        "Viemos aqui para adorar a Deus. → NÓS AQUI VIR, DEUS ADORAR."
+        "Viemos aqui para adorar a Deus. → NÓS AQUI VIR, DEUS ADORAR.",
+        "Os magos se prostraram e adoraram o menino (Mateus 2:11). → MAGO AJOELHAR, MENINO JESUS ADORAR.",
+        "Adoramos a Deus com hinos e orações. → HINO, ORAÇÃO, DEUS ADORAR.",
+        "Ao Senhor teu Deus adorarás e só a ele servirás (Mateus 4:10). → DEUS SOMENTE ADORAR, SERVIR.",
+        "Os anjos no céu adoram a Deus. → ANJO CÉU DEUS ADORAR."
       ],
       "videos": [
         {
@@ -11652,35 +11658,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-195",
-      "section": "Outros Sinais",
-      "situation": "Uma irmã surda ensina a adorar a Deus em Libras.",
-      "translation": "ADORAR A DEUS 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Os magos se prostraram e adoraram o menino (Mateus 2:11). → MAGO AJOELHAR, MENINO JESUS ADORAR.",
-        "Adoramos a Deus com hinos e orações. → HINO, ORAÇÃO, DEUS ADORAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/iMo2uAOdDvY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iMo2uAOdDvY",
           "states": [
@@ -11712,35 +11690,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-196",
-      "section": "Outros Sinais",
-      "situation": "A criança aprende a adorar a Deus.",
-      "translation": "ADORAR A DEUS 3",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Ao Senhor teu Deus adorarás e só a ele servirás (Mateus 4:10). → DEUS SOMENTE ADORAR, SERVIR.",
-        "Os anjos no céu adoram a Deus. → ANJO CÉU DEUS ADORAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/rDt3ce6zMEs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rDt3ce6zMEs",
           "states": [
@@ -11778,13 +11728,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -12484,13 +12435,15 @@
     {
       "id": "congregacao-crista-no-brasil-208",
       "section": "Outros Sinais",
-      "situation": "O jovem dá bom testemunho na escola.",
-      "translation": "BOM TESTEMUNHO 1",
+      "situation": "O jovem e a irmã dão bom testemunho na escola e no trabalho.",
+      "translation": "BOM TESTEMUNHO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Ele tem bom testemunho no trabalho. → ELE TRABALHO BOM TESTEMUNHO TER.",
-        "Assim resplandeça a vossa luz diante dos homens (Mateus 5:16). → SUA LUZ PESSOAS VER, BOA OBRA."
+        "Assim resplandeça a vossa luz diante dos homens (Mateus 5:16). → SUA LUZ PESSOAS VER, BOA OBRA.",
+        "Convém que tenha bom testemunho dos de fora (1 Timóteo 3:7). → PESSOA FORA IGREJA, BOM TESTEMUNHO PRECISAR.",
+        "Os diáconos escolhidos tinham boa reputação (Atos 6:3). → DIÁCONO ESCOLHER, BOM TESTEMUNHO TER."
       ],
       "videos": [
         {
@@ -12524,35 +12477,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-209",
-      "section": "Outros Sinais",
-      "situation": "A irmã tem bom testemunho no trabalho.",
-      "translation": "BOM TESTEMUNHO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Convém que tenha bom testemunho dos de fora (1 Timóteo 3:7). → PESSOA FORA IGREJA, BOM TESTEMUNHO PRECISAR.",
-        "Os diáconos escolhidos tinham boa reputação (Atos 6:3). → DIÁCONO ESCOLHER, BOM TESTEMUNHO TER."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/GDDVoc9wKQY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GDDVoc9wKQY",
           "states": [
@@ -12686,13 +12611,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -12940,13 +12866,15 @@
     {
       "id": "congregacao-crista-no-brasil-214",
       "section": "Outros Sinais",
-      "situation": "O povo vai clamar a Deus por socorro.",
-      "translation": "CLAMAR 1",
+      "situation": "O povo e o cego clamam a Deus e a Jesus por socorro.",
+      "translation": "CLAMAR",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Bartimeu clamava: Jesus, filho de Davi, tem misericórdia de mim (Marcos 10:47). → BARTIMEU CLAMAR: JESUS, MIM MISERICÓRDIA.",
-        "Clama a mim e responder-te-ei (Jeremias 33:3). → DEUS FALAR: MIM CLAMAR, EU RESPONDER."
+        "Clama a mim e responder-te-ei (Jeremias 33:3). → DEUS FALAR: MIM CLAMAR, EU RESPONDER.",
+        "Clamamos a Deus pelos enfermos. → DOENTE, NÓS DEUS CLAMAR.",
+        "O povo clamou ao Senhor e ele os livrou (Salmo 107:6). → POVO DEUS CLAMAR, DEUS LIVRAR."
       ],
       "videos": [
         {
@@ -12980,35 +12908,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-215",
-      "section": "Outros Sinais",
-      "situation": "O cego começou a clamar a Jesus.",
-      "translation": "CLAMAR 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Clamamos a Deus pelos enfermos. → DOENTE, NÓS DEUS CLAMAR.",
-        "O povo clamou ao Senhor e ele os livrou (Salmo 107:6). → POVO DEUS CLAMAR, DEUS LIVRAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/kMS0gTcT9Nk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=kMS0gTcT9Nk",
           "states": [
@@ -13046,13 +12946,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -13780,13 +13681,15 @@
     {
       "id": "congregacao-crista-no-brasil-228",
       "section": "Outros Sinais",
-      "situation": "O amor de Deus é eterno.",
-      "translation": "ETERNO 1",
+      "situation": "O amor de Deus e a promessa da vida são eternos.",
+      "translation": "ETERNO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Com amor eterno te amei (Jeremias 31:3). → DEUS FALAR: EU VOCÊ AMAR ETERNO.",
-        "Deus é eterno, sem começo e sem fim. → DEUS ETERNO, COMEÇO NÃO, FIM NÃO."
+        "Deus é eterno, sem começo e sem fim. → DEUS ETERNO, COMEÇO NÃO, FIM NÃO.",
+        "Quem crê no Filho tem a vida eterna (João 3:36). → FILHO CRER, VIDA ETERNA TER.",
+        "A palavra do Senhor permanece eternamente (1 Pedro 1:25). → PALAVRA DEUS ETERNO PERMANECER."
       ],
       "videos": [
         {
@@ -13820,35 +13723,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-229",
-      "section": "Outros Sinais",
-      "situation": "A promessa da vida é eterna.",
-      "translation": "ETERNO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Quem crê no Filho tem a vida eterna (João 3:36). → FILHO CRER, VIDA ETERNA TER.",
-        "A palavra do Senhor permanece eternamente (1 Pedro 1:25). → PALAVRA DEUS ETERNO PERMANECER."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/_E8qPqyVIBU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_E8qPqyVIBU",
           "states": [
@@ -13886,13 +13761,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -14080,13 +13956,15 @@
     {
       "id": "congregacao-crista-no-brasil-233",
       "section": "Outros Sinais",
-      "situation": "O irmão tem fé na cura.",
-      "translation": "FÉ 1",
+      "situation": "O irmão tem fé na cura e a irmã mostra sua fé em Deus.",
+      "translation": "FÉ",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "A fé é a certeza das coisas que se esperam (Hebreus 11:1). → FÉ: COISA ESPERAR, CERTEZA TER.",
-        "Abraão creu em Deus (Romanos 4:3). → ABRAÃO DEUS CRER."
+        "Abraão creu em Deus (Romanos 4:3). → ABRAÃO DEUS CRER.",
+        "Filha, a tua fé te salvou (Marcos 5:34). → FILHA, SUA FÉ VOCÊ SALVAR.",
+        "Sem fé é impossível agradar a Deus (Hebreus 11:6). → FÉ TER-NÃO, DEUS AGRADAR IMPOSSÍVEL."
       ],
       "videos": [
         {
@@ -14120,35 +13998,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-234",
-      "section": "Outros Sinais",
-      "situation": "A irmã mostra sua fé em Deus.",
-      "translation": "FÉ 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Filha, a tua fé te salvou (Marcos 5:34). → FILHA, SUA FÉ VOCÊ SALVAR.",
-        "Sem fé é impossível agradar a Deus (Hebreus 11:6). → FÉ TER-NÃO, DEUS AGRADAR IMPOSSÍVEL."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/seryzfAnNAw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=seryzfAnNAw",
           "states": [
@@ -14186,13 +14036,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -14260,13 +14111,15 @@
     {
       "id": "congregacao-crista-no-brasil-236",
       "section": "Outros Sinais",
-      "situation": "O ancião fala do galardão dos fiéis.",
-      "translation": "GALARDÃO 1",
+      "situation": "O ancião fala do galardão que Deus dará aos fiéis que o servem.",
+      "translation": "GALARDÃO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Eis que venho sem demora e o meu galardão está comigo (Apocalipse 22:12). → JESUS VIR LOGO, GALARDÃO TRAZER.",
-        "O teu Pai te recompensará (Mateus 6:4). → SEU PAI VOCÊ GALARDÃO DAR."
+        "O teu Pai te recompensará (Mateus 6:4). → SEU PAI VOCÊ GALARDÃO DAR.",
+        "Quem der um copo de água fria não perderá o seu galardão (Mateus 10:42). → ÁGUA COPO DAR, GALARDÃO PERDER NÃO.",
+        "Deus vê e dará o galardão ao fiel. → DEUS VER, PESSOA FIEL GALARDÃO DAR."
       ],
       "videos": [
         {
@@ -14300,35 +14153,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-237",
-      "section": "Outros Sinais",
-      "situation": "Deus dará o galardão a quem servir.",
-      "translation": "GALARDÃO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Quem der um copo de água fria não perderá o seu galardão (Mateus 10:42). → ÁGUA COPO DAR, GALARDÃO PERDER NÃO.",
-        "Deus vê e dará o galardão ao fiel. → DEUS VER, PESSOA FIEL GALARDÃO DAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/uzXLLDK2V2Q?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=uzXLLDK2V2Q",
           "states": [
@@ -14366,13 +14191,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -14380,13 +14206,15 @@
     {
       "id": "congregacao-crista-no-brasil-238",
       "section": "Outros Sinais",
-      "situation": "Toda glória seja dada a Deus.",
-      "translation": "GLÓRIA 1",
+      "situation": "Toda glória seja dada a Deus; o irmão dá glória a Deus pela cura.",
+      "translation": "GLÓRIA",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Glória a Deus! → GLÓRIA DEUS.",
-        "Glória a Deus nas alturas (Lucas 2:14). → CÉU ALTO, GLÓRIA DEUS."
+        "Glória a Deus nas alturas (Lucas 2:14). → CÉU ALTO, GLÓRIA DEUS.",
+        "A glória do Senhor encheu a casa (2 Crônicas 7:1). → GLÓRIA DEUS TEMPLO ENCHER.",
+        "Os céus declaram a glória de Deus (Salmo 19:1). → CÉU GLÓRIA DEUS MOSTRAR."
       ],
       "videos": [
         {
@@ -14420,35 +14248,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-239",
-      "section": "Outros Sinais",
-      "situation": "O irmão dá glória a Deus pela cura.",
-      "translation": "GLÓRIA 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A glória do Senhor encheu a casa (2 Crônicas 7:1). → GLÓRIA DEUS TEMPLO ENCHER.",
-        "Os céus declaram a glória de Deus (Salmo 19:1). → CÉU GLÓRIA DEUS MOSTRAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/AF3EXWXIYc0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AF3EXWXIYc0",
           "states": [
@@ -14486,13 +14286,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -14800,13 +14601,15 @@
     {
       "id": "congregacao-crista-no-brasil-245",
       "section": "Outros Sinais",
-      "situation": "Jesus ensinou a ser humilde.",
-      "translation": "HUMILDE 1",
+      "situation": "Jesus ensinou a ser humilde; o irmão humilde ajuda sem se exibir.",
+      "translation": "HUMILDE",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Aprendei de mim, que sou manso e humilde de coração (Mateus 11:29). → JESUS FALAR: EU MANSO, HUMILDE CORAÇÃO. APRENDER.",
-        "Deus dá graça aos humildes (Tiago 4:6). → HUMILDE, DEUS GRAÇA DAR."
+        "Deus dá graça aos humildes (Tiago 4:6). → HUMILDE, DEUS GRAÇA DAR.",
+        "O publicano orou humilde, de longe (Lucas 18:13). → PUBLICANO LONGE HUMILDE ORAR.",
+        "Quem se humilha será exaltado (Lucas 18:14). → HUMILDE, DEUS LEVANTAR."
       ],
       "videos": [
         {
@@ -14840,35 +14643,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-246",
-      "section": "Outros Sinais",
-      "situation": "O irmão humilde ajuda sem se exibir.",
-      "translation": "HUMILDE 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O publicano orou humilde, de longe (Lucas 18:13). → PUBLICANO LONGE HUMILDE ORAR.",
-        "Quem se humilha será exaltado (Lucas 18:14). → HUMILDE, DEUS LEVANTAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/Pby80DA6FU8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Pby80DA6FU8",
           "states": [
@@ -14906,13 +14681,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -15640,13 +15416,15 @@
     {
       "id": "congregacao-crista-no-brasil-259",
       "section": "Outros Sinais",
-      "situation": "O jovem deu mau testemunho na rua.",
-      "translation": "MAU TESTEMUNHO 1",
+      "situation": "O jovem dá mau testemunho na rua; a mentira também é mau testemunho.",
+      "translation": "MAU TESTEMUNHO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "O mau testemunho afasta as pessoas de Deus. → MAU TESTEMUNHO PESSOA DEUS AFASTAR.",
-        "Por causa de vós o nome de Deus é blasfemado (Romanos 2:24). → VOCÊ CULPA, NOME DEUS OFENDER."
+        "Por causa de vós o nome de Deus é blasfemado (Romanos 2:24). → VOCÊ CULPA, NOME DEUS OFENDER.",
+        "Da mesma boca procede bênção e maldição (Tiago 3:10). → BOCA MESMA BÊNÇÃO, MALDIÇÃO SAIR.",
+        "Evitemos o mau testemunho. → MAU TESTEMUNHO EVITAR."
       ],
       "videos": [
         {
@@ -15680,35 +15458,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-260",
-      "section": "Outros Sinais",
-      "situation": "A mentira é um mau testemunho.",
-      "translation": "MAU TESTEMUNHO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Da mesma boca procede bênção e maldição (Tiago 3:10). → BOCA MESMA BÊNÇÃO, MALDIÇÃO SAIR.",
-        "Evitemos o mau testemunho. → MAU TESTEMUNHO EVITAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/s9mP_meDL90?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=s9mP_meDL90",
           "states": [
@@ -15746,13 +15496,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -16000,13 +15751,15 @@
     {
       "id": "congregacao-crista-no-brasil-265",
       "section": "Outros Sinais",
-      "situation": "A irmandade faz a oração.",
-      "translation": "ORAÇÃO 1",
+      "situation": "A irmandade e a irmã surda fazem a oração.",
+      "translation": "ORAÇÃO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Unidos, oremos a Deus. → TOD@ JUNT@ DEUS ORAR.",
-        "A oração do justo pode muito (Tiago 5:16). → ORAÇÃO PESSOA JUSTA PODER MUITO."
+        "A oração do justo pode muito (Tiago 5:16). → ORAÇÃO PESSOA JUSTA PODER MUITO.",
+        "Ela pediu oração pela família. → ELA FAMÍLIA ORAÇÃO PEDIR.",
+        "Orai sem cessar (1 Tessalonicenses 5:17). → ORAR SEMPRE, PARAR NÃO."
       ],
       "videos": [
         {
@@ -16040,35 +15793,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-266",
-      "section": "Outros Sinais",
-      "situation": "A irmã surda faz a oração em Libras.",
-      "translation": "ORAÇÃO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Ela pediu oração pela família. → ELA FAMÍLIA ORAÇÃO PEDIR.",
-        "Orai sem cessar (1 Tessalonicenses 5:17). → ORAR SEMPRE, PARAR NÃO."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/821bp61M9G4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=821bp61M9G4",
           "states": [
@@ -16106,13 +15831,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -16240,13 +15966,15 @@
     {
       "id": "congregacao-crista-no-brasil-269",
       "section": "Outros Sinais",
-      "situation": "O ancião prega a Palavra de Deus.",
-      "translation": "PALAVRA 1",
+      "situation": "O ancião prega a Palavra de Deus e o irmão surdo a entende.",
+      "translation": "PALAVRA",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Agora estamos na liberdade da Palavra de Deus. → AGORA PALAVRA DEUS PREGAR LIVRE.",
-        "A palavra de Deus é viva e eficaz (Hebreus 4:12). → PALAVRA DEUS VIVA, PODER TER."
+        "A palavra de Deus é viva e eficaz (Hebreus 4:12). → PALAVRA DEUS VIVA, PODER TER.",
+        "O que semeia, semeia a palavra (Marcos 4:14). → SEMEADOR SEMEAR, SEMENTE IGUAL PALAVRA DEUS.",
+        "No princípio era o Verbo (João 1:1). → COMEÇO PALAVRA EXISTIR."
       ],
       "videos": [
         {
@@ -16280,35 +16008,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-270",
-      "section": "Outros Sinais",
-      "situation": "O irmão surdo entendeu a Palavra.",
-      "translation": "PALAVRA 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O que semeia, semeia a palavra (Marcos 4:14). → SEMEADOR SEMEAR, SEMENTE IGUAL PALAVRA DEUS.",
-        "No princípio era o Verbo (João 1:1). → COMEÇO PALAVRA EXISTIR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/jyafEI_ydRQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=jyafEI_ydRQ",
           "states": [
@@ -16346,13 +16046,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -16540,13 +16241,15 @@
     {
       "id": "congregacao-crista-no-brasil-274",
       "section": "Outros Sinais",
-      "situation": "A irmã passa por uma prova.",
-      "translation": "PROVA 1",
+      "situation": "A irmã passa por uma prova, como Deus provou a fé de Abraão.",
+      "translation": "PROVA",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "A prova da vossa fé produz paciência (Tiago 1:3). → FÉ PROVA, PACIÊNCIA CRESCER.",
-        "Deus provou Abraão (Gênesis 22:1). → DEUS ABRAÃO PROVA FAZER."
+        "Deus provou Abraão (Gênesis 22:1). → DEUS ABRAÃO PROVA FAZER.",
+        "Jó passou pela prova e não negou a Deus. → JÓ PROVA PASSAR, DEUS NEGAR NÃO.",
+        "Bem-aventurado o homem que suporta a prova (Tiago 1:12). → PROVA AGUENTAR, PESSOA FELIZ."
       ],
       "videos": [
         {
@@ -16580,35 +16283,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-275",
-      "section": "Outros Sinais",
-      "situation": "Deus provou a fé de Abraão.",
-      "translation": "PROVA 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Jó passou pela prova e não negou a Deus. → JÓ PROVA PASSAR, DEUS NEGAR NÃO.",
-        "Bem-aventurado o homem que suporta a prova (Tiago 1:12). → PROVA AGUENTAR, PESSOA FELIZ."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/pB8mgP-rTr0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pB8mgP-rTr0",
           "states": [
@@ -16646,13 +16321,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -17080,13 +16756,17 @@
     {
       "id": "congregacao-crista-no-brasil-283",
       "section": "Outros Sinais",
-      "situation": "A salvação vem pela fé.",
-      "translation": "SALVAÇÃO 1",
+      "situation": "O ancião fala da salvação em Cristo, que vem pela fé e que o jovem surdo recebeu.",
+      "translation": "SALVAÇÃO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Crê no Senhor Jesus Cristo e serás salvo (Atos 16:31). → JESUS CRISTO CRER, SALVAÇÃO RECEBER.",
-        "Hoje veio a salvação a esta casa (Lucas 19:9). → HOJE CASA ESTA SALVAÇÃO CHEGAR."
+        "Hoje veio a salvação a esta casa (Lucas 19:9). → HOJE CASA ESTA SALVAÇÃO CHEGAR.",
+        "A salvação é dom de Deus, não vem das obras (Efésios 2:8-9). → SALVAÇÃO DEUS PRESENTE, OBRA NÃO.",
+        "Em nenhum outro há salvação (Atos 4:12). → SALVAÇÃO SÓ JESUS.",
+        "Tomai também o capacete da salvação (Efésios 6:17). → SALVAÇÃO CAPACETE COLOCAR.",
+        "Desenvolvei a vossa salvação com temor (Filipenses 2:12). → SALVAÇÃO CUIDAR, DEUS TEMER."
       ],
       "videos": [
         {
@@ -17120,35 +16800,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-284",
-      "section": "Outros Sinais",
-      "situation": "O ancião fala da salvação em Cristo.",
-      "translation": "SALVAÇÃO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A salvação é dom de Deus, não vem das obras (Efésios 2:8-9). → SALVAÇÃO DEUS PRESENTE, OBRA NÃO.",
-        "Em nenhum outro há salvação (Atos 4:12). → SALVAÇÃO SÓ JESUS."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/Mte3OX0Qdgo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Mte3OX0Qdgo",
           "states": [
@@ -17180,35 +16832,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-285",
-      "section": "Outros Sinais",
-      "situation": "O jovem surdo recebeu a salvação.",
-      "translation": "SALVAÇÃO 3",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Tomai também o capacete da salvação (Efésios 6:17). → SALVAÇÃO CAPACETE COLOCAR.",
-        "Desenvolvei a vossa salvação com temor (Filipenses 2:12). → SALVAÇÃO CUIDAR, DEUS TEMER."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/xwkSZWVeuyM?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=xwkSZWVeuyM",
           "states": [
@@ -17246,13 +16870,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -17680,13 +17305,15 @@
     {
       "id": "congregacao-crista-no-brasil-293",
       "section": "Outros Sinais",
-      "situation": "O irmão recebeu um sinal da parte de Deus.",
-      "translation": "SINAL DA PARTE DE DEUS 1",
+      "situation": "O irmão recebeu um sinal da parte de Deus, como a visão.",
+      "translation": "SINAL DA PARTE DE DEUS",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Gideão pediu um sinal da parte de Deus (Juízes 6:36-37). → GIDEÃO DEUS SINAL PEDIR.",
-        "Entendi como um sinal da parte de Deus. → EU ENTENDER SINAL DA PARTE DE DEUS."
+        "Entendi como um sinal da parte de Deus. → EU ENTENDER SINAL DA PARTE DE DEUS.",
+        "O arco nas nuvens será o sinal da aliança (Gênesis 9:13). → ARCO-ÍRIS NUVEM, SINAL ALIANÇA DEUS.",
+        "Deus confirmou a palavra com sinais (Marcos 16:20). → DEUS PALAVRA SINAL CONFIRMAR."
       ],
       "videos": [
         {
@@ -17720,35 +17347,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-294",
-      "section": "Outros Sinais",
-      "situation": "A visão foi um sinal da parte de Deus.",
-      "translation": "SINAL DA PARTE DE DEUS 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O arco nas nuvens será o sinal da aliança (Gênesis 9:13). → ARCO-ÍRIS NUVEM, SINAL ALIANÇA DEUS.",
-        "Deus confirmou a palavra com sinais (Marcos 16:20). → DEUS PALAVRA SINAL CONFIRMAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/WHUVYVu3Uu4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WHUVYVu3Uu4",
           "states": [
@@ -17786,13 +17385,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -17920,13 +17520,15 @@
     {
       "id": "congregacao-crista-no-brasil-297",
       "section": "Outros Sinais",
-      "situation": "Jesus venceu a tentação no deserto.",
-      "translation": "TENTAÇÃO 1",
+      "situation": "Jesus venceu a tentação no deserto; o jovem pede força contra a tentação.",
+      "translation": "TENTAÇÃO",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Jesus foi tentado no deserto (Mateus 4:1). → JESUS DESERTO TENTAÇÃO.",
-        "Não nos deixes cair em tentação (Mateus 6:13). → TENTAÇÃO CAIR, DEUS NÓS PROTEGER."
+        "Não nos deixes cair em tentação (Mateus 6:13). → TENTAÇÃO CAIR, DEUS NÓS PROTEGER.",
+        "Deus não deixa ser tentado além das forças (1 Coríntios 10:13). → TENTAÇÃO, DEUS FORÇA DAR, SAÍDA MOSTRAR.",
+        "Vigiai e orai para não cairdes em tentação (Mateus 26:41). → VIGIAR, ORAR, TENTAÇÃO CAIR NÃO."
       ],
       "videos": [
         {
@@ -17960,35 +17562,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-298",
-      "section": "Outros Sinais",
-      "situation": "O jovem pede força contra a tentação.",
-      "translation": "TENTAÇÃO 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Deus não deixa ser tentado além das forças (1 Coríntios 10:13). → TENTAÇÃO, DEUS FORÇA DAR, SAÍDA MOSTRAR.",
-        "Vigiai e orai para não cairdes em tentação (Mateus 26:41). → VIGIAR, ORAR, TENTAÇÃO CAIR NÃO."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/E-cjk-0cYZU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=E-cjk-0cYZU",
           "states": [
@@ -18026,13 +17600,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -18040,13 +17615,15 @@
     {
       "id": "congregacao-crista-no-brasil-299",
       "section": "Outros Sinais",
-      "situation": "O irmão quer testemunhar a cura.",
-      "translation": "TESTEMUNHAR 1",
+      "situation": "O irmão quer testemunhar a cura e a irmã surda testemunha em Libras.",
+      "translation": "TESTEMUNHAR",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Quero testemunhar o que Deus fez. → EU QUERER TESTEMUNHAR, DEUS FAZER.",
-        "Sereis minhas testemunhas até os confins da terra (Atos 1:8). → VOCÊS MINHA TESTEMUNHA, MUNDO TODO."
+        "Sereis minhas testemunhas até os confins da terra (Atos 1:8). → VOCÊS MINHA TESTEMUNHA, MUNDO TODO.",
+        "A mulher testemunhou e muitos creram (João 4:39). → MULHER TESTEMUNHAR, PESSOA MUITA CRER.",
+        "Testemunhou a cura diante de todos. → TODOS FRENTE CURA TESTEMUNHAR."
       ],
       "videos": [
         {
@@ -18080,35 +17657,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-300",
-      "section": "Outros Sinais",
-      "situation": "A irmã surda vai testemunhar em Libras.",
-      "translation": "TESTEMUNHAR 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A mulher testemunhou e muitos creram (João 4:39). → MULHER TESTEMUNHAR, PESSOA MUITA CRER.",
-        "Testemunhou a cura diante de todos. → TODOS FRENTE CURA TESTEMUNHAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/bBkICd5A3HI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bBkICd5A3HI",
           "states": [
@@ -18146,13 +17695,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -20680,13 +20230,17 @@
     {
       "id": "congregacao-crista-no-brasil-343",
       "section": "Pecados",
-      "situation": "O ancião fala contra a idolatria.",
-      "translation": "IDOLATRIA 1",
+      "situation": "O ancião fala contra a idolatria: adorar imagens e amar o dinheiro.",
+      "translation": "IDOLATRIA",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "O povo fez um bezerro de ouro e o adorou (Êxodo 32:4). → POVO BEZERRO OURO FAZER, ADORAR. IDOLATRIA.",
-        "Não terás outros deuses diante de mim (Êxodo 20:3). → DEUS OUTRO TER NÃO."
+        "Não terás outros deuses diante de mim (Êxodo 20:3). → DEUS OUTRO TER NÃO.",
+        "Os três jovens não adoraram a estátua de ouro (Daniel 3:18). → JOVEM TRÊS ESTÁTUA OURO ADORAR NÃO.",
+        "Filhinhos, guardai-vos dos ídolos (1 João 5:21). → FILHO, ÍDOLO CUIDADO, AFASTAR.",
+        "A avareza é idolatria (Colossenses 3:5). → DINHEIRO AMAR MUITO, IDOLATRIA.",
+        "Não podeis servir a Deus e a Mamom (Mateus 6:24). → DEUS, DINHEIRO, DOIS SERVIR CONSEGUIR-NÃO."
       ],
       "videos": [
         {
@@ -20720,35 +20274,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-344",
-      "section": "Pecados",
-      "situation": "Adorar imagens é idolatria.",
-      "translation": "IDOLATRIA 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Os três jovens não adoraram a estátua de ouro (Daniel 3:18). → JOVEM TRÊS ESTÁTUA OURO ADORAR NÃO.",
-        "Filhinhos, guardai-vos dos ídolos (1 João 5:21). → FILHO, ÍDOLO CUIDADO, AFASTAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/5oAObtZdJI0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=5oAObtZdJI0",
           "states": [
@@ -20780,35 +20306,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-345",
-      "section": "Pecados",
-      "situation": "Amar o dinheiro também é idolatria.",
-      "translation": "IDOLATRIA 3",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A avareza é idolatria (Colossenses 3:5). → DINHEIRO AMAR MUITO, IDOLATRIA.",
-        "Não podeis servir a Deus e a Mamom (Mateus 6:24). → DEUS, DINHEIRO, DOIS SERVIR CONSEGUIR-NÃO."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/P1gFCpEuqEI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=P1gFCpEuqEI",
           "states": [
@@ -20846,13 +20344,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -20920,13 +20419,15 @@
     {
       "id": "congregacao-crista-no-brasil-347",
       "section": "Pedidos de Orações",
-      "situation": "O ancião pede oração pelos acidentados.",
-      "translation": "ACIDENTADOS 1",
+      "situation": "O ancião e a irmã pedem oração pelos acidentados, na estrada ou no trabalho.",
+      "translation": "ACIDENTADOS",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "Oremos pelos acidentados. → ACIDENTADO, NÓS ORAR.",
-        "Um irmão foi acidentado e está no hospital. → IRMÃO ACIDENTADO, HOSPITAL ESTAR."
+        "Um irmão foi acidentado e está no hospital. → IRMÃO ACIDENTADO, HOSPITAL ESTAR.",
+        "Meu filho foi acidentado no trabalho. → MEU FILHO TRABALHO ACIDENTADO.",
+        "Deus guarde os acidentados e dê recuperação. → DEUS ACIDENTADO PROTEGER, SAÚDE RECUPERAR."
       ],
       "videos": [
         {
@@ -20960,35 +20461,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-348",
-      "section": "Pedidos de Orações",
-      "situation": "A irmã pede oração pelos acidentados na estrada.",
-      "translation": "ACIDENTADOS 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Meu filho foi acidentado no trabalho. → MEU FILHO TRABALHO ACIDENTADO.",
-        "Deus guarde os acidentados e dê recuperação. → DEUS ACIDENTADO PROTEGER, SAÚDE RECUPERAR."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/phYEk6lgV00?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=phYEk6lgV00",
           "states": [
@@ -21026,13 +20499,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -30146,13 +29620,15 @@
     {
       "id": "congregacao-crista-no-brasil-495",
       "section": "Saudação",
-      "situation": "Um irmão chega e diz: \"A paz de Deus\".",
-      "translation": "A PAZ DE DEUS 1",
+      "situation": "Os irmãos se cumprimentam e se despedem dizendo \"A paz de Deus\".",
+      "translation": "A PAZ DE DEUS",
       "librasStructure": "",
       "notes": "",
       "examples": [
         "A paz de Deus, irmão! → PAZ DE DEUS, IRMÃO.",
-        "A paz de Deus a todos. → PAZ DE DEUS TODOS."
+        "A paz de Deus a todos. → PAZ DE DEUS TODOS.",
+        "A paz de Deus, até o próximo culto. → PAZ DE DEUS, PRÓXIMO CULTO ENCONTRAR.",
+        "A paz de Deus permaneça em nossos corações. → PAZ DE DEUS NOSSO CORAÇÃO PERMANECER."
       ],
       "videos": [
         {
@@ -30186,35 +29662,7 @@
             "SE",
             "TO"
           ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-496",
-      "section": "Saudação",
-      "situation": "A irmã surda cumprimenta: \"A paz de Deus\".",
-      "translation": "A PAZ DE DEUS 2",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A paz de Deus, até o próximo culto. → PAZ DE DEUS, PRÓXIMO CULTO ENCONTRAR.",
-        "A paz de Deus permaneça em nossos corações. → PAZ DE DEUS NOSSO CORAÇÃO PERMANECER."
-      ],
-      "videos": [
+        },
         {
           "url": "https://www.youtube.com/embed/KLF41ZNW9Kg?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KLF41ZNW9Kg",
           "states": [
@@ -30252,13 +29700,14 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-10-19T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
