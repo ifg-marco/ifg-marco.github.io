@@ -9,14 +9,16 @@
     {
       "action": "created",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-22T02:17:08.459Z",
+      "at": "2026-10-27T16:52:09.000Z",
       "changes": [
-        "notebook"
+        "notebook",
+        "collection",
+        "order"
       ]
     }
   ],
-  "collection": "Sinais contextualizados por áreas",
-  "order": 20,
+  "collection": "Regionalismos",
+  "order": 1,
   "difficulty": "intermediario",
   "cards": [
     {
