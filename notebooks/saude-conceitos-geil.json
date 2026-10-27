@@ -1,0 +1,116 @@
+{
+  "id": "saude-conceitos-geil",
+  "title": "Ciências da saúde: circulação e cuidados",
+  "description": "Termos científicos para estudar circulação, prevenção e cuidados. Fonte dos vídeos: glossário científico do GEIL/PUCRS, https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s . Os vídeos mostram sinais documentados pela fonte; outras variantes podem existir.",
+  "section": "Ciências da saúde",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-22T01:31:06.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-22T01:31:06.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 16,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "saude",
+      "reason": "Comece por sinais comuns de saúde antes dos termos científicos."
+    }
+  ],
+  "cards": [
+    {
+      "id": "saude-conceitos-geil-01",
+      "section": "Hábitos e prevenção",
+      "situation": "Em uma conversa sobre hábitos de saúde, você descreve uma pessoa que passa muito tempo sem atividade física.",
+      "translation": "Sedentário",
+      "librasStructure": "",
+      "notes": "Termo sobre hábito de vida; não é um diagnóstico.",
+      "examples": [
+        "O trabalho sedentário exige pausas para se movimentar."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/grt0vTc-Ft8",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saude-conceitos-geil-02",
+      "section": "Sangue e circulação",
+      "situation": "Na aula, a turma estuda o sistema sanguíneo e sua relação com o transporte de substâncias pelo corpo.",
+      "translation": "Sistema sanguíneo",
+      "librasStructure": "",
+      "notes": "Observe o contexto do vídeo antes de comparar com outros sistemas do corpo.",
+      "examples": [
+        "A aula de hoje apresenta o sistema sanguíneo."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/aoKUfG95rA8",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saude-conceitos-geil-03",
+      "section": "Cuidados em saúde",
+      "situation": "Em uma aula sobre tratamentos, a turma encontra o termo 'soros' e pergunta em quais contextos ele é usado.",
+      "translation": "Soros",
+      "librasStructure": "",
+      "notes": "O tipo de soro e o sentido exato dependem do contexto. Este cartão não orienta tratamento.",
+      "examples": [
+        "A turma vai comparar diferentes tipos de soros na aula."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/RYVHWaEyKPM",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}

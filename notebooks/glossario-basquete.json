@@ -1,0 +1,60 @@
+{
+  "id": "glossario-basquete",
+  "title": "Glossário de Basquete",
+  "description": "",
+  "section": "Glossário de Basquete",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-26T18:03:31.990Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T20:48:42Z",
+      "changes": [
+        "notebook",
+        "collection",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Vocabulário",
+  "order": 18,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "glossario-basquete-rsWKIx4cb1Y",
+      "section": "Glossário de Basquete",
+      "situation": "Como você sinaliza Glossário em Libras - Basquete.?",
+      "translation": "Glossário em Libras - Basquete.",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rsWKIx4cb1Y?start=0&end=585&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rsWKIx4cb1Y",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "rsWKIx4cb1Y",
+        "titulo": "Glossário em Libras - Basquete.",
+        "url": "https://www.youtube.com/watch?v=rsWKIx4cb1Y",
+        "canal": "Sociedade dos Surdos de Caxias do Sul -SSCS",
+        "duracaoSegundos": 585
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:10:36.743Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

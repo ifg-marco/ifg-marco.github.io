@@ -1,0 +1,145 @@
+{
+  "id": "biologia-evolucao-geil",
+  "title": "Biologia: simetria, evolução e relações",
+  "description": "Conceitos de forma corporal, evolução e relações entre seres vivos. Fonte dos vídeos: glossário científico do GEIL/PUCRS, https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s . Os vídeos mostram sinais documentados pela fonte; outras variantes podem existir.",
+  "section": "Biologia",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-22T01:31:06.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-22T01:31:06.000Z",
+      "changes": [
+        "created"
+      ]
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 9,
+  "difficulty": "avancado",
+  "prerequisites": [
+    {
+      "notebookId": "biologia",
+      "reason": "Conheça os sinais gerais de Biologia antes de estudar estes conceitos."
+    }
+  ],
+  "cards": [
+    {
+      "id": "biologia-evolucao-geil-01",
+      "section": "Forma do corpo",
+      "situation": "Ao observar o corpo de uma borboleta, você compara os lados esquerdo e direito separados por um único plano.",
+      "translation": "Simetria bilateral",
+      "librasStructure": "",
+      "notes": "Em Biologia, descreve a organização de partes do corpo em dois lados correspondentes.",
+      "examples": [
+        "A borboleta apresenta simetria bilateral."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/_B6G3BgwwDo",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biologia-evolucao-geil-02",
+      "section": "Forma do corpo",
+      "situation": "Ao observar uma água-viva, você descreve partes organizadas ao redor de um eixo central.",
+      "translation": "Simetria radial",
+      "librasStructure": "",
+      "notes": "Em Biologia, descreve a organização de partes ao redor de um eixo. Compare com simetria bilateral.",
+      "examples": [
+        "A água-viva pode apresentar simetria radial."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/pxVs5YfdwwA",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biologia-evolucao-geil-03",
+      "section": "Evolução",
+      "situation": "Na aula de evolução, você explica como características hereditárias podem se tornar mais comuns ao longo das gerações em um ambiente.",
+      "translation": "Seleção natural",
+      "librasStructure": "",
+      "notes": "Conceito de evolução; não significa que um organismo escolhe mudar.",
+      "examples": [
+        "A seleção natural atua sobre diferenças hereditárias entre indivíduos."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Qwr0Doa5O6E",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biologia-evolucao-geil-04",
+      "section": "Relações entre seres vivos",
+      "situation": "Ao estudar a associação próxima entre organismos de espécies diferentes, você procura o termo usado em Ecologia.",
+      "translation": "Simbiose",
+      "librasStructure": "",
+      "notes": "O termo pode receber delimitações diferentes conforme a abordagem de Ecologia; não pressupor benefício mútuo em todos os casos.",
+      "examples": [
+        "A turma discute exemplos de simbiose entre espécies."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Szek4OYuOS4",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-22T01:31:06.000Z",
+          "changes": [
+            "created"
+          ]
+        }
+      ]
+    }
+  ]
+}

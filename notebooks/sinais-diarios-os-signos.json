@@ -1,0 +1,59 @@
+{
+  "id": "sinais-diarios-os-signos",
+  "title": "OS SIGNOS",
+  "description": "Sinais da playlist “OS SIGNOS”, do canal Sinais Diários de Libras.",
+  "section": "OS SIGNOS",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:17:30.000Z",
+      "changes": [
+        "notebook",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 6,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "sinais-diarios-os-signos-ly7SHLqHlMU",
+      "section": "OS SIGNOS",
+      "situation": "Como você sinaliza AQUÁRIO?",
+      "translation": "AQUÁRIO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ly7SHLqHlMU?start=0&end=73&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ly7SHLqHlMU",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "ly7SHLqHlMU",
+        "titulo": "AQUÁRIO - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=ly7SHLqHlMU",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "OS SIGNOS",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 73
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

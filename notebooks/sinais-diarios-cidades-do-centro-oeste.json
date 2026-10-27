@@ -1,0 +1,146 @@
+{
+  "id": "sinais-diarios-cidades-do-centro-oeste",
+  "title": "Cidades do Centro-Oeste",
+  "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Mato Grosso do Sul, Cidades do Mato Grosso.",
+  "section": "Cidades do Centro-Oeste",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:17:30.000Z",
+      "changes": [
+        "notebook"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 12,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "sinais-diarios-cidades-do-centro-oeste-N1TitrKUIu4",
+      "section": "Cidades do Mato Grosso",
+      "situation": "Como você sinaliza CUIABÁ?",
+      "translation": "CUIABÁ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/N1TitrKUIu4?start=0&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=N1TitrKUIu4",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "N1TitrKUIu4",
+        "titulo": "Sinal de CUIABÁ em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=N1TitrKUIu4",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Mato Grosso",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 42
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-mato-grosso",
+          "cardId": "sinais-diarios-cidades-do-mato-grosso-N1TitrKUIu4"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-centro-oeste-olw037iolyc",
+      "section": "Cidades do Mato Grosso",
+      "situation": "Como você sinaliza MATO GROSSO?",
+      "translation": "MATO GROSSO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/olw037iolyc?start=0&end=56&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=olw037iolyc",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "olw037iolyc",
+        "titulo": "Sinal de MATO GROSSO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=olw037iolyc",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Mato Grosso",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 56
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-mato-grosso",
+          "cardId": "sinais-diarios-cidades-do-mato-grosso-olw037iolyc"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-centro-oeste-tgLH691zBsY",
+      "section": "Cidades de Mato Grosso do Sul",
+      "situation": "Como você sinaliza MATO GROSSO DO SUL?",
+      "translation": "MATO GROSSO DO SUL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tgLH691zBsY?start=0&end=46&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tgLH691zBsY",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "tgLH691zBsY",
+        "titulo": "Sinal de MATO GROSSO DO SUL em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=tgLH691zBsY",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de Mato Grosso do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 46
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-mato-grosso-do-sul",
+          "cardId": "sinais-diarios-cidades-de-mato-grosso-do-sul-tgLH691zBsY"
+        }
+      ]
+    }
+  ]
+}

@@ -32,6 +32,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -91,6 +95,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pacoteSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -150,6 +158,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/padariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -209,6 +221,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/padrao1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "25",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -268,6 +284,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/padrao2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -327,6 +347,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/padronizarSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -386,6 +410,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pagar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -445,6 +473,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pagar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -504,6 +536,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paginaSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -563,6 +599,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/painelSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -622,6 +662,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paladarSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -681,6 +725,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palavraSm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -740,6 +788,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palavraoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -799,6 +851,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palestraSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -858,6 +914,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palestrarSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -917,6 +977,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palhacadaSm_Prog001.mp4",
+          "handShape": {
+            "code": "45",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg45.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -976,6 +1040,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palidoSm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1035,6 +1103,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palma1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1094,6 +1166,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palpitar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1153,6 +1229,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palpitar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1212,6 +1292,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/palpiteSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1271,6 +1355,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pancadaSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1330,6 +1418,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pano3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "21",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg21.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1389,6 +1481,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papaSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1448,6 +1544,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paparSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1507,6 +1607,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papeladaSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1566,6 +1670,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papelaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1625,6 +1733,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papelariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1684,6 +1796,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/papo2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1743,6 +1859,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paquerarSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1802,6 +1922,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paquerar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1861,6 +1985,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/par2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1946,6 +2074,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paraSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2005,6 +2137,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parabenizar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2064,6 +2200,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parabenizar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2123,6 +2263,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parabensSm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2208,6 +2352,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paradoSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2267,6 +2415,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parafusoSm_Prog001.mp4",
+          "handShape": {
+            "code": "21",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg21.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2326,6 +2478,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paraguaioSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2385,6 +2541,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2444,6 +2604,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2503,6 +2667,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2562,6 +2730,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parar4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2621,6 +2793,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parar5Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2680,6 +2856,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parceriaSm_Prog001.mp4",
+          "handShape": {
+            "code": "33",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg33.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2739,6 +2919,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parcialSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2798,6 +2982,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parecerSm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2857,6 +3045,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parecido2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2916,6 +3108,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paredeSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2975,6 +3171,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parentesesSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3034,6 +3234,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parteSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3119,6 +3323,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/participarSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3178,6 +3386,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/particularSm_Prog001.mp4",
+          "handShape": {
+            "code": "28",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg28.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3237,6 +3449,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/partidaSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3296,6 +3512,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/partir1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3355,6 +3575,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/partir2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3414,6 +3638,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/partir3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3473,6 +3701,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/partir4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "51a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3532,6 +3764,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pascoaSm_Prog001.mp4",
+          "handShape": {
+            "code": "27",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg27.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3591,6 +3827,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pasmoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3650,6 +3890,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passar6Sm_Prog001.mp4",
+          "handShape": {
+            "code": "39",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg39.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3709,6 +3953,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3768,6 +4016,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passagem2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3827,6 +4079,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passagem3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3886,6 +4142,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passaporteSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3945,6 +4205,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4004,6 +4268,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passar5Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4063,6 +4331,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4122,6 +4394,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4181,6 +4457,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passarelaSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4240,6 +4520,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passaroSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4299,6 +4583,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passearSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4358,6 +4646,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passeataSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4417,6 +4709,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passeioSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4476,6 +4772,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passoSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4535,6 +4835,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pastorSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4594,6 +4898,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pastoralSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4653,6 +4961,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/patinar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4712,6 +5024,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/patinar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4771,6 +5087,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/patinar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4830,6 +5150,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/patrulhaSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4889,6 +5213,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pauladaSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -4948,6 +5276,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/paulistaSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5007,6 +5339,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pausaSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5066,6 +5402,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pautaSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5125,6 +5465,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pazSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5236,6 +5580,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pecadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5295,6 +5643,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pecarSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5380,6 +5732,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedagogiaSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5439,6 +5795,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedagogicoSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5498,6 +5858,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedagogoSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5557,6 +5921,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedicureSm_Prog001.mp4",
+          "handShape": {
+            "code": "06",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg06.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5616,6 +5984,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedidoSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5675,6 +6047,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedir1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5734,6 +6110,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedir2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5793,6 +6173,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pegar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5852,6 +6236,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pegar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5911,6 +6299,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pegar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -5970,6 +6362,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peladoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6029,6 +6425,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peluciaSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6088,6 +6488,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pena3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6147,6 +6551,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pena4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6206,6 +6614,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pendurar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6265,6 +6677,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peneirarSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6324,6 +6740,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/penetraSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6383,6 +6803,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/penetrarSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6442,6 +6866,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/penitenciariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6501,6 +6929,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensamento1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6560,6 +6992,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensamento2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6619,6 +7055,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensao2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6678,6 +7118,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6737,6 +7181,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6796,6 +7244,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pensionatoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6855,6 +7307,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/penteadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6914,6 +7370,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pentearSm_Prog001.mp4",
+          "handShape": {
+            "code": "04",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg04.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -6973,6 +7433,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pequeninoSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7032,6 +7496,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pequeno1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "21",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg21.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7091,6 +7559,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pequeno2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7150,6 +7622,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pequeno3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7209,6 +7685,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perambularSm_Prog001.mp4",
+          "handShape": {
+            "code": "27",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg27.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7268,6 +7748,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perceber1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7327,6 +7811,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perceber2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7386,6 +7874,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/percursoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7445,6 +7937,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perdaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7504,6 +8000,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perderSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7563,6 +8063,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perdidoSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7622,6 +8126,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perdoarSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7681,6 +8189,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perfeitoSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7740,6 +8252,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perfurarSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7799,6 +8315,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perguntarSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7858,6 +8378,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perigoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7917,6 +8441,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perigosoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -7976,6 +8504,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/permanecerSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8035,6 +8567,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/permanenteSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8094,6 +8630,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/permitirSm_Prog001.mp4",
+          "handShape": {
+            "code": "33",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg33.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8153,6 +8693,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perpetuoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8212,6 +8756,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perseguicaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8271,6 +8819,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perseguirSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8330,6 +8882,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/persistenteSm_Prog001.mp4",
+          "handShape": {
+            "code": "58",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg58.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8415,6 +8971,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/personalidadeSm_Prog001.mp4",
+          "handShape": {
+            "code": "18b",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18b.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8474,6 +9034,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pertencerSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8533,6 +9097,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perto1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "42",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg42.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8592,6 +9160,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perto2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8651,6 +9223,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pertubarSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8710,6 +9286,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peruanoSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8769,6 +9349,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perucaSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8828,6 +9412,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/perversoSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8887,6 +9475,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pesadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -8946,6 +9538,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pescarSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9005,6 +9601,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peso1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9064,6 +9664,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/peso2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9123,6 +9727,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pesquisaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9182,6 +9790,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pessimoSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9267,6 +9879,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pessoa2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9326,6 +9942,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pessoalSm_Prog001.mp4",
+          "handShape": {
+            "code": "28",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg28.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9385,6 +10005,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pestanejarSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9444,6 +10068,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/petiscarSm_Prog001.mp4",
+          "handShape": {
+            "code": "55",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9503,6 +10131,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/piadaSm_Prog001.mp4",
+          "handShape": {
+            "code": "19",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9562,6 +10194,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pianoSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9621,6 +10257,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/picar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "55",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9680,6 +10320,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/picar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9739,6 +10383,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/picar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "23",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg23.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9798,6 +10446,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/picharSm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9857,6 +10509,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pilarSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9916,6 +10572,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pilequeSm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -9975,6 +10635,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pilha2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10034,6 +10698,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pilha3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10093,6 +10761,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pilotarSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10152,6 +10824,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pincel1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10211,6 +10887,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pingarSm_Prog001.mp4",
+          "handShape": {
+            "code": "19",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg19.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10296,6 +10976,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10355,6 +11039,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10414,6 +11102,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10473,6 +11165,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10532,6 +11228,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar5Sm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10591,6 +11291,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar6Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10650,6 +11354,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar7Sm_Prog001.mp4",
+          "handShape": {
+            "code": "17",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg17.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10709,6 +11417,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar8Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10768,6 +11480,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintar9Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10827,6 +11543,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pintor2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10886,6 +11606,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pinturaSm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -10945,6 +11669,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/piolhoSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11004,6 +11732,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pioneiroSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11063,6 +11795,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pior1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11122,6 +11858,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pior2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "42",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg42.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11181,6 +11921,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pior3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11240,6 +11984,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/piorarSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11325,6 +12073,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/piranha2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11384,6 +12136,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pirataSm_Prog001.mp4",
+          "handShape": {
+            "code": "60",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg60.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11443,6 +12199,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pisarSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11502,6 +12262,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pisoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11561,6 +12325,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pitadaSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11620,6 +12388,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/planejamentoSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11679,6 +12451,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/planejarSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11738,6 +12514,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/planilhaSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11797,6 +12577,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/planoSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11856,6 +12640,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/planta2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "55",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg55.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11915,6 +12703,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/plantarSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -11974,6 +12766,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/plastificarSm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12033,6 +12829,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/po2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12092,6 +12892,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pobreSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12151,6 +12955,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pobrezaSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12210,6 +13018,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pocaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12269,6 +13081,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/podarSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12354,6 +13170,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poder1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12413,6 +13233,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poder2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12472,6 +13296,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poderosoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12531,6 +13359,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/podreSm_Prog001.mp4",
+          "handShape": {
+            "code": "16",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg16.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12590,6 +13422,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poeiraSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12675,6 +13511,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poesia2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12734,6 +13574,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/polemicaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12793,6 +13637,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/policia_civilSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12852,6 +13700,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/policia_militarSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12911,6 +13763,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poliglotaSm_Prog001.mp4",
+          "handShape": {
+            "code": "27",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg27.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -12996,6 +13852,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/politicaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13055,6 +13915,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/polonesSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13114,6 +13978,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pontapeSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13173,6 +14041,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponteSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13232,6 +14104,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13291,6 +14167,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13350,6 +14230,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto5Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13409,6 +14293,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pontuacaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13468,6 +14356,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pontualSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13527,6 +14419,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/populacaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "35a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg35a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13586,6 +14482,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/por_acasoSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13645,6 +14545,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/por_causaSm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13704,6 +14608,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/por_favorSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13763,6 +14671,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/por_issoSm_Prog001.mp4",
+          "handShape": {
+            "code": "24",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg24.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13822,6 +14734,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13881,6 +14797,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porcariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13940,6 +14860,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porcentagemSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -13999,6 +14923,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pornografiaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14058,6 +14986,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porqueSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14117,6 +15049,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porradaSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14176,6 +15112,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porreSm_Prog001.mp4",
+          "handShape": {
+            "code": "37a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14235,6 +15175,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14294,6 +15238,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/porteiroSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14353,6 +15301,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portuguesSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14412,6 +15364,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posicaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14471,6 +15427,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/possibilidadeSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14530,6 +15490,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/possivelSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14589,6 +15553,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posteSm_Prog001.mp4",
+          "handShape": {
+            "code": "51a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14648,6 +15616,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posteriorSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14707,6 +15679,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posticoSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14766,6 +15742,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posturaSm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14825,6 +15805,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pote1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14884,6 +15868,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pote2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -14943,6 +15931,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/potencialSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15002,6 +15994,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/potenteSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15061,6 +16057,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pouco1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "04",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg04.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15120,6 +16120,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pouco2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "21",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg21.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15179,6 +16183,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poupar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15238,6 +16246,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/poupar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15297,6 +16309,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pousarSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15356,6 +16372,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/povoSm_Prog001.mp4",
+          "handShape": {
+            "code": "35a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg35a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15415,6 +16435,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/praca2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15474,6 +16498,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/praca3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15533,6 +16561,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prateadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15592,6 +16624,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/praticaSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15651,6 +16687,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/praticarSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15710,6 +16750,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prazo1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15769,6 +16813,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prazo2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15828,6 +16876,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/precarioSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15887,6 +16939,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preceSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -15946,6 +17002,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preciosoSm_Prog001.mp4",
+          "handShape": {
+            "code": "38",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg38.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16005,6 +17065,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/precipitarSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16064,6 +17128,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/precisaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16123,6 +17191,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/precisarSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16182,6 +17254,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/precoceSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16241,6 +17317,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/predioSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16300,6 +17380,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/predio2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16359,6 +17443,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preencherSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16418,6 +17506,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prefeituraSm_Prog001.mp4",
+          "handShape": {
+            "code": "23",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg23.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16477,6 +17569,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preferirSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16536,6 +17632,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pregoSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16595,6 +17695,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preguica1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16654,6 +17758,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preguica2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16713,6 +17821,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prejudicarSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16772,6 +17884,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prejuizoSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16831,6 +17947,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prematuroSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16890,6 +18010,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/premioSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -16949,6 +18073,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/premio2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "08b",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08b.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17008,6 +18136,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prender1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17067,6 +18199,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prender2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17126,6 +18262,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preocuparSm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17185,6 +18325,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prepararSm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17244,6 +18388,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presencaSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17303,6 +18451,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presente1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "23",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg23.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17362,6 +18514,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presente2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17421,6 +18577,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presente3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17480,6 +18640,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presentearSm_Prog001.mp4",
+          "handShape": {
+            "code": "23",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg23.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17539,6 +18703,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/preservarSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17598,6 +18766,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presidiarioSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17657,6 +18829,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/presoSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17716,6 +18892,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pressaSm_Prog001.mp4",
+          "handShape": {
+            "code": "51a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17775,6 +18955,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pressaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17860,6 +19044,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prestar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17919,6 +19107,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prestar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -17978,6 +19170,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prestar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18037,6 +19233,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pretenderSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18096,6 +19296,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/princesaSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18155,6 +19359,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/principalSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18214,6 +19422,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/principeSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18273,6 +19485,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/principioSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18332,6 +19548,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prioridadeSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18391,6 +19611,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prisaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18450,6 +19674,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/privadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "28",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg28.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18509,6 +19737,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/problemaSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18568,6 +19800,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/problematicoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18627,6 +19863,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/processarSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18686,6 +19926,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/procurarSm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18745,6 +19989,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/produzirSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18804,6 +20052,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/profundoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18863,6 +20115,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/progredirSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18922,6 +20178,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/progressoSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -18981,6 +20241,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proibirSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19040,6 +20304,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prolongadoSm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19099,6 +20367,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prolongarSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19158,6 +20430,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prometerSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19217,6 +20493,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/promocaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "20",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg20.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19276,6 +20556,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/promoverSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19335,6 +20619,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prontoSm_Prog001.mp4",
+          "handShape": {
+            "code": "33",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg33.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19394,6 +20682,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/propagandaSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19453,6 +20745,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proporcionalSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19512,6 +20808,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/propositoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19571,6 +20871,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/propostaSm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19630,6 +20934,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/propriedadeSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19689,6 +20997,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proprietarioSm_Prog001.mp4",
+          "handShape": {
+            "code": "25",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19748,6 +21060,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proprioSm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19807,6 +21123,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prorrogarSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19866,6 +21186,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prosaSm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19925,6 +21249,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prosperarSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -19984,6 +21312,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/prosseguirSm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20043,6 +21375,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/protecaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20102,6 +21438,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/protegerSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20161,6 +21501,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proteger2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53b",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53b.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20220,6 +21564,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/protestanteSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20279,6 +21627,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/protestarSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20338,6 +21690,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provaSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20397,6 +21753,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20456,6 +21816,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "44",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg44.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20515,6 +21879,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provar3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20574,6 +21942,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provar4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20633,6 +22005,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provavelSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20692,6 +22068,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/providenciarSm_Prog001.mp4",
+          "handShape": {
+            "code": "08a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg08a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20751,6 +22131,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provisorioSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20810,6 +22194,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provocacaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20869,6 +22257,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provocar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20928,6 +22320,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/provocar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -20987,6 +22383,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proximo1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21046,6 +22446,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/proximo2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21105,6 +22509,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/publicar1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21164,6 +22572,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/publicar2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21223,6 +22635,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/publico2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21282,6 +22698,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21341,6 +22761,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "32",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg32.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21400,6 +22824,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21459,6 +22887,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular4Sm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21518,6 +22950,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular5Sm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21577,6 +23013,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular6Sm_Prog001.mp4",
+          "handShape": {
+            "code": "47",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg47.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21636,6 +23076,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pular7Sm_Prog001.mp4",
+          "handShape": {
+            "code": "11",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg11.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21695,6 +23139,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pulsarSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21754,6 +23202,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/puroSm_Prog001.mp4",
+          "handShape": {
+            "code": "30",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg30.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21813,6 +23265,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/puxa_sacoSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -21872,6 +23328,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/puxarSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",

@@ -1,0 +1,310 @@
+{
+  "id": "sinais-diarios-cidades-do-sul",
+  "title": "Cidades do Sul",
+  "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Santa Catarina, Cidades do Paraná, Cidades do Rio Grande do Sul, Cidades do Rio Grande do Sul.",
+  "section": "Cidades do Sul",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:17:30.000Z",
+      "changes": [
+        "notebook"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 7,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "sinais-diarios-cidades-do-sul-XNY1kLHXvc0",
+      "section": "Cidades do Paraná",
+      "situation": "Como você sinaliza CURITIBA?",
+      "translation": "CURITIBA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/XNY1kLHXvc0?start=0&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=XNY1kLHXvc0",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "XNY1kLHXvc0",
+        "titulo": "CURITIBA - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=XNY1kLHXvc0",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Paraná",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 62
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-parana",
+          "cardId": "sinais-diarios-cidades-do-parana-XNY1kLHXvc0"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-BNYlkVLriUM",
+      "section": "Cidades do Rio Grande do Sul",
+      "situation": "Como você sinaliza ALEGRETE (cidade de RS)?",
+      "translation": "ALEGRETE (cidade de RS)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BNYlkVLriUM?start=0&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BNYlkVLriUM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "BNYlkVLriUM",
+        "titulo": "Sinal de ALEGRETE ( cidade de RS) em  LIBRAS",
+        "url": "https://www.youtube.com/watch?v=BNYlkVLriUM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio Grande do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 53
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-grande-do-sul-2",
+          "cardId": "sinais-diarios-cidades-do-rio-grande-do-sul-2-BNYlkVLriUM"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-vqLrayWT_tQ",
+      "section": "Cidades do Rio Grande do Sul",
+      "situation": "Como você sinaliza CAMPO GRANDE (RS)?",
+      "translation": "CAMPO GRANDE (RS)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/vqLrayWT_tQ?start=0&end=36&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=vqLrayWT_tQ",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "vqLrayWT_tQ",
+        "titulo": "Sinal de CAMPO GRANDE ( RS ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=vqLrayWT_tQ",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio Grande do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 36
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-grande-do-sul-2",
+          "cardId": "sinais-diarios-cidades-do-rio-grande-do-sul-2-vqLrayWT_tQ"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-iVBgp2TiGEE",
+      "section": "Cidades do Rio Grande do Sul",
+      "situation": "Como você sinaliza PORTO ALEGRE?",
+      "translation": "PORTO ALEGRE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/iVBgp2TiGEE?start=0&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=iVBgp2TiGEE",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "iVBgp2TiGEE",
+        "titulo": "Sinal de PORTO ALEGRE em Libras",
+        "url": "https://www.youtube.com/watch?v=iVBgp2TiGEE",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio Grande do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 63
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-grande-do-sul",
+          "cardId": "sinais-diarios-cidades-do-rio-grande-do-sul-iVBgp2TiGEE"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-CKzRNcQE8CI",
+      "section": "Cidades do Rio Grande do Sul",
+      "situation": "Como você sinaliza RIO GRANDE DO SUL?",
+      "translation": "RIO GRANDE DO SUL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CKzRNcQE8CI?start=0&end=60&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CKzRNcQE8CI",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "CKzRNcQE8CI",
+        "titulo": "Sinal de RIO GRANDE DO SUL em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=CKzRNcQE8CI",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio Grande do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 60
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-grande-do-sul",
+          "cardId": "sinais-diarios-cidades-do-rio-grande-do-sul-CKzRNcQE8CI"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-_seBa3xoenY",
+      "section": "Cidades do Rio Grande do Sul",
+      "situation": "Como você sinaliza BAGÉ (RS)?",
+      "translation": "BAGÉ (RS)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/_seBa3xoenY?start=0&end=77&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_seBa3xoenY",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "_seBa3xoenY",
+        "titulo": "Sinal de BAGÉ ( RS ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=_seBa3xoenY",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio Grande do Sul",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 77
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-grande-do-sul",
+          "cardId": "sinais-diarios-cidades-do-rio-grande-do-sul-_seBa3xoenY"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul-OFr7v00A-rM",
+      "section": "Cidades de Santa Catarina",
+      "situation": "Como você sinaliza FLORIANÓPOLIS?",
+      "translation": "FLORIANÓPOLIS",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OFr7v00A-rM?start=0&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OFr7v00A-rM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "OFr7v00A-rM",
+        "titulo": "Sinal de FLORIANÓPOLIS em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=OFr7v00A-rM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de Santa Catarina",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 59
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-santa-catarina",
+          "cardId": "sinais-diarios-cidades-de-santa-catarina-OFr7v00A-rM"
+        }
+      ]
+    }
+  ]
+}

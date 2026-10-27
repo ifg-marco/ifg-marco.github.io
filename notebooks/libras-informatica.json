@@ -1,0 +1,60 @@
+{
+  "id": "libras-informatica",
+  "title": "Libras e Informática",
+  "description": "",
+  "section": "Libras e Informática",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-26T18:03:27.238Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T20:48:42Z",
+      "changes": [
+        "notebook",
+        "collection",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "order": 13,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "libras-informatica-IfwV2fw5Ee4",
+      "section": "Libras e Informática",
+      "situation": "Como você sinaliza Termos da informática?",
+      "translation": "Termos da informática",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/IfwV2fw5Ee4?start=0&end=175&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=IfwV2fw5Ee4",
+          "states": [
+            "RS"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "IfwV2fw5Ee4",
+        "titulo": "Termos da informática em Libras",
+        "url": "https://www.youtube.com/watch?v=IfwV2fw5Ee4",
+        "canal": "Diego Melo",
+        "duracaoSegundos": 175
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:10:33.695Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

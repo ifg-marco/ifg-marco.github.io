@@ -1,0 +1,127 @@
+{
+  "id": "sinais-diarios-filosofia",
+  "title": "Filosofia",
+  "description": "Sinais da playlist “Filosofia”, do canal Sinais Diários de Libras.",
+  "section": "Filosofia",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:19:13.000Z",
+      "changes": [
+        "notebook",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 34,
+  "difficulty": "avancado",
+  "cards": [
+    {
+      "id": "sinais-diarios-filosofia-D4YeVFCEBmE",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza ARISTÓTELES?",
+      "translation": "ARISTÓTELES",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/D4YeVFCEBmE?start=0&end=63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=D4YeVFCEBmE",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "D4YeVFCEBmE",
+        "titulo": "Sinal de ARISTÓTELES em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=D4YeVFCEBmE",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Filosofia",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 63
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-filosofia-1kCzAlscaxc",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza SÓCRATES?",
+      "translation": "SÓCRATES",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1kCzAlscaxc?start=0&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1kCzAlscaxc",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "1kCzAlscaxc",
+        "titulo": "Sinal de SÓCRATES em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=1kCzAlscaxc",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Filosofia",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 84
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-filosofia-SHSdStMSVyk",
+      "section": "Filosofia",
+      "situation": "Como você sinaliza MITO / MITOLOGIA?",
+      "translation": "MITO / MITOLOGIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/SHSdStMSVyk?start=0&end=118&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SHSdStMSVyk",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "SHSdStMSVyk",
+        "titulo": "Sinal de MITO | MITOLOGIA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=SHSdStMSVyk",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Filosofia",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 118
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

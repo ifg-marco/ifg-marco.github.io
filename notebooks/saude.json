@@ -1,7 +1,7 @@
 {
   "id": "saude",
   "title": "Saúde",
-  "description": "Vocabulário de saúde e corpo humano em Libras. Fonte: vídeos do NAS. Site: https://casgoiania.com.br",
+  "description": "Vocabulário de saúde e corpo humano em Libras. Fontes: vídeos do NAS (https://casgoiania.com.br) e, para Sangue, glossário científico GEIL (https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s).",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T16:13:19.604Z",
@@ -9,10 +9,12 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-09T03:10:00.000Z",
+      "at": "2026-10-22T01:31:06.000Z",
       "changes": [
         "created",
-        "edited"
+        "edited",
+        "description",
+        "cards"
       ]
     }
   ],
@@ -37,18 +39,25 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/xt9Knnz11kA",
+          "states": [
+            "RS"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-22T01:31:06.000Z",
           "changes": [
             "created",
             "examples",
             "situation",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]

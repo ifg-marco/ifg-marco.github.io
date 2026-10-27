@@ -1,0 +1,228 @@
+{
+  "id": "sinais-diarios-cidades-do-norte",
+  "title": "Cidades do Norte",
+  "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Tocantins, Cidades do Acre, Cidades do Amapá, Cidades do Amazonas, Cidades do Pará.",
+  "section": "Cidades do Norte",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:17:30.000Z",
+      "changes": [
+        "notebook"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 11,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "sinais-diarios-cidades-do-norte-8FNeh1nOq2Y",
+      "section": "Cidades do Pará",
+      "situation": "Como você sinaliza ALTAMIRA (PA)?",
+      "translation": "ALTAMIRA (PA)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/8FNeh1nOq2Y?start=0&end=42&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8FNeh1nOq2Y",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "8FNeh1nOq2Y",
+        "titulo": "Sinal de ALTAMIRA (PA) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=8FNeh1nOq2Y",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Pará",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 42
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-para",
+          "cardId": "sinais-diarios-cidades-do-para-8FNeh1nOq2Y"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-norte-c1TaiWdu1SE",
+      "section": "Cidades do Amazonas",
+      "situation": "Como você sinaliza MANAUS (AM)?",
+      "translation": "MANAUS (AM)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/c1TaiWdu1SE?start=0&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=c1TaiWdu1SE",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "c1TaiWdu1SE",
+        "titulo": "Sinal de MANAUS ( AM ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=c1TaiWdu1SE",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Amazonas",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 53
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-amazonas",
+          "cardId": "sinais-diarios-cidades-do-amazonas-c1TaiWdu1SE"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-norte-51LImCvuSBk",
+      "section": "Cidades de Tocantins",
+      "situation": "Como você sinaliza PALMAS (TO)?",
+      "translation": "PALMAS (TO)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/51LImCvuSBk?start=0&end=28&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=51LImCvuSBk",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "51LImCvuSBk",
+        "titulo": "Sinal de PALMAS ( TO ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=51LImCvuSBk",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de Tocantins",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 28
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-tocantins",
+          "cardId": "sinais-diarios-cidades-de-tocantins-51LImCvuSBk"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-norte-GItzi_eQo3I",
+      "section": "Cidades do Acre",
+      "situation": "Como você sinaliza RIO BRANCO (AC)?",
+      "translation": "RIO BRANCO (AC)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/GItzi_eQo3I?start=0&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GItzi_eQo3I",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "GItzi_eQo3I",
+        "titulo": "Sinal de RIO BRANCO ( AC ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=GItzi_eQo3I",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Acre",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 51
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-acre",
+          "cardId": "sinais-diarios-cidades-do-acre-GItzi_eQo3I"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-norte-9ZABwpq-8yE",
+      "section": "Cidades do Amapá",
+      "situation": "Como você sinaliza MACAPÁ (AP)?",
+      "translation": "MACAPÁ (AP)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/9ZABwpq-8yE?start=0&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9ZABwpq-8yE",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "9ZABwpq-8yE",
+        "titulo": "Sinal de MACAPÁ ( AP ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=9ZABwpq-8yE",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Amapá",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 57
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-amapa",
+          "cardId": "sinais-diarios-cidades-do-amapa-9ZABwpq-8yE"
+        }
+      ]
+    }
+  ]
+}

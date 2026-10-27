@@ -1,0 +1,705 @@
+{
+  "id": "sinais-diarios-animais",
+  "title": "Animais",
+  "description": "Sinais da playlist “Animais”, do canal Sinais Diários de Libras.",
+  "section": "Animais",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:17:30.000Z",
+      "changes": [
+        "notebook",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 5,
+  "difficulty": "iniciante",
+  "cards": [
+    {
+      "id": "sinais-diarios-animais-ao_FrGV0p_o",
+      "section": "Animais",
+      "situation": "Como você sinaliza HIPOPOTAMO?",
+      "translation": "HIPOPOTAMO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ao_FrGV0p_o?start=0&end=40&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ao_FrGV0p_o",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "ao_FrGV0p_o",
+        "titulo": "Sinal de HIPOPOTAMO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=ao_FrGV0p_o",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 40
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-bHGWqgcBLAc",
+      "section": "Animais",
+      "situation": "Como você sinaliza ABELHA?",
+      "translation": "ABELHA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bHGWqgcBLAc?start=0&end=38&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bHGWqgcBLAc",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "bHGWqgcBLAc",
+        "titulo": "Sinal de ABELHA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=bHGWqgcBLAc",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 38
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-GordCiRGdVs",
+      "section": "Animais",
+      "situation": "Como você sinaliza AGUA-VIVA?",
+      "translation": "AGUA-VIVA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/GordCiRGdVs?start=0&end=44&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GordCiRGdVs",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "GordCiRGdVs",
+        "titulo": "Sinal de AGUA-VIVA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=GordCiRGdVs",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 44
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-6MfQLaknM_8",
+      "section": "Animais",
+      "situation": "Como você sinaliza AGUIA?",
+      "translation": "AGUIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/6MfQLaknM_8?start=0&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6MfQLaknM_8",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "6MfQLaknM_8",
+        "titulo": "Sinal de AGUIA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=6MfQLaknM_8",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 43
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-b-QUTpIciY0",
+      "section": "Animais",
+      "situation": "Como você sinaliza ALCE?",
+      "translation": "ALCE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/b-QUTpIciY0?start=0&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=b-QUTpIciY0",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "b-QUTpIciY0",
+        "titulo": "Sinal ALCE em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=b-QUTpIciY0",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 43
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-QLQu_ombWZE",
+      "section": "Animais",
+      "situation": "Como você sinaliza ANIMAIS / ANIMAL?",
+      "translation": "ANIMAIS / ANIMAL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/QLQu_ombWZE?start=0&end=48&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=QLQu_ombWZE",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "QLQu_ombWZE",
+        "titulo": "Sinal de ANIMAIS | ANIMAL em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=QLQu_ombWZE",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 48
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-0ixwslkli7E",
+      "section": "Animais",
+      "situation": "Como você sinaliza ELEFANTE?",
+      "translation": "ELEFANTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0ixwslkli7E?start=0&end=43&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0ixwslkli7E",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "0ixwslkli7E",
+        "titulo": "Sinal de ELEFANTE em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=0ixwslkli7E",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 43
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-P7OEh3m3yCc",
+      "section": "Animais",
+      "situation": "Como você sinaliza HIPOPÓTAMO?",
+      "translation": "HIPOPÓTAMO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/P7OEh3m3yCc?start=0&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=P7OEh3m3yCc",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "P7OEh3m3yCc",
+        "titulo": "Sinal de HIPOPÓTAMO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=P7OEh3m3yCc",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 51
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-ImVj88eCdUM",
+      "section": "Animais",
+      "situation": "Como você sinaliza GATO?",
+      "translation": "GATO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ImVj88eCdUM?start=0&end=61&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ImVj88eCdUM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "ImVj88eCdUM",
+        "titulo": "Sinal de GATO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=ImVj88eCdUM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 61
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-URFanP8b1U8",
+      "section": "Animais",
+      "situation": "Como você sinaliza GRILO?",
+      "translation": "GRILO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/URFanP8b1U8?start=0&end=55&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=URFanP8b1U8",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "URFanP8b1U8",
+        "titulo": "Sinal de GRILO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=URFanP8b1U8",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 55
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-WxVGdR8Z2yo",
+      "section": "Animais",
+      "situation": "Como você sinaliza ARARA?",
+      "translation": "ARARA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/WxVGdR8Z2yo?start=0&end=58&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WxVGdR8Z2yo",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "WxVGdR8Z2yo",
+        "titulo": "Sinal de ARARA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=WxVGdR8Z2yo",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 58
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-Ph0ttS-otvI",
+      "section": "Animais",
+      "situation": "Como você sinaliza ASA / ASAS?",
+      "translation": "ASA / ASAS",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Ph0ttS-otvI?start=0&end=76&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ph0ttS-otvI",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "Ph0ttS-otvI",
+        "titulo": "Sinal de ASA / ASAS em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=Ph0ttS-otvI",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 76
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-npyCxrsZ508",
+      "section": "Animais",
+      "situation": "Como você sinaliza AVESTRUZ?",
+      "translation": "AVESTRUZ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/npyCxrsZ508?start=0&end=67&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=npyCxrsZ508",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "npyCxrsZ508",
+        "titulo": "Sinal de AVESTRUZ em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=npyCxrsZ508",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 67
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-UAX0HsUSv5E",
+      "section": "Animais",
+      "situation": "Como você sinaliza MACACO / MACACA?",
+      "translation": "MACACO / MACACA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UAX0HsUSv5E?start=0&end=120&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UAX0HsUSv5E",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "UAX0HsUSv5E",
+        "titulo": "MACACO | MACACA - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=UAX0HsUSv5E",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 120
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-GVEgOCBc-lM",
+      "section": "Animais",
+      "situation": "Como você sinaliza MOSCA / MOSQUITO?",
+      "translation": "MOSCA / MOSQUITO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/GVEgOCBc-lM?start=0&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=GVEgOCBc-lM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "GVEgOCBc-lM",
+        "titulo": "MOSCA | MOSQUITO - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=GVEgOCBc-lM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 107
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-2pK2tDr25NM",
+      "section": "Animais",
+      "situation": "Como você sinaliza MINHOCA?",
+      "translation": "MINHOCA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2pK2tDr25NM?start=0&end=147&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2pK2tDr25NM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "2pK2tDr25NM",
+        "titulo": "MINHOCA - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=2pK2tDr25NM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 147
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-hqQ53IU0ke0",
+      "section": "Animais",
+      "situation": "Como você sinaliza GIRAFA?",
+      "translation": "GIRAFA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hqQ53IU0ke0?start=0&end=92&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=hqQ53IU0ke0",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "hqQ53IU0ke0",
+        "titulo": "GIRAFA - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=hqQ53IU0ke0",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 92
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-vHfSHjYA7XQ",
+      "section": "Animais",
+      "situation": "Como você sinaliza HAMSTER?",
+      "translation": "HAMSTER",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/vHfSHjYA7XQ?start=0&end=84&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=vHfSHjYA7XQ",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "vHfSHjYA7XQ",
+        "titulo": "HAMSTER - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=vHfSHjYA7XQ",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 84
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-Zl92wDi-2Z4",
+      "section": "Animais",
+      "situation": "Como você sinaliza GANSO?",
+      "translation": "GANSO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Zl92wDi-2Z4?start=0&end=107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Zl92wDi-2Z4",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "Zl92wDi-2Z4",
+        "titulo": "GANSO - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=Zl92wDi-2Z4",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 107
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-animais-hCpF3nNQEMM",
+      "section": "Animais",
+      "situation": "Como você sinaliza GAVIÃO?",
+      "translation": "GAVIÃO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hCpF3nNQEMM?start=0&end=81&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=hCpF3nNQEMM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "hCpF3nNQEMM",
+        "titulo": "GAVIÃO - SINAL EM LIBRAS",
+        "url": "https://www.youtube.com/watch?v=hCpF3nNQEMM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Animais",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 81
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T17:42:39.453Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1142 @@
+{
+  "id": "glossario-matematica-sinais-termo",
+  "title": "Glossário de Matemática em Libras — Sinais-termo",
+  "description": "O glossário é produto da dissertação de mestrado “Terminologia da Matemática em Língua de Sinais Brasileira: Proposta de Glossário Bilíngue Libras-Português” de Rodolpho Pinheiro D’Azevedo (2019). Sinais-termo do Glossário Matemática em Libras (canal do YouTube, https://glossariomatemlibras.com.br), com UF associada DF. Fonte: Universidade de Brasília (UnB), dissertação de mestrado em Linguística, 2019: https://repositorio.unb.br/handle/10482/36867.",
+  "section": "Glossário de Matemática em Libras — Sinais-termo",
+  "author": "Marco Antônio",
+  "createdAt": "2026-10-26T18:12:16.364Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T20:48:42Z",
+      "changes": [
+        "notebook",
+        "uf",
+        "colecao",
+        "descricao",
+        "card",
+        "collection",
+        "difficulty",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Matemática em Libras (DF)",
+  "order": 1,
+  "difficulty": "intermediario",
+  "cards": [
+    {
+      "id": "glossario-matematica-sinais-termo-JNPs9eOk7mM",
+      "section": "Variáveis e incógnitas",
+      "situation": "Em f(x) = 3x, o valor de x pode mudar dentro de um conjunto de valores. Como você sinaliza variável?",
+      "translation": "Variável: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): número, geralmente representado por letras, que pode assumir qualquer valor dentro de um conjunto de valores determinado. Formação do sinal: derivação com morfema-base que representa um número, com especificador de movimento que indica mudança (valores mutáveis).",
+      "examples": [
+        "Em f(x) = 3x, f(x) e x são variáveis."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/JNPs9eOk7mM?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JNPs9eOk7mM",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "JNPs9eOk7mM",
+        "titulo": "Variável: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=JNPs9eOk7mM",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-gRsohCfQDs0",
+      "section": "Variáveis e incógnitas",
+      "situation": "Em f(x) = 3x, o valor de f(x) depende do valor escolhido para x. Como você sinaliza variável dependente?",
+      "translation": "Variável dependente: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): variável em que os possíveis valores assumidos dependem dos valores assumidos por outra variável. Formação do sinal: como o de variável, com um especificador que indica dependência. Ver também: variável.",
+      "examples": [
+        "Em f(x) = 3x, f(x) é a variável dependente."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gRsohCfQDs0?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gRsohCfQDs0",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "gRsohCfQDs0",
+        "titulo": "Variável dependente: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=gRsohCfQDs0",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-dV25u0hbvVg",
+      "section": "Variáveis e incógnitas",
+      "situation": "Em f(x) = 3x, x pode receber qualquer valor, sem depender de outra variável. Como você sinaliza variável independente?",
+      "translation": "Variável independente: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): variável em que os possíveis valores assumidos não dependem dos valores assumidos por outra variável. Formação do sinal: como o de variável, com um especificador que indica independência. Ver também: variável.",
+      "examples": [
+        "Em f(x) = 3x, x é a variável independente."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dV25u0hbvVg?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dV25u0hbvVg",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "dV25u0hbvVg",
+        "titulo": "Variável independente: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=dV25u0hbvVg",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-LBDsUnxIwJE",
+      "section": "Variáveis e incógnitas",
+      "situation": "Na equação 5x = 10, há um valor desconhecido a descobrir. Como você sinaliza incógnita?",
+      "translation": "Incógnita: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): constante, geralmente representada por letras, que indica valor ou valores desconhecidos. Formação do sinal: morfema-base com a forma de um número (representado por letra), com um movimento de análise e um movimento final que identifica o valor. Ver também: constante.",
+      "examples": [
+        "Na equação 5x = 10, x é a incógnita."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/LBDsUnxIwJE?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=LBDsUnxIwJE",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "LBDsUnxIwJE",
+        "titulo": "Incógnita: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=LBDsUnxIwJE",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-2dAO-YBt7rU",
+      "section": "Variáveis e incógnitas",
+      "situation": "Em 3x + 2, o número 2 tem sempre o mesmo valor. Como você sinaliza constante?",
+      "translation": "Constante: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): número, com valor fixo, que pode ser representado por uma letra. Formação do sinal: derivação com afixo que indica permanência (não é mutável). Ver também: número.",
+      "examples": [
+        "Em 3x + 2, os números 3 e 2 são constantes."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/2dAO-YBt7rU?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2dAO-YBt7rU",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "2dAO-YBt7rU",
+        "titulo": "Constante: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=2dAO-YBt7rU",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-a-B3U8zksKw",
+      "section": "Variáveis e incógnitas",
+      "situation": "Em 3x − 5 + 2 = 0, o número que multiplica a incógnita x é o 3. Como você sinaliza coeficiente?",
+      "translation": "Coeficiente: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): constante, geralmente representada por números, presente em uma equação, inequação, sistema de equações ou sistema de inequações, que multiplica ou não a incógnita. Formação do sinal: derivação com morfema-base que representa um número e afixo que indica uma variável ou incógnita. Ver também: constante; equação; incógnita; inequação.",
+      "examples": [
+        "Em 3x − 5 + 2 = 0, o coeficiente de x é 3."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/a-B3U8zksKw?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=a-B3U8zksKw",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "a-B3U8zksKw",
+        "titulo": "Coeficiente: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=a-B3U8zksKw",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-PDF-BzQbilo",
+      "section": "Expressões",
+      "situation": "Em 20 + [15 · (26 − 9)] − 17, há apenas números e operações. Como você sinaliza expressão numérica?",
+      "translation": "Expressão numérica: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): operações matemáticas em que a ordem de resolução é preestabelecida, com objetivo de encontrar um único resultado. Formação do sinal: morfema-base do sinal de número, com morfema especificador de movimento que indica outros números acrescentados à expressão. Ver também: operações matemáticas; resultado.",
+      "examples": [
+        "20 + [15 · (26 − 9)] − 17"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/PDF-BzQbilo?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=PDF-BzQbilo",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "PDF-BzQbilo",
+        "titulo": "Expressão numérica: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=PDF-BzQbilo",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-z87vFj1IRCU",
+      "section": "Expressões",
+      "situation": "Em 3x + 2y − 5, há letras que representam números. Como você sinaliza expressão algébrica?",
+      "translation": "Expressão algébrica: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): operações matemáticas envolvendo constantes representadas por números e letras. Formação do sinal: morfema-base que representa um número (que pode ser representado por letra), com morfema especificador de movimento que indica outros números que podem ser acrescentados.",
+      "examples": [
+        "3x + 2y − 5"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/z87vFj1IRCU?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=z87vFj1IRCU",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "z87vFj1IRCU",
+        "titulo": "Expressão algébrica: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=z87vFj1IRCU",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-8iN6PUEjEzk",
+      "section": "Equações",
+      "situation": "Em 2x + 7 = 15, é preciso descobrir o valor de x que torna a igualdade verdadeira. Como você sinaliza equação?",
+      "translation": "Equação: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): igualdade entre duas expressões algébricas na qual se quer encontrar o valor da incógnita. Formação do sinal: base morfológica complexa que corresponde ao conceito da estrutura da equação. Ver também: expressão algébrica; igualdade; incógnita.",
+      "examples": [
+        "2x + 7 = 15"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/8iN6PUEjEzk?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=8iN6PUEjEzk",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "8iN6PUEjEzk",
+        "titulo": "Equação: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=8iN6PUEjEzk",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-9PAs9PpogoI",
+      "section": "Equações",
+      "situation": "Em t + 21 = 6, o maior expoente da incógnita é 1. Como você sinaliza equação do 1º grau?",
+      "translation": "Equação do 1° grau: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que o maior expoente da incógnita é igual a 1. Formação do sinal: base da equação com movimento que toma a forma do número um, indicando 1º grau. Ver também: equação; expoente; incógnita.",
+      "examples": [
+        "t + 21 = 6"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/9PAs9PpogoI?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9PAs9PpogoI",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "9PAs9PpogoI",
+        "titulo": "Equação do 1° grau: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=9PAs9PpogoI",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-J3NegXzv43Y",
+      "section": "Equações",
+      "situation": "Em 5t² + 4 = 43, o maior expoente da incógnita é 2. Como você sinaliza equação do 2º grau?",
+      "translation": "Equação do 2° grau: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que o maior expoente da incógnita é igual a 2. Formação do sinal: base da equação com movimento que toma a forma do número dois, indicando 2º grau. Variante: equação quadrática. Ver também: equação; expoente; incógnita.",
+      "examples": [
+        "5t² + 4 = 43"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/J3NegXzv43Y?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=J3NegXzv43Y",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "J3NegXzv43Y",
+        "titulo": "Equação do 2° grau: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=J3NegXzv43Y",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-WcWWqTdJWtg",
+      "section": "Equações",
+      "situation": "Em 3ˣ = 81, a incógnita está no expoente. Como você sinaliza equação exponencial?",
+      "translation": "Equação exponencial: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que a incógnita está no expoente de uma constante. Formação do sinal: base da equação seguida de morfema com predicador de incógnita, posicionado acima da equação para indicar expoente. Ver também: constante; equação; expoente; incógnita.",
+      "examples": [
+        "3ˣ = 81"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/WcWWqTdJWtg?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WcWWqTdJWtg",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "WcWWqTdJWtg",
+        "titulo": "Equação exponencial: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=WcWWqTdJWtg",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-P4N_e5TBISg",
+      "section": "Equações",
+      "situation": "Em 3/x = 6, a incógnita está no denominador de uma fração. Como você sinaliza equação fracionária?",
+      "translation": "Equação fracionária: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que a incógnita está no denominador de uma ou mais frações. Formação do sinal: base da equação com morfema de incógnita posicionado no denominador de uma fração. Ver também: denominador; equação; fração; incógnita.",
+      "examples": [
+        "3/x = 6"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/P4N_e5TBISg?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=P4N_e5TBISg",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "P4N_e5TBISg",
+        "titulo": "Equação fracionária: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=P4N_e5TBISg",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-KBkKn1accJ0",
+      "section": "Equações",
+      "situation": "Em √(x + 1) = 3, a incógnita está dentro de uma raiz. Como você sinaliza equação irracional?",
+      "translation": "Equação irracional: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que a incógnita está no radicando. Formação do sinal: base da equação com morfema que indica o radical e morfema especificador que representa a incógnita. Ver também: equação; incógnita; radicando.",
+      "examples": [
+        "√(x + 1) = 3"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KBkKn1accJ0?start=0&end=7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KBkKn1accJ0",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "KBkKn1accJ0",
+        "titulo": "Equação irracional: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=KBkKn1accJ0",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 7
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-Fgu9-h27Juc",
+      "section": "Equações",
+      "situation": "Em log(3x − 1) = log(x + 7), a incógnita está dentro do logaritmo. Como você sinaliza equação logarítmica?",
+      "translation": "Equação logarítmica: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equação em que a incógnita está na base do logaritmo, no logaritmando ou em ambos. Formação do sinal: base da equação com morfema de logaritmo (CM em “L”) que recebe predicador de incógnita. Ver também: base do logaritmo; logaritmando; logaritmo; equação; incógnita.",
+      "examples": [
+        "log(3x − 1) = log(x + 7)"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Fgu9-h27Juc?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Fgu9-h27Juc",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "Fgu9-h27Juc",
+        "titulo": "Equação logarítmica: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=Fgu9-h27Juc",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-rBnmyWmetA0",
+      "section": "Equações",
+      "situation": "As equações x + 3 = 5 e x = 2 têm a mesma solução. Como você sinaliza equações equivalentes?",
+      "translation": "Equações equivalentes: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): equações que têm a mesma solução. Formação do sinal: duas bases morfológicas complexas, uma para cada estrutura de equação, com dois morfemas especificadores que indicam equivalência. Ver também: equação; solução de equação.",
+      "examples": [
+        "8 + x = 5, x = 5 − 8 e 6x = −18 são equações equivalentes: a solução de todas é x = −3."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rBnmyWmetA0?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rBnmyWmetA0",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "rBnmyWmetA0",
+        "titulo": "Equações equivalentes: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=rBnmyWmetA0",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-UyL0drHU3Rg",
+      "section": "Inequações",
+      "situation": "Em 8x + 3 > 43, o resultado é uma desigualdade, e não uma igualdade. Como você sinaliza inequação?",
+      "translation": "Inequação: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): desigualdade entre duas expressões algébricas na qual se quer encontrar o valor (ou os valores) da incógnita. Formação do sinal: base morfológica complexa com CMs diferentes, que indica desigualdade. Ver também: expressão algébrica; incógnita.",
+      "examples": [
+        "−2x ≥ 10",
+        "8x + 3 > 43",
+        "9x − 2 ≤ 4x"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UyL0drHU3Rg?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UyL0drHU3Rg",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "UyL0drHU3Rg",
+        "titulo": "Inequação: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=UyL0drHU3Rg",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-P1n3DC7UJIU",
+      "section": "Inequações",
+      "situation": "Em 2x − 4 < 0, o maior expoente da incógnita é 1. Como você sinaliza inequação do 1º grau?",
+      "translation": "Inequação do 1° grau: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que o maior expoente da incógnita é igual a 1. Formação do sinal: base da inequação, com desigualdade, e movimento que toma a forma do número um, indicando 1º grau. Ver também: inequação; expoente; incógnita.",
+      "examples": [
+        "2x − 4 < 0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/P1n3DC7UJIU?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=P1n3DC7UJIU",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "P1n3DC7UJIU",
+        "titulo": "Inequação do 1° grau: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=P1n3DC7UJIU",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-HfbzNk32zgU",
+      "section": "Inequações",
+      "situation": "Em 4x² + 2x + 1 < 0, o maior expoente da incógnita é 2. Como você sinaliza inequação do 2º grau?",
+      "translation": "Inequação do 2° grau: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que o maior expoente da incógnita é igual a 2. Formação do sinal: base da inequação, com desigualdade, e movimento que toma a forma do número dois, indicando 2º grau. Ver também: inequação; expoente; incógnita.",
+      "examples": [
+        "4x² + 2x + 1 < 0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/HfbzNk32zgU?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=HfbzNk32zgU",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "HfbzNk32zgU",
+        "titulo": "Inequação do 2° grau: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=HfbzNk32zgU",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-PiOjXLyqfFE",
+      "section": "Inequações",
+      "situation": "Em 2ˣ ≥ 4, a incógnita está no expoente de uma constante. Como você sinaliza inequação exponencial?",
+      "translation": "Inequação exponencial: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que a incógnita está no expoente de uma constante. Formação do sinal: base da inequação, com desigualdade, seguida de morfema com predicador de incógnita posicionado acima, indicando expoente. Ver também: constante; expoente; incógnita; inequação.",
+      "examples": [
+        "2ˣ ≥ 4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/PiOjXLyqfFE?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=PiOjXLyqfFE",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "PiOjXLyqfFE",
+        "titulo": "Inequação exponencial: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=PiOjXLyqfFE",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-AwWRtohKeqA",
+      "section": "Inequações",
+      "situation": "Em 1/x > 2, a incógnita está no denominador de uma fração. Como você sinaliza inequação fracionária?",
+      "translation": "Inequação fracionária: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que a incógnita está no denominador de uma ou mais frações. Formação do sinal: base da inequação, com desigualdade, seguida de morfema de incógnita posicionado no denominador. Ver também: denominador; fração; incógnita; inequação.",
+      "examples": [
+        "1/x > 2"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AwWRtohKeqA?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AwWRtohKeqA",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "AwWRtohKeqA",
+        "titulo": "Inequação fracionária: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=AwWRtohKeqA",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-66iOAlx4tmo",
+      "section": "Inequações",
+      "situation": "Em √x > 3, a incógnita está dentro de uma raiz. Como você sinaliza inequação irracional?",
+      "translation": "Inequação irracional: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que a incógnita está no radicando. Formação do sinal: base da inequação, com desigualdade, morfema que indica o radical e morfema especificador que representa a incógnita. Ver também: incógnita; inequação; radicando.",
+      "examples": [
+        "√x > 3"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/66iOAlx4tmo?start=0&end=7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=66iOAlx4tmo",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "66iOAlx4tmo",
+        "titulo": "Inequação irracional: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=66iOAlx4tmo",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 7
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-aBTIgFC5LRQ",
+      "section": "Inequações",
+      "situation": "Em log₂(x) > 3, a incógnita está dentro do logaritmo. Como você sinaliza inequação logarítmica?",
+      "translation": "Inequação logarítmica: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequação em que a incógnita está na base do logaritmo, no logaritmando ou em ambos. Formação do sinal: base da inequação, com desigualdade, e morfema de logaritmo (CM em “L”) que recebe predicador de incógnita. Ver também: base do logaritmo; logaritmando; logaritmo; inequação; incógnita.",
+      "examples": [
+        "log₂(x) > 3"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/aBTIgFC5LRQ?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=aBTIgFC5LRQ",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "aBTIgFC5LRQ",
+        "titulo": "Inequação logarítmica: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=aBTIgFC5LRQ",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-JqQ1LawRx9w",
+      "section": "Inequações",
+      "situation": "As inequações −9 < 7x e −36 < 28x têm a mesma solução. Como você sinaliza inequações equivalentes?",
+      "translation": "Inequações equivalentes: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): inequações que têm a mesma solução. Formação do sinal: base com CMs diferentes (desigualdade) e dois morfemas especificadores que indicam equivalência. Ver também: inequação; solução de inequação.",
+      "examples": [
+        "−9 < 7x e −36 < 28x são inequações equivalentes; ambas têm a solução x > −9/7."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/JqQ1LawRx9w?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JqQ1LawRx9w",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "JqQ1LawRx9w",
+        "titulo": "Inequações equivalentes: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=JqQ1LawRx9w",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-Bvh-u-vLIHg",
+      "section": "Sistemas",
+      "situation": "Em x + y = 20 e x = 3y, as duas equações são resolvidas juntas. Como você sinaliza sistema de equações?",
+      "translation": "Sistema de equações: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): conjunto de duas ou mais equações em que se busca encontrar a solução que as satisfaça. Formação do sinal: base da equação repetida, com movimento para baixo que indica um conjunto de equações. Ver também: equação; solução de sistema de equações.",
+      "examples": [
+        "x + y = 20 e x = 3y"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Bvh-u-vLIHg?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Bvh-u-vLIHg",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "Bvh-u-vLIHg",
+        "titulo": "Sistema de equações: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=Bvh-u-vLIHg",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-tG9lyf6itXU",
+      "section": "Sistemas",
+      "situation": "Em 3m − 6 < 0 e m + 1 > 0, as duas inequações são consideradas juntas. Como você sinaliza sistema de inequações?",
+      "translation": "Sistema de inequações: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): conjunto de duas ou mais inequações em que se busca encontrar a solução que as satisfaça. Formação do sinal: base da inequação, com CMs diferentes, repetida com movimento para baixo que indica um conjunto. Ver também: inequação; solução de sistema de inequações.",
+      "examples": [
+        "3m − 6 < 0 e m + 1 > 0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tG9lyf6itXU?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tG9lyf6itXU",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "tG9lyf6itXU",
+        "titulo": "Sistema de inequações: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=tG9lyf6itXU",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-v5PfjethkZQ",
+      "section": "Soluções",
+      "situation": "Em 4x − 5 = 7, qual valor de x torna a igualdade verdadeira? Como você sinaliza solução de equação?",
+      "translation": "Solução de equação: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): valor ou valores assumidos pela incógnita que tornam a equação verdadeira. Formação do sinal: base da equação com morfema que recebe predicador indicando o resultado da equação. Ver também: equação; incógnita.",
+      "examples": [
+        "4x − 5 = 7 tem a solução x = 3, pois (4 · 3) − 5 = 7."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/v5PfjethkZQ?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=v5PfjethkZQ",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "v5PfjethkZQ",
+        "titulo": "Solução de equação: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=v5PfjethkZQ",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-OZg4wGJzApY",
+      "section": "Soluções",
+      "situation": "Em 9x − 2 ≤ 4x, quais valores de x tornam a desigualdade verdadeira? Como você sinaliza solução de inequação?",
+      "translation": "Solução de inequação: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): valor ou valores assumidos pela incógnita que tornam a inequação verdadeira. Formação do sinal: base com CMs diferentes (desigualdade), seguida de morfema que indica o resultado. Ver também: incógnita; inequação.",
+      "examples": [
+        "9x − 2 ≤ 4x tem a solução x ≤ 2/5."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/OZg4wGJzApY?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=OZg4wGJzApY",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "OZg4wGJzApY",
+        "titulo": "Solução de inequação: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=OZg4wGJzApY",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-Z5vHgJ0_Rtw",
+      "section": "Soluções",
+      "situation": "Em x + y = 20 e x = 3y, qual par de valores (x, y) satisfaz as duas equações? Como você sinaliza solução de sistema de equações?",
+      "translation": "Solução de sistema de equações: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): valor ou valores assumidos pela incógnita que tornam o sistema de equações verdadeiro. Formação do sinal: replicação da estrutura da equação com movimento para baixo (conjunto), seguida de morfema que indica o resultado. Ver também: incógnita; sistema de equações.",
+      "examples": [
+        "(15, 5) é solução do sistema x + y = 20 e x = 3y."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Z5vHgJ0_Rtw?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Z5vHgJ0_Rtw",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "Z5vHgJ0_Rtw",
+        "titulo": "Solução de sistema de equações: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=Z5vHgJ0_Rtw",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glossario-matematica-sinais-termo-dUCg7YVQIGE",
+      "section": "Soluções",
+      "situation": "Em x − 5 ≤ 3 e 2 ≤ x, quais valores de x satisfazem as duas inequações? Como você sinaliza solução de sistema de inequações?",
+      "translation": "Solução de sistema de inequações: sinal-termo",
+      "librasStructure": "",
+      "notes": "Definição (D’Azevedo, 2019): valor ou valores assumidos pela incógnita que tornam o sistema de inequações verdadeiro. Formação do sinal: replicação da estrutura da inequação com movimento para baixo (conjunto), seguida de morfema que indica o resultado. Ver também: incógnita; sistema de inequações.",
+      "examples": [
+        "x − 5 ≤ 3 resulta em x ≤ 8; com 2 ≤ x, a solução é {x ∈ ℝ | 2 ≤ x ≤ 8}."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dUCg7YVQIGE?start=0&end=4&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dUCg7YVQIGE",
+          "states": [
+            "DF"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "dUCg7YVQIGE",
+        "titulo": "Solução de sistema de inequações: sinal-termo",
+        "url": "https://www.youtube.com/watch?v=dUCg7YVQIGE",
+        "canal": "Glossário Matemática em Libras",
+        "duracaoSegundos": 4
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T19:48:20.000Z",
+          "changes": [
+            "card",
+            "uf"
+          ]
+        }
+      ]
+    }
+  ]
+}

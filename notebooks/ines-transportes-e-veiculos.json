@@ -32,6 +32,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aerobarco1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -91,6 +95,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aerobarco2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "37a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg37a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -150,6 +158,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aeroportoSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -235,6 +247,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/automatico2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "33",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg33.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -294,6 +310,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/automovelSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -353,6 +373,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -412,6 +436,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "36",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg36.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -471,6 +499,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/aviao3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -530,6 +562,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/baldeacaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -589,6 +625,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/balsaSm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -648,6 +688,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/barcaSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -707,6 +751,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/barcoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -766,6 +814,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bicicletaSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -825,6 +877,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/bondinhoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -884,6 +940,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/caminhaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -943,6 +1003,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/caminhoneteSm_Prog001.mp4",
+          "handShape": {
+            "code": "64",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg64.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1028,6 +1092,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carrinho2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1087,6 +1155,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carroSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1146,6 +1218,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/carrocaSm_Prog001.mp4",
+          "handShape": {
+            "code": "05",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg05.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1205,6 +1281,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/cinto2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1264,6 +1344,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/embarcacaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1323,6 +1407,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/estacionamentoSm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1382,6 +1470,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/farol1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1441,6 +1533,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/fogueteSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1500,6 +1596,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/freioSm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1559,6 +1659,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/freteSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1618,6 +1722,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/guidomSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1677,6 +1785,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jangadaSm_Prog001.mp4",
+          "handShape": {
+            "code": "52",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg52.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1736,6 +1848,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/jato2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "40",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg40.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1795,6 +1911,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/lanchaSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1880,6 +2000,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/manobraSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1939,6 +2063,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/metro1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -1998,6 +2126,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/metro2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2057,6 +2189,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/microoinbusSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2116,6 +2252,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/nave1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2175,6 +2315,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/navioSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2234,6 +2378,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/onibus2Sm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2293,6 +2441,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/onibus3Sm_Prog001.mp4",
+          "handShape": {
+            "code": "62",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg62.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2352,6 +2504,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pane1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2411,6 +2567,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/para-brisaSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2470,6 +2630,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/parada_de_onibusSm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2529,6 +2693,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passageiroSm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2588,6 +2756,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/passagem1Sm_Prog001.mp4",
+          "handShape": {
+            "code": "36",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg36.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2647,6 +2819,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/pedagioSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2706,6 +2882,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/placaSm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2791,6 +2971,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto6Sm_Prog001.mp4",
+          "handShape": {
+            "code": "61",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg61.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2850,6 +3034,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/ponto7Sm_Prog001.mp4",
+          "handShape": {
+            "code": "49",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg49.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2935,6 +3123,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/portoSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -2994,6 +3186,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/posto-de-gasolinaSm_Prog001.mp4",
+          "handShape": {
+            "code": "42",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg42.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3079,6 +3275,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/reSm_Prog001.mp4",
+          "handShape": {
+            "code": "25",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3138,6 +3338,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/reboqueSm_Prog001.mp4",
+          "handShape": {
+            "code": "15",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg15.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3197,6 +3401,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/rodoviariaSm_Prog001.mp4",
+          "handShape": {
+            "code": "25",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg25.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3256,6 +3464,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/taxiSm_Prog001.mp4",
+          "handShape": {
+            "code": "53a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg53a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3315,6 +3527,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/telefericoSm_Prog001.mp4",
+          "handShape": {
+            "code": "14",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg14.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3374,6 +3590,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/transporteSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3433,6 +3653,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tratorSm_Prog001.mp4",
+          "handShape": {
+            "code": "01",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg01.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3492,6 +3716,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tremSm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3551,6 +3779,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/tricicloSm_Prog001.mp4",
+          "handShape": {
+            "code": "18a",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg18a.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3610,6 +3842,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vagaoSm_Prog001.mp4",
+          "handShape": {
+            "code": "31",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg31.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3669,6 +3905,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/vanSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3728,6 +3968,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/veiculoSm_Prog001.mp4",
+          "handShape": {
+            "code": "07",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg07.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3787,6 +4031,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/veleiroSm_Prog001.mp4",
+          "handShape": {
+            "code": "63",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg63.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3846,6 +4094,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/viaturaSm_Prog001.mp4",
+          "handShape": {
+            "code": "57",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg57.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3905,6 +4157,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/volanteSm_Prog001.mp4",
+          "handShape": {
+            "code": "02",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg02.jpg"
+          },
           "states": [
             "AC",
             "AL",
@@ -3964,6 +4220,10 @@
       "videos": [
         {
           "url": "https://dicionario.ines.gov.br/public/media/palavras/videos/zepelimSm_Prog001.mp4",
+          "handShape": {
+            "code": "51b",
+            "imageUrl": "https://dicionario.ines.gov.br/public/media/mao/cg51b.jpg"
+          },
           "states": [
             "AC",
             "AL",

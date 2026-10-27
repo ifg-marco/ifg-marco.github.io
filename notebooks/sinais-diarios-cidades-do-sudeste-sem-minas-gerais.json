@@ -1,0 +1,393 @@
+{
+  "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+  "title": "Cidades do Sudeste (sem Minas Gerais)",
+  "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de São Paulo, Cidades do Espirito Santo, Cidades do Espirito Santo, Cidades do Rio de Janeiro.",
+  "section": "Cidades do Sudeste (sem Minas Gerais)",
+  "author": "Carlos Cristian",
+  "createdAt": "2026-10-26T17:35:16.085Z",
+  "changeLog": [
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-10-26T18:19:13.000Z",
+      "changes": [
+        "notebook",
+        "order"
+      ]
+    }
+  ],
+  "collection": "Sinais Diários de Libras",
+  "order": 8,
+  "difficulty": "basico",
+  "cards": [
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-3cBKwu4_w1Q",
+      "section": "Cidades do Espirito Santo",
+      "situation": "Como você sinaliza VITÓRIA?",
+      "translation": "VITÓRIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/3cBKwu4_w1Q?start=0&end=47&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=3cBKwu4_w1Q",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "3cBKwu4_w1Q",
+        "titulo": "Sinal de VITÓRIA em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=3cBKwu4_w1Q",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Espirito Santo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 47
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-espirito-santo",
+          "cardId": "sinais-diarios-cidades-do-espirito-santo-3cBKwu4_w1Q"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-gVN2sUkgH8c",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza AGUAS DE SÃO PEDRO (cidade de SP)?",
+      "translation": "AGUAS DE SÃO PEDRO (cidade de SP)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gVN2sUkgH8c?start=0&end=53&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gVN2sUkgH8c",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "gVN2sUkgH8c",
+        "titulo": "Sinal de AGUAS DE SÃO PEDRO ( cidade de SP) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=gVN2sUkgH8c",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 53
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-gVN2sUkgH8c"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-JWXSG5fp3Ok",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza APARECIDA DO NORTE?",
+      "translation": "APARECIDA DO NORTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/JWXSG5fp3Ok?start=0&end=51&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JWXSG5fp3Ok",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "JWXSG5fp3Ok",
+        "titulo": "Sinal de APARECIDA DO NORTE em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=JWXSG5fp3Ok",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 51
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-JWXSG5fp3Ok"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-kJIp5IDIz7g",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza ARARAQUARA (município de SP)?",
+      "translation": "ARARAQUARA (município de SP)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/kJIp5IDIz7g?start=0&end=62&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=kJIp5IDIz7g",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "kJIp5IDIz7g",
+        "titulo": "Sinal de ARARAQUARA ( município de SP ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=kJIp5IDIz7g",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 62
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-kJIp5IDIz7g"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-dGjVJHB1nII",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza ATIBAIA (cidade SP)?",
+      "translation": "ATIBAIA (cidade SP)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dGjVJHB1nII?start=0&end=85&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dGjVJHB1nII",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "dGjVJHB1nII",
+        "titulo": "Sinal de ATIBAIA ( cidade SP) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=dGjVJHB1nII",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 85
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-dGjVJHB1nII"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-bu_6eJj_JeI",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza ASSOCIAÇÃO DE SURDOS DE SÃO PAULO?",
+      "translation": "ASSOCIAÇÃO DE SURDOS DE SÃO PAULO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bu_6eJj_JeI?start=0&end=50&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bu_6eJj_JeI",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "bu_6eJj_JeI",
+        "titulo": "ASSOCIAÇÃO DE SURDOS DE SÃO PAULO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=bu_6eJj_JeI",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 50
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-bu_6eJj_JeI"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-gX972xCHwyM",
+      "section": "Cidades de São Paulo",
+      "situation": "Como você sinaliza Dw BARUERI (município SP)?",
+      "translation": "Dw BARUERI (município SP)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/gX972xCHwyM?start=0&end=114&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=gX972xCHwyM",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "gX972xCHwyM",
+        "titulo": "Sinal dw BARUERI ( município SP ) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=gX972xCHwyM",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades de São Paulo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 114
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-de-sao-paulo",
+          "cardId": "sinais-diarios-cidades-de-sao-paulo-gX972xCHwyM"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-V5wQAuaYqjY",
+      "section": "Cidades do Rio de Janeiro",
+      "situation": "Como você sinaliza RIO DE JANEIRO?",
+      "translation": "RIO DE JANEIRO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/V5wQAuaYqjY?start=0&end=57&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=V5wQAuaYqjY",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "V5wQAuaYqjY",
+        "titulo": "Sinal de RIO DE JANEIRO em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=V5wQAuaYqjY",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Rio de Janeiro",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 57
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-rio-de-janeiro",
+          "cardId": "sinais-diarios-cidades-do-rio-de-janeiro-V5wQAuaYqjY"
+        }
+      ]
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais-rSEvAHU79J8",
+      "section": "Cidades do Espirito Santo",
+      "situation": "Como você sinaliza ALFREDO CHAVES (cidade ES)?",
+      "translation": "ALFREDO CHAVES (cidade ES)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/rSEvAHU79J8?start=0&end=59&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=rSEvAHU79J8",
+          "states": []
+        }
+      ],
+      "origem": {
+        "videoId": "rSEvAHU79J8",
+        "titulo": "Sinal de ALFREDO CHAVES ( cidade ES) em LIBRAS",
+        "url": "https://www.youtube.com/watch?v=rSEvAHU79J8",
+        "canal": "Sinais Diários de Libras",
+        "playlist": "Cidades do Espirito Santo",
+        "autoria": "Carlos Cristian",
+        "duracaoSegundos": 59
+      },
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-26T18:17:30.000Z",
+          "changes": [
+            "card",
+            "reagrupado"
+          ]
+        }
+      ],
+      "movedFrom": [
+        {
+          "notebookId": "sinais-diarios-cidades-do-espirito-santo-2",
+          "cardId": "sinais-diarios-cidades-do-espirito-santo-2-rSEvAHU79J8"
+        }
+      ]
+    }
+  ]
+}

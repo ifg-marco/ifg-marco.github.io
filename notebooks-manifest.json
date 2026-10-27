@@ -77,15 +77,43 @@
       "difficulty": "basico"
     },
     {
+      "id": "biolibras-biologia",
+      "hash": "120f2c0ee4b30c74",
+      "updatedAt": "2026-10-26T18:03:12.550Z",
+      "title": "BIOLIBRAS — conceitos de Biologia em Libras — IFPR",
+      "description": "",
+      "cardCount": 42,
+      "collection": "Áreas profissionais",
+      "order": 10,
+      "difficulty": "intermediario"
+    },
+    {
       "id": "biologia",
-      "hash": "195493c2a1c90453",
+      "hash": "706323d3db37e59f",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Biologia",
-      "description": "Célula, genética, corpo humano, ecologia e evolução. Fonte: vídeos do NAS. Site: https://casgoiania.com.br",
+      "description": "Célula, genética, corpo humano, ecologia e evolução. Fontes: vídeos do NAS (https://casgoiania.com.br) e, para Sinapse, glossário científico GEIL (https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s).",
       "cardCount": 33,
       "collection": "Áreas profissionais",
       "order": 5,
       "difficulty": "avancado"
+    },
+    {
+      "id": "biologia-evolucao-geil",
+      "hash": "c793392bc5742eaf",
+      "updatedAt": "2026-10-22T01:31:06.000Z",
+      "title": "Biologia: simetria, evolução e relações",
+      "description": "Conceitos de forma corporal, evolução e relações entre seres vivos. Fonte dos vídeos: glossário científico do GEIL/PUCRS, https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s . Os vídeos mostram sinais documentados pela fonte; outras variantes podem existir.",
+      "cardCount": 4,
+      "collection": "Áreas profissionais",
+      "order": 9,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "biologia",
+          "reason": "Conheça os sinais gerais de Biologia antes de estudar estes conceitos."
+        }
+      ]
     },
     {
       "id": "casa-cozinha",
@@ -298,7 +326,7 @@
     },
     {
       "id": "drogas",
-      "hash": "a1e9199bef0bc9b7",
+      "hash": "612637d4cd88f887",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Drogas",
       "description": "Drogas lícitas e ilícitas, tráfico e prevenção. Fonte: vídeos do NAS.",
@@ -420,6 +448,72 @@
       "difficulty": "basico"
     },
     {
+      "id": "glossario-agronomia-agropecuaria-horticultura",
+      "hash": "077e4b58aff105f8",
+      "updatedAt": "2026-10-26T18:03:17.801Z",
+      "title": "Glossário de Agronomia, Agropecuária e Horticultura — IFRS",
+      "description": "",
+      "cardCount": 50,
+      "collection": "Áreas profissionais",
+      "order": 11,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "glossario-basquete",
+      "hash": "8cdf1ccedf11245c",
+      "updatedAt": "2026-10-26T18:03:31.990Z",
+      "title": "Glossário de Basquete",
+      "description": "",
+      "cardCount": 1,
+      "collection": "Vocabulário",
+      "order": 18,
+      "difficulty": "basico"
+    },
+    {
+      "id": "glossario-da-area-da-saude-em-libras",
+      "hash": "89580bb1bc99b43b",
+      "updatedAt": "2026-10-26T18:03:43.952Z",
+      "title": "Glossário da área da saúde em libras",
+      "description": "",
+      "cardCount": 84,
+      "collection": "Áreas profissionais",
+      "order": 12,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "glossario-ifrs-sinais-especificos",
+      "hash": "44f89df1f8ed6dc2",
+      "updatedAt": "2026-10-26T18:03:22.747Z",
+      "title": "Glossário em Libras com sinais específicos do IFRS",
+      "description": "",
+      "cardCount": 26,
+      "collection": "Comunidade surda e sociedade",
+      "order": 7,
+      "difficulty": "basico"
+    },
+    {
+      "id": "glossario-matematica-sinais-termo",
+      "hash": "ac8ef55e4c20afbd",
+      "updatedAt": "2026-10-26T18:12:16.364Z",
+      "title": "Glossário de Matemática em Libras — Sinais-termo",
+      "description": "O glossário é produto da dissertação de mestrado “Terminologia da Matemática em Língua de Sinais Brasileira: Proposta de Glossário Bilíngue Libras-Português” de Rodolpho Pinheiro D’Azevedo (2019). Sinais-termo do Glossário Matemática em Libras (canal do YouTube, https://glossariomatemlibras.com.br), com UF associada DF. Fonte: Universidade de Brasília (UnB), dissertação de mestrado em Linguística, 2019: https://repositorio.unb.br/handle/10482/36867.",
+      "cardCount": 30,
+      "collection": "Matemática em Libras (DF)",
+      "order": 1,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "glossario-mundo-do-vinho",
+      "hash": "838ca0b50d791e67",
+      "updatedAt": "2026-10-26T18:03:08.716Z",
+      "title": "Glossário de Libras — Mundo do Vinho",
+      "description": "",
+      "cardCount": 61,
+      "collection": "Vocabulário",
+      "order": 17,
+      "difficulty": "intermediario"
+    },
+    {
       "id": "goiania-bairros",
       "hash": "3b9a9c47f43ad80c",
       "updatedAt": "2026-10-09T05:00:00.000Z",
@@ -532,7 +626,7 @@
     },
     {
       "id": "ines-alimentos-e-bebidas",
-      "hash": "30717cb73421f459",
+      "hash": "b4fb8835b0aef391",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Alimentos e bebidas — vídeos direto do site do INES",
       "description": "124 sinais do tema “Alimentos e bebidas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -543,7 +637,7 @@
     },
     {
       "id": "ines-animais-insetos-peixes-e-aves",
-      "hash": "59bf399ea881bee8",
+      "hash": "c777d98679cefe4d",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Animais, insetos, peixes e aves — vídeos direto do site do INES",
       "description": "155 sinais do tema “Animais, insetos, peixes e aves”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -554,7 +648,7 @@
     },
     {
       "id": "ines-ano-sideral-e-calendario",
-      "hash": "02ecf1fc464b94ee",
+      "hash": "4624ade48ae4e9d5",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Ano sideral e calendário — vídeos direto do site do INES",
       "description": "71 sinais do tema “Ano sideral e calendário”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -565,7 +659,7 @@
     },
     {
       "id": "ines-aparelhos-e-maquinas",
-      "hash": "0c5e9fef7b62123c",
+      "hash": "44f8e7a16b8b83cb",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Aparelhos e máquinas — vídeos direto do site do INES",
       "description": "143 sinais do tema “Aparelhos e máquinas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -576,7 +670,7 @@
     },
     {
       "id": "ines-casa",
-      "hash": "3fe553f607579833",
+      "hash": "c2070766065b54f9",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Casa — vídeos direto do site do INES",
       "description": "107 sinais do tema “Casa”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -587,7 +681,7 @@
     },
     {
       "id": "ines-cores-e-formas",
-      "hash": "d8caba3146dfa502",
+      "hash": "7d4073ccf6fa5859",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Cores e formas — vídeos direto do site do INES",
       "description": "40 sinais do tema “Cores e formas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -598,7 +692,7 @@
     },
     {
       "id": "ines-corpo",
-      "hash": "5418bc1fc1ba48f7",
+      "hash": "ce3d037c19dcdd31",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Corpo — vídeos direto do site do INES",
       "description": "146 sinais do tema “Corpo”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -609,7 +703,7 @@
     },
     {
       "id": "ines-esporte-e-diversao",
-      "hash": "d97d81d01f69623b",
+      "hash": "cc63bdde8de55387",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Esporte e diversão — vídeos direto do site do INES",
       "description": "188 sinais do tema “Esporte e diversão”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -620,7 +714,7 @@
     },
     {
       "id": "ines-familia",
-      "hash": "2358b1ad5b9eff15",
+      "hash": "301f3c210940d0e1",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Família — vídeos direto do site do INES",
       "description": "46 sinais do tema “Família”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -631,7 +725,7 @@
     },
     {
       "id": "ines-frutas",
-      "hash": "a5a72c5237dc93a3",
+      "hash": "6005ad877c84342f",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Frutas — vídeos direto do site do INES",
       "description": "37 sinais do tema “Frutas”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -642,7 +736,7 @@
     },
     {
       "id": "ines-higiene-e-saude",
-      "hash": "4e53def10755a84f",
+      "hash": "50c675216c52cc90",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Higiene e saúde — vídeos direto do site do INES",
       "description": "165 sinais do tema “Higiene e saúde”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -653,7 +747,7 @@
     },
     {
       "id": "ines-legumes-e-verduras",
-      "hash": "6b0aa181f4bb1a58",
+      "hash": "091d0f6602d4f61a",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Legumes e verduras — vídeos direto do site do INES",
       "description": "26 sinais do tema “Legumes e verduras”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -664,7 +758,7 @@
     },
     {
       "id": "ines-materia-e-substancias",
-      "hash": "e019adeea6e89f16",
+      "hash": "e7816567b7a6b28b",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Matéria e substâncias — vídeos direto do site do INES",
       "description": "96 sinais do tema “Matéria e substâncias”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -675,7 +769,7 @@
     },
     {
       "id": "ines-numerais-e-dinheiro",
-      "hash": "857b47427a748fd0",
+      "hash": "51445e0190f85b46",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Numerais e dinheiro — vídeos direto do site do INES",
       "description": "128 sinais do tema “Numerais e dinheiro”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -686,7 +780,7 @@
     },
     {
       "id": "ines-outros-a",
-      "hash": "1e513418f7539538",
+      "hash": "6338c8ec50e7c762",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, A — vídeos direto do site do INES",
       "description": "487 sinais (sem assunto definido no dicionário, letras A). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -697,7 +791,7 @@
     },
     {
       "id": "ines-outros-b",
-      "hash": "83d4c8fa22235f79",
+      "hash": "0841e58000886ed1",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, B — vídeos direto do site do INES",
       "description": "140 sinais (sem assunto definido no dicionário, letras B). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -708,7 +802,7 @@
     },
     {
       "id": "ines-outros-c",
-      "hash": "b2c49af08b8b38cb",
+      "hash": "db12646bdb52d2d8",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, C — vídeos direto do site do INES",
       "description": "407 sinais (sem assunto definido no dicionário, letras C). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -719,7 +813,7 @@
     },
     {
       "id": "ines-outros-d",
-      "hash": "1cd1f5dbb684ff26",
+      "hash": "88bbf27c6ffef4c3",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, D — vídeos direto do site do INES",
       "description": "260 sinais (sem assunto definido no dicionário, letras D). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -730,7 +824,7 @@
     },
     {
       "id": "ines-outros-e",
-      "hash": "b4e63ecbb057505a",
+      "hash": "39d99d99d4c62f63",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, E — vídeos direto do site do INES",
       "description": "287 sinais (sem assunto definido no dicionário, letras E). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -741,7 +835,7 @@
     },
     {
       "id": "ines-outros-f-h",
-      "hash": "3028efcc2c6884e1",
+      "hash": "cab61e7b8e0e29a4",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, F a H — vídeos direto do site do INES",
       "description": "275 sinais (sem assunto definido no dicionário, letras F a H). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -752,7 +846,7 @@
     },
     {
       "id": "ines-outros-i-l",
-      "hash": "dd4b10b12e05c78c",
+      "hash": "01fa4207b91f9fe4",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, I a L — vídeos direto do site do INES",
       "description": "346 sinais (sem assunto definido no dicionário, letras I a L). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -763,7 +857,7 @@
     },
     {
       "id": "ines-outros-m-o",
-      "hash": "9dfce64f63ca7e56",
+      "hash": "49e258cb22cab721",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, M a O — vídeos direto do site do INES",
       "description": "350 sinais (sem assunto definido no dicionário, letras M a O). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -774,7 +868,7 @@
     },
     {
       "id": "ines-outros-p",
-      "hash": "951ba304a48f26f4",
+      "hash": "200b2cd1352e3e2a",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, P — vídeos direto do site do INES",
       "description": "379 sinais (sem assunto definido no dicionário, letras P). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -785,7 +879,7 @@
     },
     {
       "id": "ines-outros-q-r",
-      "hash": "da208deee0f3704b",
+      "hash": "31870c5c4078f003",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, Q a R — vídeos direto do site do INES",
       "description": "258 sinais (sem assunto definido no dicionário, letras Q a R). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -796,7 +890,7 @@
     },
     {
       "id": "ines-outros-s-u",
-      "hash": "b72e49472a8aa3a1",
+      "hash": "11b58f5d386b0974",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, S a U — vídeos direto do site do INES",
       "description": "351 sinais (sem assunto definido no dicionário, letras S a U). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -807,7 +901,7 @@
     },
     {
       "id": "ines-outros-v-z",
-      "hash": "79000f5d3a2479c4",
+      "hash": "5c8948690cacd496",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Outros sinais, V a Z — vídeos direto do site do INES",
       "description": "169 sinais (sem assunto definido no dicionário, letras V a Z). Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -818,7 +912,7 @@
     },
     {
       "id": "ines-paises-estados-e-cidades",
-      "hash": "3bdf7613dfbe7540",
+      "hash": "35dc482f56d5d13b",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Países, estados e cidades — vídeos direto do site do INES",
       "description": "106 sinais do tema “Países, estados e cidades”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -829,7 +923,7 @@
     },
     {
       "id": "ines-plantas-flores-e-natureza",
-      "hash": "2f3cda9f6786fd5e",
+      "hash": "6fc50cab1f4c54ac",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Plantas, flores e natureza — vídeos direto do site do INES",
       "description": "112 sinais do tema “Plantas, flores e natureza”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -840,7 +934,7 @@
     },
     {
       "id": "ines-profissoes-e-trabalho",
-      "hash": "b743021df0b1a3e3",
+      "hash": "6cf4bd8ac167c3dc",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Profissões e trabalho — vídeos direto do site do INES",
       "description": "176 sinais do tema “Profissões e trabalho”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -851,7 +945,7 @@
     },
     {
       "id": "ines-sentimentos",
-      "hash": "59a4f018c8d312ee",
+      "hash": "54a0d50c7799efb0",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Sentimentos — vídeos direto do site do INES",
       "description": "83 sinais do tema “Sentimentos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -862,7 +956,7 @@
     },
     {
       "id": "ines-transportes-e-veiculos",
-      "hash": "deaf350a52a74fff",
+      "hash": "fcf1a61e44e0e815",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Transportes e veículos — vídeos direto do site do INES",
       "description": "71 sinais do tema “Transportes e veículos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -873,7 +967,7 @@
     },
     {
       "id": "ines-vestuario-e-complementos",
-      "hash": "5f3bacac2504c13d",
+      "hash": "0eac4b15cf402945",
       "updatedAt": "2026-10-12T12:00:00.000Z",
       "title": "INES: Vestuário e complementos — vídeos direto do site do INES",
       "description": "95 sinais do tema “Vestuário e complementos”. Sinais do Dicionário Digital da Língua Brasileira de Sinais do INES (dicionario.ines.gov.br). Os vídeos e as imagens de configuração de mão são carregados direto do site do INES, sem cópia: todos os créditos são do INES e de seus autores. Precisa de internet.",
@@ -900,6 +994,17 @@
       ]
     },
     {
+      "id": "libras-informatica",
+      "hash": "5ad6bd7d4f899f97",
+      "updatedAt": "2026-10-26T18:03:27.238Z",
+      "title": "Libras e Informática",
+      "description": "",
+      "cardCount": 1,
+      "collection": "Áreas profissionais",
+      "order": 13,
+      "difficulty": "basico"
+    },
+    {
       "id": "matematica",
       "hash": "e16c402bd2bfbc48",
       "updatedAt": "2026-10-09T05:00:00.000Z",
@@ -915,6 +1020,61 @@
           "reason": "Comece pelos números."
         }
       ]
+    },
+    {
+      "id": "norte-de-libras-campus-e-siglas-do-ifro",
+      "hash": "cdd3a1f33ea03bc7",
+      "updatedAt": "2026-10-26T17:34:44.961Z",
+      "title": "Campus e Siglas do IFRO",
+      "description": "Sinais da playlist “Campus e Siglas do IFRO”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
+      "cardCount": 12,
+      "collection": "Norte de Libras (RO)",
+      "order": 3,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "norte-de-libras-glossario-de-termos-da-gestao-publica",
+      "hash": "e7d0c903744dc2f2",
+      "updatedAt": "2026-10-26T17:34:44.961Z",
+      "title": "Glossário de Termos da Gestão Pública",
+      "description": "Sinais da playlist “Glossário de Termos da Gestão Pública”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
+      "cardCount": 50,
+      "collection": "Norte de Libras (RO)",
+      "order": 5,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "norte-de-libras-glossario-de-termos-do-curso-redes-de-computadores",
+      "hash": "229e3490025abfa1",
+      "updatedAt": "2026-10-26T17:34:44.961Z",
+      "title": "Glossário de termos do curso Redes de Computadores",
+      "description": "Sinais da playlist “Glossário de termos do curso Redes de Computadores”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
+      "cardCount": 30,
+      "collection": "Norte de Libras (RO)",
+      "order": 4,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "norte-de-libras-lugares-de-porto-velho",
+      "hash": "cb18a4158730ce02",
+      "updatedAt": "2026-10-26T17:34:44.961Z",
+      "title": "Lugares de Porto Velho",
+      "description": "Sinais da playlist “Lugares de Porto Velho”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
+      "cardCount": 21,
+      "collection": "Norte de Libras (RO)",
+      "order": 1,
+      "difficulty": "basico"
+    },
+    {
+      "id": "norte-de-libras-municipios-de-rondonia",
+      "hash": "08da2618952ade2d",
+      "updatedAt": "2026-10-26T17:34:44.961Z",
+      "title": "Municípios de Rondônia",
+      "description": "Sinais da playlist “Municípios de Rondônia”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
+      "cardCount": 30,
+      "collection": "Norte de Libras (RO)",
+      "order": 2,
+      "difficulty": "basico"
     },
     {
       "id": "numeros",
@@ -1037,15 +1197,43 @@
       "difficulty": "avancado"
     },
     {
+      "id": "rebeca-sinais-contextuais",
+      "hash": "1924d2fbe954e1fb",
+      "updatedAt": "2026-10-22T02:17:08.459Z",
+      "title": "Rebeca Pereira — sinais por contexto",
+      "description": "Sinais curtos do canal Rebeca Pereira, identificados por títulos que indicam explicitamente sinais em Libras. O caderno reúne candidatos de Ciências, Geografia, História e vocabulário escolar para posterior organização nas trilhas contextuais.",
+      "cardCount": 187,
+      "collection": "Sinais contextualizados por áreas",
+      "order": 20,
+      "difficulty": "intermediario"
+    },
+    {
       "id": "saude",
-      "hash": "aa1d2b2e9f0d713b",
+      "hash": "8804bd24e2853ed9",
       "updatedAt": "2026-10-07T16:13:19.604Z",
       "title": "Saúde",
-      "description": "Vocabulário de saúde e corpo humano em Libras. Fonte: vídeos do NAS. Site: https://casgoiania.com.br",
+      "description": "Vocabulário de saúde e corpo humano em Libras. Fontes: vídeos do NAS (https://casgoiania.com.br) e, para Sangue, glossário científico GEIL (https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s).",
       "cardCount": 50,
       "collection": "Vocabulário",
       "order": 11,
       "difficulty": "intermediario"
+    },
+    {
+      "id": "saude-conceitos-geil",
+      "hash": "7ffaa0df0dc858a8",
+      "updatedAt": "2026-10-22T01:31:06.000Z",
+      "title": "Ciências da saúde: circulação e cuidados",
+      "description": "Termos científicos para estudar circulação, prevenção e cuidados. Fonte dos vídeos: glossário científico do GEIL/PUCRS, https://sites.google.com/view/grupo-de-estudo-e-inovao-em-ln/letra-s . Os vídeos mostram sinais documentados pela fonte; outras variantes podem existir.",
+      "cardCount": 3,
+      "collection": "Vocabulário",
+      "order": 16,
+      "difficulty": "avancado",
+      "prerequisites": [
+        {
+          "notebookId": "saude",
+          "reason": "Comece por sinais comuns de saúde antes dos termos científicos."
+        }
+      ]
     },
     {
       "id": "saude-prevencao",
@@ -1063,6 +1251,380 @@
           "reason": "Comece pelo vocabulário básico de saúde."
         }
       ]
+    },
+    {
+      "id": "sinais-diarios-adjetivo",
+      "hash": "3d825aa2b2f5f4f6",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "adjetivo",
+      "description": "Sinais da playlist “adjetivo”, do canal Sinais Diários de Libras.",
+      "cardCount": 8,
+      "collection": "Sinais Diários de Libras",
+      "order": 33,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-adverbio",
+      "hash": "f81c204956d425fe",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Adverbio",
+      "description": "Sinais da playlist “Adverbio”, do canal Sinais Diários de Libras.",
+      "cardCount": 27,
+      "collection": "Sinais Diários de Libras",
+      "order": 28,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-alimentos",
+      "hash": "875c03a2ea3c86a9",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Alimentos",
+      "description": "Sinais da playlist “Alimentos”, do canal Sinais Diários de Libras.",
+      "cardCount": 58,
+      "collection": "Sinais Diários de Libras",
+      "order": 3,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "sinais-diarios-animais",
+      "hash": "e00d4421e89ec601",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Animais",
+      "description": "Sinais da playlist “Animais”, do canal Sinais Diários de Libras.",
+      "cardCount": 20,
+      "collection": "Sinais Diários de Libras",
+      "order": 5,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "sinais-diarios-cidades-de-minas-gerais",
+      "hash": "afe5140d94e958bc",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades de Minas Gerais",
+      "description": "Sinais da playlist “Cidades de Minas Gerais”, do canal Sinais Diários de Libras.",
+      "cardCount": 97,
+      "collection": "Sinais Diários de Libras",
+      "order": 14,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-cidades-do-centro-oeste",
+      "hash": "3f02ff596ae83415",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades do Centro-Oeste",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Mato Grosso do Sul, Cidades do Mato Grosso.",
+      "cardCount": 3,
+      "collection": "Sinais Diários de Libras",
+      "order": 12,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-cidades-do-nordeste",
+      "hash": "d081a113980e8fca",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades do Nordeste",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades da Bahia, Cidades de Alagoas, Cidades de Alagoas, Cidades de Paraíba, Cidades de Pernambuco, Cidades do Ceará, Cidades do Maranhão, Cidades do Piauí, Cidades do Rio Grando do Norte, cidades de Paraíba.",
+      "cardCount": 24,
+      "collection": "Sinais Diários de Libras",
+      "order": 9,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-cidades-do-norte",
+      "hash": "22100f9120f3e90a",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades do Norte",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Tocantins, Cidades do Acre, Cidades do Amapá, Cidades do Amazonas, Cidades do Pará.",
+      "cardCount": 5,
+      "collection": "Sinais Diários de Libras",
+      "order": 11,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+      "hash": "7c0d30e6367f7fe3",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades do Sudeste (sem Minas Gerais)",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de São Paulo, Cidades do Espirito Santo, Cidades do Espirito Santo, Cidades do Rio de Janeiro.",
+      "cardCount": 9,
+      "collection": "Sinais Diários de Libras",
+      "order": 8,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-cidades-do-sul",
+      "hash": "5b5da2c48ea73999",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Cidades do Sul",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cidades de Santa Catarina, Cidades do Paraná, Cidades do Rio Grande do Sul, Cidades do Rio Grande do Sul.",
+      "cardCount": 7,
+      "collection": "Sinais Diários de Libras",
+      "order": 7,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-ciencias-biologia-e-saude",
+      "hash": "829dc500ce7b2259",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Ciências , Biologia e Saúde",
+      "description": "Sinais da playlist “Ciências , Biologia e Saúde”, do canal Sinais Diários de Libras.",
+      "cardCount": 81,
+      "collection": "Sinais Diários de Libras",
+      "order": 32,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-empresas",
+      "hash": "7b543bdad5614bb9",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Empresas",
+      "description": "Sinais da playlist “Empresas”, do canal Sinais Diários de Libras.",
+      "cardCount": 8,
+      "collection": "Sinais Diários de Libras",
+      "order": 20,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-esporte",
+      "hash": "0192608334dc9c6e",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Esporte",
+      "description": "Sinais da playlist “Esporte”, do canal Sinais Diários de Libras. Inclui os sinais de times de futebol, antes em caderno próprio.",
+      "cardCount": 46,
+      "collection": "Sinais Diários de Libras",
+      "order": 15,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-estados-brasileiros",
+      "hash": "117188797d80b0d8",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Estados Brasileiros",
+      "description": "Sinais da playlist “Estados Brasileiros”, do canal Sinais Diários de Libras.",
+      "cardCount": 19,
+      "collection": "Sinais Diários de Libras",
+      "order": 2,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "sinais-diarios-expressao-do-cotidiano",
+      "hash": "1efd4d4e81dba125",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "\"Expressão do cotidiano\"",
+      "description": "Sinais da playlist “\"Expressão do cotidiano\"”, do canal Sinais Diários de Libras.",
+      "cardCount": 18,
+      "collection": "Sinais Diários de Libras",
+      "order": 17,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-feito-com-tb-filmes",
+      "hash": "eee1b61b5f8a8c76",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Feito com TB Filmes",
+      "description": "Sinais da playlist “Feito com TB Filmes”, do canal Sinais Diários de Libras.",
+      "cardCount": 26,
+      "collection": "Sinais Diários de Libras",
+      "order": 24,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-filosofia",
+      "hash": "3fa650a340d3f547",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Filosofia",
+      "description": "Sinais da playlist “Filosofia”, do canal Sinais Diários de Libras.",
+      "cardCount": 3,
+      "collection": "Sinais Diários de Libras",
+      "order": 34,
+      "difficulty": "avancado"
+    },
+    {
+      "id": "sinais-diarios-frutas",
+      "hash": "f18b803138f3af99",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Frutas",
+      "description": "Sinais da playlist “Frutas”, do canal Sinais Diários de Libras.",
+      "cardCount": 6,
+      "collection": "Sinais Diários de Libras",
+      "order": 4,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "sinais-diarios-geografia",
+      "hash": "907c01dec9ae6c8d",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Geografia",
+      "description": "Sinais da playlist “Geografia”, do canal Sinais Diários de Libras.",
+      "cardCount": 16,
+      "collection": "Sinais Diários de Libras",
+      "order": 25,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-help-atividades-revisao-entender-dialogo-periodo-b",
+      "hash": "346ae7d25d3beb65",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "HELP ATIVIDADES REVISÃO ENTENDER DIALOGO  - Período B",
+      "description": "Sinais da playlist “HELP ATIVIDADES REVISÃO ENTENDER DIALOGO  - Período B”, do canal Sinais Diários de Libras.",
+      "cardCount": 27,
+      "collection": "Sinais Diários de Libras",
+      "order": 23,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-help-atividades-revisao-temporalidade-portal-b",
+      "hash": "bc7b6f86e92d8351",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "HELP ATIVIDADES REVISÃO TEMPORALIDADE - PORTAL B",
+      "description": "Sinais da playlist “HELP ATIVIDADES REVISÃO TEMPORALIDADE - PORTAL B”, do canal Sinais Diários de Libras.",
+      "cardCount": 17,
+      "collection": "Sinais Diários de Libras",
+      "order": 22,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-lugares",
+      "hash": "ae1cad58a56db03c",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Lugares",
+      "description": "Sinais da playlist “Lugares”, do canal Sinais Diários de Libras.",
+      "cardCount": 80,
+      "collection": "Sinais Diários de Libras",
+      "order": 16,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-matematica",
+      "hash": "dfeb7e4eac98822f",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Matemática",
+      "description": "Sinais da playlist “Matemática”, do canal Sinais Diários de Libras.",
+      "cardCount": 37,
+      "collection": "Sinais Diários de Libras",
+      "order": 29,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-numeros-cores-e-meses",
+      "hash": "8fc5d540fada4e35",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Números, cores e meses",
+      "description": "Sinais do canal Sinais Diários de Libras (Carlos Cristian), agrupados por serem poucos cartões: Cores, Meses do Ano, Números | Numeral | Quantitativo.",
+      "cardCount": 33,
+      "collection": "Sinais Diários de Libras",
+      "order": 1,
+      "difficulty": "iniciante"
+    },
+    {
+      "id": "sinais-diarios-os-signos",
+      "hash": "d3e7ee11a5c32a66",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "OS SIGNOS",
+      "description": "Sinais da playlist “OS SIGNOS”, do canal Sinais Diários de Libras.",
+      "cardCount": 1,
+      "collection": "Sinais Diários de Libras",
+      "order": 6,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-paises",
+      "hash": "b0886a89589591e8",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Países",
+      "description": "Sinais da playlist “Países”, do canal Sinais Diários de Libras.",
+      "cardCount": 22,
+      "collection": "Sinais Diários de Libras",
+      "order": 13,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-portugues",
+      "hash": "0434d0bd0fd7e000",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Português",
+      "description": "Sinais da playlist “Português”, do canal Sinais Diários de Libras.",
+      "cardCount": 63,
+      "collection": "Sinais Diários de Libras",
+      "order": 26,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-profissoes",
+      "hash": "413c0b0d11b373ab",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "profissões",
+      "description": "Sinais da playlist “profissões”, do canal Sinais Diários de Libras.",
+      "cardCount": 12,
+      "collection": "Sinais Diários de Libras",
+      "order": 21,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-quimica",
+      "hash": "d152504b90543a0e",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Quimica",
+      "description": "Sinais da playlist “Quimica”, do canal Sinais Diários de Libras.",
+      "cardCount": 10,
+      "collection": "Sinais Diários de Libras",
+      "order": 27,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-religiao-e-espiritualidade",
+      "hash": "1af7b7055ebc347e",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Religião e espiritualidade",
+      "description": "Sinais da playlist “Religião e espiritualidade”, do canal Sinais Diários de Libras.",
+      "cardCount": 29,
+      "collection": "Religião",
+      "order": 1,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-sinais-com-letras",
+      "hash": "7ae77fd202d8dccc",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Sinais com letras",
+      "description": "Sinais por letra do canal Sinais Diários de Libras (Carlos Cristian). Cada letra é uma seção do caderno, com o nome da playlist original (Sinais com A, Sinais com B…).",
+      "cardCount": 774,
+      "collection": "Sinais Diários de Libras",
+      "order": 10,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-sinalario-escolar",
+      "hash": "e965b362d983e4e4",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Sinalário escolar",
+      "description": "Sinais da playlist “Sinalário escolar”, do canal Sinais Diários de Libras.",
+      "cardCount": 102,
+      "collection": "Sinais Diários de Libras",
+      "order": 18,
+      "difficulty": "basico"
+    },
+    {
+      "id": "sinais-diarios-sujeito",
+      "hash": "1d3c88247e3e38c9",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Sujeito",
+      "description": "Sinais da playlist “Sujeito”, do canal Sinais Diários de Libras.",
+      "cardCount": 63,
+      "collection": "Sinais Diários de Libras",
+      "order": 31,
+      "difficulty": "intermediario"
+    },
+    {
+      "id": "sinais-diarios-verbos",
+      "hash": "ff6b4f74b32fa3e1",
+      "updatedAt": "2026-10-26T17:35:16.085Z",
+      "title": "Verbos",
+      "description": "Sinais da playlist “Verbos”, do canal Sinais Diários de Libras.",
+      "cardCount": 417,
+      "collection": "Sinais Diários de Libras",
+      "order": 19,
+      "difficulty": "basico"
     },
     {
       "id": "sinalario-ifrs",
@@ -1219,25 +1781,79 @@
     }
   ],
   "redirects": {
-    "mas-mais": "adverbios",
     "adverbios-comparacao": "comparar-intensificar",
-    "hellen-pereira-lima-livros-do-joao": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-os-nomes-de-deus": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-livros": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-santos": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-personagens": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-pecados": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-louvores": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-outros": "hellen-pereira-lima-biblia-temas",
-    "hellen-pereira-lima-apocalipses": "hellen-pereira-lima-biblia-temas",
     "hellen-pereira-lima-animais": "hellen-pereira-lima-vocabulario-biblico",
+    "hellen-pereira-lima-apocalipses": "hellen-pereira-lima-biblia-temas",
     "hellen-pereira-lima-armas": "hellen-pereira-lima-vocabulario-biblico",
-    "hellen-pereira-lima-funcoes": "hellen-pereira-lima-vocabulario-biblico",
-    "hellen-pereira-lima-materiais": "hellen-pereira-lima-vocabulario-biblico",
-    "hellen-pereira-lima-lugares": "hellen-pereira-lima-vocabulario-biblico",
     "hellen-pereira-lima-doencas": "hellen-pereira-lima-vocabulario-biblico",
+    "hellen-pereira-lima-funcoes": "hellen-pereira-lima-vocabulario-biblico",
+    "hellen-pereira-lima-livros": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-livros-do-joao": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-louvores": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-lugares": "hellen-pereira-lima-vocabulario-biblico",
+    "hellen-pereira-lima-materiais": "hellen-pereira-lima-vocabulario-biblico",
+    "hellen-pereira-lima-os-nomes-de-deus": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-outros": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-pecados": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-personagens": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-santos": "hellen-pereira-lima-biblia-temas",
+    "hellen-pereira-lima-verbos": "hellen-pereira-lima-verbos-consolidados",
     "hellen-pereira-lima-verbos-dos-conselhos": "hellen-pereira-lima-verbos-consolidados",
     "hellen-pereira-lima-verbos-e-verbos-negativos": "hellen-pereira-lima-verbos-consolidados",
-    "hellen-pereira-lima-verbos": "hellen-pereira-lima-verbos-consolidados"
+    "mas-mais": "adverbios",
+    "sinais-diarios-cidades-da-bahia": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-alagoas": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-alagoas-2": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-mato-grosso-do-sul": "sinais-diarios-cidades-do-centro-oeste",
+    "sinais-diarios-cidades-de-paraiba": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-paraiba-2": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-pernambuco": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-de-santa-catarina": "sinais-diarios-cidades-do-sul",
+    "sinais-diarios-cidades-de-sao-paulo": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+    "sinais-diarios-cidades-de-tocantins": "sinais-diarios-cidades-do-norte",
+    "sinais-diarios-cidades-do-acre": "sinais-diarios-cidades-do-norte",
+    "sinais-diarios-cidades-do-amapa": "sinais-diarios-cidades-do-norte",
+    "sinais-diarios-cidades-do-amazonas": "sinais-diarios-cidades-do-norte",
+    "sinais-diarios-cidades-do-ceara": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-do-espirito-santo": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+    "sinais-diarios-cidades-do-espirito-santo-2": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+    "sinais-diarios-cidades-do-maranhao": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-do-mato-grosso": "sinais-diarios-cidades-do-centro-oeste",
+    "sinais-diarios-cidades-do-para": "sinais-diarios-cidades-do-norte",
+    "sinais-diarios-cidades-do-parana": "sinais-diarios-cidades-do-sul",
+    "sinais-diarios-cidades-do-piaui": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cidades-do-rio-de-janeiro": "sinais-diarios-cidades-do-sudeste-sem-minas-gerais",
+    "sinais-diarios-cidades-do-rio-grande-do-sul": "sinais-diarios-cidades-do-sul",
+    "sinais-diarios-cidades-do-rio-grande-do-sul-2": "sinais-diarios-cidades-do-sul",
+    "sinais-diarios-cidades-do-rio-grando-do-norte": "sinais-diarios-cidades-do-nordeste",
+    "sinais-diarios-cores": "sinais-diarios-numeros-cores-e-meses",
+    "sinais-diarios-meses-do-ano": "sinais-diarios-numeros-cores-e-meses",
+    "sinais-diarios-numeros-numeral-quantitativo": "sinais-diarios-numeros-cores-e-meses",
+    "sinais-diarios-sinais-com-a": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-b": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-c": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-d": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-e": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-f": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-g": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-h": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-i": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-j": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-k": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-l": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-m": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-n": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-o": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-p": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-q": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-r": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-s": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-t": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-u": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-v": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-x": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-y": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-sinais-com-z": "sinais-diarios-sinais-com-letras",
+    "sinais-diarios-times-de-futebol": "sinais-diarios-esporte"
   }
 }
