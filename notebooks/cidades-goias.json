@@ -1,7 +1,7 @@
 {
   "id": "cidades-goias",
-  "title": "Cidades de Goiás",
-  "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar.",
+  "title": "Libras III - Cidades de Goiás",
+  "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T15:58:12.028Z",
@@ -9,11 +9,12 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:15:40.000Z",
+      "at": "2026-10-28T16:50:02.870Z",
       "changes": [
         "created",
         "edited",
-        "videos"
+        "videos",
+        "description"
       ]
     }
   ],

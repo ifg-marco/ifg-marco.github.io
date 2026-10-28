@@ -1,7 +1,7 @@
 {
   "id": "corpo-humano",
-  "title": "Corpo Humano",
-  "description": "Vocabulário de partes do corpo, órgãos, sistemas e estética.",
+  "title": "Libras III - Corpo Humano",
+  "description": "Vocabulário de partes do corpo, órgãos, sistemas e estética. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T15:07:17.154Z",
@@ -9,10 +9,11 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:15:40.000Z",
+      "at": "2026-10-28T16:50:23.393Z",
       "changes": [
         "created",
-        "edited"
+        "edited",
+        "description"
       ]
     }
   ],

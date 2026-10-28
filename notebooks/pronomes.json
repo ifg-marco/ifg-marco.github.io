@@ -1,17 +1,18 @@
 {
   "id": "pronomes",
-  "title": "Pronomes pessoais, possessivos e interrogativos",
-  "description": "Eu, você, ele; meu, seu, nosso; e as perguntas onde, o quê e para quê.",
+  "title": "Libras I - Pronomes pessoais, possessivos e interrogativos",
+  "description": "Eu, você, ele; meu, seu, nosso; e as perguntas onde, o quê e para quê. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
   "section": "Caderno público",
   "author": "Marco Antônio",
   "createdAt": "2026-10-09T05:00:00.000Z",
   "changeLog": [
     {
-      "action": "created",
+      "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-09T05:00:00.000Z",
+      "at": "2026-10-28T16:50:02.870Z",
       "changes": [
-        "created"
+        "created",
+        "description"
       ]
     }
   ],

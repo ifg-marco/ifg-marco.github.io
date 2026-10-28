@@ -1,7 +1,7 @@
 {
   "id": "primeiros-sinais",
-  "title": "Primeiros sinais",
-  "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras.",
+  "title": "Libras I - Primeiros sinais",
+  "description": "Cumprimentos, apresentação pessoal e cortesia para as primeiras conversas em Libras. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
   "section": "Caderno público",
   "author": "Marco Antônio",
   "createdAt": "2026-10-08T23:30:00.000Z",
@@ -9,10 +9,11 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-10T13:05:18.166Z",
+      "at": "2026-10-28T16:50:02.870Z",
       "changes": [
         "created",
-        "edited"
+        "edited",
+        "description"
       ]
     }
   ],
