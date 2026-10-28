@@ -56,7 +56,7 @@
     },
     {
       "id": "alimentos",
-      "hash": "eaa45dc77c43e26c",
+      "hash": "62f2b9440b4b52ba",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Alimentos e bebidas",
       "description": "Comidas do dia a dia e bebidas para conversar sobre refeições.",
@@ -128,18 +128,18 @@
     },
     {
       "id": "cidades-goias",
-      "hash": "c77ca0851c758301",
+      "hash": "c8be466d0db40987",
       "updatedAt": "2026-10-07T15:58:12.028Z",
       "title": "Cidades de Goiás",
       "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar.",
-      "cardCount": 58,
+      "cardCount": 119,
       "collection": "Lugares",
       "order": 4,
       "difficulty": "intermediario"
     },
     {
       "id": "ciencias-humanas",
-      "hash": "6551672aa70dd5ff",
+      "hash": "b8984c2660c1491f",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Ciências humanas",
       "description": "Política, sociedade, direitos e história. Fonte: vídeos do NAS. Site: https://casgoiania.com.br",
@@ -206,7 +206,7 @@
     },
     {
       "id": "congregacao-crista-no-brasil",
-      "hash": "6914ed8b0731da9e",
+      "hash": "1ea68afede20ff7c",
       "updatedAt": "2026-10-11T02:53:52.319Z",
       "title": "Congregação Cristã no Brasil (CCB)",
       "description": "Vocabulário da Congregação Cristã no Brasil (CCB) em vídeos de Libras. Fonte: vídeos do canal da Congregação Cristã no Brasil.",
@@ -237,7 +237,7 @@
     },
     {
       "id": "corpo-humano",
-      "hash": "2896a3ff7ba98a01",
+      "hash": "c46bcdfd8f8a7eff",
       "updatedAt": "2026-10-07T15:07:17.154Z",
       "title": "Corpo Humano",
       "description": "Vocabulário de partes do corpo, órgãos, sistemas e estética.",
@@ -326,7 +326,7 @@
     },
     {
       "id": "drogas",
-      "hash": "612637d4cd88f887",
+      "hash": "2c18c787ae52a98f",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Drogas",
       "description": "Drogas lícitas e ilícitas, tráfico e prevenção. Fonte: vídeos do NAS.",
@@ -337,7 +337,7 @@
     },
     {
       "id": "escola-materiais",
-      "hash": "5ca19c6fe9249bfe",
+      "hash": "67f122edd903c246",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Escola: materiais",
       "description": "Materiais escolares e objetos da sala de aula. Fonte: vídeos do NAS. Site: https://casgoiania.com.br",
@@ -595,7 +595,7 @@
     },
     {
       "id": "horas-periodos",
-      "hash": "b57bbfdfff3b8268",
+      "hash": "427a1ff47a9c019f",
       "updatedAt": "2026-10-07T15:59:01.367Z",
       "title": "Horas, dias e calendário",
       "description": "Horas, períodos do dia, dias da semana e expressões de tempo como semana que vem e ano passado.",
@@ -1702,7 +1702,7 @@
     },
     {
       "id": "verbos-concordancia",
-      "hash": "fb789786e311e4d6",
+      "hash": "21d8c1d6cdb07e3b",
       "updatedAt": "2026-10-07T16:15:52.165Z",
       "title": "Verbos com concordância",
       "description": "Verbos que podem direcionar o movimento entre participantes na Libras.",

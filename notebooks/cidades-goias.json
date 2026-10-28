@@ -9,10 +9,11 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-09T03:00:00.000Z",
+      "at": "2026-10-28T16:15:40.000Z",
       "changes": [
         "created",
-        "edited"
+        "edited",
+        "videos"
       ]
     }
   ],
@@ -34,7 +35,13 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=22&end=24&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
+          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=22.2&end=24.8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dI-IOOyY0OA",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=9.31&end=12.41&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
           "states": [
             "GO"
           ]
@@ -44,11 +51,43 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T15:31:08.935Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-61",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Abadiânia?",
+      "translation": "Abadiânia",
+      "librasStructure": "ABADIÂNIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Abadiânia. → EU NASCER ABADIÂNIA.",
+        "Você conhece Abadiânia? → VOCÊ CONHECER ABADIÂNIA?",
+        "Eu viajo para Abadiânia no fim de semana. → EU VIAJAR ABADIÂNIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=17.013&end=20.855&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -68,7 +107,13 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=24&end=27&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
+          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=24.9&end=27.1&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dI-IOOyY0OA",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=24.64&end=29.377&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
           "states": [
             "GO"
           ]
@@ -78,11 +123,139 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T15:30:11.666Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-62",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Águas Lindas de Goiás?",
+      "translation": "Águas Lindas de Goiás",
+      "librasStructure": "ÁGUAS-LINDAS-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Águas Lindas de Goiás. → EU NASCER ÁGUAS-LINDAS-DE-GOIÁS.",
+        "Você conhece Águas Lindas de Goiás? → VOCÊ CONHECER ÁGUAS-LINDAS-DE-GOIÁS?",
+        "Eu viajo para Águas Lindas de Goiás no fim de semana. → EU VIAJAR ÁGUAS-LINDAS-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=33.469&end=37.848&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-60",
+      "section": "Cidades",
+      "situation": "Um colega quer saber se você conhece Alexânia. Como você sinaliza Alexânia na resposta?",
+      "translation": "Alexânia",
+      "librasStructure": "ALEXÂNIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu moro em Alexânia. → EU MORAR ALEXÂNIA.",
+        "Você mora em Alexânia também? → VOCÊ MORAR ALEXÂNIA TAMBÉM?",
+        "Alexânia é uma cidade pequena. → ALEXÂNIA CIDADE PEQUENA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=41.454&end=45.858&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:05:46.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-63",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Alto Paraíso de Goiás. Como você sinaliza o nome da cidade?",
+      "translation": "Alto Paraíso de Goiás",
+      "librasStructure": "ALTO-PARAÍSO-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Alto Paraíso de Goiás. → EU NASCER ALTO-PARAÍSO-DE-GOIÁS.",
+        "Você conhece Alto Paraíso de Goiás? → VOCÊ CONHECER ALTO-PARAÍSO-DE-GOIÁS?",
+        "Eu viajo para Alto Paraíso de Goiás no fim de semana. → EU VIAJAR ALTO-PARAÍSO-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=50.283&end=54.227&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-64",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Amorinópolis. Como você sinaliza Amorinópolis na resposta?",
+      "translation": "Amorinópolis",
+      "librasStructure": "AMORINÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Amorinópolis. → EU NASCER AMORINÓPOLIS.",
+        "Você conhece Amorinópolis? → VOCÊ CONHECER AMORINÓPOLIS?",
+        "Eu viajo para Amorinópolis no fim de semana. → EU VIAJAR AMORINÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=56.785&end=61.215&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -106,13 +279,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=64.156&end=67.742&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -136,7 +315,13 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=29&end=31&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dI-IOOyY0OA",
+          "url": "https://www.youtube.com/embed/dI-IOOyY0OA?start=29.435&end=31.5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&iv_load_policy=3&modestbranding=1&loop=1&playlist=dI-IOOyY0OA",
+          "states": [
+            "GO"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=72.32&end=76.699&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
           "states": [
             "GO"
           ]
@@ -146,7 +331,7 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T15:32:18.254Z",
           "changes": [
             "created",
             "edited",
@@ -174,17 +359,119 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=80.357&end=84.403&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-65",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Aparecida do Rio Doce na resposta?",
+      "translation": "Aparecida do Rio Doce",
+      "librasStructure": "APARECIDA-DO-RIO-DOCE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Aparecida do Rio Doce. → EU NASCER APARECIDA-DO-RIO-DOCE.",
+        "Você conhece Aparecida do Rio Doce? → VOCÊ CONHECER APARECIDA-DO-RIO-DOCE?",
+        "Eu viajo para Aparecida do Rio Doce no fim de semana. → EU VIAJAR APARECIDA-DO-RIO-DOCE FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=87.396&end=91.928&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-66",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Aragarças?",
+      "translation": "Aragarças",
+      "librasStructure": "ARAGARÇAS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Aragarças. → EU NASCER ARAGARÇAS.",
+        "Você conhece Aragarças? → VOCÊ CONHECER ARAGARÇAS?",
+        "Eu viajo para Aragarças no fim de semana. → EU VIAJAR ARAGARÇAS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=94.409&end=99.35&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-67",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Aragoiânia?",
+      "translation": "Aragoiânia",
+      "librasStructure": "ARAGOIÂNIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Aragoiânia. → EU NASCER ARAGOIÂNIA.",
+        "Você conhece Aragoiânia? → VOCÊ CONHECER ARAGOIÂNIA?",
+        "Eu viajo para Aragoiânia no fim de semana. → EU VIAJAR ARAGOIÂNIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=103.033&end=107.565&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -225,6 +512,38 @@
       ]
     },
     {
+      "id": "goias-68",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Avelinópolis. Como você sinaliza o nome da cidade?",
+      "translation": "Avelinópolis",
+      "librasStructure": "AVELINÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Avelinópolis. → EU NASCER AVELINÓPOLIS.",
+        "Você conhece Avelinópolis? → VOCÊ CONHECER AVELINÓPOLIS?",
+        "Eu viajo para Avelinópolis no fim de semana. → EU VIAJAR AVELINÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=112.092&end=116.752&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
       "id": "goias-08",
       "section": "Cidades",
       "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Baliza?",
@@ -242,13 +561,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=120.614&end=124.66&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -276,17 +601,151 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=128.599&end=131.776&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-69",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Bom Jardim de Goiás. Como você sinaliza Bom Jardim de Goiás na resposta?",
+      "translation": "Bom Jardim de Goiás",
+      "librasStructure": "BOM-JARDIM-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Bom Jardim de Goiás. → EU NASCER BOM-JARDIM-DE-GOIÁS.",
+        "Você conhece Bom Jardim de Goiás? → VOCÊ CONHECER BOM-JARDIM-DE-GOIÁS?",
+        "Eu viajo para Bom Jardim de Goiás no fim de semana. → EU VIAJAR BOM-JARDIM-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=135.254&end=138.737&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-70",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Bom Jesus de Goiás na resposta?",
+      "translation": "Bom Jesus de Goiás",
+      "librasStructure": "BOM-JESUS-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Bom Jesus de Goiás. → EU NASCER BOM-JESUS-DE-GOIÁS.",
+        "Você conhece Bom Jesus de Goiás? → VOCÊ CONHECER BOM-JESUS-DE-GOIÁS?",
+        "Eu viajo para Bom Jesus de Goiás no fim de semana. → EU VIAJAR BOM-JESUS-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=141.116&end=144.804&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-71",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Bonfinópolis?",
+      "translation": "Bonfinópolis",
+      "librasStructure": "BONFINÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Bonfinópolis. → EU NASCER BONFINÓPOLIS.",
+        "Você conhece Bonfinópolis? → VOCÊ CONHECER BONFINÓPOLIS?",
+        "Eu viajo para Bonfinópolis no fim de semana. → EU VIAJAR BONFINÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=147.72&end=151.562&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-73",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Caiapônia. Como você sinaliza o nome da cidade?",
+      "translation": "Caiapônia",
+      "librasStructure": "CAIAPÔNIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Caiapônia. → EU NASCER CAIAPÔNIA.",
+        "Você conhece Caiapônia? → VOCÊ CONHECER CAIAPÔNIA?",
+        "Eu viajo para Caiapônia no fim de semana. → EU VIAJAR CAIAPÔNIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=162.039&end=166.801&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -310,17 +769,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=170.51&end=174.352&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-74",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Caldazinha. Como você sinaliza Caldazinha na resposta?",
+      "translation": "Caldazinha",
+      "librasStructure": "CALDAZINHA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Caldazinha. → EU NASCER CALDAZINHA.",
+        "Você conhece Caldazinha? → VOCÊ CONHECER CALDAZINHA?",
+        "Eu viajo para Caldazinha no fim de semana. → EU VIAJAR CALDAZINHA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=178.572&end=182.746&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -344,17 +841,87 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=186.685&end=190.552&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-75",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Campo Limpo de Goiás na resposta?",
+      "translation": "Campo Limpo de Goiás",
+      "librasStructure": "CAMPO-LIMPO-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Campo Limpo de Goiás. → EU NASCER CAMPO-LIMPO-DE-GOIÁS.",
+        "Você conhece Campo Limpo de Goiás? → VOCÊ CONHECER CAMPO-LIMPO-DE-GOIÁS?",
+        "Eu viajo para Campo Limpo de Goiás no fim de semana. → EU VIAJAR CAMPO-LIMPO-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=195&end=198.944&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-76",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Carmo do Rio Verde?",
+      "translation": "Carmo do Rio Verde",
+      "librasStructure": "CARMO-DO-RIO-VERDE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Carmo do Rio Verde. → EU NASCER CARMO-DO-RIO-VERDE.",
+        "Você conhece Carmo do Rio Verde? → VOCÊ CONHECER CARMO-DO-RIO-VERDE?",
+        "Eu viajo para Carmo do Rio Verde no fim de semana. → EU VIAJAR CARMO-DO-RIO-VERDE FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=202.627&end=205.983&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -378,17 +945,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=212.863&end=216.731&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-72",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Cavalcante?",
+      "translation": "Cavalcante",
+      "librasStructure": "CAVALCANTE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Cavalcante. → EU NASCER CAVALCANTE.",
+        "Você conhece Cavalcante? → VOCÊ CONHECER CAVALCANTE?",
+        "Eu viajo para Cavalcante no fim de semana. → EU VIAJAR CAVALCANTE FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=155&end=159.072&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -412,13 +1017,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=220.491&end=224.409&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -446,17 +1057,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=227.299&end=230.68&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-77",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Chapadão do Céu?",
+      "translation": "Chapadão do Céu",
+      "librasStructure": "CHAPADÃO-DO-CÉU",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Chapadão do Céu. → EU NASCER CHAPADÃO-DO-CÉU.",
+        "Você conhece Chapadão do Céu? → VOCÊ CONHECER CHAPADÃO-DO-CÉU?",
+        "Eu viajo para Chapadão do Céu no fim de semana. → EU VIAJAR CHAPADÃO-DO-CÉU FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=235.13&end=238.588&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -480,17 +1129,279 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=344.306&end=347.636&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-78",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Cidade Ocidental. Como você sinaliza o nome da cidade?",
+      "translation": "Cidade Ocidental",
+      "librasStructure": "CIDADE-OCIDENTAL",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Cidade Ocidental. → EU NASCER CIDADE-OCIDENTAL.",
+        "Você conhece Cidade Ocidental? → VOCÊ CONHECER CIDADE-OCIDENTAL?",
+        "Eu viajo para Cidade Ocidental no fim de semana. → EU VIAJAR CIDADE-OCIDENTAL FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=242.194&end=245.626&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-80",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Cocalzinho de Goiás na resposta?",
+      "translation": "Cocalzinho de Goiás",
+      "librasStructure": "COCALZINHO-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Cocalzinho de Goiás. → EU NASCER COCALZINHO-DE-GOIÁS.",
+        "Você conhece Cocalzinho de Goiás? → VOCÊ CONHECER COCALZINHO-DE-GOIÁS?",
+        "Eu viajo para Cocalzinho de Goiás no fim de semana. → EU VIAJAR COCALZINHO-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=256.34&end=260.669&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-79",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Corumbá de Goiás. Como você sinaliza Corumbá de Goiás na resposta?",
+      "translation": "Corumbá de Goiás",
+      "librasStructure": "CORUMBÁ-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Corumbá de Goiás. → EU NASCER CORUMBÁ-DE-GOIÁS.",
+        "Você conhece Corumbá de Goiás? → VOCÊ CONHECER CORUMBÁ-DE-GOIÁS?",
+        "Eu viajo para Corumbá de Goiás no fim de semana. → EU VIAJAR CORUMBÁ-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=249.151&end=253.188&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-81",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Cristalina?",
+      "translation": "Cristalina",
+      "librasStructure": "CRISTALINA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Cristalina. → EU NASCER CRISTALINA.",
+        "Você conhece Cristalina? → VOCÊ CONHECER CRISTALINA?",
+        "Eu viajo para Cristalina no fim de semana. → EU VIAJAR CRISTALINA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=264.589&end=268.049&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-82",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Crixás?",
+      "translation": "Crixás",
+      "librasStructure": "CRIXÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Crixás. → EU NASCER CRIXÁS.",
+        "Você conhece Crixás? → VOCÊ CONHECER CRIXÁS?",
+        "Eu viajo para Crixás no fim de semana. → EU VIAJAR CRIXÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=270.848&end=274.184&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-84",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Damolândia. Como você sinaliza Damolândia na resposta?",
+      "translation": "Damolândia",
+      "librasStructure": "DAMOLÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Damolândia. → EU NASCER DAMOLÂNDIA.",
+        "Você conhece Damolândia? → VOCÊ CONHECER DAMOLÂNDIA?",
+        "Eu viajo para Damolândia no fim de semana. → EU VIAJAR DAMOLÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=292.7&end=296.389&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-83",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Doverlândia. Como você sinaliza o nome da cidade?",
+      "translation": "Doverlândia",
+      "librasStructure": "DOVERLÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Doverlândia. → EU NASCER DOVERLÂNDIA.",
+        "Você conhece Doverlândia? → VOCÊ CONHECER DOVERLÂNDIA?",
+        "Eu viajo para Doverlândia no fim de semana. → EU VIAJAR DOVERLÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=278.659&end=282.356&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-85",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Firminópolis na resposta?",
+      "translation": "Firminópolis",
+      "librasStructure": "FIRMINÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Firminópolis. → EU NASCER FIRMINÓPOLIS.",
+        "Você conhece Firminópolis? → VOCÊ CONHECER FIRMINÓPOLIS?",
+        "Eu viajo para Firminópolis no fim de semana. → EU VIAJAR FIRMINÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=307.06&end=310.927&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -514,13 +1425,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=315&end=318.356&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -548,13 +1465,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=321.169&end=325.113&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -582,13 +1505,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=328.873&end=331.973&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -650,13 +1579,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=336.398&end=340.444&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -684,13 +1619,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=352.138&end=355.315&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -718,17 +1659,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=358.614&end=361.606&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-86",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Heitoraí?",
+      "translation": "Heitoraí",
+      "librasStructure": "HEITORAÍ",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Heitoraí. → EU NASCER HEITORAÍ.",
+        "Você conhece Heitoraí? → VOCÊ CONHECER HEITORAÍ?",
+        "Eu viajo para Heitoraí no fim de semana. → EU VIAJAR HEITORAÍ FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=365.187&end=368.568&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -752,13 +1731,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=371.458&end=375.376&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -820,13 +1805,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=377.806&end=381.775&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -854,13 +1845,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=384.537&end=388.941&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -888,17 +1885,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=390.941&end=394.194&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-87",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Israelândia?",
+      "translation": "Israelândia",
+      "librasStructure": "ISRAELÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Israelândia. → EU NASCER ISRAELÂNDIA.",
+        "Você conhece Israelândia? → VOCÊ CONHECER ISRAELÂNDIA?",
+        "Eu viajo para Israelândia no fim de semana. → EU VIAJAR ISRAELÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=396.752&end=401.182&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -922,13 +1957,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=403.944&end=408.425&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -956,17 +1997,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=410.65&end=415.284&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-88",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Itapuranga. Como você sinaliza o nome da cidade?",
+      "translation": "Itapuranga",
+      "librasStructure": "ITAPURANGA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Itapuranga. → EU NASCER ITAPURANGA.",
+        "Você conhece Itapuranga? → VOCÊ CONHECER ITAPURANGA?",
+        "Eu viajo para Itapuranga no fim de semana. → EU VIAJAR ITAPURANGA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=419.734&end=423.243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -990,13 +2069,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=426.542&end=430.332&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1024,13 +2109,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=432.225&end=435.836&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1058,13 +2149,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=439.468&end=442.9&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1092,17 +2189,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=445.509&end=449.325&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-89",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Jaupaci. Como você sinaliza Jaupaci na resposta?",
+      "translation": "Jaupaci",
+      "librasStructure": "JAUPACI",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Jaupaci. → EU NASCER JAUPACI.",
+        "Você conhece Jaupaci? → VOCÊ CONHECER JAUPACI?",
+        "Eu viajo para Jaupaci no fim de semana. → EU VIAJAR JAUPACI FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=453.008&end=457.029&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1126,17 +2261,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=459.203&end=463.07&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-90",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Leopoldo de Bulhões na resposta?",
+      "translation": "Leopoldo de Bulhões",
+      "librasStructure": "LEOPOLDO-DE-BULHÕES",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Leopoldo de Bulhões. → EU NASCER LEOPOLDO-DE-BULHÕES.",
+        "Você conhece Leopoldo de Bulhões? → VOCÊ CONHECER LEOPOLDO-DE-BULHÕES?",
+        "Eu viajo para Leopoldo de Bulhões no fim de semana. → EU VIAJAR LEOPOLDO-DE-BULHÕES FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=465.398&end=468.651&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1160,13 +2333,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=471.592&end=474.717&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1194,13 +2373,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=478.221&end=482.063&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1228,17 +2413,87 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=485.26&end=488.795&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-91",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Montes Claros de Goiás?",
+      "translation": "Montes Claros de Goiás",
+      "librasStructure": "MONTES-CLAROS-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Montes Claros de Goiás. → EU NASCER MONTES-CLAROS-DE-GOIÁS.",
+        "Você conhece Montes Claros de Goiás? → VOCÊ CONHECER MONTES-CLAROS-DE-GOIÁS?",
+        "Eu viajo para Montes Claros de Goiás no fim de semana. → EU VIAJAR MONTES-CLAROS-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=491.634&end=495.271&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-92",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Montividiu?",
+      "translation": "Montividiu",
+      "librasStructure": "MONTIVIDIU",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Montividiu. → EU NASCER MONTIVIDIU.",
+        "Você conhece Montividiu? → VOCÊ CONHECER MONTIVIDIU?",
+        "Eu viajo para Montividiu no fim de semana. → EU VIAJAR MONTIVIDIU FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=498.877&end=503.128&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1262,13 +2517,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=505.456&end=509.425&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1296,17 +2557,87 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=511.829&end=515.543&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-93",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Niquelândia. Como você sinaliza o nome da cidade?",
+      "translation": "Niquelândia",
+      "librasStructure": "NIQUELÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Niquelândia. → EU NASCER NIQUELÂNDIA.",
+        "Você conhece Niquelândia? → VOCÊ CONHECER NIQUELÂNDIA?",
+        "Eu viajo para Niquelândia no fim de semana. → EU VIAJAR NIQUELÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=518.612&end=522.326&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-94",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Nova Gama. Como você sinaliza Nova Gama na resposta?",
+      "translation": "Nova Gama",
+      "librasStructure": "NOVA-GAMA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Nova Gama. → EU NASCER NOVA-GAMA.",
+        "Você conhece Nova Gama? → VOCÊ CONHECER NOVA-GAMA?",
+        "Eu viajo para Nova Gama no fim de semana. → EU VIAJAR NOVA-GAMA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=524.5&end=528.418&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1330,17 +2661,151 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=532.127&end=535&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-95",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Orizona na resposta?",
+      "translation": "Orizona",
+      "librasStructure": "ORIZONA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Orizona. → EU NASCER ORIZONA.",
+        "Você conhece Orizona? → VOCÊ CONHECER ORIZONA?",
+        "Eu viajo para Orizona no fim de semana. → EU VIAJAR ORIZONA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=537.967&end=541.706&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-96",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Ouro Verde de Goiás?",
+      "translation": "Ouro Verde de Goiás",
+      "librasStructure": "OURO-VERDE-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Ouro Verde de Goiás. → EU NASCER OURO-VERDE-DE-GOIÁS.",
+        "Você conhece Ouro Verde de Goiás? → VOCÊ CONHECER OURO-VERDE-DE-GOIÁS?",
+        "Eu viajo para Ouro Verde de Goiás no fim de semana. → EU VIAJAR OURO-VERDE-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=543.854&end=546.979&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-97",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Padre Bernardo?",
+      "translation": "Padre Bernardo",
+      "librasStructure": "PADRE-BERNARDO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Padre Bernardo. → EU NASCER PADRE-BERNARDO.",
+        "Você conhece Padre Bernardo? → VOCÊ CONHECER PADRE-BERNARDO?",
+        "Eu viajo para Padre Bernardo no fim de semana. → EU VIAJAR PADRE-BERNARDO FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=549.409&end=553.199&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-98",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Palestina de Goiás. Como você sinaliza o nome da cidade?",
+      "translation": "Palestina de Goiás",
+      "librasStructure": "PALESTINA-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Palestina de Goiás. → EU NASCER PALESTINA-DE-GOIÁS.",
+        "Você conhece Palestina de Goiás? → VOCÊ CONHECER PALESTINA-DE-GOIÁS?",
+        "Eu viajo para Palestina de Goiás no fim de semana. → EU VIAJAR PALESTINA-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=555.501&end=559.726&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1364,17 +2829,215 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=563.537&end=566.893&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-99",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Palmelo. Como você sinaliza Palmelo na resposta?",
+      "translation": "Palmelo",
+      "librasStructure": "PALMELO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Palmelo. → EU NASCER PALMELO.",
+        "Você conhece Palmelo? → VOCÊ CONHECER PALMELO?",
+        "Eu viajo para Palmelo no fim de semana. → EU VIAJAR PALMELO FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=570.576&end=573.957&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-100",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Palminópolis na resposta?",
+      "translation": "Palminópolis",
+      "librasStructure": "PALMINÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Palminópolis. → EU NASCER PALMINÓPOLIS.",
+        "Você conhece Palminópolis? → VOCÊ CONHECER PALMINÓPOLIS?",
+        "Eu viajo para Palminópolis no fim de semana. → EU VIAJAR PALMINÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=576.105&end=579.588&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-101",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Panamá?",
+      "translation": "Panamá",
+      "librasStructure": "PANAMÁ",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Panamá. → EU NASCER PANAMÁ.",
+        "Você conhece Panamá? → VOCÊ CONHECER PANAMÁ?",
+        "Eu viajo para Panamá no fim de semana. → EU VIAJAR PANAMÁ FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=582.734&end=585.936&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-102",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Paraúna?",
+      "translation": "Paraúna",
+      "librasStructure": "PARAÚNA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Paraúna. → EU NASCER PARAÚNA.",
+        "Você conhece Paraúna? → VOCÊ CONHECER PARAÚNA?",
+        "Eu viajo para Paraúna no fim de semana. → EU VIAJAR PARAÚNA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=589.338&end=593.972&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-103",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Perolândia. Como você sinaliza o nome da cidade?",
+      "translation": "Perolândia",
+      "librasStructure": "PEROLÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Perolândia. → EU NASCER PEROLÂNDIA.",
+        "Você conhece Perolândia? → VOCÊ CONHECER PEROLÂNDIA?",
+        "Eu viajo para Perolândia no fim de semana. → EU VIAJAR PEROLÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=596.376&end=600.243&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-104",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Petrolina de Goiás. Como você sinaliza Petrolina de Goiás na resposta?",
+      "translation": "Petrolina de Goiás",
+      "librasStructure": "PETROLINA-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Petrolina de Goiás. → EU NASCER PETROLINA-DE-GOIÁS.",
+        "Você conhece Petrolina de Goiás? → VOCÊ CONHECER PETROLINA-DE-GOIÁS?",
+        "Eu viajo para Petrolina de Goiás no fim de semana. → EU VIAJAR PETROLINA-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=602.468&end=606.335&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1398,13 +3061,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=609.379&end=613.886&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1432,13 +3101,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=616.981&end=620.976&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1466,13 +3141,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=624.096&end=627.375&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1500,17 +3181,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=630.521&end=634.823&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-105",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Planaltina de Goiás na resposta?",
+      "translation": "Planaltina de Goiás",
+      "librasStructure": "PLANALTINA-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Planaltina de Goiás. → EU NASCER PLANALTINA-DE-GOIÁS.",
+        "Você conhece Planaltina de Goiás? → VOCÊ CONHECER PLANALTINA-DE-GOIÁS?",
+        "Eu viajo para Planaltina de Goiás no fim de semana. → EU VIAJAR PLANALTINA-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=638.429&end=642.577&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1534,13 +3253,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=645.8&end=649.769&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1568,17 +3293,119 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=652.813&end=657.089&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-106",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Portelândia?",
+      "translation": "Portelândia",
+      "librasStructure": "PORTELÂNDIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Portelândia. → EU NASCER PORTELÂNDIA.",
+        "Você conhece Portelândia? → VOCÊ CONHECER PORTELÂNDIA?",
+        "Eu viajo para Portelândia no fim de semana. → EU VIAJAR PORTELÂNDIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=660.516&end=665.074&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-107",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Posse?",
+      "translation": "Posse",
+      "librasStructure": "POSSE",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Posse. → EU NASCER POSSE.",
+        "Você conhece Posse? → VOCÊ CONHECER POSSE?",
+        "Eu viajo para Posse no fim de semana. → EU VIAJAR POSSE FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=668.655&end=672.138&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-108",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Professor Jamil. Como você sinaliza o nome da cidade?",
+      "translation": "Professor Jamil",
+      "librasStructure": "PROFESSOR-JAMIL",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Professor Jamil. → EU NASCER PROFESSOR-JAMIL.",
+        "Você conhece Professor Jamil? → VOCÊ CONHECER PROFESSOR-JAMIL?",
+        "Eu viajo para Professor Jamil no fim de semana. → EU VIAJAR PROFESSOR-JAMIL FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=675&end=678.816&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1602,17 +3429,55 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=683.369&end=687.211&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-109",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Registro do Araguaia. Como você sinaliza Registro do Araguaia na resposta?",
+      "translation": "Registro do Araguaia",
+      "librasStructure": "REGISTRO-DO-ARAGUAIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Registro do Araguaia. → EU NASCER REGISTRO-DO-ARAGUAIA.",
+        "Você conhece Registro do Araguaia? → VOCÊ CONHECER REGISTRO-DO-ARAGUAIA?",
+        "Eu viajo para Registro do Araguaia no fim de semana. → EU VIAJAR REGISTRO-DO-ARAGUAIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=690.51&end=695.298&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1636,13 +3501,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=697.779&end=701.774&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1670,13 +3541,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=705.662&end=708.89&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1704,13 +3581,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=711.729&end=715.238&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1738,13 +3621,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=717.796&end=721.484&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1772,17 +3661,87 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=723.812&end=727.116&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-111",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Santo Antônio de Goiás?",
+      "translation": "Santo Antônio de Goiás",
+      "librasStructure": "SANTO-ANTÔNIO-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Santo Antônio de Goiás. → EU NASCER SANTO-ANTÔNIO-DE-GOIÁS.",
+        "Você conhece Santo Antônio de Goiás? → VOCÊ CONHECER SANTO-ANTÔNIO-DE-GOIÁS?",
+        "Eu viajo para Santo Antônio de Goiás no fim de semana. → EU VIAJAR SANTO-ANTÔNIO-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=735.741&end=740&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-110",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Santo Antônio do Descoberto na resposta?",
+      "translation": "Santo Antônio do Descoberto",
+      "librasStructure": "SANTO-ANTÔNIO-DO-DESCOBERTO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Santo Antônio do Descoberto. → EU NASCER SANTO-ANTÔNIO-DO-DESCOBERTO.",
+        "Você conhece Santo Antônio do Descoberto? → VOCÊ CONHECER SANTO-ANTÔNIO-DO-DESCOBERTO?",
+        "Eu viajo para Santo Antônio do Descoberto no fim de semana. → EU VIAJAR SANTO-ANTÔNIO-DO-DESCOBERTO FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=728.779&end=733.107&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1806,17 +3765,87 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=742.686&end=746.374&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-112",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza São Miguel do Araguaia?",
+      "translation": "São Miguel do Araguaia",
+      "librasStructure": "SÃO-MIGUEL-DO-ARAGUAIA",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em São Miguel do Araguaia. → EU NASCER SÃO-MIGUEL-DO-ARAGUAIA.",
+        "Você conhece São Miguel do Araguaia? → VOCÊ CONHECER SÃO-MIGUEL-DO-ARAGUAIA?",
+        "Eu viajo para São Miguel do Araguaia no fim de semana. → EU VIAJAR SÃO-MIGUEL-DO-ARAGUAIA FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=749.136&end=752.389&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-113",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para São Simão. Como você sinaliza o nome da cidade?",
+      "translation": "São Simão",
+      "librasStructure": "SÃO-SIMÃO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em São Simão. → EU NASCER SÃO-SIMÃO.",
+        "Você conhece São Simão? → VOCÊ CONHECER SÃO-SIMÃO?",
+        "Eu viajo para São Simão no fim de semana. → EU VIAJAR SÃO-SIMÃO FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=754.389&end=758.256&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1840,13 +3869,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=760.916&end=764.63&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1874,17 +3909,119 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=767.495&end=770.697&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-114",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Taquaral de Goiás. Como você sinaliza Taquaral de Goiás na resposta?",
+      "translation": "Taquaral de Goiás",
+      "librasStructure": "TAQUARAL-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Taquaral de Goiás. → EU NASCER TAQUARAL-DE-GOIÁS.",
+        "Você conhece Taquaral de Goiás? → VOCÊ CONHECER TAQUARAL-DE-GOIÁS?",
+        "Eu viajo para Taquaral de Goiás no fim de semana. → EU VIAJAR TAQUARAL-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=774.406&end=777.941&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-115",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Teresópolis de Goiás na resposta?",
+      "translation": "Teresópolis de Goiás",
+      "librasStructure": "TERESÓPOLIS-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Teresópolis de Goiás. → EU NASCER TERESÓPOLIS-DE-GOIÁS.",
+        "Você conhece Teresópolis de Goiás? → VOCÊ CONHECER TERESÓPOLIS-DE-GOIÁS?",
+        "Eu viajo para Teresópolis de Goiás no fim de semana. → EU VIAJAR TERESÓPOLIS-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=781.138&end=784.775&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-116",
+      "section": "Cidades",
+      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Três Ranchos?",
+      "translation": "Três Ranchos",
+      "librasStructure": "TRÊS-RANCHOS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Três Ranchos. → EU NASCER TRÊS-RANCHOS.",
+        "Você conhece Três Ranchos? → VOCÊ CONHECER TRÊS-RANCHOS?",
+        "Eu viajo para Três Ranchos no fim de semana. → EU VIAJAR TRÊS-RANCHOS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=787.051&end=790.509&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }
@@ -1908,13 +4045,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=793.502&end=797.65&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-18T18:42:30.632Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1942,13 +4085,19 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=800&end=803.509&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
@@ -1976,17 +4125,151 @@
           "states": [
             "GO"
           ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=806.374&end=810.446&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-10-28T14:50:28.694Z",
           "changes": [
             "created",
             "edited",
             "examples",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-117",
+      "section": "Cidades",
+      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Urutaí?",
+      "translation": "Urutaí",
+      "librasStructure": "URUTAÍ",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Urutaí. → EU NASCER URUTAÍ.",
+        "Você conhece Urutaí? → VOCÊ CONHECER URUTAÍ?",
+        "Eu viajo para Urutaí no fim de semana. → EU VIAJAR URUTAÍ FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=813.362&end=817.025&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-118",
+      "section": "Cidades",
+      "situation": "Você conta a um amigo que vai viajar para Valparaíso de Goiás. Como você sinaliza o nome da cidade?",
+      "translation": "Valparaíso de Goiás",
+      "librasStructure": "VALPARAÍSO-DE-GOIÁS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Valparaíso de Goiás. → EU NASCER VALPARAÍSO-DE-GOIÁS.",
+        "Você conhece Valparaíso de Goiás? → VOCÊ CONHECER VALPARAÍSO-DE-GOIÁS?",
+        "Eu viajo para Valparaíso de Goiás no fim de semana. → EU VIAJAR VALPARAÍSO-DE-GOIÁS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=820.12&end=824.141&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-119",
+      "section": "Cidades",
+      "situation": "Um colega pergunta se você conhece Varjão. Como você sinaliza Varjão na resposta?",
+      "translation": "Varjão",
+      "librasStructure": "VARJÃO",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Varjão. → EU NASCER VARJÃO.",
+        "Você conhece Varjão? → VOCÊ CONHECER VARJÃO?",
+        "Eu viajo para Varjão no fim de semana. → EU VIAJAR VARJÃO FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=826.494&end=830.361&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
+            "videos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goias-120",
+      "section": "Cidades",
+      "situation": "Um colega pergunta onde você mora. Como você sinaliza Vianópolis na resposta?",
+      "translation": "Vianópolis",
+      "librasStructure": "VIANÓPOLIS",
+      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "examples": [
+        "Eu nasci em Vianópolis. → EU NASCER VIANÓPOLIS.",
+        "Você conhece Vianópolis? → VOCÊ CONHECER VIANÓPOLIS?",
+        "Eu viajo para Vianópolis no fim de semana. → EU VIAJAR VIANÓPOLIS FIM-DE-SEMANA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dey1iI_IV60?start=832.765&end=837.195&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dey1iI_IV60",
+          "states": [
+            "GO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-28T16:10:25.000Z",
+          "changes": [
+            "created",
             "videos"
           ]
         }

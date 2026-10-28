@@ -83,7 +83,7 @@ self.addEventListener('push', (evento) => {
       badge: estado && estado.icone,
       lang: 'pt-BR',
       tag: 'libras-lembrete',
-      data: { url: (estado && estado.destino) || self.registration.scope }
+      data: { url: enviada.url || (estado && estado.destino) || self.registration.scope }
     });
   })());
 });
