@@ -281,6 +281,78 @@
       ]
     },
     {
+      "id": "diogo-aplicativos-sites",
+      "hash": "103e2c7ed8188bbd",
+      "updatedAt": "2026-10-30T11:23:48.021Z",
+      "title": "Aplicativos & Sites — Diogo Marques Libras",
+      "description": "",
+      "cardCount": 30,
+      "collection": "Tecnologia"
+    },
+    {
+      "id": "diogo-dicionario",
+      "hash": "688c8eaf330bff23",
+      "updatedAt": "2026-10-30T11:17:34.931Z",
+      "title": "Dicionário — Diogo Marques Libras",
+      "description": "",
+      "cardCount": 53,
+      "collection": "Vocabulário"
+    },
+    {
+      "id": "diogo-historia-area-do-conhecimento",
+      "hash": "b1a3f1f67c2c5366",
+      "updatedAt": "2026-10-30T11:19:35.516Z",
+      "title": "História (Área do conhecimento) — Diogo Marques Libras",
+      "description": "",
+      "cardCount": 56,
+      "collection": "Cultura"
+    },
+    {
+      "id": "diogo-periodos-da-historia",
+      "hash": "16ae195acb4e2d99",
+      "updatedAt": "2026-10-30T11:18:21.070Z",
+      "title": "Períodos da História — Diogo Marques Libras",
+      "description": "",
+      "cardCount": 6,
+      "collection": "Cultura"
+    },
+    {
+      "id": "diogo-personalidades",
+      "hash": "c1e336b481ee4517",
+      "updatedAt": "2026-10-30T11:18:09.416Z",
+      "title": "Personalidades — Diogo Marques Libras",
+      "description": "",
+      "cardCount": 20,
+      "collection": "Cultura"
+    },
+    {
+      "id": "diogo-sinal-conceito-01",
+      "hash": "5fc641d05ec99f44",
+      "updatedAt": "2026-10-30T11:21:05.403Z",
+      "title": "Sinal & conceito — Diogo Marques Libras (1)",
+      "description": "",
+      "cardCount": 60,
+      "collection": "Vocabulário"
+    },
+    {
+      "id": "diogo-sinal-conceito-02",
+      "hash": "a0fbdec4895553f8",
+      "updatedAt": "2026-10-30T11:22:39.042Z",
+      "title": "Sinal & conceito — Diogo Marques Libras (2)",
+      "description": "",
+      "cardCount": 60,
+      "collection": "Vocabulário"
+    },
+    {
+      "id": "diogo-sinal-conceito-03",
+      "hash": "6908f7fc7e4e6c4b",
+      "updatedAt": "2026-10-30T11:23:04.380Z",
+      "title": "Sinal & conceito — Diogo Marques Libras (3)",
+      "description": "",
+      "cardCount": 10,
+      "collection": "Vocabulário"
+    },
+    {
       "id": "direito-em-libras",
       "hash": "007b26f86eb0ccef",
       "updatedAt": "2026-10-08T05:23:42.115Z",
@@ -1251,6 +1323,15 @@
           "reason": "Comece pelo vocabulário básico de saúde."
         }
       ]
+    },
+    {
+      "id": "scl-religiao-01",
+      "hash": "36fb9d15fa565700",
+      "updatedAt": "2026-10-30T10:42:46.795Z",
+      "title": "Religião católica em Libras — SCL (1)",
+      "description": "",
+      "cardCount": 60,
+      "collection": "Religião"
     },
     {
       "id": "sinais-diarios-adjetivo",
