@@ -1785,66 +1785,80 @@
     },
     {
       "id": "tatils-libras-tatils-libras-alimentos",
-      "hash": "7717c3abb3454f4e",
+      "hash": "65cb2d2e9f178daa",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | ALIMENTOS |",
       "description": "Sinais da playlist “TATILS LIBRAS | ALIMENTOS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 1,
-      "collection": "Vocabulário"
+      "collection": "Vocabulário",
+      "order": 99,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-girias",
-      "hash": "3e90bc0c02708649",
+      "hash": "506c4cea83ea7649",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | GÍRIAS |",
       "description": "Sinais da playlist “TATILS LIBRAS | GÍRIAS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 1,
-      "collection": "Dia a dia"
+      "collection": "Dia a dia",
+      "order": 99,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-grupo-empresarial",
-      "hash": "07cbacb04caae6b3",
+      "hash": "ba893c577bb1b9e6",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
       "description": "Sinais da playlist “TATILS LIBRAS | GRUPO EMPRESARIAL |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 2,
-      "collection": "Áreas profissionais"
+      "collection": "Áreas profissionais",
+      "order": 99,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-justica",
-      "hash": "963606bc0fd1f027",
+      "hash": "7e584b8f244ebd3b",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | JUSTIÇA |",
       "description": "Sinais da playlist “TATILS LIBRAS | JUSTIÇA |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 1,
-      "collection": "Áreas profissionais"
+      "collection": "Áreas profissionais",
+      "order": 100,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-personalidades",
-      "hash": "473721d942153331",
+      "hash": "130bd3d2a34f81e1",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | PERSONALIDADES",
       "description": "Sinais da playlist “TATILS LIBRAS | PERSONALIDADES”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 2,
-      "collection": "Cultura"
+      "collection": "Cultura",
+      "order": 99,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-profissoes",
-      "hash": "e0b0b721e06aa699",
+      "hash": "39e948c2f8b3d981",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | PROFISSÕES |",
       "description": "Sinais da playlist “TATILS LIBRAS | PROFISSÕES |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 1,
-      "collection": "Áreas profissionais"
+      "collection": "Áreas profissionais",
+      "order": 101,
+      "difficulty": "basico"
     },
     {
       "id": "tatils-libras-tatils-libras-psicologia",
-      "hash": "b77298eccf6709f5",
+      "hash": "18d1d9903f9a4240",
       "updatedAt": "2026-11-04T12:24:06.269Z",
       "title": "TATILS LIBRAS | PSICOLOGIA|",
       "description": "Sinais da playlist “TATILS LIBRAS | PSICOLOGIA|”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
       "cardCount": 3,
-      "collection": "Áreas profissionais"
+      "collection": "Áreas profissionais",
+      "order": 102,
+      "difficulty": "basico"
     },
     {
       "id": "traducao-protagonismo-surdo-biblia-tps",

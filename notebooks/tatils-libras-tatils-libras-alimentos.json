@@ -19,11 +19,15 @@
       "email": "marco.aq7@gmail.com",
       "at": "2026-11-07T00:00:00.000Z",
       "changes": [
-        "collection"
+        "collection",
+        "difficulty",
+        "order"
       ]
     }
   ],
   "collection": "Vocabulário",
+  "order": 99,
+  "difficulty": "basico",
   "cards": [
     {
       "id": "tatils-libras-tatils-libras-alimentos-pluzb7UTI5g",
