@@ -1,7 +1,7 @@
 {
   "id": "cidades-goias",
   "title": "Libras III - Cidades de Goiás",
-  "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
+  "description": "Sinais de cidades goianas em situações do dia a dia. Fonte dos gestos: vídeos do NAS Goiânia/CAS (https://casgoiania.com.br). As notas de origem do nome, origem do sinal e execução vêm das fichas de SOUZA, Kássia Mariano de. Registro, descrição e análise motivacional dos sinais de cidades do estado de Goiás: a Toponímia em Libras numa interface com a Linguística de Corpus. Tese de doutorado, Universidade Federal de Uberlândia, 2023. DOI: 10.14393/ufu.te.2023.8027. https://repositorio.ufu.br/handle/123456789/37703. Cidades sem ficha na tese trazem apenas a orientação geral de observação do sinal.",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T15:58:12.028Z",
@@ -9,12 +9,13 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:50:02.870Z",
+      "at": "2026-11-05T11:25:34.190Z",
       "changes": [
         "created",
         "edited",
         "videos",
-        "description"
+        "description",
+        "notes"
       ]
     }
   ],
@@ -25,10 +26,10 @@
     {
       "id": "goias-02",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Abadia de Goiás na resposta?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Abadia de Goiás e confirme se ela entendeu o destino.",
       "translation": "Abadia de Goiás",
       "librasStructure": "ABADIA-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nasceu de uma promessa: uma mãe construiu a igreja (1963) em honra a Nossa Senhora d'Abadia, e a santa deu nome à cidade.</p><p><strong>Origem do sinal:</strong> Os surdos usam PASSEAR, lembrando o turismo e as belezas naturais que atraem visitantes.</p><p><strong>Como fazer:</strong> Duas mãos, palmas para baixo, na altura dos ombros, em movimento circular espelhado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 001.</em></p>",
       "examples": [
         "Eu moro em Abadia de Goiás. → EU MORAR ABADIA-DE-GOIÁS.",
         "Você mora em Abadia de Goiás também? → VOCÊ MORAR ABADIA-DE-GOIÁS TAMBÉM?",
@@ -52,12 +53,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T15:31:08.935Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -65,10 +67,10 @@
     {
       "id": "goias-61",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Abadiânia?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Abadiânia e pergunte se a pessoa conhece a cidade.",
       "translation": "Abadiânia",
       "librasStructure": "ABADIÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Abadiânia. → EU NASCER ABADIÂNIA.",
         "Você conhece Abadiânia? → VOCÊ CONHECER ABADIÂNIA?",
@@ -84,12 +86,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -97,10 +100,10 @@
     {
       "id": "goias-03",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Acreúna?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Acreúna e verifique se ele anotou o lugar certo.",
       "translation": "Acreúna",
       "librasStructure": "ACREÚNA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Junção de Acre + Paraúna: fica na BR-060, que liga Goiânia ao Acre, em território de Paraúna.</p><p><strong>Origem do sinal:</strong> Vem da bandeira do Acre, que tem uma estrela: o sinal representa a estrela.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas para baixo; polegar e indicador abrem e fecham, com movimento alternado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 002.</em></p>",
       "examples": [
         "Eu nasci em Acreúna. → EU NASCER ACREÚNA.",
         "Sua família é de Acreúna? → FAMÍLIA SUA ACREÚNA?",
@@ -124,12 +127,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T15:30:11.666Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -137,10 +141,10 @@
     {
       "id": "goias-62",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Águas Lindas de Goiás?",
+      "situation": "Ao combinar uma visita, um amigo entende apenas “Águas Lindas” e pergunta em qual estado fica. Esclareça que o destino é Águas Lindas de Goiás.",
       "translation": "Águas Lindas de Goiás",
       "librasStructure": "ÁGUAS-LINDAS-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Águas Lindas de Goiás. → EU NASCER ÁGUAS-LINDAS-DE-GOIÁS.",
         "Você conhece Águas Lindas de Goiás? → VOCÊ CONHECER ÁGUAS-LINDAS-DE-GOIÁS?",
@@ -156,12 +160,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -169,10 +174,10 @@
     {
       "id": "goias-60",
       "section": "Cidades",
-      "situation": "Um colega quer saber se você conhece Alexânia. Como você sinaliza Alexânia na resposta?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Alexânia e pergunte se ele já ouviu falar de lá.",
       "translation": "Alexânia",
       "librasStructure": "ALEXÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao fundador Alex Abdallah, que idealizou a cidade em 1957.</p><p><strong>Origem do sinal:</strong> Usa a grafia do nome: a sigla AL.</p><p><strong>Como fazer:</strong> Uma mão, palma lateral, do tronco até a cintura em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 004.</em></p>",
       "examples": [
         "Eu moro em Alexânia. → EU MORAR ALEXÂNIA.",
         "Você mora em Alexânia também? → VOCÊ MORAR ALEXÂNIA TAMBÉM?",
@@ -188,12 +193,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:05:46.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -201,10 +207,10 @@
     {
       "id": "goias-63",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Alto Paraíso de Goiás. Como você sinaliza o nome da cidade?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Alto Paraíso de Goiás e explique que gostaria de conhecer o lugar.",
       "translation": "Alto Paraíso de Goiás",
       "librasStructure": "ALTO-PARAÍSO-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Alto Paraíso de Goiás. → EU NASCER ALTO-PARAÍSO-DE-GOIÁS.",
         "Você conhece Alto Paraíso de Goiás? → VOCÊ CONHECER ALTO-PARAÍSO-DE-GOIÁS?",
@@ -220,12 +226,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -233,10 +240,10 @@
     {
       "id": "goias-64",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Amorinópolis. Como você sinaliza Amorinópolis na resposta?",
+      "situation": "No grupo de trabalho, perguntam para qual cidade você irá na próxima semana. Diga que a reunião será em Amorinópolis e combine como avisará quando chegar.",
       "translation": "Amorinópolis",
       "librasStructure": "AMORINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Amorinópolis. → EU NASCER AMORINÓPOLIS.",
         "Você conhece Amorinópolis? → VOCÊ CONHECER AMORINÓPOLIS?",
@@ -252,12 +259,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -265,10 +273,10 @@
     {
       "id": "goias-04",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Anápolis?",
+      "situation": "No grupo da turma, duas pessoas combinam onde se encontrar antes de uma viagem. Diga que o ponto de encontro será em Anápolis.",
       "translation": "Anápolis",
       "librasStructure": "ANÁPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Surgiu no Ribeirão das Antas, na época do ouro; a capela de Sant'Ana, padroeira, inspirou o nome (emancipação em 1907).</p><p><strong>Variante 1 — origem do sinal:</strong> Letra A, da grafia do nome.<br><strong>Como fazer:</strong> Uma mão, palma lateral, em linha reta do lado esquerdo para o direito do busto.</p><p><strong>Variante 2 — origem do sinal:</strong> Mesma motivação (letra A); muda apenas o ponto de articulação.<br><strong>Como fazer:</strong> Letra A em outro ponto do corpo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 006 e 007.</em></p>",
       "examples": [
         "No sábado vou viajar para Anápolis. → SÁBADO EU VIAJAR ANÁPOLIS.",
         "Você já foi a Anápolis? → VOCÊ IR ANÁPOLIS JÁ?",
@@ -292,12 +300,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -305,10 +314,10 @@
     {
       "id": "goias-05",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Anicuns?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Anicuns e peça que ela confira se encontrou o nome correto.",
       "translation": "Anicuns",
       "librasStructure": "ANICUNS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem dos Guanicuns, tribo indígena da região.</p><p><strong>Origem do sinal:</strong> Letra A, inicial do nome.</p><p><strong>Como fazer:</strong> Uma mão, palma para baixo, junto ao nariz, em linha reta para a frente.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 008.</em></p>",
       "examples": [
         "Eu trabalho em Anicuns. → EU TRABALHAR ANICUNS.",
         "Você estuda em Anicuns? → VOCÊ ESTUDAR ANICUNS?",
@@ -332,12 +341,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T15:32:18.254Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -345,10 +355,10 @@
     {
       "id": "goias-06",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Aparecida de Goiânia na resposta?",
+      "situation": "Ao informar um endereço para uma visita, sua colega confunde Aparecida de Goiânia com Goiânia. Esclareça em qual cidade fica o local.",
       "translation": "Aparecida de Goiânia",
       "librasStructure": "APARECIDA-DE-GOIÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Era um arraial; a capela de Nossa Senhora Aparecida o fez Arraial de Aparecida e, em 1963, Aparecida de Goiânia.</p><p><strong>Origem do sinal:</strong> Letras A e G. Relato de participante surda: «Aparecida de Goiânia por causa A-G».</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas para trás, com contato duplo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 009.</em></p>",
       "examples": [
         "Eu moro em Aparecida de Goiânia. → EU MORAR APARECIDA-DE-GOIÂNIA.",
         "Você mora em Aparecida de Goiânia também? → VOCÊ MORAR APARECIDA-DE-GOIÂNIA TAMBÉM?",
@@ -372,12 +382,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -385,10 +396,10 @@
     {
       "id": "goias-65",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Aparecida do Rio Doce na resposta?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Aparecida do Rio Doce e pergunte se a pessoa já foi até lá.",
       "translation": "Aparecida do Rio Doce",
       "librasStructure": "APARECIDA-DO-RIO-DOCE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Aparecida do Rio Doce. → EU NASCER APARECIDA-DO-RIO-DOCE.",
         "Você conhece Aparecida do Rio Doce? → VOCÊ CONHECER APARECIDA-DO-RIO-DOCE?",
@@ -404,12 +415,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -417,10 +429,10 @@
     {
       "id": "goias-66",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Aragarças?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Aragarças e confira com ela o nome da cidade.",
       "translation": "Aragarças",
       "librasStructure": "ARAGARÇAS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Aragarças. → EU NASCER ARAGARÇAS.",
         "Você conhece Aragarças? → VOCÊ CONHECER ARAGARÇAS?",
@@ -436,12 +448,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -449,10 +462,10 @@
     {
       "id": "goias-67",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Aragoiânia?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Aragoiânia e peça que repitam o nome para confirmar.",
       "translation": "Aragoiânia",
       "librasStructure": "ARAGOIÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Aragoiânia. → EU NASCER ARAGOIÂNIA.",
         "Você conhece Aragoiânia? → VOCÊ CONHECER ARAGOIÂNIA?",
@@ -468,12 +481,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -481,14 +495,14 @@
     {
       "id": "goias-07",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Araunã?",
-      "translation": "Araunã",
-      "librasStructure": "ARAUNÃ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Aruanã e pergunte se todos concordam com o destino.",
+      "translation": "Aruanã",
+      "librasStructure": "ARUANÃ",
+      "notes": "<p><strong>Origem do nome:</strong> Nome de um peixe do rio Araguaia.</p><p><strong>Variante 1 — origem do sinal:</strong> Letra A, inicial do nome.<br><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para a frente, em movimento semicircular.</p><p><strong>Variante 2 — origem do sinal:</strong> Letra A + movimento sinuoso, que representa o rio Araguaia, ponto turístico da cidade.<br><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas laterais, em movimento sinuoso espelhado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 010 e 011.</em></p>",
       "examples": [
-        "Eu nasci em Araunã. → EU NASCER ARAUNÃ.",
-        "Sua família é de Araunã? → FAMÍLIA SUA ARAUNÃ?",
-        "Araunã fica longe da capital. → ARAUNÃ LONGE CAPITAL."
+        "Eu nasci em Aruanã. → EU NASCER ARUANÃ.",
+        "Sua família é de Aruanã? → FAMÍLIA SUA ARUANÃ?",
+        "Aruanã fica longe da capital. → ARUANÃ LONGE CAPITAL."
       ],
       "videos": [
         {
@@ -502,12 +516,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -515,10 +530,10 @@
     {
       "id": "goias-68",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Avelinópolis. Como você sinaliza o nome da cidade?",
+      "situation": "Você conversa com uma pessoa que procura uma cidade goiana para visitar. Sugira Avelinópolis e pergunte se ela quer incluí-la no roteiro.",
       "translation": "Avelinópolis",
       "librasStructure": "AVELINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a João Avelino Gomes, um dos primeiros desbravadores e fundador do município.</p><p><strong>Origem do sinal:</strong> Sigla AV.</p><p><strong>Como fazer:</strong> Mão dominante, palma para a frente, no antebraço da mão não dominante, em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 012.</em></p>",
       "examples": [
         "Eu nasci em Avelinópolis. → EU NASCER AVELINÓPOLIS.",
         "Você conhece Avelinópolis? → VOCÊ CONHECER AVELINÓPOLIS?",
@@ -534,12 +549,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -547,10 +563,10 @@
     {
       "id": "goias-08",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Baliza?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Baliza e confirme se ela entendeu o destino.",
       "translation": "Baliza",
       "librasStructure": "BALIZA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Uma pedra de cinco metros no meio do rio Araguaia servia de ponto de referência.</p><p><strong>Origem do sinal:</strong> Letra inicial do nome (B).</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, a dominante com a palma para a frente e a outra para trás, com contato duplo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 013.</em></p>",
       "examples": [
         "No sábado vou viajar para Baliza. → SÁBADO EU VIAJAR BALIZA.",
         "Você já foi a Baliza? → VOCÊ IR BALIZA JÁ?",
@@ -574,12 +590,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -587,10 +604,10 @@
     {
       "id": "goias-09",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Bela Vista?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Bela Vista e pergunte se a pessoa conhece a cidade.",
       "translation": "Bela Vista",
       "librasStructure": "BELA-VISTA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem das belas paisagens da região: serras, rios e ribeirões.</p><p><strong>Variante 1 — origem do sinal:</strong> Sigla BV.<br><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para a frente, em linha reta.</p><p><strong>Variante 2 — origem do sinal:</strong> Sigla BV; muda apenas o ponto de articulação.<br><strong>Como fazer:</strong> Mão dominante no antebraço da não dominante, palma para a frente, em linha reta da esquerda para a direita.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 014 e 015.</em></p>",
       "examples": [
         "Eu trabalho em Bela Vista. → EU TRABALHAR BELA-VISTA.",
         "Você estuda em Bela Vista? → VOCÊ ESTUDAR BELA-VISTA?",
@@ -614,12 +631,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -627,10 +645,10 @@
     {
       "id": "goias-69",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Bom Jardim de Goiás. Como você sinaliza Bom Jardim de Goiás na resposta?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Bom Jardim de Goiás e verifique se ele anotou o lugar certo.",
       "translation": "Bom Jardim de Goiás",
       "librasStructure": "BOM-JARDIM-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Bom Jardim de Goiás. → EU NASCER BOM-JARDIM-DE-GOIÁS.",
         "Você conhece Bom Jardim de Goiás? → VOCÊ CONHECER BOM-JARDIM-DE-GOIÁS?",
@@ -646,12 +664,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -659,10 +678,10 @@
     {
       "id": "goias-70",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Bom Jesus de Goiás na resposta?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Bom Jesus de Goiás e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Bom Jesus de Goiás",
       "librasStructure": "BOM-JESUS-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Bom Jesus de Goiás. → EU NASCER BOM-JESUS-DE-GOIÁS.",
         "Você conhece Bom Jesus de Goiás? → VOCÊ CONHECER BOM-JESUS-DE-GOIÁS?",
@@ -678,12 +697,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -691,10 +711,10 @@
     {
       "id": "goias-71",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Bonfinópolis?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Bonfinópolis e pergunte se ele já ouviu falar de lá.",
       "translation": "Bonfinópolis",
       "librasStructure": "BONFINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Bonfinópolis. → EU NASCER BONFINÓPOLIS.",
         "Você conhece Bonfinópolis? → VOCÊ CONHECER BONFINÓPOLIS?",
@@ -710,12 +730,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -723,10 +744,10 @@
     {
       "id": "goias-73",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Caiapônia. Como você sinaliza o nome da cidade?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Caiapônia e explique que gostaria de conhecer o lugar.",
       "translation": "Caiapônia",
       "librasStructure": "CAIAPÔNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Caiapônia. → EU NASCER CAIAPÔNIA.",
         "Você conhece Caiapônia? → VOCÊ CONHECER CAIAPÔNIA?",
@@ -742,12 +763,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -755,10 +777,10 @@
     {
       "id": "goias-10",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Caldas Novas na resposta?",
+      "situation": "Sua família conversa sobre uma viagem para aproveitar as águas termais. Ao escolher o destino no mapa, conte que vocês pensaram em Caldas Novas.",
       "translation": "Caldas Novas",
       "librasStructure": "CALDAS-NOVAS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Em 1722, Bartolomeu Bueno da Silva Filho achou águas quentes numa serra; doentes buscavam cura ali e o povoado virou Caldas Novas.</p><p><strong>Origem do sinal:</strong> Usa o sinal QUENTE, pois é a cidade das águas quentes. Relato de participante surda: «tem água quente, por isso faz sinal quente na boca».</p><p><strong>Como fazer:</strong> Uma mão em frente à boca, palma lateral, em linha reta, com os dedos tamborilando.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 021.</em></p>",
       "examples": [
         "Eu moro em Caldas Novas. → EU MORAR CALDAS-NOVAS.",
         "Você mora em Caldas Novas também? → VOCÊ MORAR CALDAS-NOVAS TAMBÉM?",
@@ -782,12 +804,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -795,10 +818,10 @@
     {
       "id": "goias-74",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Caldazinha. Como você sinaliza Caldazinha na resposta?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Caldazinha e confirme o destino.",
       "translation": "Caldazinha",
       "librasStructure": "CALDAZINHA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Caldazinha. → EU NASCER CALDAZINHA.",
         "Você conhece Caldazinha? → VOCÊ CONHECER CALDAZINHA?",
@@ -814,12 +837,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -827,10 +851,10 @@
     {
       "id": "goias-11",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Campestre de Goiás?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Campestre de Goiás e peça que ela confira se encontrou o nome correto.",
       "translation": "Campestre de Goiás",
       "librasStructure": "CAMPESTRE-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fica às margens do Córrego Campestre.</p><p><strong>Origem do sinal:</strong> Letra C.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas laterais, em movimento semicircular alternado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 022.</em></p>",
       "examples": [
         "Eu nasci em Campestre de Goiás. → EU NASCER CAMPESTRE-DE-GOIÁS.",
         "Sua família é de Campestre de Goiás? → FAMÍLIA SUA CAMPESTRE-DE-GOIÁS?",
@@ -854,12 +878,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -867,10 +892,10 @@
     {
       "id": "goias-75",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Campo Limpo de Goiás na resposta?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Campo Limpo de Goiás e pergunte o que ela acha da ideia.",
       "translation": "Campo Limpo de Goiás",
       "librasStructure": "CAMPO-LIMPO-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Campo Limpo de Goiás. → EU NASCER CAMPO-LIMPO-DE-GOIÁS.",
         "Você conhece Campo Limpo de Goiás? → VOCÊ CONHECER CAMPO-LIMPO-DE-GOIÁS?",
@@ -886,12 +911,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -899,10 +925,10 @@
     {
       "id": "goias-76",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Carmo do Rio Verde?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Carmo do Rio Verde e pergunte se a pessoa já foi até lá.",
       "translation": "Carmo do Rio Verde",
       "librasStructure": "CARMO-DO-RIO-VERDE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Carmo do Rio Verde. → EU NASCER CARMO-DO-RIO-VERDE.",
         "Você conhece Carmo do Rio Verde? → VOCÊ CONHECER CARMO-DO-RIO-VERDE?",
@@ -918,12 +944,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -931,10 +958,10 @@
     {
       "id": "goias-12",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Catalão?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Catalão e confira com ela o nome da cidade.",
       "translation": "Catalão",
       "librasStructure": "CATALÃO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem do apelido de Frei Antônio, padre catalão (da Catalunha) que fundou um sítio na rota do ouro.</p><p><strong>Origem do sinal:</strong> Letra C + movimento sinuoso, que lembra o Morro das Três Cruzes, marca da cidade. Relato de participante surda: «aqui tem morro Três Cruzes… começar letra C».</p><p><strong>Como fazer:</strong> Mão dominante (C) sobre o antebraço da mão não dominante (palma para baixo), em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 024.</em></p>",
       "examples": [
         "No sábado vou viajar para Catalão. → SÁBADO EU VIAJAR CATALÃO.",
         "Você já foi a Catalão? → VOCÊ IR CATALÃO JÁ?",
@@ -958,12 +985,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -971,10 +999,10 @@
     {
       "id": "goias-72",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Cavalcante?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Cavalcante e peça que repitam o nome para confirmar.",
       "translation": "Cavalcante",
       "librasStructure": "CAVALCANTE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Cavalcante. → EU NASCER CAVALCANTE.",
         "Você conhece Cavalcante? → VOCÊ CONHECER CAVALCANTE?",
@@ -990,12 +1018,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1003,10 +1032,10 @@
     {
       "id": "goias-13",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Ceres?",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Ceres e pergunte se todos concordam com o destino.",
       "translation": "Ceres",
       "librasStructure": "CERES",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nome proposto pelo engenheiro Bernardo Sayão: Ceres, deusa romana da agricultura, pela produção agrícola local.</p><p><strong>Origem do sinal:</strong> Sigla CR.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas laterais; a dominante faz movimento angular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 025.</em></p>",
       "examples": [
         "Eu trabalho em Ceres. → EU TRABALHAR CERES.",
         "Você estuda em Ceres? → VOCÊ ESTUDAR CERES?",
@@ -1030,12 +1059,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1043,10 +1073,10 @@
     {
       "id": "goias-14",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Cezarina na resposta?",
+      "situation": "Você conversa com uma pessoa que procura uma cidade goiana para visitar. Sugira Cezarina e pergunte se ela quer incluí-la no roteiro.",
       "translation": "Cezarina",
       "librasStructure": "CEZARINA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao fazendeiro João Argemiro Cezar, fundador da cidade ao lotear suas terras.</p><p><strong>Origem do sinal:</strong> Letra C + o sinal ÁRVORE.</p><p><strong>Como fazer:</strong> Mão dominante (C) no antebraço da não dominante, que fica com a palma para trás e os dedos tamborilando.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 026.</em></p>",
       "examples": [
         "Eu moro em Cezarina. → EU MORAR CEZARINA.",
         "Você mora em Cezarina também? → VOCÊ MORAR CEZARINA TAMBÉM?",
@@ -1070,12 +1100,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1083,10 +1114,10 @@
     {
       "id": "goias-77",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Chapadão do Céu?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Chapadão do Céu e confirme se ela entendeu o destino.",
       "translation": "Chapadão do Céu",
       "librasStructure": "CHAPADÃO-DO-CÉU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Chapadão do Céu. → EU NASCER CHAPADÃO-DO-CÉU.",
         "Você conhece Chapadão do Céu? → VOCÊ CONHECER CHAPADÃO-DO-CÉU?",
@@ -1102,12 +1133,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1115,10 +1147,10 @@
     {
       "id": "goias-15",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Cidade de Goiás (Goiás Velho)?",
+      "situation": "Você e uma amiga planejam visitar o centro histórico da Cidade de Goiás. Ao combinar o destino, ela pergunta se “Goiás Velho” é a mesma cidade; esclareça de qual lugar vocês estão falando.",
       "translation": "Cidade de Goiás (Goiás Velho)",
       "librasStructure": "CIDADE-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia). Em Libras, o nome é “Cidade de Goiás”; muitos goianos dizem “Goiás Velho”.",
+      "notes": "<p><strong>Origem do nome:</strong> Fundada em 1729 como Arraial de Sant'Ana; sediou a Capitania de Goiás e, ao virar cidade, ficou Cidade de Goiás.</p><p><strong>Origem do sinal:</strong> Letra G.</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para baixo, em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 028.</em></p>",
       "examples": [
         "Eu nasci em Cidade de Goiás. → EU NASCER CIDADE-DE-GOIÁS.",
         "Sua família é de Cidade de Goiás? → FAMÍLIA SUA CIDADE-DE-GOIÁS?",
@@ -1142,12 +1174,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1155,10 +1188,10 @@
     {
       "id": "goias-78",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Cidade Ocidental. Como você sinaliza o nome da cidade?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Cidade Ocidental e verifique se ele anotou o lugar certo.",
       "translation": "Cidade Ocidental",
       "librasStructure": "CIDADE-OCIDENTAL",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nos anos 1970, um fazendeiro transformou sua fazenda em núcleo urbano e contratou a construtora Cidade Ocidental, que inspirou o nome.</p><p><strong>Origem do sinal:</strong> Letra O.</p><p><strong>Como fazer:</strong> Uma mão acima do ombro, palma lateral, em rotação.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 029.</em></p>",
       "examples": [
         "Eu nasci em Cidade Ocidental. → EU NASCER CIDADE-OCIDENTAL.",
         "Você conhece Cidade Ocidental? → VOCÊ CONHECER CIDADE-OCIDENTAL?",
@@ -1174,12 +1207,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1187,10 +1221,10 @@
     {
       "id": "goias-80",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Cocalzinho de Goiás na resposta?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Cocalzinho de Goiás e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Cocalzinho de Goiás",
       "librasStructure": "COCALZINHO-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Cocalzinho de Goiás. → EU NASCER COCALZINHO-DE-GOIÁS.",
         "Você conhece Cocalzinho de Goiás? → VOCÊ CONHECER COCALZINHO-DE-GOIÁS?",
@@ -1206,12 +1240,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1219,10 +1254,10 @@
     {
       "id": "goias-79",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Corumbá de Goiás. Como você sinaliza Corumbá de Goiás na resposta?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Corumbá de Goiás e pergunte se ele já ouviu falar de lá.",
       "translation": "Corumbá de Goiás",
       "librasStructure": "CORUMBÁ-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fica no rio Corumbá, nome tupi-guarani que significa «banco de cascalho».</p><p><strong>Origem do sinal:</strong> Letra C.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palma lateral; a dominante faz movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 027.</em></p>",
       "examples": [
         "Eu nasci em Corumbá de Goiás. → EU NASCER CORUMBÁ-DE-GOIÁS.",
         "Você conhece Corumbá de Goiás? → VOCÊ CONHECER CORUMBÁ-DE-GOIÁS?",
@@ -1238,12 +1273,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1251,10 +1287,10 @@
     {
       "id": "goias-81",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Cristalina?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Cristalina e explique que gostaria de conhecer o lugar.",
       "translation": "Cristalina",
       "librasStructure": "CRISTALINA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Cristalina. → EU NASCER CRISTALINA.",
         "Você conhece Cristalina? → VOCÊ CONHECER CRISTALINA?",
@@ -1270,12 +1306,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1283,10 +1320,10 @@
     {
       "id": "goias-82",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Crixás?",
+      "situation": "No grupo de trabalho, perguntam para qual cidade você irá na próxima semana. Diga que a reunião será em Crixás e combine como avisará quando chegar.",
       "translation": "Crixás",
       "librasStructure": "CRIXÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Crixás. → EU NASCER CRIXÁS.",
         "Você conhece Crixás? → VOCÊ CONHECER CRIXÁS?",
@@ -1302,12 +1339,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1315,10 +1353,10 @@
     {
       "id": "goias-84",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Damolândia. Como você sinaliza Damolândia na resposta?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Damolândia e confirme o destino.",
       "translation": "Damolândia",
       "librasStructure": "DAMOLÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Damolândia. → EU NASCER DAMOLÂNDIA.",
         "Você conhece Damolândia? → VOCÊ CONHECER DAMOLÂNDIA?",
@@ -1334,12 +1372,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1347,10 +1386,10 @@
     {
       "id": "goias-83",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Doverlândia. Como você sinaliza o nome da cidade?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Doverlândia e peça que ela confira se encontrou o nome correto.",
       "translation": "Doverlândia",
       "librasStructure": "DOVERLÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Doverlândia. → EU NASCER DOVERLÂNDIA.",
         "Você conhece Doverlândia? → VOCÊ CONHECER DOVERLÂNDIA?",
@@ -1366,12 +1405,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1379,10 +1419,10 @@
     {
       "id": "goias-85",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Firminópolis na resposta?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Firminópolis e pergunte o que ela acha da ideia.",
       "translation": "Firminópolis",
       "librasStructure": "FIRMINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao fundador Manoel Firmino dos Santos, que doou terras para formar a cidade.</p><p><strong>Origem do sinal:</strong> Letra F.</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para a frente, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 036.</em></p>",
       "examples": [
         "Eu nasci em Firminópolis. → EU NASCER FIRMINÓPOLIS.",
         "Você conhece Firminópolis? → VOCÊ CONHECER FIRMINÓPOLIS?",
@@ -1398,12 +1438,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1411,10 +1452,10 @@
     {
       "id": "goias-16",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Formosa?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Formosa e pergunte se a pessoa já foi até lá.",
       "translation": "Formosa",
       "librasStructure": "FORMOSA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Começou como Couros; em 1843 virou Villa Formosa da Imperatriz, em honra à imperatriz Teresa Cristina, e depois só Formosa.</p><p><strong>Variante 1 — origem do sinal:</strong> Letra F.<br><strong>Como fazer:</strong> Duas mãos no espaço neutro, palma para dentro, em linha reta.</p><p><strong>Variante 2 — origem do sinal:</strong> Referência à cachoeira Salto do Itiquira, segundo Chaibue (2022).<br><strong>Como fazer:</strong> Mão dominante sob o dorso da não dominante, em linha reta, com os dedos tamborilando.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 038 e 039.</em></p>",
       "examples": [
         "No sábado vou viajar para Formosa. → SÁBADO EU VIAJAR FORMOSA.",
         "Você já foi a Formosa? → VOCÊ IR FORMOSA JÁ?",
@@ -1438,12 +1479,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1451,10 +1493,10 @@
     {
       "id": "goias-17",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Goianápolis?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Goianápolis e confira com ela o nome da cidade.",
       "translation": "Goianápolis",
       "librasStructure": "GOIANÁPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fica entre Goiânia e Anápolis.</p><p><strong>Origem do sinal:</strong> A cidade é a «capital do tomate»: o movimento é o do sinal TOMATE, feito com a letra G.</p><p><strong>Como fazer:</strong> Mão dominante sobre a não dominante (palmas para baixo e lateral), em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 044.</em></p>",
       "examples": [
         "Eu trabalho em Goianápolis. → EU TRABALHAR GOIANÁPOLIS.",
         "Você estuda em Goianápolis? → VOCÊ ESTUDAR GOIANÁPOLIS?",
@@ -1478,12 +1520,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1491,10 +1534,10 @@
     {
       "id": "goias-18",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Goianésia na resposta?",
+      "situation": "Uma pessoa anota Goianira quando você fala da cidade em que nasceu. Corrija o nome e diga que se trata de Goianésia.",
       "translation": "Goianésia",
       "librasStructure": "GOIANÉSIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Segue outras cidades que juntam «Goia» (de Goiás) a um sufixo (-nésia, -lândia, -polis).</p><p><strong>Origem do sinal:</strong> Usa o sinal ONÇA, animal que aparecia com frequência na região.</p><p><strong>Como fazer:</strong> Uma mão junto ao busto, palma lateral, em movimento angular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 045.</em></p>",
       "examples": [
         "Eu moro em Goianésia. → EU MORAR GOIANÉSIA.",
         "Você mora em Goianésia também? → VOCÊ MORAR GOIANÉSIA TAMBÉM?",
@@ -1518,12 +1561,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1531,10 +1575,10 @@
     {
       "id": "goias-19",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Goiânia?",
+      "situation": "Uma pessoa de outro estado pergunta qual é a capital de Goiás e onde você vai desembarcar. Diga que o encontro será em Goiânia.",
       "translation": "Goiânia",
       "librasStructure": "GOIÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Mesma origem de Goiás: os Goyases, povo indígena que habitava a região.</p><p><strong>Origem do sinal:</strong> Letra G.</p><p><strong>Como fazer:</strong> Uma mão acima do ombro, palma para a frente, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 047.</em></p>",
       "examples": [
         "Eu nasci em Goiânia. → EU NASCER GOIÂNIA.",
         "Sua família é de Goiânia? → FAMÍLIA SUA GOIÂNIA?",
@@ -1552,12 +1596,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1565,10 +1610,10 @@
     {
       "id": "goias-20",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Goianira?",
+      "situation": "Uma pessoa anota Goianésia quando você fala do destino da viagem. Corrija o nome e diga que se trata de Goianira.",
       "translation": "Goianira",
       "librasStructure": "GOIANIRA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Escolhido pelos moradores em referência à filha da primeira professora da escola São Geraldo.</p><p><strong>Origem do sinal:</strong> Letra G + o sinal MASTRO, com movimento de bandeira.</p><p><strong>Como fazer:</strong> Mão dominante sobre o dorso da não dominante (palma dominante para a frente), em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 041.</em></p>",
       "examples": [
         "No sábado vou viajar para Goianira. → SÁBADO EU VIAJAR GOIANIRA.",
         "Você já foi a Goianira? → VOCÊ IR GOIANIRA JÁ?",
@@ -1592,12 +1637,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1605,10 +1651,10 @@
     {
       "id": "goias-21",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Goiatuba?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Goiatuba e confirme se ela entendeu o destino.",
       "translation": "Goiatuba",
       "librasStructure": "GOIATUBA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Criado por um andarilho a partir do tupi «gwa yá» (igual) + «tuba» (grande): o «Goiás Grande».</p><p><strong>Origem do sinal:</strong> Segundo participante surda da região, lembra uma infestação de morcegos que a cidade teve.</p><p><strong>Como fazer:</strong> Uma mão no pescoço, palma lateral, em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 046.</em></p>",
       "examples": [
         "Eu trabalho em Goiatuba. → EU TRABALHAR GOIATUBA.",
         "Você estuda em Goiatuba? → VOCÊ ESTUDAR GOIATUBA?",
@@ -1632,12 +1678,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1645,10 +1692,10 @@
     {
       "id": "goias-22",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Guapó na resposta?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Guapó e pergunte se a pessoa conhece a cidade.",
       "translation": "Guapó",
       "librasStructure": "GUAPÓ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Os imigrantes mineiros vieram de Guapé (MG) e deram o nome.</p><p><strong>Origem do sinal:</strong> Letra G.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro (dominante para a frente, outra lateral), com contato duplo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 048.</em></p>",
       "examples": [
         "Eu moro em Guapó. → EU MORAR GUAPÓ.",
         "Você mora em Guapó também? → VOCÊ MORAR GUAPÓ TAMBÉM?",
@@ -1672,12 +1719,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1685,10 +1733,10 @@
     {
       "id": "goias-86",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Heitoraí?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Heitoraí e verifique se ele anotou o lugar certo.",
       "translation": "Heitoraí",
       "librasStructure": "HEITORAÍ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Heitoraí. → EU NASCER HEITORAÍ.",
         "Você conhece Heitoraí? → VOCÊ CONHECER HEITORAÍ?",
@@ -1704,12 +1752,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1717,10 +1766,10 @@
     {
       "id": "goias-23",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Hidrolândia?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Hidrolândia e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Hidrolândia",
       "librasStructure": "HIDROLÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> O juiz Mário D'Alencastro escolheu o nome pela abundância de águas na região.</p><p><strong>Origem do sinal:</strong> Letra H.</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para trás, em rotação.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 050.</em></p>",
       "examples": [
         "Eu nasci em Hidrolândia. → EU NASCER HIDROLÂNDIA.",
         "Sua família é de Hidrolândia? → FAMÍLIA SUA HIDROLÂNDIA?",
@@ -1744,12 +1793,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1757,10 +1807,10 @@
     {
       "id": "goias-24",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Indiara?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Indiara e pergunte se ele já ouviu falar de lá.",
       "translation": "Indiara",
       "librasStructure": "INDIARA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Costa Melo, um dos primeiros moradores, viu muitos coqueiros «indiaiá» e deu o nome ao lugar.</p><p><strong>Origem do sinal:</strong> Letra I.</p><p><strong>Como fazer:</strong> Uma mão junto ao busto, palma lateral, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 052.</em></p>",
       "examples": [
         "No sábado vou viajar para Indiara. → SÁBADO EU VIAJAR INDIARA.",
         "Você já foi a Indiara? → VOCÊ IR INDIARA JÁ?",
@@ -1778,12 +1828,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T01:58:08.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1791,10 +1842,10 @@
     {
       "id": "goias-25",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Inhumas?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Inhumas e explique que gostaria de conhecer o lugar.",
       "translation": "Inhumas",
       "librasStructure": "INHUMAS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem do pássaro inhuma, cujo canto era ouvido por quem chegava.</p><p><strong>Origem do sinal:</strong> Letra I + o sinal UNHA, pela semelhança na escrita (Inhumas / unha), segundo participante surda.</p><p><strong>Como fazer:</strong> Mão dominante no dedo mínimo da não dominante (palmas para baixo); o indicador abre e fecha.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 053.</em></p>",
       "examples": [
         "Eu trabalho em Inhumas. → EU TRABALHAR INHUMAS.",
         "Você estuda em Inhumas? → VOCÊ ESTUDAR INHUMAS?",
@@ -1818,12 +1869,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1831,10 +1883,10 @@
     {
       "id": "goias-26",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Ipameri na resposta?",
+      "situation": "No grupo de trabalho, perguntam para qual cidade você irá na próxima semana. Diga que a reunião será em Ipameri e combine como avisará quando chegar.",
       "translation": "Ipameri",
       "librasStructure": "IPAMERI",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> O ribeirão Entre-Rios, em tupi «Ypameri» («entre rios»), deu o nome; o «Y» virou «I».</p><p><strong>Variante 1 — origem do sinal:</strong> Letras I e P. Relato de participante surda: «por causa do nome português, usar letras I P».<br><strong>Como fazer:</strong> Uma mão no espaço neutro, palmas laterais, em linha reta.</p><p><strong>Variante 2 — origem do sinal:</strong> Letra I + movimento sinuoso, que representa o curso do ribeirão Entre-Rios.<br><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas para dentro, em movimento sinuoso espelhado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 055 e 056.</em></p>",
       "examples": [
         "Eu moro em Ipameri. → EU MORAR IPAMERI.",
         "Você mora em Ipameri também? → VOCÊ MORAR IPAMERI TAMBÉM?",
@@ -1858,12 +1910,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1871,10 +1924,10 @@
     {
       "id": "goias-27",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Iporá?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Iporá e confirme o destino.",
       "translation": "Iporá",
       "librasStructure": "IPORÁ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> O povoado surgiu no Rio Claro; Iporá, do tupi, significa «águas claras».</p><p><strong>Origem do sinal:</strong> Parte do sinal MUNICÍPIO, trocando a configuração pela letra I.</p><p><strong>Como fazer:</strong> Mão dominante sobre a não dominante, palmas para trás, com contato duplo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 057.</em></p>",
       "examples": [
         "Eu nasci em Iporá. → EU NASCER IPORÁ.",
         "Sua família é de Iporá? → FAMÍLIA SUA IPORÁ?",
@@ -1898,12 +1951,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1911,10 +1965,10 @@
     {
       "id": "goias-87",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Israelândia?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Israelândia e peça que ela confira se encontrou o nome correto.",
       "translation": "Israelândia",
       "librasStructure": "ISRAELÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Israelândia. → EU NASCER ISRAELÂNDIA.",
         "Você conhece Israelândia? → VOCÊ CONHECER ISRAELÂNDIA?",
@@ -1930,12 +1984,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1943,10 +1998,10 @@
     {
       "id": "goias-28",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Itaberaí?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Itaberaí e pergunte o que ela acha da ideia.",
       "translation": "Itaberaí",
       "librasStructure": "ITABERAÍ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Antes Curralinho, às margens do Rio das Pedras; Itaberahy, do guarani, é «rio das pedras brilhantes».</p><p><strong>Origem do sinal:</strong> Letra I.</p><p><strong>Como fazer:</strong> Duas mãos com os polegares em contato, palmas para a frente, com contato duplo espelhado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 058.</em></p>",
       "examples": [
         "No sábado vou viajar para Itaberaí. → SÁBADO EU VIAJAR ITABERAÍ.",
         "Você já foi a Itaberaí? → VOCÊ IR ITABERAÍ JÁ?",
@@ -1970,12 +2025,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -1983,10 +2039,10 @@
     {
       "id": "goias-29",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Itapaci?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Itapaci e pergunte se a pessoa já foi até lá.",
       "translation": "Itapaci",
       "librasStructure": "ITAPACI",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Do tupi, «pedra bonita»; nasceu em terras das fazendas Barra e Água Fria.</p><p><strong>Origem do sinal:</strong> Letra I.</p><p><strong>Como fazer:</strong> Braço dominante apoiado no dorso da mão não dominante, mão dominante para fora, em círculo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 059.</em></p>",
       "examples": [
         "Eu trabalho em Itapaci. → EU TRABALHAR ITAPACI.",
         "Você estuda em Itapaci? → VOCÊ ESTUDAR ITAPACI?",
@@ -2010,12 +2066,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2023,10 +2080,10 @@
     {
       "id": "goias-88",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Itapuranga. Como você sinaliza o nome da cidade?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Itapuranga e confira com ela o nome da cidade.",
       "translation": "Itapuranga",
       "librasStructure": "ITAPURANGA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Do tupi, «pedra vermelha» ou «lugar de pedras bonitas»; foi povoada por migrantes de Minas Gerais.</p><p><strong>Como fazer:</strong> Uma mão junto ao busto, palma lateral, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 060.</em></p>",
       "examples": [
         "Eu nasci em Itapuranga. → EU NASCER ITAPURANGA.",
         "Você conhece Itapuranga? → VOCÊ CONHECER ITAPURANGA?",
@@ -2042,12 +2099,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2055,10 +2113,10 @@
     {
       "id": "goias-30",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Itauçu na resposta?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Itauçu e peça que repitam o nome para confirmar.",
       "translation": "Itauçu",
       "librasStructure": "ITAUÇU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Do tupi, «pedra grande». Já foi Catingueiro Grande e Cruzeiro do Sul antes de virar Itauçu (1943).</p><p><strong>Como fazer:</strong> Duas mãos, a dominante sobre a não dominante, palmas para baixo, em movimento angular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 061.</em></p>",
       "examples": [
         "Eu moro em Itauçu. → EU MORAR ITAUÇU.",
         "Você mora em Itauçu também? → VOCÊ MORAR ITAUÇU TAMBÉM?",
@@ -2082,12 +2140,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2095,10 +2154,10 @@
     {
       "id": "goias-31",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Itumbiara?",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Itumbiara e pergunte se todos concordam com o destino.",
       "translation": "Itumbiara",
       "librasStructure": "ITUMBIARA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem à estrada Anhanguera–Uberaba (1824), batizada pelo engenheiro Inácio Pais Lemes.</p><p><strong>Como fazer:</strong> Uma mão ao lado da cabeça, palma para dentro, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 062.</em></p>",
       "examples": [
         "Eu nasci em Itumbiara. → EU NASCER ITUMBIARA.",
         "Sua família é de Itumbiara? → FAMÍLIA SUA ITUMBIARA?",
@@ -2122,12 +2181,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2135,10 +2195,10 @@
     {
       "id": "goias-32",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Jaraguá?",
+      "situation": "Você conversa com uma pessoa que procura uma cidade goiana para visitar. Sugira Jaraguá e pergunte se ela quer incluí-la no roteiro.",
       "translation": "Jaraguá",
       "librasStructure": "JARAGUÁ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nasceu da busca por minerais. Por causa do bandeirante Bartolomeu Bueno da Silva, um dos pioneiros, o local foi chamado de «Senhor do Vale», que em tupi é jaraguá.</p><p><strong>Origem do sinal:</strong> Letra J + o sinal ÁGUA, pelas minas de água mineral do lugar.</p><p><strong>Como fazer:</strong> Sinal composto, uma mão: J no espaço neutro, em semicírculo, e depois o sinal de água no queixo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 063.</em></p>",
       "examples": [
         "No sábado vou viajar para Jaraguá. → SÁBADO EU VIAJAR JARAGUÁ.",
         "Você já foi a Jaraguá? → VOCÊ IR JARAGUÁ JÁ?",
@@ -2162,12 +2222,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2175,10 +2236,10 @@
     {
       "id": "goias-33",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Jataí?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Jataí e confirme se ela entendeu o destino.",
       "translation": "Jataí",
       "librasStructure": "JATAÍ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Antes Paraíso de Jataí, pela capela do Divino Espírito Santo; virou Jataí em 1885.</p><p><strong>Origem do sinal:</strong> Letra J + antenas, que representam a abelha jataí (relato de participante surda).</p><p><strong>Como fazer:</strong> Sinal composto, uma mão: J no espaço neutro e depois indicador e médio tamborilando na testa.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 064.</em></p>",
       "examples": [
         "Eu trabalho em Jataí. → EU TRABALHAR JATAÍ.",
         "Você estuda em Jataí? → VOCÊ ESTUDAR JATAÍ?",
@@ -2202,12 +2263,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2215,10 +2277,10 @@
     {
       "id": "goias-89",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Jaupaci. Como você sinaliza Jaupaci na resposta?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Jaupaci e pergunte se a pessoa conhece a cidade.",
       "translation": "Jaupaci",
       "librasStructure": "JAUPACI",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Junção de Jaú + Pacu, peixes do rio; antes Monchão do Pacu, do garimpo de diamantes.</p><p><strong>Origem do sinal:</strong> Sigla JP.</p><p><strong>Como fazer:</strong> Sinal composto, uma mão no espaço neutro: J em movimento semicircular e depois P.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 065.</em></p>",
       "examples": [
         "Eu nasci em Jaupaci. → EU NASCER JAUPACI.",
         "Você conhece Jaupaci? → VOCÊ CONHECER JAUPACI?",
@@ -2234,12 +2296,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2247,10 +2310,10 @@
     {
       "id": "goias-34",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Jussara na resposta?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Jussara e verifique se ele anotou o lugar certo.",
       "translation": "Jussara",
       "librasStructure": "JUSSARA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a Jussara Márquez, eleita Miss Brasil em 1950, primeira goiana a receber o título.</p><p><strong>Origem do sinal:</strong> Letra J + o sinal MISS/MODELO, em referência à profissão da homenageada.</p><p><strong>Como fazer:</strong> Sinal composto: J no espaço neutro, com dedos tamborilando, e depois movimento reto no antebraço da mão não dominante.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 066.</em></p>",
       "examples": [
         "Eu moro em Jussara. → EU MORAR JUSSARA.",
         "Você mora em Jussara também? → VOCÊ MORAR JUSSARA TAMBÉM?",
@@ -2274,12 +2337,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2287,10 +2351,10 @@
     {
       "id": "goias-90",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Leopoldo de Bulhões na resposta?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Leopoldo de Bulhões e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Leopoldo de Bulhões",
       "librasStructure": "LEOPOLDO-DE-BULHÕES",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Leopoldo de Bulhões. → EU NASCER LEOPOLDO-DE-BULHÕES.",
         "Você conhece Leopoldo de Bulhões? → VOCÊ CONHECER LEOPOLDO-DE-BULHÕES?",
@@ -2306,12 +2370,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2319,10 +2384,10 @@
     {
       "id": "goias-35",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Luziânia?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Luziânia e pergunte se ele já ouviu falar de lá.",
       "translation": "Luziânia",
       "librasStructure": "LUZIÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a Santa Luzia, nome dado pelo fundador Antônio Bueno de Azevedo (~1740).</p><p><strong>Origem do sinal:</strong> Letra L.</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para a frente, em círculo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 067.</em></p>",
       "examples": [
         "Eu nasci em Luziânia. → EU NASCER LUZIÂNIA.",
         "Sua família é de Luziânia? → FAMÍLIA SUA LUZIÂNIA?",
@@ -2346,12 +2411,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2359,10 +2425,10 @@
     {
       "id": "goias-36",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Minaçu?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Minaçu e explique que gostaria de conhecer o lugar.",
       "translation": "Minaçu",
       "librasStructure": "MINAÇU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nasceu das minas de amianto: «mina» + sufixo «-açu» (grande); emancipada em 1976.</p><p><strong>Origem do sinal:</strong> Letra M + movimento circular, que alude ao garimpo.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas para cima, em círculos espelhados.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 070.</em></p>",
       "examples": [
         "No sábado vou viajar para Minaçu. → SÁBADO EU VIAJAR MINAÇU.",
         "Você já foi a Minaçu? → VOCÊ IR MINAÇU JÁ?",
@@ -2386,12 +2452,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2399,10 +2466,10 @@
     {
       "id": "goias-37",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Mineiros?",
+      "situation": "No grupo de trabalho, perguntam para qual cidade você irá na próxima semana. Diga que a reunião será em Mineiros e combine como avisará quando chegar.",
       "translation": "Mineiros",
       "librasStructure": "MINEIROS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fundada por mineiros (de Minas Gerais) que buscavam ouro e diamantes no Rio Verde, por volta de 1873.</p><p><strong>Origem do sinal:</strong> Usa o sinal MINAS GERAIS com a letra M. Relato de participante surda: «letra M no pescoço, igual Minas Gerais».</p><p><strong>Como fazer:</strong> Uma mão no pescoço, palma lateral, em linha reta, com os dedos flexionando.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 071.</em></p>",
       "examples": [
         "Eu trabalho em Mineiros. → EU TRABALHAR MINEIROS.",
         "Você estuda em Mineiros? → VOCÊ ESTUDAR MINEIROS?",
@@ -2426,12 +2493,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2439,10 +2507,10 @@
     {
       "id": "goias-91",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Montes Claros de Goiás?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Montes Claros de Goiás e confirme o destino.",
       "translation": "Montes Claros de Goiás",
       "librasStructure": "MONTES-CLAROS-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Montes Claros de Goiás. → EU NASCER MONTES-CLAROS-DE-GOIÁS.",
         "Você conhece Montes Claros de Goiás? → VOCÊ CONHECER MONTES-CLAROS-DE-GOIÁS?",
@@ -2458,12 +2526,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2471,10 +2540,10 @@
     {
       "id": "goias-92",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Montividiu?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Montividiu e peça que ela confira se encontrou o nome correto.",
       "translation": "Montividiu",
       "librasStructure": "MONTIVIDIU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Montividiu. → EU NASCER MONTIVIDIU.",
         "Você conhece Montividiu? → VOCÊ CONHECER MONTIVIDIU?",
@@ -2490,12 +2559,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2503,10 +2573,10 @@
     {
       "id": "goias-38",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Morrinhos na resposta?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Morrinhos e pergunte o que ela acha da ideia.",
       "translation": "Morrinhos",
       "librasStructure": "MORRINHOS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Alude a três morros da região (do Ovo, da Catraca e da Cruz): é a «cidade dos morros».</p><p><strong>Origem do sinal:</strong> Letra M + movimento sinuoso do braço, que representa o morro. Relato de participante surda: «letra M, movimento do braço igual morro».</p><p><strong>Como fazer:</strong> Mão dominante (M) sobre o antebraço da não dominante, palma para baixo, em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 072.</em></p>",
       "examples": [
         "Eu moro em Morrinhos. → EU MORAR MORRINHOS.",
         "Você mora em Morrinhos também? → VOCÊ MORAR MORRINHOS TAMBÉM?",
@@ -2530,12 +2600,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2543,10 +2614,10 @@
     {
       "id": "goias-39",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Nerópolis?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Nerópolis e pergunte se a pessoa já foi até lá.",
       "translation": "Nerópolis",
       "librasStructure": "NERÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao senador goiano Nero de Macedo.</p><p><strong>Como fazer:</strong> Mão dominante, palma lateral, sobre a palma da não dominante (para cima), em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 073.</em></p>",
       "examples": [
         "Eu nasci em Nerópolis. → EU NASCER NERÓPOLIS.",
         "Sua família é de Nerópolis? → FAMÍLIA SUA NERÓPOLIS?",
@@ -2570,12 +2641,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2583,10 +2655,10 @@
     {
       "id": "goias-93",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Niquelândia. Como você sinaliza o nome da cidade?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Niquelândia e confira com ela o nome da cidade.",
       "translation": "Niquelândia",
       "librasStructure": "NIQUELÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Pela abundância de níquel na região.</p><p><strong>Origem do sinal:</strong> Letra N.</p><p><strong>Como fazer:</strong> Mão dominante sobre a não dominante, palmas para trás, em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 074.</em></p>",
       "examples": [
         "Eu nasci em Niquelândia. → EU NASCER NIQUELÂNDIA.",
         "Você conhece Niquelândia? → VOCÊ CONHECER NIQUELÂNDIA?",
@@ -2602,12 +2674,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2615,10 +2688,10 @@
     {
       "id": "goias-94",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Nova Gama. Como você sinaliza Nova Gama na resposta?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Nova Gama e peça que repitam o nome para confirmar.",
       "translation": "Nova Gama",
       "librasStructure": "NOVA-GAMA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Nova Gama. → EU NASCER NOVA-GAMA.",
         "Você conhece Nova Gama? → VOCÊ CONHECER NOVA-GAMA?",
@@ -2634,12 +2707,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2647,10 +2721,10 @@
     {
       "id": "goias-40",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Nova Veneza?",
+      "situation": "Na conversa sobre uma visita a familiares, alguém pensa que você fala da cidade italiana. Explique que o destino é Nova Veneza, em Goiás.",
       "translation": "Nova Veneza",
       "librasStructure": "NOVA-VENEZA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fundada em 1924 por três irmãos italianos de Veneza, que doaram terra para o povoado.</p><p><strong>Origem do sinal:</strong> Sigla NV.</p><p><strong>Como fazer:</strong> Mão dominante acima da não dominante, a primeira com a palma para a frente e a outra para baixo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 075.</em></p>",
       "examples": [
         "No sábado vou viajar para Nova Veneza. → SÁBADO EU VIAJAR NOVA-VENEZA.",
         "Você já foi a Nova Veneza? → VOCÊ IR NOVA-VENEZA JÁ?",
@@ -2674,12 +2748,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2687,10 +2762,10 @@
     {
       "id": "goias-95",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Orizona na resposta?",
+      "situation": "Você conversa com uma pessoa que procura uma cidade goiana para visitar. Sugira Orizona e pergunte se ela quer incluí-la no roteiro.",
       "translation": "Orizona",
       "librasStructure": "ORIZONA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Orizona. → EU NASCER ORIZONA.",
         "Você conhece Orizona? → VOCÊ CONHECER ORIZONA?",
@@ -2706,12 +2781,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2719,10 +2795,10 @@
     {
       "id": "goias-96",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Ouro Verde de Goiás?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Ouro Verde de Goiás e confirme se ela entendeu o destino.",
       "translation": "Ouro Verde de Goiás",
       "librasStructure": "OURO-VERDE-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Gente de outros estados veio atraída pela fertilidade do solo agrícola.</p><p><strong>Origem do sinal:</strong> Sigla OV. Relato de participante surda: «Ouro Verde por causa OV».</p><p><strong>Como fazer:</strong> Mão dominante apoiada no antebraço da não dominante (palma dominante para a frente), em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 076.</em></p>",
       "examples": [
         "Eu nasci em Ouro Verde de Goiás. → EU NASCER OURO-VERDE-DE-GOIÁS.",
         "Você conhece Ouro Verde de Goiás? → VOCÊ CONHECER OURO-VERDE-DE-GOIÁS?",
@@ -2738,12 +2814,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2751,10 +2828,10 @@
     {
       "id": "goias-97",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Padre Bernardo?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Padre Bernardo e pergunte se a pessoa conhece a cidade.",
       "translation": "Padre Bernardo",
       "librasStructure": "PADRE-BERNARDO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Padre Bernardo. → EU NASCER PADRE-BERNARDO.",
         "Você conhece Padre Bernardo? → VOCÊ CONHECER PADRE-BERNARDO?",
@@ -2770,12 +2847,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2783,10 +2861,10 @@
     {
       "id": "goias-98",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Palestina de Goiás. Como você sinaliza o nome da cidade?",
+      "situation": "Ao marcar uma visita, um colega entende que o destino fica fora do Brasil. Esclareça que vocês vão a Palestina de Goiás.",
       "translation": "Palestina de Goiás",
       "librasStructure": "PALESTINA-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Palestina de Goiás. → EU NASCER PALESTINA-DE-GOIÁS.",
         "Você conhece Palestina de Goiás? → VOCÊ CONHECER PALESTINA-DE-GOIÁS?",
@@ -2802,12 +2880,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2815,10 +2894,10 @@
     {
       "id": "goias-41",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Palmeiras de Goiás?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Palmeiras de Goiás e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Palmeiras de Goiás",
       "librasStructure": "PALMEIRAS-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Começou como Sítio de Palmeiras; virou município pela abundância de coqueiros.</p><p><strong>Origem do sinal:</strong> Sigla PG.</p><p><strong>Como fazer:</strong> Sinal composto, uma mão: no busto (palma para trás, contato duplo) e depois no espaço neutro (palma para a frente).</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 078.</em></p>",
       "examples": [
         "Eu trabalho em Palmeiras de Goiás. → EU TRABALHAR PALMEIRAS-DE-GOIÁS.",
         "Você estuda em Palmeiras de Goiás? → VOCÊ ESTUDAR PALMEIRAS-DE-GOIÁS?",
@@ -2842,12 +2921,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2855,10 +2935,10 @@
     {
       "id": "goias-99",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Palmelo. Como você sinaliza Palmelo na resposta?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Palmelo e pergunte se ele já ouviu falar de lá.",
       "translation": "Palmelo",
       "librasStructure": "PALMELO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao barão de Palmela, guarda-mor do imperador D. Pedro II.</p><p><strong>Origem do sinal:</strong> Adapta o sinal ESPÍRITO/ESPIRITISMO com a letra P: a cidade cresceu em torno de um antigo centro espírita e é conhecida como lugar de cura espiritual.</p><p><strong>Como fazer:</strong> Uma mão no topo da cabeça, palma para baixo, sem movimento.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 079.</em></p>",
       "examples": [
         "Eu nasci em Palmelo. → EU NASCER PALMELO.",
         "Você conhece Palmelo? → VOCÊ CONHECER PALMELO?",
@@ -2874,12 +2954,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2887,10 +2968,10 @@
     {
       "id": "goias-100",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Palminópolis na resposta?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Palminópolis e explique que gostaria de conhecer o lugar.",
       "translation": "Palminópolis",
       "librasStructure": "PALMINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fica entre Palmeiras de Goiás e Firminópolis, cujos nomes foram combinados.</p><p><strong>Origem do sinal:</strong> Letra P.</p><p><strong>Como fazer:</strong> Uma mão, palma para dentro, do busto até a cintura, em diagonal.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 080.</em></p>",
       "examples": [
         "Eu nasci em Palminópolis. → EU NASCER PALMINÓPOLIS.",
         "Você conhece Palminópolis? → VOCÊ CONHECER PALMINÓPOLIS?",
@@ -2906,12 +2987,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2919,10 +3001,10 @@
     {
       "id": "goias-101",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Panamá?",
+      "situation": "Ao contar de onde veio uma amiga, alguém pensa no país. Esclareça que você está falando da cidade de Panamá, em Goiás.",
       "translation": "Panamá",
       "librasStructure": "PANAMÁ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Panamá. → EU NASCER PANAMÁ.",
         "Você conhece Panamá? → VOCÊ CONHECER PANAMÁ?",
@@ -2938,12 +3020,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2951,10 +3034,10 @@
     {
       "id": "goias-102",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Paraúna?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Paraúna e confirme o destino.",
       "translation": "Paraúna",
       "librasStructure": "PARAÚNA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Paraúna. → EU NASCER PARAÚNA.",
         "Você conhece Paraúna? → VOCÊ CONHECER PARAÚNA?",
@@ -2970,12 +3053,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -2983,10 +3067,10 @@
     {
       "id": "goias-103",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Perolândia. Como você sinaliza o nome da cidade?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Perolândia e peça que ela confira se encontrou o nome correto.",
       "translation": "Perolândia",
       "librasStructure": "PEROLÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Perolândia. → EU NASCER PEROLÂNDIA.",
         "Você conhece Perolândia? → VOCÊ CONHECER PEROLÂNDIA?",
@@ -3002,12 +3086,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3015,10 +3100,10 @@
     {
       "id": "goias-104",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Petrolina de Goiás. Como você sinaliza Petrolina de Goiás na resposta?",
+      "situation": "Ao preencher o destino de uma encomenda, uma colega pensa em Petrolina, em outro estado. Esclareça que a cidade é Petrolina de Goiás.",
       "translation": "Petrolina de Goiás",
       "librasStructure": "PETROLINA-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Petrolina de Goiás. → EU NASCER PETROLINA-DE-GOIÁS.",
         "Você conhece Petrolina de Goiás? → VOCÊ CONHECER PETROLINA-DE-GOIÁS?",
@@ -3034,12 +3119,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3047,10 +3133,10 @@
     {
       "id": "goias-42",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Piracanjuba na resposta?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Piracanjuba e pergunte se a pessoa já foi até lá.",
       "translation": "Piracanjuba",
       "librasStructure": "PIRACANJUBA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Peixe de um rio local. Segundo a lenda, Piracan e Jubará, amantes de tribos rivais, pularam no rio e dali surgiu o peixe.</p><p><strong>Variante 1 — origem do sinal:</strong> Letra P. Há informação de que o sinal antigo imitava as escamas do peixe, mas o registro atual traz só o toque no antebraço.<br><strong>Como fazer:</strong> Mão dominante toca duas vezes a parte de baixo do antebraço da não dominante, palmas para dentro.</p><p><strong>Variante 2 — origem do sinal:</strong> Vem de uma propaganda de TV do leite Piracanjuba, que soletra PI-RA-CAN-JU-BA apontando os dedos.<br><strong>Como fazer:</strong> Mão não dominante à frente do corpo, palma para fora; a dominante acima, palma para baixo, em semicírculo.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 081 e 082.</em></p>",
       "examples": [
         "Eu moro em Piracanjuba. → EU MORAR PIRACANJUBA.",
         "Você mora em Piracanjuba também? → VOCÊ MORAR PIRACANJUBA TAMBÉM?",
@@ -3074,12 +3160,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3087,10 +3174,10 @@
     {
       "id": "goias-43",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Piranhas?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Piranhas e confira com ela o nome da cidade.",
       "translation": "Piranhas",
       "librasStructure": "PIRANHAS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nome do peixe de dentes dos rios da região.</p><p><strong>Origem do sinal:</strong> Usa os sinais PEIXE e PIRANHA.</p><p><strong>Como fazer:</strong> Sinal composto, uma mão: perto da boca, para trás, e depois no espaço neutro, com indicador e médio encontrando o polegar.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 083.</em></p>",
       "examples": [
         "Eu nasci em Piranhas. → EU NASCER PIRANHAS.",
         "Sua família é de Piranhas? → FAMÍLIA SUA PIRANHAS?",
@@ -3114,12 +3201,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3127,10 +3215,10 @@
     {
       "id": "goias-44",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Pirenópolis?",
+      "situation": "Uma amiga propõe conhecer o centro histórico de uma cidade goiana. Ao acertarem a viagem, diga que o passeio será em Pirenópolis.",
       "translation": "Pirenópolis",
       "librasStructure": "PIRENÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem à Serra dos Pireneus, que cerca a cidade e leva o nome das montanhas entre França e Espanha.</p><p><strong>Origem do sinal:</strong> Letra P com o sinal PEDRA: a cidade é famosa pela Pedra de Pirenópolis e pelas pedreiras das cachoeiras. Relato de participante surda: «por isso tem sinal pedra».</p><p><strong>Como fazer:</strong> Mão dominante (P) acima do dorso da não dominante, palmas para baixo, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 084.</em></p>",
       "examples": [
         "No sábado vou viajar para Pirenópolis. → SÁBADO EU VIAJAR PIRENÓPOLIS.",
         "Você já foi a Pirenópolis? → VOCÊ IR PIRENÓPOLIS JÁ?",
@@ -3154,12 +3242,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3167,10 +3256,10 @@
     {
       "id": "goias-45",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Pires do Rio?",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Pires do Rio e pergunte se todos concordam com o destino.",
       "translation": "Pires do Rio",
       "librasStructure": "PIRES-DO-RIO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a José Pires do Rio, ministro que visitou a obra da estação de trem inaugurada em 1922.</p><p><strong>Origem do sinal:</strong> Imita um PIRES (prato) flutuando sobre um rio: o sentido literal do nome. Relato de participante surda: «parece pires em cima do rio».</p><p><strong>Como fazer:</strong> Duas mãos espelhadas à frente do corpo, palmas laterais, em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 085.</em></p>",
       "examples": [
         "Eu trabalho em Pires do Rio. → EU TRABALHAR PIRES-DO-RIO.",
         "Você estuda em Pires do Rio? → VOCÊ ESTUDAR PIRES-DO-RIO?",
@@ -3194,12 +3283,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3207,10 +3297,10 @@
     {
       "id": "goias-105",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Planaltina de Goiás na resposta?",
+      "situation": "Ao confirmar um endereço, uma pessoa diz apenas “Planaltina”. Complete o nome para deixar claro que o destino é Planaltina de Goiás.",
       "translation": "Planaltina de Goiás",
       "librasStructure": "PLANALTINA-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Planaltina de Goiás. → EU NASCER PLANALTINA-DE-GOIÁS.",
         "Você conhece Planaltina de Goiás? → VOCÊ CONHECER PLANALTINA-DE-GOIÁS?",
@@ -3226,12 +3316,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3239,10 +3330,10 @@
     {
       "id": "goias-46",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Pontalina na resposta?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em Pontalina e confirme se ela entendeu o destino.",
       "translation": "Pontalina",
       "librasStructure": "PONTALINA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Surgiu numa ponta de terra cercada por três córregos (Pontal); foi Santa Rita do Pontal antes de virar Pontalina.</p><p><strong>Variante 1 — origem do sinal:</strong> Letra P + movimento curvo, que lembra o arco na entrada da cidade.<br><strong>Como fazer:</strong> Duas mãos no espaço neutro, palmas laterais, em movimento semicircular espelhado.</p><p><strong>Variante 2 — origem do sinal:</strong> Letra P.<br><strong>Como fazer:</strong> Mão dominante apoiada na não dominante, palmas laterais, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 086 e 087.</em></p>",
       "examples": [
         "Eu moro em Pontalina. → EU MORAR PONTALINA.",
         "Você mora em Pontalina também? → VOCÊ MORAR PONTALINA TAMBÉM?",
@@ -3266,12 +3357,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3279,10 +3371,10 @@
     {
       "id": "goias-47",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Porangatu?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em Porangatu e pergunte se a pessoa conhece a cidade.",
       "translation": "Porangatu",
       "librasStructure": "PORANGATU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Do tupi, «paisagem bela». Antes se chamava Descoberta, pelas minas de ouro do século XVIII.</p><p><strong>Origem do sinal:</strong> Letra P.</p><p><strong>Como fazer:</strong> Mão dominante toca a não dominante no espaço neutro (dominante para dentro, outra para a frente), em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 088.</em></p>",
       "examples": [
         "Eu nasci em Porangatu. → EU NASCER PORANGATU.",
         "Sua família é de Porangatu? → FAMÍLIA SUA PORANGATU?",
@@ -3306,12 +3398,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3319,10 +3412,10 @@
     {
       "id": "goias-106",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Portelândia?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Portelândia e verifique se ele anotou o lugar certo.",
       "translation": "Portelândia",
       "librasStructure": "PORTELÂNDIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Portelândia. → EU NASCER PORTELÂNDIA.",
         "Você conhece Portelândia? → VOCÊ CONHECER PORTELÂNDIA?",
@@ -3338,12 +3431,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3351,10 +3445,10 @@
     {
       "id": "goias-107",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Posse?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Posse e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Posse",
       "librasStructure": "POSSE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem do «apossamento» das terras do Córrego Passagem dos Gerais por Nazário da Silva Ribeiro, fundador do povoado.</p><p><strong>Origem do sinal:</strong> Letra P.</p><p><strong>Como fazer:</strong> Mão dominante apoiada no antebraço da não dominante, palmas para baixo, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 089.</em></p>",
       "examples": [
         "Eu nasci em Posse. → EU NASCER POSSE.",
         "Você conhece Posse? → VOCÊ CONHECER POSSE?",
@@ -3370,12 +3464,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3383,10 +3478,10 @@
     {
       "id": "goias-108",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Professor Jamil. Como você sinaliza o nome da cidade?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Professor Jamil e pergunte se ele já ouviu falar de lá.",
       "translation": "Professor Jamil",
       "librasStructure": "PROFESSOR-JAMIL",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a Jamil Salim Safady, professor, feita pelos irmãos fazendeiros após a construção da BR-153.</p><p><strong>Origem do sinal:</strong> Sinal PROFESSOR + a letra J.</p><p><strong>Como fazer:</strong> Sinal composto, uma mão no espaço neutro, palma lateral, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 090.</em></p>",
       "examples": [
         "Eu nasci em Professor Jamil. → EU NASCER PROFESSOR-JAMIL.",
         "Você conhece Professor Jamil? → VOCÊ CONHECER PROFESSOR-JAMIL?",
@@ -3402,12 +3497,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3415,10 +3511,10 @@
     {
       "id": "goias-48",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Quirinópolis?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Quirinópolis e explique que gostaria de conhecer o lugar.",
       "translation": "Quirinópolis",
       "librasStructure": "QUIRINÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao Coronel José Quirino, fundador e construtor da velha igreja Matriz.</p><p><strong>Origem do sinal:</strong> A ficha registra o empréstimo da letra G (configuração nº 50 do alfabeto).</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma para trás, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 091.</em></p>",
       "examples": [
         "No sábado vou viajar para Quirinópolis. → SÁBADO EU VIAJAR QUIRINÓPOLIS.",
         "Você já foi a Quirinópolis? → VOCÊ IR QUIRINÓPOLIS JÁ?",
@@ -3442,12 +3538,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3455,10 +3552,10 @@
     {
       "id": "goias-109",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Registro do Araguaia. Como você sinaliza Registro do Araguaia na resposta?",
+      "situation": "No grupo de trabalho, perguntam para qual cidade você irá na próxima semana. Diga que a reunião será em Registro do Araguaia e combine como avisará quando chegar.",
       "translation": "Registro do Araguaia",
       "librasStructure": "REGISTRO-DO-ARAGUAIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Registro do Araguaia. → EU NASCER REGISTRO-DO-ARAGUAIA.",
         "Você conhece Registro do Araguaia? → VOCÊ CONHECER REGISTRO-DO-ARAGUAIA?",
@@ -3474,12 +3571,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3487,10 +3585,10 @@
     {
       "id": "goias-49",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Rialma?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Rialma e confirme o destino.",
       "translation": "Rialma",
       "librasStructure": "RIALMA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Fica à margem do Rio das Almas; Rialma é a junção de «Rio das Almas». Antes se chamava Barranca.</p><p><strong>Origem do sinal:</strong> Letra R. A ficha cita também a letra C, que remete a Ceres, cidade vizinha.</p><p><strong>Como fazer:</strong> Duas mãos no espaço neutro (dominante para baixo, outra lateral); a dominante gira.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 092.</em></p>",
       "examples": [
         "Eu trabalho em Rialma. → EU TRABALHAR RIALMA.",
         "Você estuda em Rialma? → VOCÊ ESTUDAR RIALMA?",
@@ -3514,12 +3612,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3527,10 +3626,10 @@
     {
       "id": "goias-50",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Rio Quente na resposta?",
+      "situation": "No planejamento de uma viagem, alguém confunde Rio Quente com Caldas Novas. Explique qual das duas cidades é o destino do grupo.",
       "translation": "Rio Quente",
       "librasStructure": "RIO-QUENTE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vem das águas termais achadas por Bartolomeu Bueno da Silva em 1722, aquecidas por vulcanismo.</p><p><strong>Variante 1 — origem do sinal:</strong> Sigla RQ.<br><strong>Como fazer:</strong> Uma mão no dorso da mão não dominante, palma da frente para dentro, em movimento semicircular.</p><p><strong>Variante 2 — origem do sinal:</strong> Letra R + o sinal QUENTE, pela temperatura das águas. Relato de participante surda: «perto de Caldas Novas… letra R mais sinal quente».<br><strong>Como fazer:</strong> Sinal composto, uma mão: R no espaço neutro e depois movimento reto em frente à boca, com os dedos tamborilando.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, fichas 093 e 094.</em></p>",
       "examples": [
         "Eu moro em Rio Quente. → EU MORAR RIO-QUENTE.",
         "Você mora em Rio Quente também? → VOCÊ MORAR RIO-QUENTE TAMBÉM?",
@@ -3554,12 +3653,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3567,10 +3667,10 @@
     {
       "id": "goias-51",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Rio Verde?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Rio Verde e pergunte o que ela acha da ideia.",
       "translation": "Rio Verde",
       "librasStructure": "RIO-VERDE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Pela cor verde das águas do rio principal, o Rio Verde.</p><p><strong>Origem do sinal:</strong> Sigla RV.</p><p><strong>Como fazer:</strong> Mão dominante sobre o antebraço da não dominante (palma dominante para a frente), em linha reta até o pulso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 095.</em></p>",
       "examples": [
         "Eu nasci em Rio Verde. → EU NASCER RIO-VERDE.",
         "Sua família é de Rio Verde? → FAMÍLIA SUA RIO-VERDE?",
@@ -3594,12 +3694,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3607,10 +3708,10 @@
     {
       "id": "goias-52",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Rubiataba?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Rubiataba e pergunte se a pessoa já foi até lá.",
       "translation": "Rubiataba",
       "librasStructure": "RUBIATABA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Plantio de café (família das rubiáceas): «Rubia» + «taba» (aldeia, em tupi).</p><p><strong>Origem do sinal:</strong> Letra R.</p><p><strong>Como fazer:</strong> Cotovelo da mão dominante sobre o dorso da não dominante (palma dominante para a frente), em movimento circular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 097.</em></p>",
       "examples": [
         "No sábado vou viajar para Rubiataba. → SÁBADO EU VIAJAR RUBIATABA.",
         "Você já foi a Rubiataba? → VOCÊ IR RUBIATABA JÁ?",
@@ -3634,12 +3735,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3647,10 +3749,10 @@
     {
       "id": "goias-53",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Santa Helena de Goiás?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Santa Helena de Goiás e confira com ela o nome da cidade.",
       "translation": "Santa Helena de Goiás",
       "librasStructure": "SANTA-HELENA-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem a Santa Helena, nome escolhido pela família de Custódio Vêncio, fundadora da cidade.</p><p><strong>Origem do sinal:</strong> Sigla SH.</p><p><strong>Como fazer:</strong> Uma mão no espaço neutro, palma da frente para dentro, em rotação.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 098.</em></p>",
       "examples": [
         "Eu trabalho em Santa Helena de Goiás. → EU TRABALHAR SANTA-HELENA-DE-GOIÁS.",
         "Você estuda em Santa Helena de Goiás? → VOCÊ ESTUDAR SANTA-HELENA-DE-GOIÁS?",
@@ -3674,12 +3776,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3687,10 +3790,10 @@
     {
       "id": "goias-111",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Santo Antônio de Goiás?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Santo Antônio de Goiás e peça que repitam o nome para confirmar.",
       "translation": "Santo Antônio de Goiás",
       "librasStructure": "SANTO-ANTÔNIO-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Santo Antônio de Goiás. → EU NASCER SANTO-ANTÔNIO-DE-GOIÁS.",
         "Você conhece Santo Antônio de Goiás? → VOCÊ CONHECER SANTO-ANTÔNIO-DE-GOIÁS?",
@@ -3706,12 +3809,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3719,10 +3823,10 @@
     {
       "id": "goias-110",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Santo Antônio do Descoberto na resposta?",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Santo Antônio do Descoberto e pergunte se todos concordam com o destino.",
       "translation": "Santo Antônio do Descoberto",
       "librasStructure": "SANTO-ANTÔNIO-DO-DESCOBERTO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Santo Antônio do Descoberto. → EU NASCER SANTO-ANTÔNIO-DO-DESCOBERTO.",
         "Você conhece Santo Antônio do Descoberto? → VOCÊ CONHECER SANTO-ANTÔNIO-DO-DESCOBERTO?",
@@ -3738,12 +3842,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3751,10 +3856,10 @@
     {
       "id": "goias-54",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza São Luís de Montes Belos na resposta?",
+      "situation": "Você conversa com uma pessoa que procura uma cidade goiana para visitar. Sugira São Luís de Montes Belos e pergunte se ela quer incluí-la no roteiro.",
       "translation": "São Luís de Montes Belos",
       "librasStructure": "SÃO-LUÍS-DE-MONTES-BELOS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Nasceu na Fazenda São Luís, onde se comemorava o dia de São Luís Gonzaga; o nome homenageia o santo.</p><p><strong>Origem do sinal:</strong> Sigla SL + movimento sinuoso, que representa os montes.</p><p><strong>Como fazer:</strong> Mão dominante acima do antebraço da não dominante (palma para a frente e outra para baixo), em movimento sinuoso.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 100.</em></p>",
       "examples": [
         "Eu moro em São Luís de Montes Belos. → EU MORAR SÃO-LUÍS-DE-MONTES-BELOS.",
         "Você mora em São Luís de Montes Belos também? → VOCÊ MORAR SÃO-LUÍS-DE-MONTES-BELOS TAMBÉM?",
@@ -3778,12 +3883,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3791,10 +3897,10 @@
     {
       "id": "goias-112",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza São Miguel do Araguaia?",
+      "situation": "Na rodoviária, uma pessoa pergunta em qual cidade você vai descer. Explique que sua parada será em São Miguel do Araguaia e confirme se ela entendeu o destino.",
       "translation": "São Miguel do Araguaia",
       "librasStructure": "SÃO-MIGUEL-DO-ARAGUAIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em São Miguel do Araguaia. → EU NASCER SÃO-MIGUEL-DO-ARAGUAIA.",
         "Você conhece São Miguel do Araguaia? → VOCÊ CONHECER SÃO-MIGUEL-DO-ARAGUAIA?",
@@ -3810,12 +3916,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3823,10 +3930,10 @@
     {
       "id": "goias-113",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para São Simão. Como você sinaliza o nome da cidade?",
+      "situation": "Durante a apresentação de uma turma nova, alguém pergunta de onde você é. Conte que sua família vive em São Simão e pergunte se a pessoa conhece a cidade.",
       "translation": "São Simão",
       "librasStructure": "SÃO-SIMÃO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em São Simão. → EU NASCER SÃO-SIMÃO.",
         "Você conhece São Simão? → VOCÊ CONHECER SÃO-SIMÃO?",
@@ -3842,12 +3949,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3855,10 +3963,10 @@
     {
       "id": "goias-55",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Senador Canedo?",
+      "situation": "Você organiza uma visita de fim de semana com um amigo. Ao combinar o trajeto, diga que vocês irão a Senador Canedo e verifique se ele anotou o lugar certo.",
       "translation": "Senador Canedo",
       "librasStructure": "SENADOR-CANEDO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Homenagem ao senador Antônio Amaro da Silva Canedo, dono de grande parte das terras; o nome também batizou a estação de trem.</p><p><strong>Origem do sinal:</strong> Sigla SC.</p><p><strong>Como fazer:</strong> Mão dominante (palma lateral) no antebraço da não dominante (palma para baixo), em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 101.</em></p>",
       "examples": [
         "Eu nasci em Senador Canedo. → EU NASCER SENADOR-CANEDO.",
         "Sua família é de Senador Canedo? → FAMÍLIA SUA SENADOR-CANEDO?",
@@ -3882,12 +3990,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3895,10 +4004,10 @@
     {
       "id": "goias-56",
       "section": "Cidades",
-      "situation": "Você conta para a turma que vai viajar no fim de semana. Como você sinaliza Silvânia?",
+      "situation": "Uma colega quer enviar um convite e pede sua cidade para completar o endereço. Informe Silvânia e confirme o nome antes de ela enviar a mensagem.",
       "translation": "Silvânia",
       "librasStructure": "SILVÂNIA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Em 1943, homenagem ao primeiro dirigente, Vicente Miguel da Silva.</p><p><strong>Origem do sinal:</strong> Letra S.</p><p><strong>Como fazer:</strong> Mão dominante apoiada no indicador da não dominante (palma lateral e para a frente), em linha reta.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 102.</em></p>",
       "examples": [
         "No sábado vou viajar para Silvânia. → SÁBADO EU VIAJAR SILVÂNIA.",
         "Você já foi a Silvânia? → VOCÊ IR SILVÂNIA JÁ?",
@@ -3922,12 +4031,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3935,10 +4045,10 @@
     {
       "id": "goias-114",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Taquaral de Goiás. Como você sinaliza Taquaral de Goiás na resposta?",
+      "situation": "Ao falar sobre onde nasceu, você percebe que seu interlocutor conhece apenas Goiânia. Conte que nasceu em Taquaral de Goiás e pergunte se ele já ouviu falar de lá.",
       "translation": "Taquaral de Goiás",
       "librasStructure": "TAQUARAL-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Taquaral de Goiás. → EU NASCER TAQUARAL-DE-GOIÁS.",
         "Você conhece Taquaral de Goiás? → VOCÊ CONHECER TAQUARAL-DE-GOIÁS?",
@@ -3954,12 +4064,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3967,10 +4078,10 @@
     {
       "id": "goias-115",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Teresópolis de Goiás na resposta?",
+      "situation": "Seu amigo mostra uma lista de cidades para uma viagem e pergunta qual você prefere visitar. Escolha Teresópolis de Goiás e explique que gostaria de conhecer o lugar.",
       "translation": "Teresópolis de Goiás",
       "librasStructure": "TERESÓPOLIS-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Vila de Santa Tereza: «Tere» + «polis» (cidade).</p><p><strong>Origem do sinal:</strong> Letra T.</p><p><strong>Como fazer:</strong> Mão dominante apoiada na palma da não dominante (dominante para a frente, outra para baixo), em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 105.</em></p>",
       "examples": [
         "Eu nasci em Teresópolis de Goiás. → EU NASCER TERESÓPOLIS-DE-GOIÁS.",
         "Você conhece Teresópolis de Goiás? → VOCÊ CONHECER TERESÓPOLIS-DE-GOIÁS?",
@@ -3986,12 +4097,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -3999,10 +4111,10 @@
     {
       "id": "goias-116",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Três Ranchos?",
+      "situation": "Numa conversa sobre o próximo passeio, seu amigo pergunta a qual cidade o grupo vai. Confirme que o destino combinado é Três Ranchos.",
       "translation": "Três Ranchos",
       "librasStructure": "TRÊS-RANCHOS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Três ranchos construídos no alto da serra, onde havia um quilombo de fugitivos de Minas Gerais.</p><p><strong>Origem do sinal:</strong> Numeral 3 + movimento que lembra o formato do rancho. Relato de participante surda: «parece rancho três vezes».</p><p><strong>Como fazer:</strong> Duas mãos com as pontas dos dedos juntas, palmas laterais, descendo e se afastando; os dedos flexionam três vezes.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 106.</em></p>",
       "examples": [
         "Eu nasci em Três Ranchos. → EU NASCER TRÊS-RANCHOS.",
         "Você conhece Três Ranchos? → VOCÊ CONHECER TRÊS-RANCHOS?",
@@ -4018,12 +4130,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4031,10 +4144,10 @@
     {
       "id": "goias-57",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz onde estuda ou trabalha. Como você sinaliza Trindade?",
+      "situation": "Ao marcar uma visita à família, uma pessoa pergunta onde vocês devem se encontrar. Informe que o encontro será em Trindade e confirme o destino.",
       "translation": "Trindade",
       "librasStructure": "TRINDADE",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Alude à Santíssima Trindade (Pai, Filho e Espírito Santo); a cidade é conhecida pela devoção ao Divino Pai Eterno.</p><p><strong>Origem do sinal:</strong> Numeral 3, para a Trindade. Relato de participante surda: «três dedos igual Pai, Filho e Espírito Santo».</p><p><strong>Como fazer:</strong> Mão dominante apoiada na palma da não dominante, palmas para trás, descendo em linha reta; os dedos flexionam.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 107.</em></p>",
       "examples": [
         "Eu trabalho em Trindade. → EU TRABALHAR TRINDADE.",
         "Você estuda em Trindade? → VOCÊ ESTUDAR TRINDADE?",
@@ -4058,12 +4171,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4071,10 +4185,10 @@
     {
       "id": "goias-58",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Uruaçu na resposta?",
+      "situation": "Uma pessoa procura no mapa a cidade sobre a qual você está falando. Diga que se trata de Uruaçu e peça que ela confira se encontrou o nome correto.",
       "translation": "Uruaçu",
       "librasStructure": "URUAÇU",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Do tupi, «pássaro grande»; o povoado surgiu na fazenda Passa Três, à margem da estrada real.</p><p><strong>Origem do sinal:</strong> Letra U, que abre e fecha o nome.</p><p><strong>Como fazer:</strong> Mão dominante acima da não dominante (para baixo e para a frente), em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 111.</em></p>",
       "examples": [
         "Eu moro em Uruaçu. → EU MORAR URUAÇU.",
         "Você mora em Uruaçu também? → VOCÊ MORAR URUAÇU TAMBÉM?",
@@ -4098,12 +4212,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4111,10 +4226,10 @@
     {
       "id": "goias-59",
       "section": "Cidades",
-      "situation": "Alguém quer saber onde você nasceu. Como você sinaliza Uruana?",
+      "situation": "Na conversa sobre mudanças de cidade, uma amiga pergunta onde você gostaria de morar. Mencione Uruana e pergunte o que ela acha da ideia.",
       "translation": "Uruana",
       "librasStructure": "URUANA",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Junção do rio Aru + Ana, esposa de José Alves Toledo, que doou as terras da cidade.</p><p><strong>Origem do sinal:</strong> Letra U + a melancia, pela fama da cidade na produção.</p><p><strong>Como fazer:</strong> Duas mãos abaixo do queixo, palmas para baixo, em movimento semicircular espelhado.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 110.</em></p>",
       "examples": [
         "Eu nasci em Uruana. → EU NASCER URUANA.",
         "Sua família é de Uruana? → FAMÍLIA SUA URUANA?",
@@ -4138,12 +4253,13 @@
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T14:50:28.694Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
             "edited",
             "examples",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4151,10 +4267,10 @@
     {
       "id": "goias-117",
       "section": "Cidades",
-      "situation": "Na apresentação da turma, você diz de qual cidade é. Como você sinaliza Urutaí?",
+      "situation": "Ao comentar uma viagem passada, alguém pergunta em qual cidade você ficou. Conte que esteve em Urutaí e pergunte se a pessoa já foi até lá.",
       "translation": "Urutaí",
       "librasStructure": "URUTAÍ",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p><strong>Origem do nome:</strong> Dos pássaros chamados «uru».</p><p><strong>Origem do sinal:</strong> Letra U.</p><p><strong>Como fazer:</strong> Uma mão no pescoço, palma para a frente, em movimento semicircular.</p><p><em>Fonte: <a href=\"https://repositorio.ufu.br/entities/publication/e06f14d3-953e-41c6-8cf1-87419976f4d5\">Souza (2023)</a>, ficha 112.</em></p>",
       "examples": [
         "Eu nasci em Urutaí. → EU NASCER URUTAÍ.",
         "Você conhece Urutaí? → VOCÊ CONHECER URUTAÍ?",
@@ -4170,12 +4286,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:25:34.190Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4183,10 +4300,10 @@
     {
       "id": "goias-118",
       "section": "Cidades",
-      "situation": "Você conta a um amigo que vai viajar para Valparaíso de Goiás. Como você sinaliza o nome da cidade?",
+      "situation": "Você ajuda uma colega a escrever o destino de uma encomenda. Diga que a entrega será em Valparaíso de Goiás e confira com ela o nome da cidade.",
       "translation": "Valparaíso de Goiás",
       "librasStructure": "VALPARAÍSO-DE-GOIÁS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Valparaíso de Goiás. → EU NASCER VALPARAÍSO-DE-GOIÁS.",
         "Você conhece Valparaíso de Goiás? → VOCÊ CONHECER VALPARAÍSO-DE-GOIÁS?",
@@ -4202,12 +4319,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4215,10 +4333,10 @@
     {
       "id": "goias-119",
       "section": "Cidades",
-      "situation": "Um colega pergunta se você conhece Varjão. Como você sinaliza Varjão na resposta?",
+      "situation": "Numa chamada de vídeo com amigos de outras cidades, perguntam de onde você está falando. Informe que está em Varjão e peça que repitam o nome para confirmar.",
       "translation": "Varjão",
       "librasStructure": "VARJÃO",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Varjão. → EU NASCER VARJÃO.",
         "Você conhece Varjão? → VOCÊ CONHECER VARJÃO?",
@@ -4234,12 +4352,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]
@@ -4247,10 +4366,10 @@
     {
       "id": "goias-120",
       "section": "Cidades",
-      "situation": "Um colega pergunta onde você mora. Como você sinaliza Vianópolis na resposta?",
+      "situation": "Ao planejar uma viagem em grupo, uma pessoa pergunta qual cidade ficou escolhida. Confirme Vianópolis e pergunte se todos concordam com o destino.",
       "translation": "Vianópolis",
       "librasStructure": "VIANÓPOLIS",
-      "notes": "Este é o sinal próprio da cidade (topônimo). Observe a configuração de mão, o local onde o sinal é feito e o movimento. Se a pessoa surda não conhecer o sinal, soletre o nome com o alfabeto manual (datilologia).",
+      "notes": "<p>Este é o sinal da cidade (topônimo). Observe a configuração da mão, o ponto de articulação e o movimento. Se a pessoa surda não conhecer o sinal, use a datilologia (alfabeto manual).</p>",
       "examples": [
         "Eu nasci em Vianópolis. → EU NASCER VIANÓPOLIS.",
         "Você conhece Vianópolis? → VOCÊ CONHECER VIANÓPOLIS?",
@@ -4266,12 +4385,13 @@
       ],
       "changeLog": [
         {
-          "action": "created",
+          "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-28T16:10:25.000Z",
+          "at": "2026-11-05T11:19:35.594Z",
           "changes": [
             "created",
-            "videos"
+            "videos",
+            "notes"
           ]
         }
       ]

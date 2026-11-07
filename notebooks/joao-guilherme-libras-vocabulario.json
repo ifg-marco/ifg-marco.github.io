@@ -1,0 +1,46 @@
+{
+  "id": "joao-guilherme-libras-vocabulario",
+  "title": "Vocabulário (João Guilherme Libras)",
+  "description": "Fonte: canal João Guilherme Libras no YouTube. https://www.youtube.com/@joaoglibras",
+  "section": "Vocabulário",
+  "author": "João Guilherme Libras",
+  "createdAt": "2026-11-01T12:00:00.000Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-01T12:00:00.000Z",
+      "changes": [
+        "notebook"
+      ]
+    }
+  ],
+  "collection": "Vocabulário",
+  "cards": [
+    {
+      "id": "joao-guilherme-libras-vocabulario-regra",
+      "section": "Vocabulário",
+      "situation": "Como você sinaliza REGRA?",
+      "translation": "REGRA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/djcKZQfs4O0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=djcKZQfs4O0",
+          "states": []
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-01T12:00:00.000Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

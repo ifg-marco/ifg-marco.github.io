@@ -1,0 +1,65 @@
+{
+  "id": "tatils-libras-tatils-libras-justica",
+  "title": "TATILS LIBRAS | JUSTIÇA |",
+  "description": "Sinais da playlist “TATILS LIBRAS | JUSTIÇA |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+  "section": "TATILS LIBRAS | JUSTIÇA |",
+  "author": "Tatils Libras",
+  "createdAt": "2026-11-04T12:24:06.269Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-04T12:24:06.269Z",
+      "changes": [
+        "notebook"
+      ]
+    },
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-07T00:00:00.000Z",
+      "changes": [
+        "collection"
+      ]
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "cards": [
+    {
+      "id": "tatils-libras-tatils-libras-justica-o94MmrXZJy4",
+      "section": "TATILS LIBRAS | JUSTIÇA |",
+      "situation": "Como você sinaliza INOCENTE?",
+      "translation": "INOCENTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/o94MmrXZJy4?start=0&end=7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=o94MmrXZJy4",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "o94MmrXZJy4",
+        "titulo": "INOCENTE - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=o94MmrXZJy4",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | JUSTIÇA |",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 7
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tatils-libras-tatils-libras-girias",
+  "title": "TATILS LIBRAS | GÍRIAS |",
+  "description": "Sinais da playlist “TATILS LIBRAS | GÍRIAS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+  "section": "TATILS LIBRAS | GÍRIAS |",
+  "author": "Tatils Libras",
+  "createdAt": "2026-11-04T12:24:06.269Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-04T12:24:06.269Z",
+      "changes": [
+        "notebook"
+      ]
+    },
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-07T00:00:00.000Z",
+      "changes": [
+        "collection"
+      ]
+    }
+  ],
+  "collection": "Dia a dia",
+  "cards": [
+    {
+      "id": "tatils-libras-tatils-libras-girias-bj0tXv3pcAY",
+      "section": "TATILS LIBRAS | GÍRIAS |",
+      "situation": "Como você sinaliza ME DEU BOLO (Gíria)?",
+      "translation": "ME DEU BOLO (Gíria)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/bj0tXv3pcAY?start=0&end=5&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=bj0tXv3pcAY",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "bj0tXv3pcAY",
+        "titulo": "ME DEU BOLO (Gíria) - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=bj0tXv3pcAY",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | GÍRIAS |",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 5
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

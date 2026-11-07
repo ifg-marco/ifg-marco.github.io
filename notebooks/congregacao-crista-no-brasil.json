@@ -9,7 +9,7 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:15:40.000Z",
+      "at": "2026-11-01T12:00:00.000Z",
       "changes": [
         "notebook",
         "regionalismo",
@@ -17,11 +17,13 @@
         "examples",
         "notes",
         "cards",
-        "videos"
+        "videos",
+        "order"
       ]
     }
   ],
   "collection": "Religião",
+  "order": 2,
   "cards": [
     {
       "id": "congregacao-crista-no-brasil-001",
@@ -1243,1206 +1245,6 @@
       "videos": [
         {
           "url": "https://www.youtube.com/embed/Hj3H-IsP-Lc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Hj3H-IsP-Lc",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-022",
-      "section": "Instrumentos Musicais",
-      "situation": "O instrutor explica que o violino é da categoria cordas.",
-      "translation": "CATEGORIA CORDAS",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Violino, viola e violoncelo são da categoria cordas. → VIOLINO, VIOLA, VIOLONCELO: [CATEGORIA CORDAS].",
-        "Louvai-o com instrumentos de cordas (Salmo 150:4). → INSTRUMENTO CORDA DEUS LOUVAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/n7cibfVkg2U?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=n7cibfVkg2U",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-023",
-      "section": "Instrumentos Musicais",
-      "situation": "O instrutor explica que a flauta é da categoria madeiras.",
-      "translation": "CATEGORIA MADEIRAS",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Clarinete, oboé e fagote são da categoria madeiras. → CLARINETE, OBOÉ, FAGOTE: [CATEGORIA MADEIRAS].",
-        "Você toca algum instrumento das madeiras? → [CATEGORIA MADEIRAS] INSTRUMENTO VOCÊ TOCAR?"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/xPVASei5gS0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=xPVASei5gS0",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-024",
-      "section": "Instrumentos Musicais",
-      "situation": "O instrutor explica que o trompete é da categoria metais.",
-      "translation": "CATEGORIA METAIS",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Trompete, trombone e tuba são da categoria metais. → TROMPETE, TROMBONE, TUBA: [CATEGORIA METAIS].",
-        "Louvai-o ao som de trombeta (Salmo 150:3). → TROMBETA TOCAR, DEUS LOUVAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/dF7pv_PAF3E?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dF7pv_PAF3E",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-025",
-      "section": "Instrumentos Musicais",
-      "situation": "Uma aprendiz surda escolhe o clarinete.",
-      "translation": "CLARINETE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Estou aprendendo clarinete. → EU CLARINETE APRENDER.",
-        "O clarinete toca a melodia no hino. → HINO MELODIA CLARINETE TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/ctMtP8GnL1c?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ctMtP8GnL1c",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-026",
-      "section": "Instrumentos Musicais",
-      "situation": "O encarregado procura alguém para tocar clarone.",
-      "translation": "CLARONE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O clarone tem o som mais grave que o clarinete. → CLARONE SOM GRAVE MAIS CLARINETE.",
-        "Ele toca clarone no ensaio. → ELE ENSAIO CLARONE TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/UyMA35Slqeo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UyMA35Slqeo",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-027",
-      "section": "Instrumentos Musicais",
-      "situation": "O irmão surdo vê o fagote pela primeira vez no ensaio.",
-      "translation": "FAGOTE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O fagote é um instrumento grave da categoria madeiras. → FAGOTE INSTRUMENTO GRAVE, CATEGORIA MADEIRAS.",
-        "Meu irmão começou a estudar fagote. → IRMÃO MEU FAGOTE ESTUDAR COMEÇAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/KB11tAkpsJg?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KB11tAkpsJg",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-028",
-      "section": "Instrumentos Musicais",
-      "situation": "Uma jovem surda quer aprender flauta transversal.",
-      "translation": "FLAUTA TRANSVERSAL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A flauta transversal é tocada de lado. → FLAUTA TRANSVERSAL TOCAR LADO.",
-        "Louvai-o com flautas (Salmo 150:4). → FLAUTA TOCAR, DEUS LOUVAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/RDEa2cqHtHk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RDEa2cqHtHk",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-029",
-      "section": "Instrumentos Musicais",
-      "situation": "O encarregado apresenta o oboé à orquestra.",
-      "translation": "OBOÉ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O oboé tem palheta dupla. → OBOÉ PALHETA DUPLA TER.",
-        "Quem toca oboé na nossa comunidade? → COMUNIDADE NOSSA, OBOÉ QUEM TOCAR?"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/ykryXL7ggtk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ykryXL7ggtk",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-030",
-      "section": "Instrumentos Musicais",
-      "situation": "Uma irmã surda pergunta quem toca o órgão eletrônico.",
-      "translation": "ÓRGÃO ELETRÔNICO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A organista toca o órgão eletrônico no culto. → ORGANISTA CULTO ÓRGÃO ELETRÔNICO TOCAR.",
-        "O órgão acompanha o hino desde o começo. → HINO COMEÇAR, ÓRGÃO ACOMPANHAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/RVIxUXaZo3Y?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RVIxUXaZo3Y",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-031",
-      "section": "Instrumentos Musicais",
-      "situation": "Um aprendiz começa a estudar sax alto.",
-      "translation": "SAX ALTO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O sax alto é muito usado por quem está começando. → COMEÇAR APRENDER, SAX ALTO MUITO USAR.",
-        "Ela toca sax alto na orquestra. → ELA ORQUESTRA SAX ALTO TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/hc7vdwgNrl4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=hc7vdwgNrl4",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-032",
-      "section": "Instrumentos Musicais",
-      "situation": "O irmão leva o sax barítono para o ensaio.",
-      "translation": "SAX BARÍTONO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O sax barítono é o mais grave dos saxofones. → SAXOFONE VÁRIOS, SAX BARÍTONO GRAVE MAIS.",
-        "O sax barítono é grande e pesado. → SAX BARÍTONO GRANDE PESADO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/9GOYmaYNOk8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9GOYmaYNOk8",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-033",
-      "section": "Instrumentos Musicais",
-      "situation": "A aluna compara o sax soprano com os outros.",
-      "translation": "SAX SOPRANO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O sax soprano é reto e agudo. → SAX SOPRANO RETO, SOM AGUDO.",
-        "Na nossa orquestra ninguém toca sax soprano. → ORQUESTRA NOSSA, SAX SOPRANO NINGUÉM TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/v-yRabEn8vQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=v-yRabEn8vQ",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-034",
-      "section": "Instrumentos Musicais",
-      "situation": "Um jovem vai tocar sax tenor no culto.",
-      "translation": "SAX TENOR",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Vou tocar sax tenor no ensaio. → ENSAIO EU SAX TENOR TOCAR.",
-        "O sax tenor é mais grave que o sax alto. → SAX TENOR GRAVE MAIS SAX ALTO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/strZsw3O7WQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=strZsw3O7WQ",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-035",
-      "section": "Instrumentos Musicais",
-      "situation": "Uma visitante surda pergunta o nome do saxofone.",
-      "translation": "SAXOFONE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Esse instrumento é o saxofone. → INSTRUMENTO ESSE SAXOFONE.",
-        "Existem vários tipos de saxofone. → SAXOFONE TIPO VÁRIOS TER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/XHLGeX9QgbI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=XHLGeX9QgbI",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-036",
-      "section": "Instrumentos Musicais",
-      "situation": "O encarregado chama quem toca trombone.",
-      "translation": "TROMBONE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O trombone tem uma vara que estica e encolhe. → TROMBONE VARA (classificador: vara ir e voltar).",
-        "Os trombones tocam a parte grave do hino. → TROMBONE HINO PARTE GRAVE TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/zj3O1COup5k?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zj3O1COup5k",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-037",
-      "section": "Instrumentos Musicais",
-      "situation": "Um aprendiz surdo quer aprender trompa.",
-      "translation": "TROMPA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A trompa é um instrumento da categoria metais. → TROMPA INSTRUMENTO CATEGORIA METAIS.",
-        "Ele estuda trompa há dois anos. → ELE TROMPA ESTUDAR DOIS ANOS."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/0nSQD2q7Z08?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0nSQD2q7Z08",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-038",
-      "section": "Instrumentos Musicais",
-      "situation": "O irmão carrega a tuba para o ensaio.",
-      "translation": "TUBA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A tuba é o instrumento mais grave dos metais. → METAIS ENTRE, TUBA GRAVE MAIS.",
-        "A tuba é grande e pesada. → TUBA GRANDE PESADA."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/o37Ivd9w83c?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=o37Ivd9w83c",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-039",
-      "section": "Instrumentos Musicais",
-      "situation": "A aluna surda aprende a tocar viola.",
-      "translation": "VIOLA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A viola é um pouco maior que o violino. → VIOLA TAMANHO MAIOR POUCO VIOLINO.",
-        "Ela toca viola na orquestra local. → ELA ORQUESTRA LOCAL VIOLA TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/Ea1z88CoHd8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ea1z88CoHd8",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-040",
-      "section": "Instrumentos Musicais",
-      "situation": "Uma menina surda começa a aprender violino.",
-      "translation": "VIOLINO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Estou aprendendo violino. → EU VIOLINO APRENDER.",
-        "O violino toca a melodia junto com o órgão. → VIOLINO ÓRGÃO JUNTO MELODIA TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/WOtJmit3OU4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOtJmit3OU4",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-041",
-      "section": "Instrumentos Musicais",
-      "situation": "O músico toca violoncelo sentado.",
-      "translation": "VIOLONCELO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O violoncelo é tocado sentado. → VIOLONCELO TOCAR SENTAR.",
-        "O violoncelo tem som grave e forte. → VIOLONCELO SOM GRAVE FORTE."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/YNSwiqvBG54?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YNSwiqvBG54",
           "states": [
             "AC",
             "AL",
@@ -10594,1026 +9396,6 @@
       ]
     },
     {
-      "id": "congregacao-crista-no-brasil-177",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O instrutor ensina a clave de dó.",
-      "translation": "CLAVE DE DÓ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A viola lê na clave de dó. → VIOLA CLAVE DE DÓ LER.",
-        "A clave de dó fica no meio da pauta. → CLAVE DE DÓ PAUTA MEIO FICAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/lpePyTZ8Myo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lpePyTZ8Myo",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-178",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno lê a clave de fá.",
-      "translation": "CLAVE DE FÁ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O trombone lê na clave de fá. → TROMBONE CLAVE DE FÁ LER.",
-        "A clave de fá é usada para sons graves. → CLAVE DE FÁ SOM GRAVE USAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/0TjvLlz01mU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0TjvLlz01mU",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-179",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "A aprendiz desenha a clave de sol.",
-      "translation": "CLAVE DE SOL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O violino lê na clave de sol. → VIOLINO CLAVE DE SOL LER.",
-        "A clave de sol é a mais usada no hinário. → HINÁRIO CLAVE DE SOL USAR MAIS."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/VMrLs-NvgQs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=VMrLs-NvgQs",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-180",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O instrutor mostra a colcheia.",
-      "translation": "COLCHEIA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A colcheia vale metade da semínima. → COLCHEIA VALOR METADE SEMÍNIMA.",
-        "Duas colcheias juntas valem um tempo. → COLCHEIA DUAS JUNTAS, TEMPO UM."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/r5iaq3JYvrY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=r5iaq3JYvrY",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-181",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota dó.",
-      "translation": "DÓ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A escala começa no dó. → ESCALA COMEÇAR DÓ.",
-        "Toque o dó bem afinado. → DÓ TOCAR, AFINADO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/IrpxicIb1AE?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=IrpxicIb1AE",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-182",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota fá.",
-      "translation": "FÁ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Depois do mi vem o fá. → MI DEPOIS FÁ.",
-        "O hino começa na nota fá. → HINO COMEÇAR NOTA FÁ."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/DuBAho8QPHs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=DuBAho8QPHs",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-183",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O instrutor explica a fusa.",
-      "translation": "FUSA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A fusa é muito rápida. → FUSA RÁPIDA MUITO.",
-        "A fusa vale metade da semicolcheia. → FUSA VALOR METADE SEMICOLCHEIA."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/RULQNbQEc1E?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RULQNbQEc1E",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-184",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno afina o instrumento no lá.",
-      "translation": "LÁ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Vamos afinar no lá. → NÓS LÁ AFINAR.",
-        "O oboé dá o lá para a orquestra afinar. → OBOÉ LÁ TOCAR, ORQUESTRA AFINAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/VCHhU4Ci_WA?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=VCHhU4Ci_WA",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-185",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota mi.",
-      "translation": "MI",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Depois do ré vem o mi. → RÉ DEPOIS MI.",
-        "Essa nota é mi, não fá. → NOTA ESSA MI, FÁ NÃO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/SdtKLGJh0Ac?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SdtKLGJh0Ac",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-186",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O instrutor mostra a mínima.",
-      "translation": "MÍNIMA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A mínima vale dois tempos. → MÍNIMA TEMPO DOIS VALOR.",
-        "Duas mínimas valem uma semibreve. → MÍNIMA DUAS IGUAL SEMIBREVE."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/CeOnnmQx8iA?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CeOnnmQx8iA",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-187",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota ré.",
-      "translation": "RÉ",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Depois do dó vem o ré. → DÓ DEPOIS RÉ.",
-        "O ré está desafinado. → RÉ DESAFINADO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/IsIsQQo9vZE?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=IsIsQQo9vZE",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-188",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "A semibreve dura quatro tempos.",
-      "translation": "SEMIBREVE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A semibreve vale quatro tempos. → SEMIBREVE TEMPO QUATRO VALOR.",
-        "Segure a semibreve até o fim do compasso. → SEMIBREVE SEGURAR ATÉ COMPASSO FIM."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/0d6kLuMLnLw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0d6kLuMLnLw",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-189",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O instrutor explica a semicolcheia.",
-      "translation": "SEMICOLCHEIA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A semicolcheia vale metade da colcheia. → SEMICOLCHEIA VALOR METADE COLCHEIA.",
-        "Quatro semicolcheias valem um tempo. → SEMICOLCHEIA QUATRO, TEMPO UM."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/QQENiLUo5s4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=QQENiLUo5s4",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-190",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "A semifusa é a figura mais rápida.",
-      "translation": "SEMIFUSA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A semifusa tem quatro bandeirinhas. → SEMIFUSA BANDEIRA QUATRO TER.",
-        "A semifusa quase não aparece no hinário. → HINÁRIO SEMIFUSA QUASE APARECER-NÃO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/BdgDydItkpM?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BdgDydItkpM",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-191",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "A semínima vale um tempo.",
-      "translation": "SEMÍNIMA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A semínima vale um tempo. → SEMÍNIMA TEMPO UM VALOR.",
-        "Conte as semínimas batendo o pé. → SEMÍNIMA CONTAR, PÉ BATER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/1lQvdfJL6Pw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1lQvdfJL6Pw",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-192",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota si.",
-      "translation": "SI",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Depois do lá vem o si. → LÁ DEPOIS SI.",
-        "O si é a sétima nota da escala. → SI ESCALA NOTA SÉTIMA."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/1TiNLNnd6AY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1TiNLNnd6AY",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-193",
-      "section": "Notas, Figuras e Claves Musicais",
-      "situation": "O aluno toca a nota sol.",
-      "translation": "SOL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Depois do fá vem o sol. → FÁ DEPOIS SOL.",
-        "O hino termina na nota sol. → HINO TERMINAR NOTA SOL."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/0_BjmAg5dkw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0_BjmAg5dkw",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
       "id": "congregacao-crista-no-brasil-194",
       "section": "Outros Sinais",
       "situation": "Os irmãos, as crianças e a irmã surda se reúnem para adorar a Deus.",
@@ -12205,51 +9987,20 @@
             "SE",
             "TO"
           ]
-        },
-        {
-          "url": "https://www.youtube.com/embed/yc8SBJIWzDQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=yc8SBJIWzDQ",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
+          "at": "2026-11-01T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
             "situation",
             "examples",
-            "notes"
+            "notes",
+            "videos"
           ]
         }
       ]
@@ -12511,109 +10262,13 @@
             "SE",
             "TO"
           ]
-        },
-        {
-          "url": "https://www.youtube.com/embed/7QtgYsjKA9s?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=7QtgYsjKA9s",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        },
-        {
-          "url": "https://www.youtube.com/embed/qxYevO5D474?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=qxYevO5D474",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        },
-        {
-          "url": "https://www.youtube.com/embed/djcKZQfs4O0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=djcKZQfs4O0",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
         }
       ],
       "changeLog": [
         {
           "action": "edited",
           "email": "marco.aq7@gmail.com",
-          "at": "2026-10-19T12:00:00.000Z",
+          "at": "2026-11-01T12:00:00.000Z",
           "changes": [
             "card",
             "regionalismo",
@@ -18503,1446 +16158,6 @@
       "videos": [
         {
           "url": "https://www.youtube.com/embed/cs1FE0JEVbk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=cs1FE0JEVbk",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-315",
-      "section": "Outros Sinais Musicais",
-      "situation": "O instrutor mostra o bemol.",
-      "translation": "BEMOL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O bemol abaixa a nota meio tom. → BEMOL NOTA MEIO TOM ABAIXAR.",
-        "Esse hino tem um bemol na armadura. → HINO ESSE ARMADURA BEMOL UM TER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/b1dKr58PpKw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=b1dKr58PpKw",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-316",
-      "section": "Outros Sinais Musicais",
-      "situation": "O instrutor explica o bequadro.",
-      "translation": "BEQUADRO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O bequadro anula o sustenido e o bemol. → BEQUADRO SUSTENIDO, BEMOL ANULAR.",
-        "Depois do bequadro a nota volta ao natural. → BEQUADRO DEPOIS, NOTA NORMAL VOLTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/fpJs6T-VoHc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fpJs6T-VoHc",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-317",
-      "section": "Outros Sinais Musicais",
-      "situation": "A música está em binário composto.",
-      "translation": "BINÁRIO COMPOSTO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O seis por oito é um compasso binário composto. → 6/8 COMPASSO BINÁRIO COMPOSTO.",
-        "No binário composto contamos dois tempos. → BINÁRIO COMPOSTO, TEMPO DOIS CONTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/krmhS_wTzzw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=krmhS_wTzzw",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-318",
-      "section": "Outros Sinais Musicais",
-      "situation": "A marcha está em binário simples.",
-      "translation": "BINÁRIO SIMPLES",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O dois por quatro é um compasso binário simples. → 2/4 COMPASSO BINÁRIO SIMPLES.",
-        "Esse hino é binário simples, conte um, dois. → HINO ESSE BINÁRIO SIMPLES, CONTAR UM DOIS."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/nbOFDtfPg4I?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbOFDtfPg4I",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-319",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno vê um dobrado bemol na partitura.",
-      "translation": "DOBRADO BEMOL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O dobrado bemol abaixa a nota um tom. → DOBRADO BEMOL NOTA TOM UM ABAIXAR.",
-        "O dobrado bemol aparece pouco nos hinos. → HINO DOBRADO BEMOL APARECER POUCO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/umRhtwXBheg?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=umRhtwXBheg",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-320",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno vê um dobrado sustenido na partitura.",
-      "translation": "DOBRADO SUSTENIDO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O dobrado sustenido sobe a nota um tom. → DOBRADO SUSTENIDO NOTA TOM UM SUBIR.",
-        "O dobrado sustenido parece um x. → DOBRADO SUSTENIDO FORMA X PARECER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/DW7Nel-A27A?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=DW7Nel-A27A",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-321",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno estuda a escala de dó.",
-      "translation": "ESCALA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Toque a escala de dó. → ESCALA DÓ TOCAR.",
-        "Estudar escalas ajuda a afinar. → ESCALA ESTUDAR, AFINAR AJUDAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/_bOhU86VFr0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_bOhU86VFr0",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-322",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno toca a escala crescente.",
-      "translation": "ESCALA CRESCENTE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Toque a escala crescente: dó, ré, mi, fá. → ESCALA CRESCENTE TOCAR: DÓ, RÉ, MI, FÁ.",
-        "Na escala crescente o som vai ficando mais agudo. → ESCALA CRESCENTE, SOM AGUDO AUMENTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/Rt5uZrzGfSs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Rt5uZrzGfSs",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-323",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno toca a escala decrescente.",
-      "translation": "ESCALA DECRESCENTE",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Agora a escala decrescente: dó, si, lá, sol. → AGORA ESCALA DECRESCENTE: DÓ, SI, LÁ, SOL.",
-        "Na escala decrescente o som fica mais grave. → ESCALA DECRESCENTE, SOM GRAVE AUMENTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/BIZySkveURY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BIZySkveURY",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-324",
-      "section": "Outros Sinais Musicais",
-      "situation": "A nota lá fica no segundo espaço.",
-      "translation": "ESPAÇO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A pauta tem quatro espaços. → PAUTA ESPAÇO QUATRO TER.",
-        "O lá fica no segundo espaço da clave de sol. → CLAVE DE SOL, LÁ ESPAÇO SEGUNDO."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/I9nUvC02vUU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=I9nUvC02vUU",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-325",
-      "section": "Outros Sinais Musicais",
-      "situation": "O instrutor explica a harmonia do hino.",
-      "translation": "HARMONIA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "As vozes juntas formam a harmonia. → VOZES JUNTAS, HARMONIA FORMAR.",
-        "A orquestra tocou com boa harmonia. → ORQUESTRA HARMONIA BOA TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/M69FVGlhVos?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=M69FVGlhVos",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-326",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno mede o intervalo entre duas notas.",
-      "translation": "INTERVALO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "De dó a mi há um intervalo de terça. → DÓ ATÉ MI, INTERVALO TERÇA.",
-        "O intervalo é a distância entre duas notas. → INTERVALO: NOTA DUAS DISTÂNCIA."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/aHK3YAo_T6Q?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=aHK3YAo_T6Q",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-327",
-      "section": "Outros Sinais Musicais",
-      "situation": "A nota mi fica na primeira linha.",
-      "translation": "LINHA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A pauta tem cinco linhas. → PAUTA LINHA CINCO TER.",
-        "O sol fica na segunda linha da clave de sol. → CLAVE DE SOL, SOL LINHA SEGUNDA."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/SU_GT2dbGTY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SU_GT2dbGTY",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-328",
-      "section": "Outros Sinais Musicais",
-      "situation": "A orquestra toca a melodia do hino.",
-      "translation": "MELODIA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "A melodia é a parte principal do hino. → MELODIA HINO PARTE PRINCIPAL.",
-        "O violino toca a melodia. → VIOLINO MELODIA TOCAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/M4JKUKiQGy4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=M4JKUKiQGy4",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-329",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno usa o metrônomo analógico.",
-      "translation": "METRÔNOMO ANALÓGICO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O metrônomo analógico tem um pêndulo. → METRÔNOMO ANALÓGICO PÊNDULO TER (classificador: pêndulo balançar).",
-        "Estude com o metrônomo analógico ligado. → METRÔNOMO ANALÓGICO LIGAR, ESTUDAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/fJCx0-jMBMI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fJCx0-jMBMI",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-330",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno usa o metrônomo digital no celular.",
-      "translation": "METRÔNOMO DIGITAL",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O metrônomo digital pisca uma luz a cada tempo. → METRÔNOMO DIGITAL TEMPO CADA LUZ PISCAR.",
-        "Baixei um metrônomo digital no celular. → CELULAR METRÔNOMO DIGITAL BAIXAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/AARS1QHlIK0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AARS1QHlIK0",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-331",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno lê a nota na partitura.",
-      "translation": "NOTA",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Que nota é essa? → NOTA ESSA QUAL?",
-        "Cada nota tem um nome e um valor. → NOTA CADA NOME, VALOR TER."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/-vJkA14Id5A?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-vJkA14Id5A",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-332",
-      "section": "Outros Sinais Musicais",
-      "situation": "O instrutor marca o pulso com a mão.",
-      "translation": "PULSO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "Mantenha o pulso sem correr. → PULSO MANTER, CORRER NÃO.",
-        "O pulso é a batida regular da música. → PULSO: MÚSICA BATIDA IGUAL SEMPRE."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/ftnDk5JtLN8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ftnDk5JtLN8",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-333",
-      "section": "Outros Sinais Musicais",
-      "situation": "O hino está em quaternário composto.",
-      "translation": "QUARTENÁRIO COMPOSTO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O doze por oito é quaternário composto. → 12/8 QUATERNÁRIO COMPOSTO.",
-        "No quaternário composto contamos quatro tempos. → QUATERNÁRIO COMPOSTO, TEMPO QUATRO CONTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/jlsWQRNCCFI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=jlsWQRNCCFI",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-334",
-      "section": "Outros Sinais Musicais",
-      "situation": "O hino está em quaternário simples.",
-      "translation": "QUARTENÁRIO SIMPLES",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O quatro por quatro é quaternário simples. → 4/4 QUATERNÁRIO SIMPLES.",
-        "Muitos hinos são em quaternário simples. → HINO MUITO QUATERNÁRIO SIMPLES."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/ghFB3wyhSSk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ghFB3wyhSSk",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-335",
-      "section": "Outros Sinais Musicais",
-      "situation": "O aluno surdo sente o ritmo pela vibração.",
-      "translation": "RITMO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O ritmo do hino está errado, vamos repetir. → HINO RITMO ERRADO, REPETIR.",
-        "O ritmo é a combinação das durações. → RITMO: NOTA DURAÇÃO COMBINAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/cF0WZFv-Qrc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=cF0WZFv-Qrc",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-336",
-      "section": "Outros Sinais Musicais",
-      "situation": "O instrutor mostra o sustenido.",
-      "translation": "SUSTENIDO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O sustenido sobe a nota meio tom. → SUSTENIDO NOTA MEIO TOM SUBIR.",
-        "Esse hino tem um sustenido na armadura. → HINO ESSE ARMADURA SUSTENIDO UM."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/J5ddL3I3ypk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=J5ddL3I3ypk",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-337",
-      "section": "Outros Sinais Musicais",
-      "situation": "O hino está em ternário composto.",
-      "translation": "TERNÁRIO COMPOSTO",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O nove por oito é ternário composto. → 9/8 TERNÁRIO COMPOSTO.",
-        "No ternário composto contamos três tempos. → TERNÁRIO COMPOSTO, TEMPO TRÊS CONTAR."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/UwYvG_NvgVs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UwYvG_NvgVs",
-          "states": [
-            "AC",
-            "AL",
-            "AP",
-            "AM",
-            "BA",
-            "CE",
-            "DF",
-            "ES",
-            "GO",
-            "MA",
-            "MT",
-            "MS",
-            "MG",
-            "PA",
-            "PB",
-            "PR",
-            "PE",
-            "PI",
-            "RJ",
-            "RN",
-            "RS",
-            "RO",
-            "RR",
-            "SC",
-            "SP",
-            "SE",
-            "TO"
-          ]
-        }
-      ],
-      "changeLog": [
-        {
-          "action": "edited",
-          "email": "marco.aq7@gmail.com",
-          "at": "2026-10-11T12:00:00.000Z",
-          "changes": [
-            "card",
-            "regionalismo",
-            "situation",
-            "examples",
-            "notes"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "congregacao-crista-no-brasil-338",
-      "section": "Outros Sinais Musicais",
-      "situation": "A valsa está em ternário simples.",
-      "translation": "TERNÁRIO SIMPLES",
-      "librasStructure": "",
-      "notes": "",
-      "examples": [
-        "O três por quatro é ternário simples. → 3/4 TERNÁRIO SIMPLES.",
-        "Conte um, dois, três no ternário simples. → TERNÁRIO SIMPLES CONTAR: UM, DOIS, TRÊS."
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/embed/6V1pqdZ2Smc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6V1pqdZ2Smc",
           "states": [
             "AC",
             "AL",
@@ -29849,6 +26064,3666 @@
       "videos": [
         {
           "url": "https://www.youtube.com/embed/2Fi-Th5XXXU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=2Fi-Th5XXXU",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-022",
+      "section": "Instrumentos Musicais",
+      "situation": "O instrutor explica que o violino é da categoria cordas.",
+      "translation": "CATEGORIA CORDAS",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Violino, viola e violoncelo são da categoria cordas. → VIOLINO, VIOLA, VIOLONCELO: [CATEGORIA CORDAS].",
+        "Louvai-o com instrumentos de cordas (Salmo 150:4). → INSTRUMENTO CORDA DEUS LOUVAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/n7cibfVkg2U?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=n7cibfVkg2U",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-023",
+      "section": "Instrumentos Musicais",
+      "situation": "O instrutor explica que a flauta é da categoria madeiras.",
+      "translation": "CATEGORIA MADEIRAS",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Clarinete, oboé e fagote são da categoria madeiras. → CLARINETE, OBOÉ, FAGOTE: [CATEGORIA MADEIRAS].",
+        "Você toca algum instrumento das madeiras? → [CATEGORIA MADEIRAS] INSTRUMENTO VOCÊ TOCAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/xPVASei5gS0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=xPVASei5gS0",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-024",
+      "section": "Instrumentos Musicais",
+      "situation": "O instrutor explica que o trompete é da categoria metais.",
+      "translation": "CATEGORIA METAIS",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Trompete, trombone e tuba são da categoria metais. → TROMPETE, TROMBONE, TUBA: [CATEGORIA METAIS].",
+        "Louvai-o ao som de trombeta (Salmo 150:3). → TROMBETA TOCAR, DEUS LOUVAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/dF7pv_PAF3E?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=dF7pv_PAF3E",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-025",
+      "section": "Instrumentos Musicais",
+      "situation": "Uma aprendiz surda escolhe o clarinete.",
+      "translation": "CLARINETE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Estou aprendendo clarinete. → EU CLARINETE APRENDER.",
+        "O clarinete toca a melodia no hino. → HINO MELODIA CLARINETE TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ctMtP8GnL1c?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ctMtP8GnL1c",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-026",
+      "section": "Instrumentos Musicais",
+      "situation": "O encarregado procura alguém para tocar clarone.",
+      "translation": "CLARONE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O clarone tem o som mais grave que o clarinete. → CLARONE SOM GRAVE MAIS CLARINETE.",
+        "Ele toca clarone no ensaio. → ELE ENSAIO CLARONE TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UyMA35Slqeo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UyMA35Slqeo",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-027",
+      "section": "Instrumentos Musicais",
+      "situation": "O irmão surdo vê o fagote pela primeira vez no ensaio.",
+      "translation": "FAGOTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O fagote é um instrumento grave da categoria madeiras. → FAGOTE INSTRUMENTO GRAVE, CATEGORIA MADEIRAS.",
+        "Meu irmão começou a estudar fagote. → IRMÃO MEU FAGOTE ESTUDAR COMEÇAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/KB11tAkpsJg?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=KB11tAkpsJg",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-028",
+      "section": "Instrumentos Musicais",
+      "situation": "Uma jovem surda quer aprender flauta transversal.",
+      "translation": "FLAUTA TRANSVERSAL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A flauta transversal é tocada de lado. → FLAUTA TRANSVERSAL TOCAR LADO.",
+        "Louvai-o com flautas (Salmo 150:4). → FLAUTA TOCAR, DEUS LOUVAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/RDEa2cqHtHk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RDEa2cqHtHk",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-029",
+      "section": "Instrumentos Musicais",
+      "situation": "O encarregado apresenta o oboé à orquestra.",
+      "translation": "OBOÉ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O oboé tem palheta dupla. → OBOÉ PALHETA DUPLA TER.",
+        "Quem toca oboé na nossa comunidade? → COMUNIDADE NOSSA, OBOÉ QUEM TOCAR?"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ykryXL7ggtk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ykryXL7ggtk",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-030",
+      "section": "Instrumentos Musicais",
+      "situation": "Uma irmã surda pergunta quem toca o órgão eletrônico.",
+      "translation": "ÓRGÃO ELETRÔNICO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A organista toca o órgão eletrônico no culto. → ORGANISTA CULTO ÓRGÃO ELETRÔNICO TOCAR.",
+        "O órgão acompanha o hino desde o começo. → HINO COMEÇAR, ÓRGÃO ACOMPANHAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/RVIxUXaZo3Y?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RVIxUXaZo3Y",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-031",
+      "section": "Instrumentos Musicais",
+      "situation": "Um aprendiz começa a estudar sax alto.",
+      "translation": "SAX ALTO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O sax alto é muito usado por quem está começando. → COMEÇAR APRENDER, SAX ALTO MUITO USAR.",
+        "Ela toca sax alto na orquestra. → ELA ORQUESTRA SAX ALTO TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hc7vdwgNrl4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=hc7vdwgNrl4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-032",
+      "section": "Instrumentos Musicais",
+      "situation": "O irmão leva o sax barítono para o ensaio.",
+      "translation": "SAX BARÍTONO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O sax barítono é o mais grave dos saxofones. → SAXOFONE VÁRIOS, SAX BARÍTONO GRAVE MAIS.",
+        "O sax barítono é grande e pesado. → SAX BARÍTONO GRANDE PESADO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/9GOYmaYNOk8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=9GOYmaYNOk8",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-033",
+      "section": "Instrumentos Musicais",
+      "situation": "A aluna compara o sax soprano com os outros.",
+      "translation": "SAX SOPRANO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O sax soprano é reto e agudo. → SAX SOPRANO RETO, SOM AGUDO.",
+        "Na nossa orquestra ninguém toca sax soprano. → ORQUESTRA NOSSA, SAX SOPRANO NINGUÉM TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/v-yRabEn8vQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=v-yRabEn8vQ",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-034",
+      "section": "Instrumentos Musicais",
+      "situation": "Um jovem vai tocar sax tenor no culto.",
+      "translation": "SAX TENOR",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Vou tocar sax tenor no ensaio. → ENSAIO EU SAX TENOR TOCAR.",
+        "O sax tenor é mais grave que o sax alto. → SAX TENOR GRAVE MAIS SAX ALTO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/strZsw3O7WQ?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=strZsw3O7WQ",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-035",
+      "section": "Instrumentos Musicais",
+      "situation": "Uma visitante surda pergunta o nome do saxofone.",
+      "translation": "SAXOFONE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Esse instrumento é o saxofone. → INSTRUMENTO ESSE SAXOFONE.",
+        "Existem vários tipos de saxofone. → SAXOFONE TIPO VÁRIOS TER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/XHLGeX9QgbI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=XHLGeX9QgbI",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-036",
+      "section": "Instrumentos Musicais",
+      "situation": "O encarregado chama quem toca trombone.",
+      "translation": "TROMBONE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O trombone tem uma vara que estica e encolhe. → TROMBONE VARA (classificador: vara ir e voltar).",
+        "Os trombones tocam a parte grave do hino. → TROMBONE HINO PARTE GRAVE TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/zj3O1COup5k?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=zj3O1COup5k",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-037",
+      "section": "Instrumentos Musicais",
+      "situation": "Um aprendiz surdo quer aprender trompa.",
+      "translation": "TROMPA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A trompa é um instrumento da categoria metais. → TROMPA INSTRUMENTO CATEGORIA METAIS.",
+        "Ele estuda trompa há dois anos. → ELE TROMPA ESTUDAR DOIS ANOS."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0nSQD2q7Z08?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0nSQD2q7Z08",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-038",
+      "section": "Instrumentos Musicais",
+      "situation": "O irmão carrega a tuba para o ensaio.",
+      "translation": "TUBA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A tuba é o instrumento mais grave dos metais. → METAIS ENTRE, TUBA GRAVE MAIS.",
+        "A tuba é grande e pesada. → TUBA GRANDE PESADA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/o37Ivd9w83c?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=o37Ivd9w83c",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-039",
+      "section": "Instrumentos Musicais",
+      "situation": "A aluna surda aprende a tocar viola.",
+      "translation": "VIOLA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A viola é um pouco maior que o violino. → VIOLA TAMANHO MAIOR POUCO VIOLINO.",
+        "Ela toca viola na orquestra local. → ELA ORQUESTRA LOCAL VIOLA TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Ea1z88CoHd8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Ea1z88CoHd8",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-040",
+      "section": "Instrumentos Musicais",
+      "situation": "Uma menina surda começa a aprender violino.",
+      "translation": "VIOLINO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Estou aprendendo violino. → EU VIOLINO APRENDER.",
+        "O violino toca a melodia junto com o órgão. → VIOLINO ÓRGÃO JUNTO MELODIA TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/WOtJmit3OU4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=WOtJmit3OU4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-041",
+      "section": "Instrumentos Musicais",
+      "situation": "O músico toca violoncelo sentado.",
+      "translation": "VIOLONCELO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O violoncelo é tocado sentado. → VIOLONCELO TOCAR SENTAR.",
+        "O violoncelo tem som grave e forte. → VIOLONCELO SOM GRAVE FORTE."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/YNSwiqvBG54?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=YNSwiqvBG54",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-177",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O instrutor ensina a clave de dó.",
+      "translation": "CLAVE DE DÓ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A viola lê na clave de dó. → VIOLA CLAVE DE DÓ LER.",
+        "A clave de dó fica no meio da pauta. → CLAVE DE DÓ PAUTA MEIO FICAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/lpePyTZ8Myo?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=lpePyTZ8Myo",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-178",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno lê a clave de fá.",
+      "translation": "CLAVE DE FÁ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O trombone lê na clave de fá. → TROMBONE CLAVE DE FÁ LER.",
+        "A clave de fá é usada para sons graves. → CLAVE DE FÁ SOM GRAVE USAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0TjvLlz01mU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0TjvLlz01mU",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-179",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "A aprendiz desenha a clave de sol.",
+      "translation": "CLAVE DE SOL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O violino lê na clave de sol. → VIOLINO CLAVE DE SOL LER.",
+        "A clave de sol é a mais usada no hinário. → HINÁRIO CLAVE DE SOL USAR MAIS."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/VMrLs-NvgQs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=VMrLs-NvgQs",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-180",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O instrutor mostra a colcheia.",
+      "translation": "COLCHEIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A colcheia vale metade da semínima. → COLCHEIA VALOR METADE SEMÍNIMA.",
+        "Duas colcheias juntas valem um tempo. → COLCHEIA DUAS JUNTAS, TEMPO UM."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/r5iaq3JYvrY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=r5iaq3JYvrY",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-181",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota dó.",
+      "translation": "DÓ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A escala começa no dó. → ESCALA COMEÇAR DÓ.",
+        "Toque o dó bem afinado. → DÓ TOCAR, AFINADO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/IrpxicIb1AE?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=IrpxicIb1AE",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-182",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota fá.",
+      "translation": "FÁ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Depois do mi vem o fá. → MI DEPOIS FÁ.",
+        "O hino começa na nota fá. → HINO COMEÇAR NOTA FÁ."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/DuBAho8QPHs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=DuBAho8QPHs",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-183",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O instrutor explica a fusa.",
+      "translation": "FUSA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A fusa é muito rápida. → FUSA RÁPIDA MUITO.",
+        "A fusa vale metade da semicolcheia. → FUSA VALOR METADE SEMICOLCHEIA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/RULQNbQEc1E?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=RULQNbQEc1E",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-184",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno afina o instrumento no lá.",
+      "translation": "LÁ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Vamos afinar no lá. → NÓS LÁ AFINAR.",
+        "O oboé dá o lá para a orquestra afinar. → OBOÉ LÁ TOCAR, ORQUESTRA AFINAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/VCHhU4Ci_WA?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=VCHhU4Ci_WA",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-185",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota mi.",
+      "translation": "MI",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Depois do ré vem o mi. → RÉ DEPOIS MI.",
+        "Essa nota é mi, não fá. → NOTA ESSA MI, FÁ NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/SdtKLGJh0Ac?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SdtKLGJh0Ac",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-186",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O instrutor mostra a mínima.",
+      "translation": "MÍNIMA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A mínima vale dois tempos. → MÍNIMA TEMPO DOIS VALOR.",
+        "Duas mínimas valem uma semibreve. → MÍNIMA DUAS IGUAL SEMIBREVE."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/CeOnnmQx8iA?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=CeOnnmQx8iA",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-187",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota ré.",
+      "translation": "RÉ",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Depois do dó vem o ré. → DÓ DEPOIS RÉ.",
+        "O ré está desafinado. → RÉ DESAFINADO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/IsIsQQo9vZE?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=IsIsQQo9vZE",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-188",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "A semibreve dura quatro tempos.",
+      "translation": "SEMIBREVE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A semibreve vale quatro tempos. → SEMIBREVE TEMPO QUATRO VALOR.",
+        "Segure a semibreve até o fim do compasso. → SEMIBREVE SEGURAR ATÉ COMPASSO FIM."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0d6kLuMLnLw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0d6kLuMLnLw",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-189",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O instrutor explica a semicolcheia.",
+      "translation": "SEMICOLCHEIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A semicolcheia vale metade da colcheia. → SEMICOLCHEIA VALOR METADE COLCHEIA.",
+        "Quatro semicolcheias valem um tempo. → SEMICOLCHEIA QUATRO, TEMPO UM."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/QQENiLUo5s4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=QQENiLUo5s4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-190",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "A semifusa é a figura mais rápida.",
+      "translation": "SEMIFUSA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A semifusa tem quatro bandeirinhas. → SEMIFUSA BANDEIRA QUATRO TER.",
+        "A semifusa quase não aparece no hinário. → HINÁRIO SEMIFUSA QUASE APARECER-NÃO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BdgDydItkpM?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BdgDydItkpM",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-191",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "A semínima vale um tempo.",
+      "translation": "SEMÍNIMA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A semínima vale um tempo. → SEMÍNIMA TEMPO UM VALOR.",
+        "Conte as semínimas batendo o pé. → SEMÍNIMA CONTAR, PÉ BATER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1lQvdfJL6Pw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1lQvdfJL6Pw",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-192",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota si.",
+      "translation": "SI",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Depois do lá vem o si. → LÁ DEPOIS SI.",
+        "O si é a sétima nota da escala. → SI ESCALA NOTA SÉTIMA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/1TiNLNnd6AY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=1TiNLNnd6AY",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-193",
+      "section": "Notas, Figuras e Claves Musicais",
+      "situation": "O aluno toca a nota sol.",
+      "translation": "SOL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Depois do fá vem o sol. → FÁ DEPOIS SOL.",
+        "O hino termina na nota sol. → HINO TERMINAR NOTA SOL."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/0_BjmAg5dkw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=0_BjmAg5dkw",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-315",
+      "section": "Outros Sinais Musicais",
+      "situation": "O instrutor mostra o bemol.",
+      "translation": "BEMOL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O bemol abaixa a nota meio tom. → BEMOL NOTA MEIO TOM ABAIXAR.",
+        "Esse hino tem um bemol na armadura. → HINO ESSE ARMADURA BEMOL UM TER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/b1dKr58PpKw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=b1dKr58PpKw",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-316",
+      "section": "Outros Sinais Musicais",
+      "situation": "O instrutor explica o bequadro.",
+      "translation": "BEQUADRO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O bequadro anula o sustenido e o bemol. → BEQUADRO SUSTENIDO, BEMOL ANULAR.",
+        "Depois do bequadro a nota volta ao natural. → BEQUADRO DEPOIS, NOTA NORMAL VOLTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fpJs6T-VoHc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fpJs6T-VoHc",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-317",
+      "section": "Outros Sinais Musicais",
+      "situation": "A música está em binário composto.",
+      "translation": "BINÁRIO COMPOSTO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O seis por oito é um compasso binário composto. → 6/8 COMPASSO BINÁRIO COMPOSTO.",
+        "No binário composto contamos dois tempos. → BINÁRIO COMPOSTO, TEMPO DOIS CONTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/krmhS_wTzzw?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=krmhS_wTzzw",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-318",
+      "section": "Outros Sinais Musicais",
+      "situation": "A marcha está em binário simples.",
+      "translation": "BINÁRIO SIMPLES",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O dois por quatro é um compasso binário simples. → 2/4 COMPASSO BINÁRIO SIMPLES.",
+        "Esse hino é binário simples, conte um, dois. → HINO ESSE BINÁRIO SIMPLES, CONTAR UM DOIS."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/nbOFDtfPg4I?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=nbOFDtfPg4I",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-319",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno vê um dobrado bemol na partitura.",
+      "translation": "DOBRADO BEMOL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O dobrado bemol abaixa a nota um tom. → DOBRADO BEMOL NOTA TOM UM ABAIXAR.",
+        "O dobrado bemol aparece pouco nos hinos. → HINO DOBRADO BEMOL APARECER POUCO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/umRhtwXBheg?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=umRhtwXBheg",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-320",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno vê um dobrado sustenido na partitura.",
+      "translation": "DOBRADO SUSTENIDO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O dobrado sustenido sobe a nota um tom. → DOBRADO SUSTENIDO NOTA TOM UM SUBIR.",
+        "O dobrado sustenido parece um x. → DOBRADO SUSTENIDO FORMA X PARECER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/DW7Nel-A27A?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=DW7Nel-A27A",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-321",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno estuda a escala de dó.",
+      "translation": "ESCALA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Toque a escala de dó. → ESCALA DÓ TOCAR.",
+        "Estudar escalas ajuda a afinar. → ESCALA ESTUDAR, AFINAR AJUDAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/_bOhU86VFr0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=_bOhU86VFr0",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-322",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno toca a escala crescente.",
+      "translation": "ESCALA CRESCENTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Toque a escala crescente: dó, ré, mi, fá. → ESCALA CRESCENTE TOCAR: DÓ, RÉ, MI, FÁ.",
+        "Na escala crescente o som vai ficando mais agudo. → ESCALA CRESCENTE, SOM AGUDO AUMENTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/Rt5uZrzGfSs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=Rt5uZrzGfSs",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-323",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno toca a escala decrescente.",
+      "translation": "ESCALA DECRESCENTE",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Agora a escala decrescente: dó, si, lá, sol. → AGORA ESCALA DECRESCENTE: DÓ, SI, LÁ, SOL.",
+        "Na escala decrescente o som fica mais grave. → ESCALA DECRESCENTE, SOM GRAVE AUMENTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/BIZySkveURY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=BIZySkveURY",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-324",
+      "section": "Outros Sinais Musicais",
+      "situation": "A nota lá fica no segundo espaço.",
+      "translation": "ESPAÇO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A pauta tem quatro espaços. → PAUTA ESPAÇO QUATRO TER.",
+        "O lá fica no segundo espaço da clave de sol. → CLAVE DE SOL, LÁ ESPAÇO SEGUNDO."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/I9nUvC02vUU?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=I9nUvC02vUU",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-325",
+      "section": "Outros Sinais Musicais",
+      "situation": "O instrutor explica a harmonia do hino.",
+      "translation": "HARMONIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "As vozes juntas formam a harmonia. → VOZES JUNTAS, HARMONIA FORMAR.",
+        "A orquestra tocou com boa harmonia. → ORQUESTRA HARMONIA BOA TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/M69FVGlhVos?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=M69FVGlhVos",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-326",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno mede o intervalo entre duas notas.",
+      "translation": "INTERVALO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "De dó a mi há um intervalo de terça. → DÓ ATÉ MI, INTERVALO TERÇA.",
+        "O intervalo é a distância entre duas notas. → INTERVALO: NOTA DUAS DISTÂNCIA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/aHK3YAo_T6Q?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=aHK3YAo_T6Q",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-327",
+      "section": "Outros Sinais Musicais",
+      "situation": "A nota mi fica na primeira linha.",
+      "translation": "LINHA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A pauta tem cinco linhas. → PAUTA LINHA CINCO TER.",
+        "O sol fica na segunda linha da clave de sol. → CLAVE DE SOL, SOL LINHA SEGUNDA."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/SU_GT2dbGTY?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=SU_GT2dbGTY",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-328",
+      "section": "Outros Sinais Musicais",
+      "situation": "A orquestra toca a melodia do hino.",
+      "translation": "MELODIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "A melodia é a parte principal do hino. → MELODIA HINO PARTE PRINCIPAL.",
+        "O violino toca a melodia. → VIOLINO MELODIA TOCAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/M4JKUKiQGy4?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=M4JKUKiQGy4",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-329",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno usa o metrônomo analógico.",
+      "translation": "METRÔNOMO ANALÓGICO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O metrônomo analógico tem um pêndulo. → METRÔNOMO ANALÓGICO PÊNDULO TER (classificador: pêndulo balançar).",
+        "Estude com o metrônomo analógico ligado. → METRÔNOMO ANALÓGICO LIGAR, ESTUDAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/fJCx0-jMBMI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=fJCx0-jMBMI",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-330",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno usa o metrônomo digital no celular.",
+      "translation": "METRÔNOMO DIGITAL",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O metrônomo digital pisca uma luz a cada tempo. → METRÔNOMO DIGITAL TEMPO CADA LUZ PISCAR.",
+        "Baixei um metrônomo digital no celular. → CELULAR METRÔNOMO DIGITAL BAIXAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/AARS1QHlIK0?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=AARS1QHlIK0",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-331",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno lê a nota na partitura.",
+      "translation": "NOTA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Que nota é essa? → NOTA ESSA QUAL?",
+        "Cada nota tem um nome e um valor. → NOTA CADA NOME, VALOR TER."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/-vJkA14Id5A?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=-vJkA14Id5A",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-332",
+      "section": "Outros Sinais Musicais",
+      "situation": "O instrutor marca o pulso com a mão.",
+      "translation": "PULSO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "Mantenha o pulso sem correr. → PULSO MANTER, CORRER NÃO.",
+        "O pulso é a batida regular da música. → PULSO: MÚSICA BATIDA IGUAL SEMPRE."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ftnDk5JtLN8?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ftnDk5JtLN8",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-333",
+      "section": "Outros Sinais Musicais",
+      "situation": "O hino está em quaternário composto.",
+      "translation": "QUARTENÁRIO COMPOSTO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O doze por oito é quaternário composto. → 12/8 QUATERNÁRIO COMPOSTO.",
+        "No quaternário composto contamos quatro tempos. → QUATERNÁRIO COMPOSTO, TEMPO QUATRO CONTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/jlsWQRNCCFI?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=jlsWQRNCCFI",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-334",
+      "section": "Outros Sinais Musicais",
+      "situation": "O hino está em quaternário simples.",
+      "translation": "QUARTENÁRIO SIMPLES",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O quatro por quatro é quaternário simples. → 4/4 QUATERNÁRIO SIMPLES.",
+        "Muitos hinos são em quaternário simples. → HINO MUITO QUATERNÁRIO SIMPLES."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/ghFB3wyhSSk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=ghFB3wyhSSk",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-335",
+      "section": "Outros Sinais Musicais",
+      "situation": "O aluno surdo sente o ritmo pela vibração.",
+      "translation": "RITMO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O ritmo do hino está errado, vamos repetir. → HINO RITMO ERRADO, REPETIR.",
+        "O ritmo é a combinação das durações. → RITMO: NOTA DURAÇÃO COMBINAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/cF0WZFv-Qrc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=cF0WZFv-Qrc",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-336",
+      "section": "Outros Sinais Musicais",
+      "situation": "O instrutor mostra o sustenido.",
+      "translation": "SUSTENIDO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O sustenido sobe a nota meio tom. → SUSTENIDO NOTA MEIO TOM SUBIR.",
+        "Esse hino tem um sustenido na armadura. → HINO ESSE ARMADURA SUSTENIDO UM."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/J5ddL3I3ypk?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=J5ddL3I3ypk",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-337",
+      "section": "Outros Sinais Musicais",
+      "situation": "O hino está em ternário composto.",
+      "translation": "TERNÁRIO COMPOSTO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O nove por oito é ternário composto. → 9/8 TERNÁRIO COMPOSTO.",
+        "No ternário composto contamos três tempos. → TERNÁRIO COMPOSTO, TEMPO TRÊS CONTAR."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/UwYvG_NvgVs?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=UwYvG_NvgVs",
+          "states": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        }
+      ],
+      "changeLog": [
+        {
+          "action": "edited",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-10-11T12:00:00.000Z",
+          "changes": [
+            "card",
+            "regionalismo",
+            "situation",
+            "examples",
+            "notes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congregacao-crista-no-brasil-338",
+      "section": "Outros Sinais Musicais",
+      "situation": "A valsa está em ternário simples.",
+      "translation": "TERNÁRIO SIMPLES",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [
+        "O três por quatro é ternário simples. → 3/4 TERNÁRIO SIMPLES.",
+        "Conte um, dois, três no ternário simples. → TERNÁRIO SIMPLES CONTAR: UM, DOIS, TRÊS."
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/6V1pqdZ2Smc?autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=6V1pqdZ2Smc",
           "states": [
             "AC",
             "AL",

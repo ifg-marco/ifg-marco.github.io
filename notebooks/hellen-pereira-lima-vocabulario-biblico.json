@@ -7,16 +7,18 @@
   "createdAt": "2026-10-13T02:30:00.000Z",
   "changeLog": [
     {
-      "action": "created",
+      "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-13T02:30:00.000Z",
+      "at": "2026-11-01T12:00:00.000Z",
       "changes": [
         "notebook",
-        "merged"
+        "merged",
+        "order"
       ]
     }
   ],
   "collection": "Religião",
+  "order": 5,
   "cards": [
     {
       "id": "hellen-pereira-lima-vocabulario-biblico-0001",

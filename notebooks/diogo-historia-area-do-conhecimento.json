@@ -7,15 +7,17 @@
   "createdAt": "2026-10-30T11:19:35.516Z",
   "changeLog": [
     {
-      "action": "created",
+      "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-30T11:19:35.516Z",
+      "at": "2026-10-31T12:00:00.000Z",
       "changes": [
-        "notebook"
+        "notebook",
+        "difficulty"
       ]
     }
   ],
   "collection": "Cultura",
+  "difficulty": "avancado",
   "cards": [
     {
       "id": "diogo-historia-area-do-conhecimento--hLLveV6Pf8",

@@ -1,0 +1,101 @@
+{
+  "id": "tatils-libras-tatils-libras-personalidades",
+  "title": "TATILS LIBRAS | PERSONALIDADES",
+  "description": "Sinais da playlist “TATILS LIBRAS | PERSONALIDADES”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+  "section": "TATILS LIBRAS | PERSONALIDADES",
+  "author": "Tatils Libras",
+  "createdAt": "2026-11-04T12:24:06.269Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-04T12:24:06.269Z",
+      "changes": [
+        "notebook"
+      ]
+    },
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-07T00:00:00.000Z",
+      "changes": [
+        "collection"
+      ]
+    }
+  ],
+  "collection": "Cultura",
+  "cards": [
+    {
+      "id": "tatils-libras-tatils-libras-personalidades-vnT10vTXSCY",
+      "section": "TATILS LIBRAS | PERSONALIDADES",
+      "situation": "Como você sinaliza ELON MUSK?",
+      "translation": "ELON MUSK",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/vnT10vTXSCY?start=0&end=8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=vnT10vTXSCY",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "vnT10vTXSCY",
+        "titulo": "ELON MUSK - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=vnT10vTXSCY",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | PERSONALIDADES",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 8
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tatils-libras-tatils-libras-personalidades-JzHBtxdsUAg",
+      "section": "TATILS LIBRAS | PERSONALIDADES",
+      "situation": "Como você sinaliza XAVECO (Turma da Mônica)?",
+      "translation": "XAVECO (Turma da Mônica)",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/JzHBtxdsUAg?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=JzHBtxdsUAg",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "JzHBtxdsUAg",
+        "titulo": "XAVECO (Turma da Mônica) - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=JzHBtxdsUAg",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | PERSONALIDADES",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

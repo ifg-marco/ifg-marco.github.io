@@ -65,24 +65,29 @@ self.addEventListener('notificationclick', (evento) => {
   );
 });
 
-// Push do servidor (FCM): sempre mostra uma notificação (o navegador exige). O texto vem, na ordem,
-// do próprio envio (mensagem de teste do Console), da mensagem já calculada com o estudo local
-// ou de um convite genérico. Dados de estudo nunca precisam viajar pela rede.
+// Push do servidor (Node-RED, Web Push; antes o FCM): sempre mostra uma notificação (o navegador exige). A carga do
+// Node-RED é plana: { tipo: 'study'|'special', title, body, url, tag }. O FCM trazia { notification } ou { data }.
+//  - tipo "special" (data comemorativa, feriado): usa o texto do servidor.
+//  - tipo "study" (lembrete padrão, parabéns): se o app já calculou a mensagem com o estudo local (revisões, sequência),
+//    ela vence, porque o servidor nunca vê o progresso. Sem isso, usa o texto do servidor.
+// Dados de estudo nunca precisam viajar pela rede.
 self.addEventListener('push', (evento) => {
   evento.waitUntil((async () => {
     let carga = {};
     try { carga = evento.data ? evento.data.json() : {}; } catch (e) { carga = {}; }
-    const enviada = carga.notification || carga.data || {};
+    const plana = carga.title || carga.titulo || carga.body || carga.corpo ? carga : {};
+    const enviada = carga.notification || carga.data || plana;
     const estado = await ler();
-    const local = estado && estado.campanha;
-    const titulo = enviada.title || enviada.titulo || (local && local.titulo) || 'Caderno de Libras';
-    const corpo = enviada.body || enviada.corpo || (local && local.corpo) || 'Que tal uma rodada curta hoje, no seu ritmo?';
+    const local = estado && estado.ativo && estado.campanha;
+    const doServidor = enviada.tipo !== 'study';
+    const titulo = (doServidor && (enviada.title || enviada.titulo)) || (local && local.titulo) || enviada.title || enviada.titulo || 'Caderno de Libras';
+    const corpo = (doServidor && (enviada.body || enviada.corpo)) || (local && local.corpo) || enviada.body || enviada.corpo || 'Que tal uma rodada curta hoje, no seu ritmo?';
     await self.registration.showNotification(titulo, {
       body: corpo,
       icon: estado && estado.icone,
       badge: estado && estado.icone,
       lang: 'pt-BR',
-      tag: 'libras-lembrete',
+      tag: enviada.tag || 'libras-lembrete',
       data: { url: enviada.url || (estado && estado.destino) || self.registration.scope }
     });
   })());

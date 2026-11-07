@@ -1,0 +1,101 @@
+{
+  "id": "tatils-libras-tatils-libras-grupo-empresarial",
+  "title": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+  "description": "Sinais da playlist “TATILS LIBRAS | GRUPO EMPRESARIAL |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+  "section": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+  "author": "Tatils Libras",
+  "createdAt": "2026-11-04T12:24:06.269Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-04T12:24:06.269Z",
+      "changes": [
+        "notebook"
+      ]
+    },
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-07T00:00:00.000Z",
+      "changes": [
+        "collection"
+      ]
+    }
+  ],
+  "collection": "Áreas profissionais",
+  "cards": [
+    {
+      "id": "tatils-libras-tatils-libras-grupo-empresarial-hyPod4NMhL8",
+      "section": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+      "situation": "Como você sinaliza RECRUTAMENTO?",
+      "translation": "RECRUTAMENTO",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hyPod4NMhL8?start=0&end=6&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=hyPod4NMhL8",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "hyPod4NMhL8",
+        "titulo": "RECRUTAMENTO - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=hyPod4NMhL8",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 6
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tatils-libras-tatils-libras-grupo-empresarial-tLODpFHpNL0",
+      "section": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+      "situation": "Como você sinaliza HANGAR 33?",
+      "translation": "HANGAR 33",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/tLODpFHpNL0?start=0&end=8&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=tLODpFHpNL0",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "tLODpFHpNL0",
+        "titulo": "HANGAR 33 - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=tLODpFHpNL0",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 8
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

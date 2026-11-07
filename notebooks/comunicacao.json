@@ -9,15 +9,17 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:50:02.870Z",
+      "at": "2026-11-01T13:00:00.000Z",
       "changes": [
         "created",
-        "description"
+        "description",
+        "collection",
+        "order"
       ]
     }
   ],
-  "collection": "Dia a dia",
-  "order": 14,
+  "collection": "Tecnologia",
+  "order": 2,
   "difficulty": "intermediario",
   "cards": [
     {

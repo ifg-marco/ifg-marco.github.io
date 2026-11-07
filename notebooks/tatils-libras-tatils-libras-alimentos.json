@@ -1,0 +1,65 @@
+{
+  "id": "tatils-libras-tatils-libras-alimentos",
+  "title": "TATILS LIBRAS | ALIMENTOS |",
+  "description": "Sinais da playlist “TATILS LIBRAS | ALIMENTOS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+  "section": "TATILS LIBRAS | ALIMENTOS |",
+  "author": "Tatils Libras",
+  "createdAt": "2026-11-04T12:24:06.269Z",
+  "changeLog": [
+    {
+      "action": "created",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-04T12:24:06.269Z",
+      "changes": [
+        "notebook"
+      ]
+    },
+    {
+      "action": "edited",
+      "email": "marco.aq7@gmail.com",
+      "at": "2026-11-07T00:00:00.000Z",
+      "changes": [
+        "collection"
+      ]
+    }
+  ],
+  "collection": "Vocabulário",
+  "cards": [
+    {
+      "id": "tatils-libras-tatils-libras-alimentos-pluzb7UTI5g",
+      "section": "TATILS LIBRAS | ALIMENTOS |",
+      "situation": "Como você sinaliza PITAIA?",
+      "translation": "PITAIA",
+      "librasStructure": "",
+      "notes": "",
+      "examples": [],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/pluzb7UTI5g?start=0&end=7&autoplay=1&mute=1&controls=0&disablekb=1&fs=0&loop=1&playlist=pluzb7UTI5g",
+          "states": [
+            "SC"
+          ]
+        }
+      ],
+      "origem": {
+        "videoId": "pluzb7UTI5g",
+        "titulo": "PITAIA - Sinal em Libras",
+        "url": "https://www.youtube.com/watch?v=pluzb7UTI5g",
+        "canal": "Tatils Libras",
+        "playlist": "TATILS LIBRAS | ALIMENTOS |",
+        "autoria": "Tatils Libras",
+        "duracaoSegundos": 7
+      },
+      "changeLog": [
+        {
+          "action": "created",
+          "email": "marco.aq7@gmail.com",
+          "at": "2026-11-04T12:24:06.269Z",
+          "changes": [
+            "card"
+          ]
+        }
+      ]
+    }
+  ]
+}

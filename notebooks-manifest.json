@@ -128,10 +128,10 @@
     },
     {
       "id": "cidades-goias",
-      "hash": "5e0b40a1688e9ecf",
+      "hash": "1385bb002a6014bc",
       "updatedAt": "2026-10-07T15:58:12.028Z",
       "title": "Libras III - Cidades de Goiás",
-      "description": "Sinais das cidades goianas em situações do dia a dia: onde você mora, onde nasceu e para onde vai viajar. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
+      "description": "Sinais de cidades goianas em situações do dia a dia. Fonte dos gestos: vídeos do NAS Goiânia/CAS (https://casgoiania.com.br). As notas de origem do nome, origem do sinal e execução vêm das fichas de SOUZA, Kássia Mariano de. Registro, descrição e análise motivacional dos sinais de cidades do estado de Goiás: a Toponímia em Libras numa interface com a Linguística de Corpus. Tese de doutorado, Universidade Federal de Uberlândia, 2023. DOI: 10.14393/ufu.te.2023.8027. https://repositorio.ufu.br/handle/123456789/37703. Cidades sem ficha na tese trazem apenas a orientação geral de observação do sinal.",
       "cardCount": 119,
       "collection": "Lugares",
       "order": 4,
@@ -178,13 +178,13 @@
     },
     {
       "id": "comunicacao",
-      "hash": "3efbdf01f06152a7",
+      "hash": "17a81728d19b4a16",
       "updatedAt": "2026-10-09T05:00:00.000Z",
       "title": "Libras IV - Meios de comunicação",
       "description": "Tecnologia, internet, redes sociais, TV e telefonia. Fonte: vídeos do NAS Goiânia. Site: https://casgoiania.com.br",
       "cardCount": 33,
-      "collection": "Dia a dia",
-      "order": 14,
+      "collection": "Tecnologia",
+      "order": 2,
       "difficulty": "intermediario"
     },
     {
@@ -206,12 +206,13 @@
     },
     {
       "id": "congregacao-crista-no-brasil",
-      "hash": "1ea68afede20ff7c",
+      "hash": "b426b019c40ae237",
       "updatedAt": "2026-10-11T02:53:52.319Z",
       "title": "Congregação Cristã no Brasil (CCB)",
       "description": "Vocabulário da Congregação Cristã no Brasil (CCB) em vídeos de Libras. Fonte: vídeos do canal da Congregação Cristã no Brasil.",
       "cardCount": 483,
-      "collection": "Religião"
+      "collection": "Religião",
+      "order": 2
     },
     {
       "id": "contexto-juridico",
@@ -282,75 +283,84 @@
     },
     {
       "id": "diogo-aplicativos-sites",
-      "hash": "103e2c7ed8188bbd",
+      "hash": "9d944ab3f08fdbba",
       "updatedAt": "2026-10-30T11:23:48.021Z",
       "title": "Aplicativos & Sites — Diogo Marques Libras",
       "description": "",
       "cardCount": 30,
-      "collection": "Tecnologia"
+      "collection": "Tecnologia",
+      "order": 3,
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-dicionario",
-      "hash": "688c8eaf330bff23",
+      "hash": "4e3de5735d5305ed",
       "updatedAt": "2026-10-30T11:17:34.931Z",
       "title": "Dicionário — Diogo Marques Libras",
       "description": "",
       "cardCount": 53,
-      "collection": "Vocabulário"
+      "collection": "Vocabulário",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-historia-area-do-conhecimento",
-      "hash": "b1a3f1f67c2c5366",
+      "hash": "71b91bbbb6a0124c",
       "updatedAt": "2026-10-30T11:19:35.516Z",
       "title": "História (Área do conhecimento) — Diogo Marques Libras",
       "description": "",
       "cardCount": 56,
-      "collection": "Cultura"
+      "collection": "Cultura",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-periodos-da-historia",
-      "hash": "16ae195acb4e2d99",
+      "hash": "0be4e678c0889915",
       "updatedAt": "2026-10-30T11:18:21.070Z",
       "title": "Períodos da História — Diogo Marques Libras",
       "description": "",
       "cardCount": 6,
-      "collection": "Cultura"
+      "collection": "Cultura",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-personalidades",
-      "hash": "c1e336b481ee4517",
+      "hash": "560ff17b8e0091c0",
       "updatedAt": "2026-10-30T11:18:09.416Z",
       "title": "Personalidades — Diogo Marques Libras",
       "description": "",
       "cardCount": 20,
-      "collection": "Cultura"
+      "collection": "Cultura",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-sinal-conceito-01",
-      "hash": "5fc641d05ec99f44",
+      "hash": "931506f799315236",
       "updatedAt": "2026-10-30T11:21:05.403Z",
       "title": "Sinal & conceito — Diogo Marques Libras (1)",
       "description": "",
       "cardCount": 60,
-      "collection": "Vocabulário"
+      "collection": "Vocabulário",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-sinal-conceito-02",
-      "hash": "a0fbdec4895553f8",
+      "hash": "ed77e326ae5c5045",
       "updatedAt": "2026-10-30T11:22:39.042Z",
       "title": "Sinal & conceito — Diogo Marques Libras (2)",
       "description": "",
       "cardCount": 60,
-      "collection": "Vocabulário"
+      "collection": "Vocabulário",
+      "difficulty": "avancado"
     },
     {
       "id": "diogo-sinal-conceito-03",
-      "hash": "6908f7fc7e4e6c4b",
+      "hash": "de726e531beb328c",
       "updatedAt": "2026-10-30T11:23:04.380Z",
       "title": "Sinal & conceito — Diogo Marques Libras (3)",
       "description": "",
       "cardCount": 10,
-      "collection": "Vocabulário"
+      "collection": "Vocabulário",
+      "difficulty": "avancado"
     },
     {
       "id": "direito-em-libras",
@@ -629,12 +639,13 @@
     },
     {
       "id": "hellen-pereira-lima-biblia-temas",
-      "hash": "c2c00a1368f04bdd",
+      "hash": "ed67f2af9c1faa76",
       "updatedAt": "2026-10-13T02:30:00.000Z",
       "title": "Bíblia, livros, personagens e temas (Hellen Pereira Lima)",
       "description": "Fonte: canal Hellen Pereira Lima no YouTube. Playlists: Bíblia, livros, personagens, temas e outros conteúdos bíblicos. https://www.youtube.com/@hellenpereiralima3624/playlists",
       "cardCount": 587,
-      "collection": "Religião"
+      "collection": "Religião",
+      "order": 4
     },
     {
       "id": "hellen-pereira-lima-verbos-consolidados",
@@ -647,12 +658,13 @@
     },
     {
       "id": "hellen-pereira-lima-vocabulario-biblico",
-      "hash": "41a741b0d6d86753",
+      "hash": "1772a881832b3abd",
       "updatedAt": "2026-10-13T02:30:00.000Z",
       "title": "Vocabulário bíblico (Hellen Pereira Lima)",
       "description": "Fonte: canal Hellen Pereira Lima no YouTube. Playlists: Animais, Armas, Funções, Materiais, Lugares e Doenças. https://www.youtube.com/@hellenpereiralima3624/playlists",
       "cardCount": 140,
-      "collection": "Religião"
+      "collection": "Religião",
+      "order": 5
     },
     {
       "id": "higiene-pessoal",
@@ -1066,14 +1078,23 @@
       ]
     },
     {
+      "id": "joao-guilherme-libras-vocabulario",
+      "hash": "855daec64cc49385",
+      "updatedAt": "2026-11-01T12:00:00.000Z",
+      "title": "Vocabulário (João Guilherme Libras)",
+      "description": "Fonte: canal João Guilherme Libras no YouTube. https://www.youtube.com/@joaoglibras",
+      "cardCount": 1,
+      "collection": "Vocabulário"
+    },
+    {
       "id": "libras-informatica",
-      "hash": "5ad6bd7d4f899f97",
+      "hash": "7f80fd810212ba56",
       "updatedAt": "2026-10-26T18:03:27.238Z",
       "title": "Libras e Informática",
       "description": "",
       "cardCount": 1,
-      "collection": "Áreas profissionais",
-      "order": 13,
+      "collection": "Tecnologia",
+      "order": 1,
       "difficulty": "basico"
     },
     {
@@ -1117,13 +1138,13 @@
     },
     {
       "id": "norte-de-libras-glossario-de-termos-do-curso-redes-de-computadores",
-      "hash": "654c23fb7ea1988a",
+      "hash": "930f177ed598f9d2",
       "updatedAt": "2026-10-26T17:34:44.961Z",
       "title": "Glossário de termos do curso Redes de Computadores",
       "description": "Sinais da playlist “Glossário de termos do curso Redes de Computadores”, do canal Norte de Libras | Sinalário. Sinais de uso em RO: variante regional, não representa a Libras em geral.",
       "cardCount": 30,
-      "collection": "Áreas profissionais",
-      "order": 15,
+      "collection": "Tecnologia",
+      "order": 4,
       "difficulty": "avancado"
     },
     {
@@ -1203,13 +1224,13 @@
     },
     {
       "id": "producao-multimidia-bilingue",
-      "hash": "09ce4aafaae9307f",
+      "hash": "90ab9f83bb5294e4",
       "updatedAt": "2026-10-08T04:37:38.328Z",
       "title": "Produção Multimídia Bilíngue",
       "description": "Fonte: canal Glossário PHB no YouTube. https://www.youtube.com/@glossariophb100/videos",
       "cardCount": 219,
-      "collection": "Áreas profissionais",
-      "order": 3,
+      "collection": "Tecnologia",
+      "order": 5,
       "difficulty": "avancado"
     },
     {
@@ -1326,12 +1347,13 @@
     },
     {
       "id": "scl-religiao-01",
-      "hash": "36fb9d15fa565700",
+      "hash": "5ab781125445ac08",
       "updatedAt": "2026-10-30T10:42:46.795Z",
       "title": "Religião católica em Libras — SCL (1)",
       "description": "",
       "cardCount": 60,
-      "collection": "Religião"
+      "collection": "Religião",
+      "order": 6
     },
     {
       "id": "sinais-diarios-adjetivo",
@@ -1654,13 +1676,13 @@
     },
     {
       "id": "sinais-diarios-religiao-e-espiritualidade",
-      "hash": "1af7b7055ebc347e",
+      "hash": "46376ac96f604b97",
       "updatedAt": "2026-10-26T17:35:16.085Z",
       "title": "Religião e espiritualidade",
       "description": "Sinais da playlist “Religião e espiritualidade”, do canal Sinais Diários de Libras.",
       "cardCount": 29,
       "collection": "Religião",
-      "order": 1,
+      "order": 3,
       "difficulty": "intermediario"
     },
     {
@@ -1762,13 +1784,77 @@
       ]
     },
     {
+      "id": "tatils-libras-tatils-libras-alimentos",
+      "hash": "7717c3abb3454f4e",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | ALIMENTOS |",
+      "description": "Sinais da playlist “TATILS LIBRAS | ALIMENTOS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 1,
+      "collection": "Vocabulário"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-girias",
+      "hash": "3e90bc0c02708649",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | GÍRIAS |",
+      "description": "Sinais da playlist “TATILS LIBRAS | GÍRIAS |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 1,
+      "collection": "Dia a dia"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-grupo-empresarial",
+      "hash": "07cbacb04caae6b3",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | GRUPO EMPRESARIAL |",
+      "description": "Sinais da playlist “TATILS LIBRAS | GRUPO EMPRESARIAL |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 2,
+      "collection": "Áreas profissionais"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-justica",
+      "hash": "963606bc0fd1f027",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | JUSTIÇA |",
+      "description": "Sinais da playlist “TATILS LIBRAS | JUSTIÇA |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 1,
+      "collection": "Áreas profissionais"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-personalidades",
+      "hash": "473721d942153331",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | PERSONALIDADES",
+      "description": "Sinais da playlist “TATILS LIBRAS | PERSONALIDADES”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 2,
+      "collection": "Cultura"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-profissoes",
+      "hash": "e0b0b721e06aa699",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | PROFISSÕES |",
+      "description": "Sinais da playlist “TATILS LIBRAS | PROFISSÕES |”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 1,
+      "collection": "Áreas profissionais"
+    },
+    {
+      "id": "tatils-libras-tatils-libras-psicologia",
+      "hash": "b77298eccf6709f5",
+      "updatedAt": "2026-11-04T12:24:06.269Z",
+      "title": "TATILS LIBRAS | PSICOLOGIA|",
+      "description": "Sinais da playlist “TATILS LIBRAS | PSICOLOGIA|”, do canal Tatils Libras. Sinais de uso em SC: variante regional, não representa a Libras em geral.",
+      "cardCount": 3,
+      "collection": "Áreas profissionais"
+    },
+    {
       "id": "traducao-protagonismo-surdo-biblia-tps",
-      "hash": "c99d4b6141e97ac6",
+      "hash": "8674e14ad1040a34",
       "updatedAt": "2026-10-11T02:54:45.408Z",
       "title": "Tradução com Protagonismo Surdo, Bíblia (TPS)",
       "description": "Fonte: canal Glossário em Libras no YouTube. https://www.youtube.com/@Glossarioemlibras/videos",
       "cardCount": 744,
-      "collection": "Religião"
+      "collection": "Religião",
+      "order": 1
     },
     {
       "id": "transporte",
