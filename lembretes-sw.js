@@ -41,6 +41,7 @@ async function avisarSeForHora() {
     body: estado.campanha.corpo,
     icon: estado.icone,
     badge: estado.icone,
+    silent: false,
     lang: 'pt-BR',
     tag: 'libras-lembrete',
     data: { url: estado.destino }
@@ -86,6 +87,7 @@ self.addEventListener('push', (evento) => {
       body: corpo,
       icon: estado && estado.icone,
       badge: estado && estado.icone,
+      silent: false,
       lang: 'pt-BR',
       tag: enviada.tag || 'libras-lembrete',
       data: { url: enviada.url || (estado && estado.destino) || self.registration.scope }
