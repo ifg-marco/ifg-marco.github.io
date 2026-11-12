@@ -1,7 +1,7 @@
 {
   "id": "verbos-concordancia",
   "title": "Verbos com concordância",
-  "description": "Verbos que podem direcionar o movimento entre participantes na Libras.",
+  "description": "Verbos que podem direcionar o movimento entre participantes na Libras. Fonte: vídeos do NAS Goiânia (CAS Goiânia). Site: https://casgoiania.com.br",
   "section": "Caderno público",
   "author": "Comunidade",
   "createdAt": "2026-10-07T16:15:52.165Z",
@@ -9,10 +9,11 @@
     {
       "action": "edited",
       "email": "marco.aq7@gmail.com",
-      "at": "2026-10-28T16:15:40.000Z",
+      "at": "2026-11-11T00:00:00.000Z",
       "changes": [
         "created",
-        "edited"
+        "edited",
+        "description"
       ]
     }
   ],
