@@ -33,52 +33,6 @@ Estudantes de Libras, principalmente ouvintes que a aprendem como segunda língu
 
 SvelteKit 2 com Svelte 5, TypeScript, Tailwind CSS 4, `adapter-static`, `vite-plugin-pwa` (instalável como PWA), IndexedDB (`idb`) para o progresso no aparelho, Zod para validação de dados e Vitest e Playwright para testes.
 
-## Onde fica cada coisa
-
-- **Código e documentação do app:** este repositório (pasta `Projeto/`).
-- **Conteúdo da disciplina** (aulas por semana, trabalho, pareceres, estado da arte, livros e dicionários): mantido fora do repositório, em um cofre de anotações pessoal. Não é versionado aqui.
-- **Projetos de código de apoio** (protótipos e scripts de dicionário): mantidos fora deste repositório, com mapa próprio.
-
-## Estrutura do repositório
-
-```
-.
-├── README.md                       # este arquivo
-└── Projeto/
-    ├── app/                        # código do aplicativo (SvelteKit)
-    ├── notebooks/                  # fonte dos cadernos (JSON), editada à mão
-    ├── skill/cadastrar-caderno-youtube/  # gera cadernos a partir de vídeos do YouTube
-    ├── node-red/                   # fluxo do formulário de diagnóstico
-    ├── trilhas/                    # trilhas de estudo
-    ├── DIRETRIZES.md               # exigências da disciplina e estrutura do trabalho escrito
-    ├── MAPA.md                     # decisões, escopo e checklist do projeto
-    ├── github_pwa_migracao.md      # arquitetura atual (PWA)
-    └── regras-software.md          # regras de desenvolvimento
-```
-
-## Como executar
-
-Todos os comandos devem ser rodados dentro de `Projeto/app/`:
-
-```bash
-cd Projeto/app
-npm install
-npm run dev        # gera o manifesto dos cadernos e sobe o servidor local
-npm run build      # manifesto, build estático e páginas de SEO
-npm run check      # checagem de tipos (svelte-check)
-npm test           # testes unitários (Vitest)
-```
-
-Para criar um caderno a partir de um vídeo do YouTube, veja `Projeto/skill/cadastrar-caderno-youtube/MANUAL.md`. O fluxo de edição dos cadernos está em `Projeto/notebooks/README.md`.
-
-## Documentos de apoio
-
-- Exigências da disciplina e estrutura do trabalho escrito: `Projeto/DIRETRIZES.md`
-- Decisões, escopo e checklist: `Projeto/MAPA.md`
-- Arquitetura atual do aplicativo: `Projeto/github_pwa_migracao.md`
-
-Alguns documentos ainda descrevem fases anteriores do projeto e podem não refletir o aplicativo atual. A versão vigente está em `Projeto/github_pwa_migracao.md` e no código.
-
 ## Licença e uso
 
 Projeto acadêmico, desenvolvido para a disciplina Projeto Integrador I. Os vídeos citados são de terceiros e permanecem de propriedade de seus autores.
