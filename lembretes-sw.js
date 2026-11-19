@@ -79,7 +79,18 @@ self.addEventListener('push', (evento) => {
     const plana = carga.title || carga.titulo || carga.body || carga.corpo ? carga : {};
     const enviada = carga.notification || carga.data || plana;
     const estado = await ler();
-    const local = estado && estado.ativo && estado.campanha;
+    // O cadastro remoto pode sobreviver por alguns minutos a uma desativação ou mudança de agenda.
+    // O estado local é a última palavra e sabe se a pessoa já estudou e adiou o lembrete para amanhã.
+    if (estado && estado.ativo === false) return;
+    const local =
+      estado &&
+      estado.ativo &&
+      estado.campanha &&
+      typeof estado.apartirDe === 'number' &&
+      Date.now() >= estado.apartirDe
+        ? estado.campanha
+        : null;
+    if (enviada.tipo === 'study' && estado && !local) return;
     const doServidor = enviada.tipo !== 'study';
     const titulo = (doServidor && (enviada.title || enviada.titulo)) || (local && local.titulo) || enviada.title || enviada.titulo || 'Caderno de Libras';
     const corpo = (doServidor && (enviada.body || enviada.corpo)) || (local && local.corpo) || enviada.body || enviada.corpo || 'Que tal uma rodada curta hoje, no seu ritmo?';
@@ -92,5 +103,7 @@ self.addEventListener('push', (evento) => {
       tag: enviada.tag || 'libras-lembrete',
       data: { url: enviada.url || (estado && estado.destino) || self.registration.scope }
     });
+    // O push remoto substitui os gatilhos locais desta janela e não pode gerar um segundo aviso.
+    if (estado && estado.ativo) await gravar({ ...estado, ativo: false, enviadoEm: Date.now() });
   })());
 });
